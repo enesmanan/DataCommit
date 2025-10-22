@@ -1,0 +1,4053 @@
+
+[Speaker 1]:
+selamlar herkese da komitin dördüncü yayını ile birlikteyiz bu yayında olgun Aydın'la birlikteyiz kendisi Nike da principal ML engineer olarak çalışıyor ilk olarak isterseniz hoş geldin Olgun Bey öncelikle Merhabalar hoş bulduk Enes çok teşekkürler davet için herkese merhaba güzel ne demek öncelikle tanımakla başlayabiliriz Tabii bahsettiğim gibi şu anda Nike'da çalışıyorum Polonya'da yaşıyorum son yedi yıldır Nike'da şu anda principal ML engineer olarak çalışıyorum herhalde biraz ne yaptığıma ileriki zamanlarda değineceğiz herhalde boşuna geçeyim biraz hızlı geçeyim bunun dışında öğretim üyesiyim yaşadığım şehirde Gdansk'da yaşıyorum Polonya'nın en kuzeyinde Stockholm hemen altında buradaki teknik üniversitede öğretim üyeli yapıyorum istatistik ve ekonometri bölümünde istatistikten doktorum var ama doktorayı Türkiye'den almıştım Mimar Sinan'da yaptım doktorayı istatistikte yüksek lisans ve lisans aynı şekilde istatistik onlar Ege'den ve bunun haricinde dediğim gibi yedi sene öncesinde Polonya'ya geldim burada farklı firmalarda da çalışma şansına şansı buldum işte outsourcing kampaniden tutun da işte fintech en sonunda retail'da Nike'da kaldım tabi onun dışında dediğim gibi öğretim üyeliği de var bunun dışında community'ye de katkım oluyordu ama son iki yıldır bu sebeple birazcık daha doğrusu organizatör kısmından daha çok işte hali hazırda olan komütlere destek verme üzerine dönüştüm biliyorum gerçekten çok çok zaman alıcı, yemek gerektiren işler. O yüzden takdir ediyorum yaptığınız işi. Türkiye'de iken By Data İstanbul, İstanbul Spark Meetup Group, bunlarda organizatörlük yapıyordum ve burada birçok etkinlik düzenledik.
+
+[Speaker 2]:
+Hackathonlardan tutun, Sparkday'lerden tutun birçok şey oldu. Ardından Polonya'ya geldiğimde de bu devam etti.
+
+[Speaker 1]:
+Burada YR Foundation vardı. Daha doğrusu global bir foundationdı. Kapattık foundationı bu sene itibariyle. Çünkü enerjimiz kalmadı açıkçası diğer arkadaşlarımda. Bununla beraber buradaki AR konferanslarını organize ettim. Hatta Gdansk'taki ilk AR konferansını organize etme şansı buldum. Hobilerime gelecek olursak...
+
+[Speaker 2]:
+Baya dolu dolu bu arada. Gerçekten bundan hepsine teker teker geliriz. Gerçekten inanılmaz. Her taraf yani. Ya bunun akademi tarafı var, community tarafı var. Sektör bir yandan ilerliyor.
+
+[Speaker 1]:
+Ya üç koldan inanılmaz bir şekilde kariyeri ilerletmişsiniz. Yani o da acayip. Yani bu hepsine vakit ayırmak falan da inanılmaz. Teşekkürler, teşekkürler. Onun dışında işte zaman bulabilirsem bu bahsettiğim işlerden. Community'ye şu anda dediğim gibi çok fazla destek veriyorum. Sadece işte open source tarafında destek verebiliyorum. Zaman zaman vakit buldukça. Hobilerim arasında müzikle aslında ilgileniyordum. Türkiye'ye gelmeden önce burada da hatta oldu kısa bir deneyimim. Bas, gitar çalıyorum. Vokalistim aynı zamanda.
+
+[Speaker 2]:
+Hatta bateri de çalıyorum.
+
+[Speaker 1]:
+Burada da kısa bir bis emek falan bir grup deneyimim de oldu. Birkaç konsere çıktık. Ama dediğim gibi gerçekten o da yani. Hani ne kadar hobi de olsa emek gerektiren, vakit isteyen şeyler. Son bir senedir sadece evde kendi kendime çalıyorum. Öyle söyleyeyim yani.
+
+[Speaker 2]:
+Bir de principal bilinin de aslında bu kadar şeye vakit ayırması da inanılmaz.
+
+[Speaker 1]:
+Acayip yani. Ben bayağı gıptaha ettim şu an bu kadar şeye vakit bulmadım da. O zaman böyle her şeyin böyle en başına gidersek ilk böyle lisans tarafı, Ege'de istatistik var.
+
+[Speaker 2]:
+Aynı zamanda ben de orada öğrenciyim bu arada. Hani aynı bölümdenizde öyle de bir şans var. Aynen öyle.
+
+[Speaker 1]:
+Şu an mesela o Ege'de istatistik bitirdikten sonra ne yaptınız? Sizin için o lisans dönemini nasıl geçirdiniz? Bir de sizin bu analizde işte ne bileyim science tarafıyla tanışmanız, sektöre girişiniz ne zamanlara dayanıyor?
+
+[Speaker 2]:
+Hı hı.
+
+[Speaker 1]:
+Aslında analiz tarafına girmek lisansın sonlarında oldu. Son sınıftan son dönemlerinde. Daha doğrusu bitirme projem fen fakültesi, fen fakültesi de istatistik bölümü Ege Üniversitesi'nde. Fen fakültesi öğrenci memnuniyeti araştırması. Dekanlığın bize verdiği bir görevdi bu. Orada işte aktif olarak görev almıştım. Sonrasında da istatistik bölümü öğrenci memnuniyetini yaptık. Orada işte olasılıklı örnekleme, C++'la bir ekstensiyon yazdık vs. vs. Ardından baktım ki gerçekten yani sektörde ciddi bir açık var bu alanda. Sonrasında işte birkaç freelance işler gelmeye başladı. İşte benzer bitirme projesi yapan örneğin işte hemşirelikte okuyan öğrenciler. Ya işte bizim analizlerimizi yapabilir misin vs.
+
+[Speaker 2]:
+Oradan diye başladık.
+
+[Speaker 1]:
+Ondan sonra bunu biraz ilerlettik. İşte bir başka bir ortak vardı.
+
+[Speaker 2]:
+Yani ortaktık aslında baktığında.
+
+[Speaker 1]:
+Evet yani ortaktık gerçekten. Bu anda son sınıfta mısınız yoksa mezun oldunuz mu? Son sınıftayım. Ortakla beraber çalışmaya başladığımızda yüksek lisansa başladığımda oldu. Yani hemen akabinde oldu. Sonrasında tabii bir kişi daha eklenince bu işe o dönemlerdeki işte ortak ortam daha çok böyle iş ayarlama üzerine daha yetenekliydi benden. İşte hani ve bir anda çok enteresan işler yapmaya başladık. İşte bu sefer bu analizleri daha da ileriye taşıdık. Sadece işte anket analizi değil de mesela doktorlarla çalışmaya başladık. Yani medikal doktorlarla çalışmaya başladık. Kulak burun boğazçılar işte klinik deney yapıyorlardı. Ve biz bu deneyleri analiz edip onlara sonuçları rapor sunuyorduk. İşte psikologlar, sosyologlar ve hatta ufak çaplı şirketlere kadar gitti bu iş. Sonrasında böyle bir denememiz oldu. Hatta biz bu şirketi daha böyle bir büyütelim işte daha her şey resmi olsun işte evrak işlerini yapalım vesaire konularını konuşmaya başladık. Hatta o noktada da işte ikimizin de babası emekliydi. Acaba babalarımızdan birinin üstüne mi yapsak şirketi diye konuştuk. O noktada işte iki baba da yanaşmadı. Ya bizi bulaştırmayın oğlum falan oldu. İşte vergiden ötürü çünkü gerçekten avantajlı oluyordu.
+
+[Speaker 2]:
+Şimdi tabii biraz daha kolay o işler.
+
+[Speaker 1]:
+Her neyse sonrasında ben İstanbul'a taşındım. Biraz devam ettirmeye çalıştık.
+
+[Speaker 2]:
+Sonra ortağım da İtalya'ya taşındı.
+
+[Speaker 1]:
+Öyle o iş yarıda kaldı.
+
+[Speaker 2]:
+Ama gerçekten bana çok şey kattı yani. Özellikle sağlık tarafında yapmış olmanız da çok enteresinde. Çünkü sağlık verisine ulaşmak çok zordur ya.
+
+[Speaker 1]:
+Ulaşılsa da çok azdır. KVKK'sıdır. Çeşitli korumalarıdır.
+
+[Speaker 2]:
+Anlaşmalarıdır.
+
+[Speaker 1]:
+Aslında çok da elleyemiyorsunuz. Sizin burada yaptığınız analizlerdeki data sayısı ne kadardı? Yani direkt bir merak ettirdi çünkü. Yani değişiyordu tabii klinik deneye göre. Hatta biz işte klinik deneyin tasarlanma aşamasında da yer almaya başladık bazı çalışmalarda. Bu örnekleme dizaynı da çok önemli aslında. Yani hatta design of experiment dersleri de alıyoruz istatistikle.
+
+[Speaker 2]:
+Bu gerçekten çok önemli.
+
+[Speaker 1]:
+İşte burada yer almaya da başladık. Yani örneklemleri şöyle hatırlamaya çalışıyorum. Çok fazla değildi yani.
+
+[Speaker 2]:
+Yüzü gördüğümüz çok olmuyordu yani.
+
+[Speaker 1]:
+Çünkü özellikle klinik deneylerde örneğin larinkologla bir araştırma yapmıştık. Daha doğrusu larinkolog verilerini analiz etmiştik. Burada işte konservatuar öğrencilerinin ses telleri gelişimini inceliyordu. İşte bir uyguladığı bir yöntemle bu ses tellerinin gelişiminde önemli bir etki olacağını öne atıyordu. İşte biz bu hipotezi test ettik. Mesela hani kaç kişiyi yakalayıp diyebilirsin ki yani ben analiz yapacağım. Bir de hani konservatuar öğrencisi işte vokal bölümünde okuyor vesaire. Dediğin gibi yani örneklem kısıtı oluyor. Hatta sürekli bizimle pazarlık da ederlerdi. Yani hani örneklem sayısı açısından. Yani biz derdik ya işte atıyorum yani 120 kişiden toplanmamız lazım. O da diyor ya nereden bulacağız şimdi işte bir sürü etik kurul kararıdır. İşte kişilerin buna konsent vermesidir şudur budur falan diye. E tabi biraz sıkıntı yaratıyor. Özellikle farklı yani çok farklı açıdan bakmaya çalıştığında o kadar az sayıda veride. E tabi yani orada işte aslında şeye gelmiş oluyorsun. Yani misbalanslı veri setine gelmiş oluyorsun. O noktada da elinde de yapacağın çok bir şey kalmıyor. Dolayısıyla biz de işte onlara diyorduk ki hani tamam süper işte 30-35 kişiden bu şeyleri toplayın. Ama lütfen abartmayın yani bizden çok fazla analiz yapmamızı istemeyin. Çünkü sağlıklı olmayacaktır diye. Bu da işte analizler bu arada birkaç tane hipotezin test edilmesi şeklinde miydi?
+
+[Speaker 2]:
+Orada model kurmak gibi şeyler pek yoktur diye tahmin ediyorum.
+
+[Speaker 1]:
+Zaten bir noktası çok az. Evet pek olmuyor. Lojistik regresyon yaptığımız oluyordu. İşte lojistik regresyonunu neden istiyorlardı? Özellikle binary bir sonuçsa örneğin işte tedaviye yanıt verdi vermedi ya da işte tedavi yardımcı oldu olmadı gibi sonuçlara bakıyorlarsa. Lojistik regresyonu aslında prediction yapmak için istemiyorlardı. Sadece kaç sayıları elde ediyorsun ya orada bir açıklanabilirlik verdiğin için unexplainability veriyorsun. Onlar mesela çok hoşuna gidiyor. Dolayısıyla hangi etkenin işte hangi ölçümü ya da hangi birimin bu işte tedavinin iyi olup olmaması üzerine ne kadar etkili olup olmadığını rahat bir şekilde öğrenebiliyorlardı. Ve bu tip makalelerde de genel geçer bir yöntemdi yani. Hatta yakın zamanda yani yakın zamanda bir sene oldu. Diş cerrahı, ağız çene cerrahı bir arkadaşımla bir yayın yaptık. O da klinik denemeler yapıyor. Doktorasını yaptı o da. Öğretim üyesi aynı zamanda. O da klinik denemeler sonucunda işte verilerini bana getiriyordu. İşte hatta geçen sene bir yayın yaptık. Orada da mesela logistik regresyon yaptık. Ama yani herhangi bir prediction amaç değildi. Sadece açıklanabilirliği göstermekti orada. Yani neyin neye ne kadar etki olduğunu göstermek amacıyla yapılan bir şeydi yani.
+
+[Speaker 2]:
+Ben logistik regresyon böyle bir rol olduğunu bilmiyordum.
+
+[Speaker 1]:
+Yani direkt logistik regresyon deyince bir sıfır. Yani illan model kuracağız ve bir şey predikt edeceğiz gibi düşünüyordum.
+
+[Speaker 2]:
+Ama şu an bunu öğrendiğim iyi oldu akademi tarafından.
+
+[Speaker 1]:
+Yani biliyorsun model explainable çok önemli bir şey. İşte explainable AI'den bahsediyoruz vesaire. Aslında bize istatistiksel modeller bunu otomatik olarak veriyor.
+
+[Speaker 2]:
+Yani linear regresyon modeli kurduğunda örneğin.
+
+[Speaker 1]:
+Kat sayıları aslında direkt açıklanıp explainable AI tarafındaki bize katkıyı sunuyor orada. Tabii ki de bu kat sayıların işte yani bu modelin düzgün kurulması gerekiyor. İşte bu arsayımların sağlanması gerekiyor. Sadece gidip işte linear regresyon komutunu çalıştırıp Python'da R'da yaparsak tabii ki de riskli olur da. Aa işte R2'e baktık %95 harika deyip. Tabii böyle yayınlar da oluyor mesela şeyde medikal alanda. Hani çok fazla detaylı bilgiye sahip olmadıkları için istatistik alanında. O yüzden işte istatistikçiyle çalışmaları onlar için çok avantajlıydı. Hatta editörle falan görüşmelerimizde de işte bu arkadaşımla yazdığımızda istatistikle olan, ilgili olan soruları bana yönlendiriyor. Hatta benim ismimi falan verdi işte arkadaşı da şurada eğitimimi tamamlamış da şurada öğretim üyesi vesaire vesaire diye. Hani editör direkt benimle muhatap oluyor. İstatistiksel konulardaki sorular veya sorunlarla ilgili.
+
+[Speaker 2]:
+Bu konuyla alakalı böyle chatten bir tane soru var. Bunu okuyabilirim.
+
+[Speaker 1]:
+Model başarısız ise kat sayıların feature importance'larının pek bir önemi kalmıyor değil mi demiş. Yani tabii model eğer istatistiksel olarak anlamlı değilse özellikle bunu istatistiksel modeller açısından düşündüğümüzde. Yani linear regresyon düşünelim. İşte linear regresyon yaptık. İşte belki orada farklı varyansızlık var.
+
+[Speaker 2]:
+İşte belki multi-call linearity var. Çoklu doğrusal bağlantı var vesaire.
+
+[Speaker 1]:
+Diyelim ki işte bu varsayımları sağlayamıyoruz.
+
+[Speaker 2]:
+Doğal olarak model başarısız oluyor.
+
+[Speaker 1]:
+Artık o kat sayılar bizim için önemsiz olmuş oluyor. Yani model komple önemsiz olduğu için bizim için o noktada kat sayıları da artık o noktada yorumlama yapamıyoruz.
+
+[Speaker 2]:
+Ya bu açıklanabilirlik deyince benim aklıma birazcık daha bankacılık sektöründe olduğum için de kuralları çıkartabilmek gibi şeyler geliyor.
+
+[Speaker 1]:
+Hani zaten varsayımlar sağlanmalı da işin sonunda bir de kurallar ifezi ben bir dökebilmeliyim ki ne nereden nereye gidiyor görebileyim.
+
+[Speaker 2]:
+Biraz böyle aklımda bunu canlandırıyor.
+
+[Speaker 1]:
+Mesela sizin Nike tarafında yaptığınız modellerde hiç böyle derin öğrenme mimarilerini açıklanabilirliği göz önünde de tutarak kullandığınız da oluyor mu? Tabii tabii olmak zorunda çünkü regulasyonlar var.
+
+[Speaker 2]:
+Bu işte Avrupa Birliği'nde mesela AI Act'tan bahsediyoruz.
+
+[Speaker 1]:
+EU AI Act. Bu bilmiyorum hiç baktınız mı ama AI Act aslında temelinde model explainability yatıyor. Yani burada diyor ki bu daha bu regulasyon tam yüzde yüz anlamıyla devreye girmedi.
+
+[Speaker 2]:
+Ama ciddi anlamda Avrupa Birliği'nin bu noktada bir push'u var. Yani birçok aşama birçok alanları kabul edildi.
+
+[Speaker 1]:
+İşte bazı alanlarda da sektörden bir pushback var. İşte bu bizim birazcık şey olayları kompleksleştirecek vesaire vesaire gibi. Evet evet bu olması lazım. Bakıyorum hemen Artificial Intelligence AI Act. Bu Avrupa Birliği'nin official sitesi değil ama bu da fikir veriyor olacaktır. Çete atayım mı? Hatta şeyi ben atayım. Esas official sitesi Avrupa Parlamentosu tarafından yayınlanan şu.
+
+[Speaker 2]:
+Burada hatta çok enteresan şeyler var. Hatta ben belki paylaştığım gitap reposuna koyabilirim bunları.
+
+[Speaker 1]:
+Enteresan case study'ler yapılmış. İşte bu bankacılık sektöründe eğer bir modelde bir bias varsa işte bu nasıl etki edebilir? İşte cinsiyet konusunda nasıl etki edebilir? İşte etnik köken konusunda nasıl etki edebilir? Vesaire vesaire diye. Bu noktada gerçekten çok önemli. Hatta bir buçuk iki sene öncesine kadar bir buçuk sene öncesinde hatta ben de bu anlamda aktif rol almıştım. Like içerisinde işte bu model explainability nasıl standartize edebiliriz? İşte bu konuda nasıl tooling sağlayabiliriz? İşte neler dikkat edilmedi? Nasıl yorumlanmalı? Vesaire. Özellikle consumer facing algoritmalarda. Örneğin işte recommendation. Recommendation birazcık tricky de. Örneğin işte bazı algoritmalar var. İşte herhangi bir kullanıcının herhangi bir kategorideki ayakkabıyı olan ilgisinin var olup olmadığını. Yani binary classification yapıyorsun. Ama arkasında tonlarca şey kullanıyorsun yani. Variable kullanıyorsun. İşte bu variaballar nasıl etki ediyor? İşte cinsiyet kullanıyorsan mesela cinsiyetin burada negatif bir etkisi var mı? Yani burada bu modeli kullanırken production'da herhangi bir cinsiyetten birine dezavantaj sağlıyor musun? Vesaire gibi şeyler.
+
+[Speaker 2]:
+Bunlar gerçekten çok önemli.
+
+[Speaker 1]:
+Yani explainable AI da oldukça önemli.
+
+[Speaker 2]:
+Bu noktada. Hatta Polonya'da bir profesör var.
+
+[Speaker 1]:
+Bietsekte'ye.
+
+[Speaker 2]:
+Onun da aslında notlarını paylaşıyor olabilirim.
+
+[Speaker 1]:
+GitHub reposunda.
+
+[Speaker 2]:
+Bu konu gerçekten çok önemli.
+
+[Speaker 1]:
+Özellikle AI Act'ta da temel nokta bu. Yani işte onu temel böyle bir prensipleri daha oturtmaya çalışıyorlar. Vesaire.
+
+[Speaker 2]:
+Yani bu noktada.
+
+[Speaker 1]:
+Buradaki olay model bazlı da çok değişebilecek bir şey gibi.
+
+[Speaker 2]:
+Yani oradaki prensipleri nasıl oturtabilirler? Onu da çok şey yapamadım.
+
+[Speaker 1]:
+Çok prensip olur gibi hissettiriyor. Yani işte o nokta birazcık aslında işi komplik hale getiriyor. Özellikle yani istatistiksel modellerde bir tık daha kolay olabilir. Ama işte AI modellerinde işte deep learning modellerinde bu noktalarda biraz daha olay zorlaşıyor. Ama işte bununla ilgili de birçok framework var. Şu anda ismi aklıma gelmiyor ama çok meşhur bir framework. Neyse onu da paylaşıyor olayım.
+
+[Speaker 2]:
+Linkini. Boruta frameworkı vardı. Onu hatırlıyorum. Bir de bir framework daha vardı.
+
+[Speaker 1]:
+Neyse aklıma gelmiyor şu anda. Bu noktada aslında şuna bakıyorsun. Yani işte herhangi bir değişkende bir değişiklik yaptığında bu prediction'a ne kadar etki ediyor gibi bir şey bakıyorsun o noktada.
+
+[Speaker 2]:
+Boruta ilk defa duydum bu arada. Bununla alakalı bir şey var. Çetten gene. Hain tavşanlardan.
+
+[Speaker 1]:
+Ben Onur diyebiliyorum gerçek ismine. Modern random state'i değiştirdiğince bile explainability değişir, standartize edilebiliyor mu? Modern random state'i değiştirince explainability değişir, standartize edilebiliyor mu?
+
+[Speaker 2]:
+Evet bu biraz aslında problemli bir konu.
+
+[Speaker 1]:
+Yani bunu standartize etmesi biraz sıkıntılı. Ama belki daha detayla tartışabiliriz yani bunu başka bir planla. Random state'in evet explainability'si değişiyor ama çok atla deve değil ya bence. Hani o kadar da bu konu diğer tarafları düşününce, model bazındaki değişim düşününce random state'teki değişim çok da atla deve değil ya. Okeydir benim için. Şeye çete bir tane link koydum. Bu bahsettiğim Profesör BSA'in kitabı. Bu işte CRC Press'ten yayınladı yakın zaman içerisinde. Exploratory Model Analysis diye. Bu hoca gerçekten bu konuda ciddi kaynak, yani ciddi emek sarf ediyor. Ve kitabını da gördüğünüz üzere açık kaynak olarak sunmuş.
+
+[Speaker 2]:
+Hatta Bookdown'da yapmış galiba bunu Arda.
+
+[Speaker 1]:
+Daleks framework'u var. Bundan da hemen bahsetmiş oldum. Daleks. Yine BSA'in yapmış olduğu bir framework. Yani bunlara bakmanızı tavsiye ederim. Bu da işte Model Agnostic Language for Exploration and Explanation diye geçiyor. Gerçekten önemli. Ve burada göreceksiniz zaten istatistiksel bakış açısının ne kadar önemli olduğunu anlayacaksınız. Yani baktığınızda bu notlara.
+
+[Speaker 2]:
+Yani evet Nike'da bu konuya gerçekten önem veriliyor. Hatta farklı coğrafyalarda, farklı noktalarda da önem oluyor.
+
+[Speaker 1]:
+Örneğin işte hatta GDPR üzerinden bile bakacak olursak Avrupa Birliği ülkesinde GDPR çok daha sıkı. Amerika'da biraz daha esnek. İşte bazı ülkelerde daha farklı regulasyonlar var. Bu regulasyonlara uyurması gerekiyor. Yani burada herhangi bir regulatör yarın öbür gün geldiğinde işte bizim bu noktada hazırlıklı olmamız lazım. Ve bu modelleri açıklanabilir bir şekilde gösteriyor olmamız lazım onlara. Bu noktada öyle bir şey var. Özellikle Avrupa tarafında daha sıkı bir çalışma oluyor. Özellikle GDPR gerçekten çok sıkı.
+
+[Speaker 2]:
+Bunun haricinde bir de AI aktı gelecek.
+
+[Speaker 1]:
+Hatta Avrupa Birliği işte Facebook, AWS, Google'la falan bayağı onları bir ara bastırdı. Özellikle bu Facebook'la örneğin Instagram account'unun kullanıcıya haber vermeden birleştirilmesi. İşte bu noktada daha fazla veri elde edilmesi konusunda işte belli regulasyonlar getirdi vesaire. Ya aslında burada kullanıcının verisinin bir noktada korunmasına da önem veriyor Avrupa Birliği. Ya tabii ki de veri olmadan hiçbir şey olmuyor. İşte bu hizmetleri alıyoruz.
+
+[Speaker 2]:
+Tabii ki de veri arka planda kullanılıyor.
+
+[Speaker 1]:
+Bu normal bir şey ama en azından hani veriye ne yaptıklarını bilelim. İşte o noktada en azından... Daha şeffaflık olsun en azından.
+
+[Speaker 2]:
+Benim verimle ne yapılıyor onu bir bileyim ya. Aynen aynen.
+
+[Speaker 1]:
+Şeffaflık olsun işte başka birinin canı yanmasın vesaire gibi.
+
+[Speaker 2]:
+Bu konularda.
+
+[Speaker 1]:
+O zaman bayağı bir ileriye bir şeylere geçtik.
+
+[Speaker 2]:
+Ben daha böyle temele dönersem.
+
+[Speaker 1]:
+Şimdi yüksek lisans teziniz neydi bu arada? Yüksek lisans tezim optimizasyon üzerineydi. Burada malzeme mühendisleriyle çalıştık. Malzeme mühendisleri kompozit materyaller ve epoksi glas ve karbon fiber malzemeler üretiyorlar. Ve bunları işte çeşitli dayanıklılık ölçüleri var. Bu ben de bilmiyordum. İşte bu tez esnasında öğrendim. Bu epoksi glas daha doğrusu bütün kompozit malzemeler aslında layer layer. Yani gözle görülemeyecek layer'larda ya da işte o layer'ların iç içe geçmesi şeklinde oluşuyor. İşte farklı bu layer'ların açıları da bu malzemenin dayanıklarını etkiliyor.
+
+[Speaker 2]:
+İşte farklı ölçümler var.
+
+[Speaker 1]:
+İşte 8 katmanlı, 16, 24, 32 katmanlı vs. İşte bunların optimum açılarını bulan bir algoritma geliştirdik.
+
+[Speaker 2]:
+İşte diğer algoritmalarla karşılaştırdık.
+
+[Speaker 1]:
+İşte örneğin epoksi glas 8 katmanlı için ilk tabaka işte atıyorum 16 dereceyle konulmalı. İşte ikinci tabaka 32 ile konulmalı vs. vs. İşte bu seviyede biz işte termal genleşmeyi maksimum yapabiliriz. İşte elasticity'yi daha doğrusu termal genleşmeyi minimum yapabiliriz. Elasticiteyi maksimum yapabiliriz. Yani işte bu sayede daha dayanıklı bir malzeme üretebiliriz gibi bir olaydı. Tezden de bir tane SC yayın çıktı yüksek lisans tezinden. Sanıyorum 30 tane falan citation aldı şu ana kadar.
+
+[Speaker 2]:
+Bunun üzerineydi.
+
+[Speaker 1]:
+Optimizasyon konusu, bu arada istatistik yüksek lisans olduğu için aklımda direkt olarak böyle istatistiğin herhangi bir alanını canlandırmadı.
+
+[Speaker 2]:
+Yani açıkçası özellikle bu anlatılan olay da çok istatistiği canlandırmadı kafamda.
+
+[Speaker 1]:
+Burada yaptığınız algoritma istatistikte bir bağ var mıydı? Orada kullandığınız dil, yaptığınız iş. Evet yani açıkçası sıfırdan bir algoritma yaratmadık da var olan bir algoritmayı kullanarak oradan işte farklı bir proses yarattık diyeyim. Hani çok iddialı olmuş olmuşsa yeni bir algoritma yaratık falan. mesela bu buradaki en enteresan nokta şuydu. Bu optimizasyon algoritması işte Efficient Global Optimization diye geçiyor. Bu Efficient Global Optimization altında yatan bir metamodelleme yöntemi, kriging. Ve bu kriging aslında baktığınızda bu da şeyden gelmiş. İşte madencilikten, jeolojiden gelen bir yöntem. Şöyle kabaca düşündüğümüzde aslında bir regresyon modeli. Çok kabaca, high level düşündüğümüzde. Ve bu regresyon modeli çoklu doğrusu bağlantıyı kabul ediyor. Böyle bir şey belki bu şekilde şey yapabiliriz. Yani değişkenlerin birbiriyle korele olmaları çok önemli bu model için. Bu şekilde yapmışlar. Farklı korelasyon fonksiyonları deniyorsun içerisinde. Vesaire. Bu regresyondaki amaç, şimdi bir şeyi en sonunda illa bir predikt ettiririm. Buradaki amaç ne?
+
+[Speaker 2]:
+Her şey birbiriyle korele ise. Evet. Buradaki amaç şu.
+
+[Speaker 1]:
+Çıkış noktası şu. Bunu jeolojide şey kullanıyorlar. İşte altın madenleri, daha doğrusu nerede altın olabildiğini bulmak için kullanıyorlar. İşte örneğin bir işte arazide birkaç nokta açtılar, kuyu açtılar her neyse artık. Çıkış noktaları da şu. Eğer işte bir noktada altın bulursak, o noktaya yakın olan noktalarda altın bulma olasılığımız daha yüksektir diye. Bu noktada işte o noktaların arasında mesela uzaklık çok önemli bir şey. Uzaklıklar çok önemli. İşte ne kadar yakın olursa örneğin işte bir nokta burada var, bir nokta burada, bir nokta burada. İşte şurada bir yerde yatıyorum göstermesi zor oldu ama işte altın çıkması daha yüksektir. Çünkü işte yukarıdaki noktada daha yüksek sayıda altın bulundu vesaire gibi. Bütün hikaye buradan başlamış yani aslında.
+
+[Speaker 2]:
+Jeolojiden geliyor.
+
+[Speaker 1]:
+Çok enteresan yani. Hatta burada çoklu doğrusu bağlantının hiç problem olmaması. Tabii ki de yani normal regresyon prosesi dönmüyor içeride. Daha farklı bir şey dönüyor. Hani kabaca anlatmaya çalıştığımızda bu noktada böyle bir şey yapılabiliyor. Buna ben baya şaşırdım ya. Bugüne kadar çoklu doğrusu bağlantı kötüdür. Multicoronality'yi kesin bakın birini droplayın falan gibi hissettirdiği için. İlk defa işe yarar böyle bir algoritma olur ki. Yani çoklu doğrusu bağlantıyı aslında düşündüğünde çoklu doğrusu bağlantı neyin üstünde kötü etki yapıyor? İşte R²'in üzerinde kötü etki yapıyor. Ama Kriging'de R² diye bir şey yok. Yani modelin aslında mantığı çok farklı olduğu için. Dolayısıyla aslında orada çoklu doğrusu bağlantıdan bahsedemiyorsun bile yani.
+
+[Speaker 2]:
+Enteresan bir meta modelleme.
+
+[Speaker 1]:
+Bazı detaylar olmuş olabilirim bayağıdır içinde çalışmıyorum. Bu işte optimizasyon metodu da bu meta modelleme üzerine. Amaç da şu. Çok kompleks bir objective function varsa özellikle bu malzeme mühendisliğinde çok. Yani belki işte 10 sayfa falan böyle bastığında yani 10 sayfa fonksiyon objective function çıkıyordu. Dolayısıyla buradan işte hesaplama yapmak da çok zor. Amaç da şu. Kriging ile işte rastgele daha doğrusu rastgele işte Design of Experiment ile rastgele noktaları oluştur. Sonra araya Kriging'i de koy.
+
+[Speaker 2]:
+İşte bu objective function'i de koy.
+
+[Speaker 1]:
+İşte git hepsini daha doğrusu öğren işte bu fonksiyonun mantığını Kriging ile. Sonrasında her seferinde gidip o cost heavy objective function'a gitme.
+
+[Speaker 2]:
+İşte bu meta modele git.
+
+[Speaker 1]:
+Aslında bu meta modelle onu temsil ediyor. Ya da bazı durumlarda bu objective function'i çıkartman mümkün bile değil. Deney yapıyorsun işte. Çok fazla deney yapma şansın da yok. İşte 10 tane deney yaptım. İşte 1 verdin atıyorum. İşte 10 çıktı. 2 verdin. 35 çıktı vesaire. İşte dayanıklılık testi yaptın diyelim. Objective function'i yaratma şansın yok bazı durumlarda. Burada da işte bir optimizasyon yönetimi diyor ki sıkıntı yok. Ben sana bu meta modele dayalı bir şey objective function oluştururum. Sonra gidip bu oluşturduğum meta modeli objective function kullanarak bunu işte ya maksimize ya minimize eden sana noktaları bulabilirim diyor. Bu cidden enteresandı yani bu noktada. Hatta bununla ilgili 2 sene öncesinde bir yayınım daha oldu. MDPI'de Enerjiz'de yayınladık. Bu işte Gdans'taki rüzgar enerjisi üzerine. Bu da nasıl çıktı? Ne alaka diyeceksin şimdi rüzgar enerjisi vesaire. Şimdi rüzgar enerjisine baktığımızda rüzgar hızı. Weibull da alıyor.
+
+[Speaker 2]:
+Ya işte tek parametre ya 3 parametreli Weibull da alıyor.
+
+[Speaker 1]:
+Bu rüzgar enerjisinin yani bu Weibull'ın parametrelerini tahmin etmekte çok kritik. Rüzgar enerjisinin potansiyelini tahmin etmek için. İşte bu Weibull'ın parametrelerinden bir tanesi aslında bize potansiyel enerjiyi hesaplamamızı sağlıyor. Eğer bu parametreyi doğru hesaplayabilirsek bu noktada da rüzgar potansiyelini doğru hesaplayabiliyoruz. İşte ben de gittim oradan Maximum Likelihood Estimation'dan Log Likelihood Function'ı çıkarttım. 3 parametreli Weibull'ın bunu optimize ettim. Bu Efficient Global Optimization'la. Bunu maksimize eden bana parametreleri buldu. Sonra gittim o parametrelerle potansiyel enerjiyi hesapladık. Hatta şehir tipi bir tribün için bu rüzgar enerji potansiyeli ne kadarlık bir enerji üretebilir? İşte bunu ne kadara satılabilir vesaire gibi de bir şey yaptık. Yani hala ilgimi çekiyor. Yani gerçekten enteresan bir optimizasyon yöntemi.
+
+[Speaker 2]:
+Evet. Ya çok akademik hissettirdi bana. Bir de böyle fazla matematik hissettirdi. Böyle daha işte klasik Python, R, hızlıca modelliyim falan böyle eğlenceli. Daha basit geliyor ya. Bu böyle gerçekten oradan Likelihood Function'ı bul. Onu başka bir yere var.
+
+[Speaker 1]:
+Optimize et falan. Bunu nasıl yapıyordunuz bu arada bunları? Böyle gerçekten elle katkala matematik.
+
+[Speaker 2]:
+Yok yok.
+
+[Speaker 1]:
+Hepsini ağırda yaptım. Hepsini ağırda. Hepsi her şey.
+
+[Speaker 2]:
+Hatta hala private ripomda duruyor hepsi.
+
+[Speaker 1]:
+Bir sonraki yayında kullanılmak üzere.
+
+[Speaker 2]:
+O zaman yüksek lisanstan mezun olduğunuzda bu arada nerede çalışıyordunuz? Danışmanlık tarafı devam ediyor muydu?
+
+[Speaker 1]:
+Evet. Yüksek lisanstan mezun olduğumda devam etti yine danışmanlık.
+
+[Speaker 2]:
+İşte ortak dediğim gibi ortakla ayrıldık.
+
+[Speaker 1]:
+Tabii işler de yavaşladı.
+
+[Speaker 2]:
+Bu noktada ben tek başıma idare etmeye çalışıyordum.
+
+[Speaker 1]:
+Bu analiz konularını. Sonrasında da işte doktora devam etmek istiyordum. Aynı zamanda da yani kendi işini yapmak gerçekten keyifli ama bir o kadar da zor. Bu noktada işte bir İzmir dışına çıkayım bir İstanbul'a bakayım neler oluyor gibi bir fikrim oldu. Sonrasında da işte Mimar Sinan'da istatistik hatta orada çok değerli hocalar var.
+
+[Speaker 2]:
+İşte Semra Hoca danışmanım, Aydın Hoca, Aydın Erar.
+
+[Speaker 1]:
+Gerçekten isim yapmış hocalar vardı. Oraya bir başvurayım belki de İstanbul'da iş de bulurum gibi bir şeyle. Cesur bir kararla gittim ben başvurdum.
+
+[Speaker 2]:
+Doktorayı kazandım.
+
+[Speaker 1]:
+Hatta kaydımı yaptırmaya gittiğim gün iş görüşmesi, iş görüşme vardı. Yani iş olmadan aslında böyle bir cesaretle gidip doktoraya orada kaydımı yaptırdım. Dedim en kötüsünden yani gider gelirim bir yoluna bakarım falan diye öyle düşünmüştüm. İki de yapmışım. İki de orada yani konfor zonu, konfor zonun dışına çıkmışım.
+
+[Speaker 2]:
+Bence bu çok önemli.
+
+[Speaker 1]:
+Özellikle genç yaşlarda bu tip denemeler oldukça önemli.
+
+[Speaker 2]:
+İlerleyen yaşlarda daha zor oluyor.
+
+[Speaker 1]:
+İşte aileniz oluyor veya bazı şeyler gerçekten zor olmuş.
+
+[Speaker 2]:
+Enerjiniz olmuyor her şeyden önce.
+
+[Speaker 1]:
+İşte daha böyle şey düşünmeye başlıyorsunuz. Daha sağlamcı vesaire. İki de yapmışım onu. İstanbul'a gittim. Sonrasında İstanbul'da Raiden'da çalışmaya başladım. Real Estate Analytics yapıyorduk orada da. Orada şimdi sizin sektöre bir noktada girsiniz. Biraz analiz olarak başlıyor. Tabii o yıllarda science cümlesi, data science olayı çok var mı?
+
+[Speaker 2]:
+Onu da bilmiyorum yani Türkiye tarafında. Veya belki de Furia Title'da yeni başlıyor da olabilir.
+
+[Speaker 1]:
+Çok belki bazı büyük şirketlerde oluyor olabilir sadece.
+
+[Speaker 2]:
+Siz daha iyi bilirsiniz o dönemlerde.
+
+[Speaker 1]:
+O dönemlerde sektör nasıldı? Yapılan işler nasıldı? Dönüşüm nasıl oldu sizin içerideki? Evet dediğim gibi o dönemlerde bu data science kavramı çok yeniydi. Yani 2014'ten bahsediyoruz. 2014'ün başı neredeyse 11 yıl olacak. Çok yeni bir kavramdı. Açıkçası tam böyle net bir tanımı da yoktu. Kim data scientist, kim data analyst gibi böyle bir karmaşa vardı. Benim title'ın data analysti ama bayağı modelleme yapıyordum içeride. İşte housing price index hesaplıyorduk. İşte regresyon modellemesi yapıyorduk. İşte konut fiyatları tahminlemesi için.
+
+[Speaker 2]:
+Korrelasyon analizlerinden tutun.
+
+[Speaker 1]:
+İşte time series forecasting. Yani şu anda introduction to data science'da ne görürsen ya da herhangi bir data science kursunda ne görürsen aslında hep onlar yapılıyordu. Ama tabii o dönemde işte bir şeyleri böyle production'a koymak biraz daha nasıl diyeyim experimental gidiyordu. İşte daha çok böyle etok usulüne bilmiştir. Prediction'ları, forecast'i çalıştırıyordum lokal bilgisayarda. Sonrasında onları sisteme update ediyorduk. Aylık işte forecast'ler yapıyorduk vesaire. İşte anlık bir şey yapmak o dönemlerde tabii ki de mümkündü ama onunla alakalı özellikle veriniz olması lazım. İşte sisteminiz olması lazım. İşte bu devops bütün bu deployment'ı anlayan ekibinizin olması lazım. Tamamen farklı yani çok büyük farklılık olmasına rağmen yani bir modeli production deploy etmekle bir software'i production deploy etmek arasında farklar var. İşte orada enteresan bir şeyimiz olmuştu. İşte Postgres'in bir ekstenşeni vardı. PLR diye Postgres Language in R. Postgres server üzerinde Postgres SQL function'ı yaratabiliyordun. Bu SQL function içerisine R kodu koyabiliyordun. Biz de bunu yaptık. Hatta bunu çalıştırdık. Buradan missing value imputation yapıyorduk. İşte listing'lerdeki eksik verileri bu noktada tamamlıyorduk. Bunu da yine Postgres üzerinde schedule vardı.
+
+[Speaker 2]:
+İşte her gün gece çalışıyordu.
+
+[Speaker 1]:
+Bunun üzerinde işte o eksik verileri tamamlıyordu. İlk production tecrübem oydu diyebilirim yani. DB'deki boşları doldurmak ilk production tecrübemiz çok güzel bir şey.
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Ama onları da çünkü satıyorduk yani. Böyle işte portalımız üzerinden kullanıcılar geliyordu. İşte filtreliyordu vesaire. Hatta onları baz alarak da birçok analiz yapıyorduk.
+
+[Speaker 2]:
+Modelleme yapıyorduk.
+
+[Speaker 1]:
+O yüzden bizim için çok kritikti yani.
+
+[Speaker 2]:
+Evet. Bir de R'ı yakaladım. Aslında o dönemlerde Python pek kullanılan bir şey değildi. Bu tarafta çok popüler değildi.
+
+[Speaker 1]:
+Özellikle bu machine learning işlerinde.
+
+[Speaker 2]:
+R daha popülerdi.
+
+[Speaker 1]:
+Hatta R daha gelecek vadedecek diyorlardı. İşte bu işin kralı diyorlardı. Sonrasında bir anda Python fazlaca kullanılmaya başlandı. O dönemlerdeki R'ın kullanımı nasıldı? Python'ın gelişi nasıl oldu? Yani siz bunları bilhassa yani bizzat direkt sektör içerisinde de yaşayanlardansınız.
+
+[Speaker 2]:
+Hatta işte vay R tarafı da var. O tarafa da geliriz yavaş yavaş.
+
+[Speaker 1]:
+Yani evet o çok enteresan bir süreç oldu. R ciddi anlamda popülerde işte bir R etkinliği yaptığımızda ilgi çok fazla oluyordu. R aslında bir noktada veri bilimini, istatistiği işte bu modellemeyin girişi kolaylaştırdı. Çünkü o dönemlerde Python tabii ki de vardı.
+
+[Speaker 2]:
+Python software language olarak vardı yani.
+
+[Speaker 1]:
+O noktada hani Python sonradan geldi diye bir şey söyleyemeyiz. Ama Python üzerindeki işte paketler, kütüphaneler vesaire bu kadar gelişmiş değildi. Dolayısıyla bu noktada R'a geçiş yapmak çok daha kolaydı. Hatta ben bir şey de söylüyorum.
+
+[Speaker 2]:
+R'dan önce MATLAB kullanıyordum mesela.
+
+[Speaker 1]:
+Yüksek lisans tezini MATLAB kullanarak yapmıştım. Bir kısmı R'daydı. Özellikle MATLAB'dan R'a geçiş çok rahat oldu. Yani sintaksi vesaire çok benzerdi. O noktada gerçekten rahat olmuştu. İşte R'daki tabii paketlerin gelişmişliği de çok gerçekten mükemmel.
+
+[Speaker 2]:
+Yani hala daha böyle.
+
+[Speaker 1]:
+İşte bu Missing Value Imputation'da çok böyle niş bir algoritma bulduk. Bir baktık, yani paper'ı okuduk. Ya bunu nasıl implement edeceğiz?
+
+[Speaker 2]:
+Şimdi bir ton kod yazmamız lazım dedik.
+
+[Speaker 1]:
+Bir baktık paketi var mesela yani. Direkt o paketi kullanarak direkt hızlı bir şekilde bize implementasyon yapmamızı sağladı. Bu noktada R hala o açıdan çok daha gelişmiş durumda. Sonrasında işte Python'a geçiş nasıl oldu? Tabii o dönemlerde işte tatlı tartışmalar oluyordu. İşte ya bırak işte R programlama dili mi? Yahu işte Python niye kullanmıyorsunuz? Vesaire. Hatta işte istatistik mi?
+
+[Speaker 2]:
+O ne ya?
+
+[Speaker 1]:
+İşte Machine Learning var abi. Bırakın istatistiği falan dedikleri oluyordu. O nokta da enteresan bir nokta açıkçası. Hatta ben bu Ege Üniversitesi'nde yaptığım konuşmada da değinmiştim. İşte biz işte clustering'i öğrendik.
+
+[Speaker 2]:
+Çoklu.
+
+[Speaker 1]:
+Nasıldı? Çoklu. Çok değişkenli istatistik de clustering'i öğrendik. Ama o zaman bilmiyordu ki Machine Learning algoritması olduğunu. Yani PCA'yı öğrendik mesela. Yani Principal Component Anayisi öğrendik. Biz onu işte Dimension Reduction'da kullanılabildiğini bilmiyorduk mesela. Ama sonradan mesela bunları sektör içerisinde gördüğümde yok artık ya. Bu istatistik ya.
+
+[Speaker 2]:
+Bu hani falan öyle bir şey oldu.
+
+[Speaker 1]:
+O da ayrı bir nokta aslında. Sonrasında sektör de sonunda kabul etmeye başladı işte bunu vesaire. İşte Python'ın geçişi nasıl oldu? Python'a geçişi işte bu bahsettiğim gibi bu MLOps kavramının daha fazla ortaya çıkmasıyla MLOps konseptinin ciddi bir şekilde gelişmesiyle birlikte bu noktada yani modellerin production'a çıkması daha böyle nasıl diyeyim
+
+[Speaker 2]:
+düzenli ve daha structure hale gelmeye başladı.
+
+[Speaker 1]:
+Bu noktada işte R biraz sınıfta kaldı. İşte bu R'ın scale etme olayı. Özellikle büyük veri üzerinde işte yani tabii ki de scale ettirebiliyorsun R'ı kesinlikle. Ama çok uğraşman gerekiyor. İşte bu RCPP diye bir paket çıktı. Bu işte C++ kullanıyorsun R üzerinde. İşte bazı hatta Dortmund'ta bir konferans ekmiştim. 2015'inde orada böyle bir session vardı. İşte paketlerdeki bottleneck'leri nasıl çözersin diye. İşte git diyor source koduna. Nerede bottleneck görüyorsan git orayı C++'da yaz diyor mesela. Yani bu tip noktalardan birazcık işte R'dan uzaklaşma olmaya başladı.
+
+[Speaker 2]:
+Yani production'da.
+
+[Speaker 1]:
+İşte multi-thread çalıştırmak sıkıntılı. Parallel processing sıkıntılı.
+
+[Speaker 2]:
+vesaire.
+
+[Speaker 1]:
+Hal böyle olunca tabii de iş başa düştü. Python öğrenmeye başladık. Öyle Python'a geçtik sonrasında.
+
+[Speaker 2]:
+Ya Python'ın bir de software tarafı da var ya.
+
+[Speaker 1]:
+Aslında Python'a geçince bir noktada o software tarafında işin içine giriyorsun. Gene o DevOps tarafı da işin içine bir noktada daha fazla giriyor.
+
+[Speaker 2]:
+Ya bilmiyorum Python rahat. Ama tabii R'in yeri bambaşka.
+
+[Speaker 1]:
+Tabii tabii R'in yeri kesinlikle bambaşka. Hala research'ta R kullanıyorum ama Python gerçekten hani başlı başına bir programlama dili olduğu için tabii ki de R'da programlama dili ama R'in ortaya çıkarılığı sebebi bu
+
+[Speaker 2]:
+değil yani.
+
+[Speaker 1]:
+İşte herkes gitsin. Ne bileyim R kullanarak niye mesela bir web sitesinin backhand'ını yazasın ki? Ama Python'la yazabilirsin. R bunun için ortaya atılmadı. R işte daha çok istatistiksel konularda hızlı bir şekilde analiz yapsın. İnsanlar yani mantalitesiyle ortaya atıldı.
+
+[Speaker 2]:
+Ya bu R'la alakalı hep şunu diyorlar ya.
+
+[Speaker 1]:
+R'ın görselleştirme tarafı çok iyi. İşte Python'dan kat ve kat üstün falan.
+
+[Speaker 2]:
+Hep bunu duyuyorum ben de.
+
+[Speaker 1]:
+Bilmiyorum çok kullanmadım ben R'ı açıkçası. Bu böyle mi gerçekten ya?
+
+[Speaker 2]:
+Hani Python bu kadar komite desteğiyle ilerleyemedin mi bu tarafta?
+
+[Speaker 1]:
+Yani enteresan bir yorum açıkçası. Veri görselleştirme dersi veriyorum son 3 yıldır. Önce R'la başladım. Sonrasında Python'a geçtim. Özellikle geçen senenin yarısında döndüm. Bu sene full Python'la gidiyorum.
+
+[Speaker 2]:
+Yani çok büyük bir fark ben görmüyorum yani.
+
+[Speaker 1]:
+Yani belki şöyle bir şey olabilir. Gigi Plot örneğin mesela mükemmel bir kütüphane.
+
+[Speaker 2]:
+Özellikle R'la bu dersi verdiğimde Gigi Plot'ı üzerinde gidiyordum.
+
+[Speaker 1]:
+Çünkü o kadar güzel kurgulanmış bir kütüphane ki bütün bu veri görselleştirmenin temellerini bütün foundational bir şekilde kat kat layer layer grafiği nasıl oluşturduğunu işte bu görselleştirmenin nasıl oluşturduğunu gösterebiliyorsun. Bu açıdan evet R gerçekten kuvvetli yani Gigi Plot açısından. Ama R'ın kendi açısından yani programlama dilinin doğrudan getirdiği bir katkı ben görmüyorum açıkçası. Gigi Plot evet çok etkili sevdiğim de bir kütüphane. Ama örneğin mesela Plotly'yi de çok severim. İnteraktif çart çıkarttır vs. Plotly'nin Python client'ı da var. Python'ı da kullanabiliyorsun. Yani C-Bone var. İşte bazı istatistiksel grafikler de çizebiliyorsun Python'da vs. Birçok var aslında. Bunlar sadece birkaçı. Yani o noktada Gigi Plot'ı alırım bambaşka bir yere koyarım kesinlikle. Ama hani Python'da görselleştirme çok kötü demek bence çok doğru değil yani.
+
+[Speaker 2]:
+Evet kötü değil de. Bence bir R daha iyi diyorlar.
+
+[Speaker 1]:
+Ben de çok R'cı olmadığım için bilmiyorum. Ya mesela şu soruyu da sorup R bahsini kapatayım artık. Şu anda sektörü de düşünerek R öğrenmek mantıklı mı?
+
+[Speaker 2]:
+Yani buna hobi olarak tabii ki öğrenilebilir.
+
+[Speaker 1]:
+Ama buna yatırım olarak bir şirkette kullanmak bazında düşündüğümüz vakit. Buna vakit ayırmak, bunu belli bir seviyeye ilerletmek mantıklı mı şu anda? Güzel bir soru aslında. Yani tabii ki de her zaman iki dili birden öğrenmek çok avantaj sağlayacaktır. Ama ikisi arasında kalıyorsanız bence Python'a geçebilirsiniz. Çünkü Python'da da artık birçok şey yapabiliyorsunuz. Community desteği çok fazla. scikit-learn aldı başını gitti. Örneğin işte statistics libraries'i var.
+
+[Speaker 2]:
+Scipy var.
+
+[Speaker 1]:
+Yani artık birçok şeyi rahat bir şekilde yapabiliyorsunuz. Ama çok spesifik bir alanda çalışacaksınız. Örneğin akademiye gideceksiniz. Ya da işte genetik üzerinde, biyostatistik açısından aslında R çok kuvvetli.
+
+[Speaker 2]:
+Yani R'da çok inanılmaz paketler var.
+
+[Speaker 1]:
+Eğer o konuda mesela bir alana yöneleceksiniz.
+
+[Speaker 2]:
+Evet, R'a kaymak daha mantıklı olabilir.
+
+[Speaker 1]:
+Ama daha genel bir işte makine öğrenmesi, işte ne bileyim ceneyağı şudur budur vesaire konularında gidecekseniz Python'a kaymak tabii daha mantıklı olabilir.
+
+[Speaker 2]:
+Arda ceneyağı yapılıyor mu ki ya şu anda? Bildiğim kadarıyla yok. Hiç duymadım yani. Evet. O zaman doktoraya bu şekilde ben şeyi merak ediyordum. Yani doktoraya başlama kararınız nasıl oldu diye.
+
+[Speaker 1]:
+Çünkü doktora dediğimiz olay da basit bir olay değil. Yani onda bir 4 sene okuyorsun, onda tezi var falan, dersi var. Bir yandan çalışacaksın, derse gideceksin falan. Bayağı zor iş yani.
+
+[Speaker 2]:
+Yeniden bir üniversite okumak gibi.
+
+[Speaker 1]:
+Ben şu an mezun olsam çok sevinçli olacağım. Oradaki doktoraya başladınız. Sonra işte doktora zamanı o tarafları nasıl handle ettiniz? Hem çalışıp hem doktora yapıp. O dönemler komünite şeyleri var mıydı peki?
+
+[Speaker 2]:
+Komüniteye desteğiniz? Bayağı vardı.
+
+[Speaker 1]:
+O zamanlar bayağı aktiftim komünitede. Yani bazen mesela o günleri düşündüğümde gerçekten o günlerdeki enerjimin tekrar geri gelmesini istiyorum. Ciddi ama. Yani ne bileyim çok az uyuyordum. Örneğin sürekli aktiftim, sürekli okuyordum. Yani hatırlıyorum hafta sonları işte tabii ki de zaman zaman arkadaşlarla buluşurduk vesaire ama genel olarak sabah kalkardım, işte alırdım bilgisayarımı giderdim Starbucks'a otururdum bütün gün yeni bir şeyler öğrenirdim, yeni bir şeyler yapardım vesaire. Yani o yıllarda gerçekten neredeyse her anımı bir şeyler öğrenerek geçirdim diyebilirim yani. Çünkü öğrenecek çok şey vardı, hala da var. Yani özellikle bu CNA anlamında artık neredeyse yani şeyi yakalamak bile güçleşmeye başladı. Şu anlarda tabii o kadar fazla enerji göremiyorum kendimde. Yani biraz daha işte aileme vakit ayırayım, işte köpeklerimle uğraşayım, işte eşimle vakit geçireyim, işte bir şeyler izleyeyim falan daha çok oluyor. Ama eskiden o yıllarda çok farklıydı yani.
+
+[Speaker 2]:
+Tek amacım buydu diyebilirim.
+
+[Speaker 1]:
+Kendimi geliştireyim işte komünitede networking olsun. Özellikle bu komünitede etkinlikler yaparken de birçok yetenek kazandım diyebilirim. Çünkü sen de bilirsin yani. Envay çeşitli insanla konuşuyorsun, işte bir şey organize etmek istiyorsun, bütçe yok. İşte birini ikna etmen lazım vesaire. Yani nasıl diyeyim, birininle kavga etmeden ikna etmeyi öğrendim mesela. Hani bu noktada ya da işte kafamdaki bir şeyi net bir şekilde anlatabilmeyi öğrendim. Tabii ki de bu hala geliştirebilir. Bu noktada kesinlikle herkes kendini her an geliştirir.
+
+[Speaker 2]:
+Ben de bunu kendim dahil ediyorum buna.
+
+[Speaker 1]:
+Ama bunun mesela etkilerini görüyorum yani iş yaşantında. İşte bir işte bir iş çıkmaza girdiğimde konu bana geliyor. İşte ben mesela bunu gidip çözdüğümde ya nasıl çözdüm? Yani yapacak bir şey yok. Yani yıllarca işte gidip sponsorlara derdim biz anlattık. Bu noktada birazcık kendimizi geliştirdik gibi oluyor. Yani doktora ya başlama sevim aslında akademiden uzakta kalmamaktı.
+
+[Speaker 2]:
+Yani gerçekten seviyordum akademide olmayı.
+
+[Speaker 1]:
+Hatta işte günün birinde akademiye tekrar yeni döner miyim? İşte akademisyen olur muyum? Gibi düşüncelerim vardı. Ama oldu yani 2020'den beri işte 2020'nin Şubat'tan beri burada öğretim üyeli yapıyorum. Yani ilk de yapmışım doktorayı. Yapmamış olsaydım şu anda öğretim üyesi olamazdım. Bir şeyler anlatmayı seven bir tarzınız olduğu belli.
+
+[Speaker 2]:
+Akıcı konuşmanızdan.
+
+[Speaker 1]:
+Gerçekten bu arada o doluluğu da o kadar iyi hissediyorum ki. Yani gerçekten neredeyse beş seneye yakında öğretim üyeliği tecrübeniz var. Polonya'daki üniversitede benim adımla telaffuz edemediğim enteresan bir şey var.
+
+[Speaker 2]:
+Orada nasıl telaffuz ediliyor dediniz mi?
+
+[Speaker 1]:
+Evet şey muhtemelen LinkedIn'de şey vardır. Lehçesi vardır. Politechnika Gdansk diye geçiyor. İngilizcesi de Gdansk Teknoloji Üniversitesi diye geçiyor. Evet. Orada neredeyse beş seneye yakındır öğretim üyeliği yapıyorsunuz. NLP de gösteriyormuşsunuz.
+
+[Speaker 2]:
+Yani sadece görselleştirmelerin machine learning'in yanında bir NLP tarafı da var.
+
+[Speaker 1]:
+Var. NLP bir yüksek lisans geçen sene bir dönem NLP dersi verdim. Core NLP mi veriyorsunuz? Nasıl?
+
+[Speaker 2]:
+Core NLP tarafını mı veriyorsunuz? Yani şu an bu CNI falan taraflarını çok girmeden.
+
+[Speaker 1]:
+CNI'ye pek girmedik. Yani Core NLP direkt text mining'den başlayarak işte tokenizing nedir? İşte hatta TF-IDF nedir? Vesaire oralardan direkt başladık. Yani başlıyorum. Ki insanlar anlasın işte word count yapabilsin işte ne bileyim word map çıkartsın onun üzerinde. Hani çünkü temelini bilmeden direkt CNI'ye girersek kimsenin ne olduğunu anlamıyor. Yani bu noktada aslında yeri gelmişken çok böyle irite eden bir nokta var beni. Örneğin herkes işte chat GPT sayesinde LLM'lerden konuşmaya başladı. Öyle bir şey oldu ki sanki chat GPT sayesinde LLM sahibi olmuşuz gibi. Halbuki yani LLM yıllardan beri vardı yani hani Berth vardı mesela.
+
+[Speaker 2]:
+Yani GPT'lerden önce Berth vardı.
+
+[Speaker 1]:
+Çok aktif, kuvvetli. Ama çok enteresan bir şekilde örneğin işte kime birini özellikle bu biznesde çok fazla yoruluyordu.
+
+[Speaker 2]:
+İşte LLM kullanıyoruz dediğimiz aa CNI mi yapıyorsun?
+
+[Speaker 1]:
+Ya hayır ya işte Berth kullanıyorum embedding generate etmek için yani teksten. Ha anladım o zaman chat GPT değil yani falan. Ya LLM deyince akılda tek canlanan şey text generation aslında. Emredik değil de generation canlanan. Aynen öyle. Bir şey yazacağım o bana otomatik bir şekilde bot bana yanıt verecek falan. Anlayış o şekilde yani. Evet o birazcık gerçekten. Özellikle hani genetive ve AI yani tamam çok yeni bir konsept vesaire ama genetive modellerde yeni bir şey değil ki. Yani genetive adverizal networksler var. GANTS'lar mesela.
+
+[Speaker 2]:
+Yani bu yıllardan beri var.
+
+[Speaker 1]:
+İşte vision question answering var mesela yani. Bu CNA konseptinden yıllar önce ortaya çıkan konseptler. Yani şimdi işte bu chat GPT LLM kullandı diye şimdi CNA'yı sadece LLM'den ibaret zannediyoruz. Yani tabii ki de birçoğumuz değil ama işte özellikle biznes tarafından.
+
+[Speaker 2]:
+Evet ya bu gerçekten de öyle zannediliyor.
+
+[Speaker 1]:
+BERT inanılmaz bir model.
+
+[Speaker 2]:
+Hala çok popüler yani. Özellikle bankadan falan çok kullanılıyor BERT.
+
+[Speaker 1]:
+Evet. Kesinlikle yani. Neyse.
+
+[Speaker 2]:
+Çok detayın. Bir şey anlatacaktım Nike ile ilgili ama çok fazla detaya gireceğimi fark edip. Bunu off record olarak ben dinleyebilirim. Aynen. BERT evet.
+
+[Speaker 1]:
+Gerçekten etkili. Hatta şimdi bu Colbert diye bir metot da yakın zamanlarda çıktı. Bu işte özellikle sonuç itibariyle RUG'dan bahsediyorsak. Tabii Colbert yazınca çok başka şeyler çıkıyor.
+
+[Speaker 2]:
+Colbert. Yani.
+
+[Speaker 1]:
+Tabii. Evet çıktı. Aslında yeni bir şey değil de bunun. Nasıl diyeyim.
+
+[Speaker 2]:
+Yani sonuçta böyle RUG yaptı.
+
+[Speaker 1]:
+Nasıl? İlk defa duydum.
+
+[Speaker 2]:
+Colbert.
+
+[Speaker 1]:
+Yani bir de şey mesela Generation ile veya şimdi RUG deyince RUG bir şey getirecek. Ve hani getirdiği şeyde bir noktada hani direkt aynısını bulup getirmiyorsa bir Generation süreci oluyor aslında. Şimdi BERT deyince BERT bir Generation yapamıyor aslında diyebiliyorum.
+
+[Speaker 2]:
+Tabii BERT.
+
+[Speaker 1]:
+Tabii BERT ile Embedding üretiyorsun.
+
+[Speaker 2]:
+Yani BERT modeliyle.
+
+[Speaker 1]:
+Burada işte Embedding yani RUG dediğimiz olayda aslında alt tarafta similarity search yapıyorsun.
+
+[Speaker 2]:
+VectorDB üzerinde.
+
+[Speaker 1]:
+Sonra oradan işte konteksti zenginleştirip LLM'e gidiyorsun. İşte bu noktada tabii bu Embedding'i yaratmak da çok önemli olmaya başladı. Çünkü o yarattığın Embedding senin için source of truth oluyor. Yani bu similarity search de tarafında.
+
+[Speaker 2]:
+Hatta chunking çok önemli olmaya başladı.
+
+[Speaker 1]:
+Yani chunking teknikleri. İşte bu semantic chunking mesela bu zamanlarda çok enteresan olmaya başladı. Çünkü tabii chunkları ayırabilirsin. İşte sentence tokenization yapabilirsin vesaire ama yani semantik olarak ilişkisini anlamazsan yani birbirine bağlı üç cümleyi mesela birbirine bağlı bir olayı anlatan üç cümleyi farklı bir şekilde gösterip bunu farklı chunklardan farklı embeddikler yarattığında olay bambaşka yere gidiyor. Yani bu noktada da enteresan aslında baktığınızda. Yine aslında gelip Embedding modellerinin ne kadar önemli olduğunu vurgulamaya giriyoruz. İşte bu noktada işte Colbert mesela kullanılmaya başlandı.
+
+[Speaker 2]:
+Retrieval model olarak kullanılmaya başlandı.
+
+[Speaker 1]:
+Hatta linki de bırakıyorum kitap riposuna.
+
+[Speaker 2]:
+Buldum sonunda.
+
+[Speaker 1]:
+Stanford tarafından geliştirilen. Çetede atayım mı?
+
+[Speaker 2]:
+Aynen ikiye.
+
+[Speaker 1]:
+Mesela bu tarz hani Bert tarafında embedding işleri evet çok çıkıyor.
+
+[Speaker 2]:
+Ama bildiğim kadarıyla bizim yaptığımız birkaç ekaton için Rok'ta.
+
+[Speaker 1]:
+Biz direkt hani GPT'nin, LankC'nin içerisindeki o basit embedding modelini kullanmıştık. Sadece parametre olarak mesela semantic atabilirsin.
+
+[Speaker 2]:
+Arkada ne yapıyor bilmiyorum.
+
+[Speaker 1]:
+Mesela burada sizin Bert'in bunu kullanmanızdaki olay ne oluyor?
+
+[Speaker 2]:
+Yani dümdüz GPT'yi kullanmayayım da buradaki Bert'i kullanayım.
+
+[Speaker 1]:
+E tabii hani API'ye gitmiyor falan oraları geçersek. Tabii tabii.
+
+[Speaker 2]:
+Zaten API'ye gidemiyoruz daha naik ortamında.
+
+[Speaker 1]:
+Burada işte kendimiz host ediyoruz embedding modelleri içeride. Ya da işte AWS'in sunduğu bir servis var şu anda Bedrock diye. Bu Bedrock da kendi altında işte bazı provider'lara akses alıyor.
+
+[Speaker 2]:
+İşte Anthropician modellerine mesela ulaşabiliyorsun. İşte bütün cloud modellerine.
+
+[Speaker 1]:
+Tabii OpenAI'ye gidemiyorsun Bedrock aracılığıyla. İşte Bedrock sana Lama'yı host ediyor. Manage bir şekilde. Anthropic modellerini götürüyor. ST modelleri var. ST'ye gidiyorsun.
+
+[Speaker 2]:
+Stable Diffusion'e gidebiliyorsun. Evet. O noktada.
+
+[Speaker 1]:
+Kendi modeli var.
+
+[Speaker 2]:
+Titan falan var. Titan.
+
+[Speaker 1]:
+Onlar çok kullanılıyor mu bilmiyorum ya. Ya Titan çok nasıl diyeyim kullanışlı, ucuz ve çok hızlı.
+
+[Speaker 2]:
+Kendi modeli olduğu için çok daha rahat scale edebiliyor.
+
+[Speaker 1]:
+Ama performans konusunda mesela biraz böyle memnun değiliz gibi söyleyebilirim yani. Ama şey açısından çok hızlı yani. Respons'u çok yüksek ve çok ucuz. Diğerleriyle kıyasladığımda.
+
+[Speaker 2]:
+Ucuzluk tarafını çok bilmiyorum.
+
+[Speaker 1]:
+Çünkü böyle büyük projeler yapmadığımız için bizim yaptığımız projeleri sadece paylaştığımızda bir 15-20 kişi kullanıyor. Ondan sonra da günde 1-2 belki bir girilip bakılıyor bu neymiş diye. Daha bir ürün tutturamadık ya. Tutturursak umarım bakabiliriz Titan'a.
+
+[Speaker 2]:
+Embedding tarafında Bedrock'ta çok da bir şey yok aslında ya.
+
+[Speaker 1]:
+3-4 tane seçenek vardı.
+
+[Speaker 2]:
+Titan Embedding vardı. Herhalde Koher'in Multi-Module Embedding'i vardı.
+
+[Speaker 1]:
+Bir iki tane daha bir şey vardı da.
+
+[Speaker 2]:
+Multi-Module tarafında şey var. Stable Diffusion var.
+
+[Speaker 1]:
+Yani AWS'i çok kullandığınızı ben biliyorum Nike tarafında. Partner olarak onunla şeyiniz var diye biliyorum.
+
+[Speaker 2]:
+Genel olarak AWS çok kullanılıyor ya.
+
+[Speaker 1]:
+Tabii sonuçta var. Tabii sonuçta var. Cloud tarafında güçlü AWS'in yani aslında nasıl başladı? İşte EC2, Virtual Machine ile başladı her şey. Ama artık AWS üzerinde farklı servisler de kullanabiliyoruz. İşte Bedrock bunlardan bir tanesi mesela. İşte SageMaker var örneğin. Başka bir servis içinden başka manage komponentlerle geliyor. Elastic Kubernetes var.
+
+[Speaker 2]:
+İşte EMR var.
+
+[Speaker 1]:
+Spark vesaire. Hadoop Cluster kurmak için vesaire. Yani AWS zamanla bir Virtual Machine ortamı olmaktan bambaşka bir Cloud Provider, Cloud Service Provider'a evrildi. Bu noktada tabii işi kolaylaştırıyor.
+
+[Speaker 2]:
+İşte Lambda Function'lar kullanıyoruz.
+
+[Speaker 1]:
+Mesela çok fazla serverless. Hiçbir şekilde düşünmüyorsun yani arka tarafta nasıl bir instance çalışacak. İşte nasıl olacak scale etme şudur budur. Birçok şeyi AWS arkada hallediyor. Tabii ki de bu servisler bazı limitation'larla geliyor. Bazı limitlerle geliyor. İşte bu limitleri bilirsen bu limitlerin limitlerle karşılaştığında nasıl çözümler bulabileceğini halledersen bu noktada bayağı konuştu oluyor tabii. Şimdi sizin geçmiş iş deneyimlerine bakıyorum da gerçekten çok geniş. Yani birçok şirket var. Şimdi STM'i geçersem hani Epan var.
+
+[Speaker 2]:
+Daha böyle benim bildiğim.
+
+[Speaker 1]:
+PwC var. Bir Polonya tarafında çalıştığınız bir şirket var. Kineso diye.
+
+[Speaker 2]:
+Bu taraflara da hani böyle çok detaylı girmeyelim buralara da.
+
+[Speaker 1]:
+Bu taraflarda böyle yaşadığınız enteresan case'ler veya şurada şöyle bir şey yapmıştık. Gerçekten beni çok geliştirmişti. Veya şöyle şöyle bir şey keşfetmiştik dediğiniz hikayeler var mı? Evet. PwC'de aslında enteresan bir proje yapmıştık.
+
+[Speaker 2]:
+Hatta bununla Innovation Challenge'e gittik. Çünkü PwC çok büyük bir network. Global bir network. Ve birbirine çok bağlı bir network.
+
+[Speaker 1]:
+Yani PwC Polonya'da çalışıyordum ama bütün network ile ilişkimiz vardı. İşte farklı ülkelerdeki PwC'lerle ortaklaşa işler yapabiliyorduk. Bu noktada bir Innovation Challenge'e katıldık. İşte Polonya'da da ciddi bir varlığı var PwC'nin. İşte bilmiyorum ne kadar kişi çalıştığı ama sadece Gdans'ta yaşadığım şeride birinin üzerinde kişi çalışıyordu. PwC'de. Her neyse burada işte Innovation Challenge'e girdik.
+
+[Speaker 2]:
+Polonya'da kazandık. İşte Orta Avrupa'yı kazandık.
+
+[Speaker 1]:
+İşte dünya finallerine kadar gittik. Kaç kişiydiniz ekip olarak? Ekip olarak yani bütün ekip katılmadık. Yani Innovation'a katıldığımız kişisi iki kişiydi. Yani şeyi anlamaya çalışıyorum.
+
+[Speaker 2]:
+Bu kadar kazanarak gidildiği için nasıl bir ekiple gidildi ki bu yolda bu kadar ilerlendi?
+
+[Speaker 1]:
+Tabii arkasında çok daha büyük bir şey vardı. Yani daha doğrusu üç kişiydik.
+
+[Speaker 2]:
+Hatta bizim manager da kontribütörler arasındaydı.
+
+[Speaker 1]:
+Ama çok fazla kişiyle çalışıyorduk. Öncelikle işte bu product içeride çalışıyordu.
+
+[Speaker 2]:
+İşte verim almaya başladık bu üründen.
+
+[Speaker 1]:
+Sonrasında işte biznesden çok farklı kişilerle çalıştık. İşte process departmentı var içeride. Oradan işte subject matter expertlerle çalıştık. İşte marketing team ile çalıştık. Bu hikayeyi nasıl daha iyi anlatabiliriz diye. İşte bize örneğin bir video yarattılar. İki dakikalık bir video izliyor komite. Sonrasında onu izledikten sonra sen gidiyorsun işte sunumunu yapıyorsun.
+
+[Speaker 2]:
+On dakikan var.
+
+[Speaker 1]:
+Yani resmen investor'a sunum yapıyormuşsun gibi bir şey yani. O noktalarda çok fazla kişiyle irtibata geçtik. Yani işte ürünü bir de yaptığımız daha doğrusu çözümü içeride çalıştırıp verimini gördüğümüz için tabii o da bize çok ciddi bir geri bildirim verdi. İşte farklı birimlerle çalışmamız işte partnerliği, PwC partnerler bunlar işte co-owner gibi oluyor. İşte onların görüşleri mesela biziz açısından farklı görüşler geldi. Yani belki kağıt üstünde üç kişi görünüyordu ama arka planda çok fazla bir yetkileşim vardı. Bu uzun bir işte bu arada hani birkaç günlük bir şey değil.
+
+[Speaker 2]:
+Bu bayağı aylık, altı aylık gibi bir periyot var galiba yani.
+
+[Speaker 1]:
+Tabii tabii. Altı ay alması da bir dört beş ay falan sürmüştü tabii. Hazırlığıdır işte vesairesidir falan. Bayağı sürmüştü. Bir de içerideki verimi görmekten bahsettiniz ya. Galiba o verimi görmek için de belli bir süre test edilmesi lazım. Ürünün sıfırdan yapılması.
+
+[Speaker 2]:
+Aynen öyle. Tabii tabii. Aynen öyle.
+
+[Speaker 1]:
+Zaten aslında çok önemli bir şey. Yani bu makine öğrenmesini hatta bugün şirkette de tartışıyorduk. Yani bu ROI'yi göstermek, return of investment. Yani ne kadar getiri, bana ne getirecek bu yatırım? Aslında bu her şey için geçerli. Makine öğrenmesi için de geçerli. Yani işte biziz bir yatırım yapıyor. İşte bu bir AI ile bir biziz problemi çözecek. İşte biziz problem bir şekilde şirketin işleyişini ya yavaşlatıyor ya da çok fazla daha maliyetli çalıştırmasına sebebi veriyor. Burada en önemli nokta işte return of investment'ı doğru şekilde hesaplamak. Yani bunu doğru şekilde hesapladıktan sonra şirketler bunu yani bu konuya yatırım yapma konusunda gerçekten istekli olarak sonuç itibariyle bunu pek anlayamayabiliyor bazı genç arkadaşlar. Ben onu diyecektim.
+
+[Speaker 2]:
+Benim gerçekten anlamadığım bir konu.
+
+[Speaker 1]:
+Yani şu an bir ML modeli nasıl hesaplayacağım? Ben bunun getirisini şirkete faydasını göstereceğim. Sayısallaştıracağım.
+
+[Speaker 2]:
+Gerçekten orada bunu anlamakta çok zorlanıyorum.
+
+[Speaker 1]:
+Yani bir return cüneyi olarak. Evet şu şekilde farklı noktaları var. Örneğin mesela biz işte Zingat'ta çok enteresan bir şey yapmıştık.
+
+[Speaker 2]:
+Zingat'ta hala aslında canlıda o program.
+
+[Speaker 1]:
+Yaşam skoru diye bir şey. Bu yaşam skoru 3 tane nokta giriyorsun. Yaşadığın yer, çalıştığın yer ve boş zamanlarını geçirdiğin yer. Bunun üzerinden tabii alt tarafta bir sürü veri var. İşte trafik verisi, point of interest verisi vs. vs. Bunun üzerinden sana bir skor hesaplıyor. Ve bu skorunu yükseltecek sana ilanlar öneriyor. Bunun mesela getirisini nasıl hesaplayabilirsin? İşte bu senin trafiğini ne kadar arttıracak? Öncelikle işte ne kadar fazla bu ilanların görüntülenmesinde bir arttırış. Gösterecek misin? Bu ilanların görüntülenmesindeki arttırış örneğin daha yeni kişilerin gelip orada hesap açmasını sağlayacak mı? İşte bunu nasıl bir öngörüyorsun? Hatta o da enteresandı. Bu yaşam skoru örneğin İş Bankası aslında bu official ya. Bunu söylesek bir şey olmaz. Zaten 9 sene önce falan olan bir şeydi. İş Bankası bunu kendi mortgage sayfasına entegre etti. İşte eviniz zingattan bulun, krediniz bizden gibi bir şey. Mesela bu noktada ciddi bir sponsorluk bedeli ödedi İş Bankası. Yani bu mesele önemli bir şey. Bunun haricinde örneğin bir modeli üretip işte bu modeli satabilirsin. Yani bu modeli bir paket olarak ya da bir funksiyon, functionality olarak satıyor olabilirsin. İşte örneğin Real Estate'den gidecek olursak girdim işte bir portala bakıyorum. Fiyatlar aa süper vesaire yani kullanıcıyı çektim. Ondan sonrasında işte evinizin fiyatını hesaplamak istiyorsanız işte hemen üye olun falan gibisinden.
+
+[Speaker 2]:
+Bu noktada mesela bu modeli üretmek için bir yatırım yaptın. İşte ne yaptın?
+
+[Speaker 1]:
+İşte Data Scientist işi aldın. Machine Learning Engineer işi aldın. Software Engineer işi aldın. İşte bu noktada bir development cost oldu bu işin. Yani o insanlar o işe yoğunlaştılar. Başka işe yoğunlaşmak yerine. Bu noktada işte nasıl bir etki görüyorsun? Tabii ki burada bazen beklentiyle gerçek arasında farklılık olabiliyor. Özellikle bu tip ürünler satmaya çalıştığında. Örneğin senin için çok enteresan bir şey ve hakikaten üyelik satmanı arttıracak bir şey. Ama beklediğin şekilde verim alamayabilirsin o noktada.
+
+[Speaker 2]:
+Ve bu noktada karar vermen lazım.
+
+[Speaker 1]:
+Bu ürünü maintain etmeye devam etmek istiyor musun? Yine özellik ettirmeye devam etmek istiyor musun?
+
+[Speaker 2]:
+Etmiyor musun?
+
+[Speaker 1]:
+Yani o ürün sayesinde sana gelen ek gelir eğer bunun maintenance costunu sağlamıyorsa bu noktada bu ürünü devam ettirmek mantıksız. Dolayısıyla bu da aslında product life cycle içerisinde önemli bir alan. Yani ürünü bir yerden sonra retire etmek zorundasın. Yani hiçbir ürün sonsuza kadar aynı haliyle gidemezsin. Teknoloji değişiyor, kullanıcının istekleri değişiyor vs. vs. Bunun haricinde bir başka noktada cost saving. Mesela bu PwC'de yaptığımız bizim için çok önemli. Cost saving. Nasıl cost saving? Örneğin işte quality checker'lar vardı. Bu işte financial crime unity anti money laundering konusunda işte bu regulasyonlarda bankaların müşterilerini kontrol ediyorlardı. Bu noktada işte biz onu biraz otomatikleştirdik. Bu hata olabilecek keycilerin bulunması konusunda bir otomatikleştirme gerçekleştirdik. Ve bu sayede keycilerin kapanma hızı arttı. Dolayısıyla bu sayede PwC işte bankaya tavit ettiği sürede bitirebildi projeyi. İşte ekstra bir şey ödemedi. Ceza işte penaltı ödemedi. Ve bu noktada şirket işi ekstra quality checker almak zorunda kalmadı. Çünkü biz birçok keyizi otomatik bir şekilde kapatabildik. Bu noktada cost saving oldu. Bir de tabii reputation'a da katkısı oldu. İşte bu gibi şeyler yani otomatize ediyorsun bazı süreçleri.
+
+[Speaker 2]:
+Ve bu noktada manuel işe artık ihtiyacın olmuyor.
+
+[Speaker 1]:
+Bunun yerine işte elindeki kaynağı insan kaynağını o işten başka bir şey aktarabiliyorsun. Yani bu şöyle bir kavram var. O birazcık yani irite edici. İşte aa ne olacak işte AI humanity'yi ele mi alacak? Ya işte AI yüzünden insanlar işsiz kalacak. Yani bazı iş kolder tabii ki de gidecek. Bu endüstri devriminde de yaşandı yani. Yani buharlı makineler tekstilde kurmaya başladı. Bu yeni bir şey değil. Ama bu kesinlikle öyle korkutucu bir şey de değil.
+
+[Speaker 2]:
+Yani bu noktada cost saving tabii biraz daha önemli.
+
+[Speaker 1]:
+İşte örneğin firmalar bazen kendi içlerinde eleman yeterli olmayınca dışarıdan eleman almak zorunda kalıyor. Yani kiralama gibi bir şey belli bir süre.
+
+[Speaker 2]:
+Ve bu çok pahalı oluyor.
+
+[Speaker 1]:
+Ama bu süreci bir nevize otomatikleştirebilirsen ve kendi full time çalışanın bunu handle edebilecek hale gelirse sen otomatik olarak costu kesmiş oluyorsun. Yani bu gibi şeyler.
+
+[Speaker 2]:
+Buradan aklıma ilk aslında konuşmadan takılan şey machine learning modelinin bir hani devam etme maliyeti. Hani onu sürdürmek bir de hani retail konusu hani emekli etme olayı.
+
+[Speaker 1]:
+Burada sizin yaptığınız hani genel bu çok yüksek bir sektör tecrübesi var uzun yıllardan bu yana. Genel olarak bir ML modelinin emekliliği nasıl anlaşılıyor ve ne kadar deployment'ta kalıyor bir model ortalama. Bir de zaten diploya çıkmak da ayrı bir dert diye biliyorum. Yani o da çok uzun bir süreç ve her modelde zaten diploya çıkmıyor.
+
+[Speaker 2]:
+Çok az model diploya oluyor.
+
+[Speaker 1]:
+Evet yani her modelde canlıya gidemiyor. Yani burada bir yaklaşık bir süre vermek mümkün değil. Sonuç itibariyle bu yani bazı durumlarda gerçekten artık nasıl diyeyim business yani bir problemi çözüyorsun belli bir süre. Ama belli bir zamandan sonra öyle bir problem artık ortadan kalmıyor.
+
+[Speaker 2]:
+Örneğin regulasyonlarla ilgili bir şey çözüyorsun.
+
+[Speaker 1]:
+İşte bunu otomatikleştirdin. İşte belli bir süre sonra o regulasyonlar artık o kadar sıkı olmuyor.
+
+[Speaker 2]:
+Bunu yapmana gerek kalmıyor örneğin.
+
+[Speaker 1]:
+Yani bu belki çok uçup bir örnek ama. Hiç böyle bir şey olacak aklıma gelmemişti bu arada yani.
+
+[Speaker 2]:
+Gerçekten bir problem varsa sürekli onu hemen modeli çözmeli canlıda gibi düşünüyorum.
+
+[Speaker 1]:
+Ya da regulasyon açısından işler biraz daha... Ya da işte öyle bir şey oluyor ki regulasyonlar sıklaşıyor. Ya da işte hiç olmayan bir regulasyon geliyor. İşte bunun için var olan modeller artık buna sonuç verme ve onları artık kapatman gerekiyor ki yeni şeye gidebilirsin. Yani sorun nasıl diyeyim evolve oluyor. Yani sorun aslında değişim gelişim gösteriyor zaman içerisinde. Ortadan kaybolması belki çok edge case ama sorunun evrimleşmesi de süreç içerisinde de çok önemli yani. Bu noktada artık senin ilk aşamada ürettiğin modeller gelişen değişen soruna yanıt veremez hale geliyor. İşte bunları ya maintain etmeye davam edeceksin. İşte belki retrain edeceksin. İşte architecture'nı değiştireceksin. Ya da hepten kapatıp bambaşka bir algoritmaya geçeceksin. Evet yani oradaki ne bileyim işte drift olayları bunun izlenmesi monitoring'i falan bunlar da ciddi maliyetler aslında. Bunlar da aslında biraz domain'i de çok iyi bilmek lazım ya. Yani data science deyince işin içinde domain bence aşırı giriyor. Ama sanki ML engineer deyince domain o kadar girmiyormuş gibi hissettiriyor. Yani biraz o nokta nasıl diyeyim biraz blur gibi aslında vaktinde. Evet hani ML engineer'ı düşündüğünde ML engineer daha çok işte data scientist'ten kodu alıyor ve bunu production haline getiriyor. İşte ne yapıyor işte data scientist yazdı örneğin işte gitti ipython notebook'ta yazdı. Jupiter'de yazdı kodu. Çalışıyor model işte model diyor ki model dosyam şurada vesaire işte estriye koydum ya da işte bir yere koydum vesaire.
+
+[Speaker 2]:
+ML engineer onu oradan o kodu alıyor.
+
+[Speaker 1]:
+Bunu normal bir software haline dönüştürüyor. Yani işte API yazıyor. İşte o model dosyasını belli bir yere koyuyor. İşte cache'liyor. Mesela işte memory'de modelin çalışmasını sağlıyor ki her seferinde model yüklenmesin vesaire. İşte kodu optimize ediyor. İşte kodda bazı gereksiz elementler varsa onları çıkartıyor. İşte belli bir preprocessing varsa onu daha aktif hale getiriyor vesaire. Ve sonrasında da işte containerize ediyor.
+
+[Speaker 2]:
+Bunu docker konteyneri haline getiriyor.
+
+[Speaker 1]:
+İşte docker file yazıyor vesaire. Hatta bazı zamanlarda da gidip onu işte herhangi bir CICD pipeline'a koyup bunun işte production'a deployment'ını gerçekleştiriyor. ML engineer. Ama bu noktada ML engineer'dan da data scientist kadar da bir data science bilgisi olması bekliyor. Çünkü bir software engineer'a verdiğin zaman bu data science kodunu onun işte bu orada ne olduğunu anlaması daha zor olacağından ötürü. Machine learning engineering için bu daha hızlı oluyor ve daha efficient oluyor. Yani bir yeri değiştireceği zaman bir software engineer'in değiştirmesiyle ML engineer'in değiştirmesi arasında farklılık oluyor.
+
+[Speaker 2]:
+Tabii bazı software engineer'lerin de ML background'ı var.
+
+[Speaker 1]:
+O konuda da yani onlar da etkili olabiliyorlar. Ama şöyle bir şey de oluyor mesela. Bu biraz benim gözlemlediğim bir şey. Ya tamam işte ML engineer'i aldık. Bu kişilerin data science bilgileri kuvvetli. Bu tarafta production kısmında da bu adamlar iş yapıyor. Ya da adamlar gibi cinsiyetçi olmayayım da bu kişiler burada da iş yapıyor. Bu noktada belki de data scientist almamıza gerek yok gibi böyle bir şey olabiliyor. Yani bu noktada da işte çok böyle efektif olmayan bir işleyiş ortaya çıkıyor falan. Yani bu noktalar birazcık açıkçası kafa karıştırıcı yani.
+
+[Speaker 2]:
+Ama Nike'de mesela bunun gerçekten güzel bir ayrımı var.
+
+[Speaker 1]:
+İşte data science ekibi ayrı.
+
+[Speaker 2]:
+ML engineering ekibi ayrı.
+
+[Speaker 1]:
+Bunlar iletişim halindeler. İşte business'la iletişim halindeler. Tabii ki de data scientist ekibi business'la konuşuyor. Business'ın requirement'larını anlamak için. Nedir problem işte? Nasıl çözebiliriz? Neyi çözmeye çalışıyoruz? Vesaire. ML engineering tarafında da business'la irtibat içerisinde olmayız.
+
+[Speaker 2]:
+Çünkü bunu entegre edeceğim.
+
+[Speaker 1]:
+İşte mesela recommendation modeli geliştirdi. Data science ekibi. Ben işte production'a çıkacağım. Mesela Nike.com'a entegre edeceğim. Bu noktada benim işte business'a gidip o noktada gerekli detayları öğrenmem lazım. İşte response time ne olacak? Vesaire. İşte kaç tane request gelecek? Vesaire. Business'a bağlı olan teknik ekiple de irtibata geçip o entegrasyonu sağlayabiliyor olmak lazım. ML engineering olarak. Sizin Nike'a girmeden önceki tecrübe. Machine Learning Project Manager yazıyor LinkedIn'de.
+
+[Speaker 2]:
+Mesela oradaki olay neydi?
+
+[Speaker 1]:
+Oradan çıkıp Nike'a girişiniz nasıl oldu? O biraz enteresan oldu açıkçası. PwC'den ayrılmadan önce aslında Nike'la görüşüyordum. Sonra o aşamada işte bu Kinesio'dan enteresan bir teklif gelmişti. Onlar da dünyada gerçekten sayılı firmalardan biri bu Google Ads verilerini işleyip Google Ads partnerlılığı da yapıyorlar şirketlerle. Bu verileri Kinesio firmasıyla işleyip işte bunların optimize hale getirilmesini sağlar. İşte yani şirketler daha az para harcıyor Google üzerinde. Google Ads'e ama daha çok verim alıyorlar gibi bir şey. Bunu Data Science kullanarak yapan bir firma. O noktada öyle bir teklif gelmişti. Hatta çok da sevdiğim bir arkadaşım çalışıyordu orada. Ardından Nike'da da süreç ilerledi. Ve sonrasında Nike'dan da teklif gelince yani bunun geri çevrilmemesi gerektiğini düşündüm. Sonrasında orada işte...
+
+[Speaker 2]:
+5 ay bu arada.
+
+[Speaker 1]:
+5 ay çalışma var. Aynen. Hayatımın en kısa değişiklik özürlüsü olmuş oldu.
+
+[Speaker 2]:
+Evet ama Nike'da rekorumu kırdım diyebilirim yani.
+
+[Speaker 1]:
+3,5 yola yaklaştı. Evet. Oradaki pozisyon da Machine Learning Engineer olarak giriyor. Ondan sonra Lead olarak bir girişi var. Sonra Principal.
+
+[Speaker 2]:
+O da çok acayip.
+
+[Speaker 1]:
+Mesela Lead'den Principal'a geçinceki değişim ne oldu? Toplantı sayısı arttı öncelikle. Her şeyden önce. Yani burada daha çok yani Lead olarak girdiğimde de aslında Principal'ın yaptığı işleri yapıyordum kesinlikle. Ama Principal'la geçindiği zaman artık tamamen bir Technical Leadership olmaya başlıyorsun. Yani Individual Contributor oluyorsun. Bu noktada birazcık daha böyle işte ML Architect gibi rol alıyorsun. Yani işte Business'la ekip arasında yer alıyorsun. İşte Senior Management'la yine ekip arasında yer alıyorsun. Yani Business'tan gelen requirement'ları işte teknik anlamda açıklanması işte bununla ilgili örneğin belli yazılım imarası işte high level design üretilmesi işte nasıl entegre edeceğiz işte hangi AWS servislerini kullanmalıyız işte nereden veriyi nereden alacağız işte şunu şunu nasıl yapacağız. Bütün bunun dizayn edilmesi Principal üzerinde ve aynı zamanda da işte içerideki içerideki komünitelerde de aktif olarak yer alıp bu noktada da işte içerideki yani genel makine öğrenmesi problemleri üzerinde çözümler ortaya atmak.
+
+[Speaker 2]:
+Bu noktada o yüzden Individual Contributor deniyor.
+
+[Speaker 1]:
+Yani biraz daha bağımsız aslında Principal Engineer'ler. Bu noktada biraz da architect gibi çalışıp yani hem işte yeri geliyor işte ekipten ekibe kaç kişi alınması lazım işte nasıl bir skill set gerekiyor nasıl bir tecrübe gerekiyor konusunda karar vermeye kadar gidebiliyor.
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Sizin Nike'deki bir gününüz nasıl geçiyor? Yani işte mesela güne kaçta başlıyorsunuz?
+
+[Speaker 2]:
+Daily var mı?
+
+[Speaker 1]:
+Direkt başladınız ne gibi işler önünüze geliyor? Evet. Güzel bir soru. Nike'da güne genelde 9-9.5 arasında başlıyorum. İşte bu Avrupa saatiyle 9-9.5 Türkiye saatiyle 11-11.5 falan oluyor. Genelde nasıl başlıyorum? Tabii ki de Amerikan bir şirket olduğu için bizim birçok beraber çalıştığımız kişiler diğer ekipler işte bizimiz. Birçok Amerika'da hatta birçoğu da Oregon'dalar. Yani daha farklı 9 saatte çıkıyor. Türkiye ile baktığımızda 11 saat olmuş oluyor aslında.
+
+[Speaker 2]:
+Ya da bilmiyorum.
+
+[Speaker 1]:
+Neyse.
+
+[Speaker 2]:
+7 mi oluyor?
+
+[Speaker 1]:
+Her neyse.
+
+[Speaker 2]:
+9 saat bir fark oluyor.
+
+[Speaker 1]:
+İşte bir kısımda Boston'da Boston'da 6 saat fark oluyor. Yani işte biz uyuduğumuzda onlar uyanmış. Ya da biz işi bıraktığımızda onlar işe başlamış oluyor. Yani sürekli bir development var ama doğrusu ile işte bizim yaptığımız konulara yorum yapabiliyorlar. Dolayısıyla her sabah uyandığımda mail kutum dolu olmuş oluyor. İşte Slack'da bir ton mesaj olmuş oluyor. Sabah ilk yaptığım iş onları işte gözden geçirip neler olmuş, neler gitmiş, nasıl yorumlar gelmiş, işte herhangi bir action item gerekir mi, işte herhangi biriyle görüşmem gerekebilir mi, işte bir sorun mu, nasıl çözebiliriz gibi şeyleri düşünmekle geçiyor. Sonrasında da daily var. Daily'ye genelde 11'de başlıyoruz. Her gün işte yarım saat sürüyor. Daily'nin ardından da işte gün içerisinde yapmam gereken şeyler işte ne bileyim bu architecture konusuna gelip, architecture tarafına gelip işte bu entegrasyonu nasıl yapabiliriz, işte nasıl gidiyor her şey vesaire. Ve sonrasında da işte pool request'leri review etmeli de geçiyor. Özellikle öğleden sonraki zamanda. İşte sonrasında Jira'ya gidip bakıp orada süreç nasıl gidiyor, herhangi bir şey eksik var mı, işte ne bileyim alertleri kontrol ediyorum. İşte bir sürü alertlerimiz var production'da çalışan modellerimiz için. Onlarla alakalı herhangi bir aksiyon almamız gerekiyor mu? Onları halletmeye çalışıyorum. Onun haricinde bazen akşam yani çoğunlukla diyeyim akşam toplantılarım da hatta o yüzden biraz geciktim bu toplantıya. Akşam toplantıları da işte Amerika'daki ya senior liderlerle ya da işte oradaki beraber çalıştığımız business'la toplantılar olabiliyor. Tabii baktığında işte bizim için saat 6, onlar için sabah 9 olduğu için bazen hatta benim saatimle akşam 10'da bile toplantıya katıldığım oluyor. Yani bu konuda çok aslında saygı duyuyorlar. Yani saat farkı yani çok global bir firma olduğu için birçok ülkeden çalışan var. Bu konuda hatta bazen işte bizim çalışma saatlerimizi ayak uydurmak için hatta erken bile başladıkları olabilir. 7'de başlıyorlar mesela bizim için 4 oluyor. Bu noktada açıkçası önemli ama bazen tabii akşam toplantıları da kaçınılmaz olabiliyor. İşte çok acil çözülmesi gereken bir şey varsa. Bu birazcık yorucu olabiliyor ama tabii bu noktada ya işte overtime alıyorsun ya da ertesi gün geç başlayabiliyorsun. Neredeyse 12 saat çalışmaya gelecek yani.
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Yani öyle olan durumlarda da diyelim ki işte çalıştığın acil akşam toplantı yapman gerekiyor. O noktada işte 4 saat fazla kaldın ya da işte 2-3 saat ertesi gün geç başlayabiliyorsun. Yani 9'a başlamak yerine ya da erken de bitirebilirsin bir sonraki gün. Yani o noktada öyle bir haftalık 40 saati geçmeme üzerine bir ayarlama yapılabiliyor. Tabii onun haricinde eğer bunu bu şekilde çözemeyecek olursan da tabii mesai ücreti de alıyorsun. Yani sonuçta Avrupa'da bu olaylar gerçekten ciddi yani noktada. Ya burada şimdi genel olay Türkiye'de söylenen bir şey vardır.
+
+[Speaker 2]:
+Yurt dışında da tam olarak böyle mi bilmiyorum.
+
+[Speaker 1]:
+Yukarı doğru çıkıldıkça kod yazma olayı azalır derler. Yani işte lead, manager devam ettik. Yani ben sizin anlattığınızdan da biraz bir tık bunu anladım aslında. Sürekli işte puller case'i review ediyorum diyorsunuz. Hiç böyle aktif kod yazıldığı bir andan bahsedilmedi galiba. Genel olarak nasıl implemente edeceğiz? Ya işte başka ekiplerle bir aktarım devam ediyor. Böyle gün içerisinde hiç aktif kod yazıyor musunuz? Sadece review etmek yerine başka şeyler işte daha böyle hands-on işler yaptığınız oluyor mu? Oluyor bazen ama çok fazla olmuyor. Yani ne bileyim totalde zamanımın yüzde yirmisini geçmiyor yani kod yazmak. İşte mesela nerede daha çok kod yazılıyor?
+
+[Speaker 2]:
+İşte bir problem var.
+
+[Speaker 1]:
+İşte bu problem için bir framework olduğunu görüyorum. İşte bu framework'ün yani kickstarting yapmış oluyorum. İşte bakın arkadaşlar bunu bu şekilde çözebiliriz. Ben şöyle bir başlattım bunu hani buradan ilerletebiliriz. Ya da bazen bir bug oluyor. İşte bug'ın çözülmesi gerekiyor. O noktada işte el attığın zaman olabiliyor işte hani işi hızlandırmak açısından. Ama öyle zaten sprintte bile işte scrum yapıyoruz. Yani sprintte bile task esayen edilmiyor. Principal engineer'a. Evet. Genel olarak büyük sorumluluk hissettirdi.
+
+[Speaker 2]:
+Sürekli bir kontrol ve şey aktarımı. Tecrübe aktarımı. Şunu şöyle paylaşmak.
+
+[Speaker 1]:
+Biraz evet sorumluluk. Sorumluluk evet fazla tabii. Yani lead engineer'dan daha fazla kesinlikle. Evet şimdi bu hani genel böyle neredeyse hikayenize büyük oranda aslında değindik. Tabii teknik taraftaki hikayeyi. Bu tarafta sizin bir keşkeniz var mı hiç? Yani bu dönüp işte bu yolculuğa baktığınız zaman hiç şunu da şöyle yapmasaydım dediğiniz bir yer var mı? Aslında bir tane keşkem var. Keşke yurt dışına daha önce çıksaymışım. Aynen. Ve bir başka keşkem de şu. Keşke üniversite yani lisanstayken yurt dışına daha fazla çıkma olanaklarını kovalasaymışım. Yani tabii ki de bu birazcık da maddiyatla alakalı. Yani maddiyat konusunda çok elim yani ailem zengin bir aile olmadığı için öğretmen, emekli öğretmen olduğu için. Bu noktada böyle bir maddi bir kaynak yaratamamıştım kendime ama bunu mesela bazı arkadaşlar çok farklı şekillerde kovaladı. İşte Isaac'le gidenler oldu yurt dışına ne bileyim işte. Başka bir yerden burs bulup gidenler oldu vesaire vesaire. Yani bunları keşke kovalasaydım diyebiliyorum yani bu noktada. Çünkü gerçekten yani yurt dışına çıkmak, yurt dışında yaşamak gerçekten çok fazla değiştiriyor. Hayata bakış açınızı değiştiriyor. Farklı kültürlerde yer alıyorsunuz vesaire. Yani keşke diyorum ki bunu daha önceden yapabilseymişim. Yani burada Türkiye'de çalışmak, vesaire yurt dışında çalışmak konusundan bir ufak gelersek orada ne söylersiniz? Yani burada nasıl diyeyim, yurt dışında yani Avrupa'da çalışmak, Avrupa Amerika olarak baktığımızda bile aslında çok daha farklı şeyler konuşabiliriz. Yani Avrupa özellikle Avrupa Birliği ülkelerinde iş yasaları çok çok ciddi. Yani Polonya'da aslında Türkiye'de de iş kanunu bu arada çok kötü değil. Ama işte o noktada burada örneğin yani işverinin hata yapması daha doğrusu çalışana kötü bir şey yapma olası çok düşük. Çünkü yaptırımlar çok fazla. Türkiye'de de bu arada böyle kesinlikle ama bilmiyorum yani burada mesela çok daha güvende hissediyorsun o konuda. Yani mesela yasa gereğince işte şirket sana mesai yaptırmak istiyor, sen bunu reddedebiliyorsun. Ya yasa gereğince ya da işte 9 yaşından 8 yaşından küçük çocukların varsa otomatik olarak reddetme hakkın var mesai. Bana ne diyorsun benim işte çoluğum çocuğum var onlara bakacağım mesai yapmıyorum diyorsun yani. Ve sana şirket bu konuda hiçbir yaptırım yapamıyor, sağlayamıyor. İşte örneğin mesai yapman gerektiği tatile gidemiyorsun. Ve bu konuda da ne bileyim önceden işte biletlerini aldın, otelini ödedin vesaire vesaire. Şirket senin bütün masraflarını karşılıyor. Çünkü onun yüzünden gidemediğin için. Yani bu tür şeyleri ben Türkiye'de çok görmedim. Yani hatırlıyorum şirket isim vermeyeyim. Yani birkaç defa gece 2'de ofisten çıkıp ertesi sabah 8'de geri geldiğimi hatırlıyorum yani. Ve kimse de bana ertesi gün geldiğimde ya sen ne yaptın gidip gidip dinlensene falan dedikleri olmadı. Hatta o günde akşam 5'e kadar çalıştım yani 9 saat çalıştım orada. Tabii o zaman işte belki gençliğin heyecanıyla da tepki verme ihtimalim azdı. Ama burada böyle bir şey olması mümkün değil. Yani mesela eşkanlım burada diyor ki yani 2 çalışma günün arasında 12 saat olması lazım. Mesela akşam atıyorum 10'da bitirdin, mesai yaptın. Parasını alıyorsun bu arada. Ertesi gün sabah 10'dan önce işe başlayamazsın diyor adam sana. Yani 12 saat olmak zorunda yeteri kadar dinlenmen gerekir diyor yani. O yüzden bu konularda ben ciddi farklılıklar olduğunu düşünüyorum. Yani kültür biraz daha farklı. Tabii ki de Türkiye'de her firma böyle değil. Yani çalıştığım firmalar içerisinde çok rahat çalışma ortamı olan yerler de vardı. Ama mesela arkadaşlarımdan duyduğum kadarıyla da birazcık yani belki bu biraz nasıl diyeyim Amerika'daki sorunlarla da belki bilmiyorum benzer olabilir. Yani burada mesela şey de çok... Anlam açısından değerlendirirsek ne gibi fark var?
+
+[Speaker 2]:
+Yani mesela Türkiye'deki insanlar biraz böyle Türklerle çalışmak nasıl?
+
+[Speaker 1]:
+Yabancılarla çalışmak nasıl? Yani o açıdan çok büyük bir farklılık görmedim. Yani çok sevdiğim Türk iş arkadaşlarım da oldu.
+
+[Speaker 2]:
+Hala hatta görüştüklerim var yani.
+
+[Speaker 1]:
+Çok severek çalışıyordum onlarla. Çok şey öğrendim onlardan. Aynı şekilde burada da var. İşte mesela ekipte iki tane İtalyan var, bir İspanyol var, Azerbaycanlı var, Polonyalı var, Ukraynalı var. Yani bu çok farklı ülkelerden farklı kişilerle çalışma şansı elde edebiliyorsun. E tabii ki şu da var ne bileyim.
+
+[Speaker 2]:
+Yani her...
+
+[Speaker 1]:
+Yani sonuçta biraz bu insanda bitiyor aslında. Yani Türk'le ya da işte bir X ülkesinden bir kişiyle çalışmak arasında...
+
+[Speaker 2]:
+Çok böyle bir büyük fark görmüyorum yani.
+
+[Speaker 1]:
+Tabii ki de sadece belki iş sonrasındaki yaşamla ilgili belki bazı farklılıklar olabiliyor. İşte mesela buradaki insanlar daha çok işte gideyim ailemle vakit geçireyim ve daha çok önem veriyorlar. İşte ama Türkiye'de mesela ne bileyim dışarı çıkıp bir şeyler yapmak daha iyi olabiliyor. Ama tabii bu dediğim gibi kişiye göre değişir. Yani bazı kişilerden... Yani o yüzden ben açıkçası... Yani ne bileyim... Sonuçta dediğim gibi insan... İnsanda bitiyor her şey yani. Çok iyi bir insansan nereden oldun, nerede çalıştın çok önemi yok. Zaten bir iyi insansındır yani.
+
+[Speaker 2]:
+Evet evet kesinlikle.
+
+[Speaker 1]:
+Şimdi mesela şu ikinci seksyondan bahsedersek biraz. Kendinizi nasıl geliştiriyorsunuz? Güncel kalmak için ne yapıyorsunuz? Ya özellikle bir principal'a böyle bir soru geldiği zaman... Gerçekten bir de ben... Ya bu konuşmadan anladığım kadarıyla siz işi inanılmaz seven bir insansınız. Yani bu işi yaptığınız işi.
+
+[Speaker 2]:
+Yoksa bu kadar makale, bu kadar saat çalışma zaten nasıl olacak?
+
+[Speaker 1]:
+Öteki tür bir de bu doktor zamanlarında işte sabah gidiyorum Starbucks'a işte bütün gün okuyorum, çok az uyuyorum dediniz. Ya orada bende aslında böyle gerçekten ufuklar yaktı yani. Nasıl bu hale gelinlerin bir noktada şeyini benim için kafamda canlandırdı. Şu anki bulunduğunuz konumda nasıl kendinizi bulunduruyor? Yani şu anda açıkçası hani kendini güncel tutmak aslında biraz kolay hale de geldi. Yani geçmişe baktığımızda özellikle Medium'u takip ediyorum. Medium subscription'ım var, Medium iyiliğim var. Orada çok güzel blog postlar paylaşılıyor. Bütün güncel konularla ilgili. Onu takip ediyorum. İşte bazı takip ettiğim blog postlar var. İşte bunun haricinde arkayva sürekli bakıyorum.
+
+[Speaker 2]:
+Arkayv.org'a bakıp orada.
+
+[Speaker 1]:
+Çünkü özellikle bu Machine Learning alanında, Deep Learning alanında, CNA alanında artık makaleler yani bu Google'lar, Facebook'lar şunlar bunlar hepsi gidip orada açık bir şekilde. Kodu açık, her şey açık bir şekilde yani yayınlarını paylaşıyorlar. Orayı takip etmeye çalışıyorum. İşte neler çıkmış, neler yapılmış vesaire. O etki oluyor. Bunun haricinde bir de Deep Learning.ai'nin paylaştığı kısa kurslar var. Onlar bazen çok ilgi çekici oluyor. Özellikle yeni çıkan bir teknik üzerinde hemen işte Andrew Wenge'i gidip konunun uzmanını bulup işte bir şirketle hemen ücretsiz kısa bir kurs yapıyor. Onlar mesela çok ilgimi çekiyor. Direkt AdWalk'tu getiriyor yani.
+
+[Speaker 2]:
+Yani AdWalk'tu getiriyor.
+
+[Speaker 1]:
+Yan yana çıkıyorlar. Bir saatlik çok güzel. Notbook serisi. Çok keyifli oluyor onlar. Onları takip etmeye çalışıyorum. Onlar gerçekten böyle fundamental'lı veriyor yani.
+
+[Speaker 2]:
+Belki çok teorik anlamda vermesen ne olduğunu anlayabiliyorsun.
+
+[Speaker 1]:
+Ve ondan sonrasında da eğer mesela bu konuyu daha çok bu konu hakkında daha çok kendimi geliştirmem ya da daha doğrusu bu konu hakkında daha çok bilgi almam gerektiğini hissedersem de gidip onun işte archive üzerinde ya da işte herhangi bir yerdeki makalesini okumaya çalışıyorum. Hatta şu zamanlarda zaten sen de biliyorsundur artık bir makale yayınlandığı zaman bu makalenin bir gitap riposu da oluyor. Ve orada gidip işte bütün kodları işte neyin ne olduğunu falan da görebiliyorsun. Onları mesela takip etmeye çalışıyorum. Neler yapmışlar?
+
+[Speaker 2]:
+Bu yöntem neyi çözüyor?
+
+[Speaker 1]:
+Nasıl uygulanmış? Vesaire gibi.
+
+[Speaker 2]:
+İyi ki oluyor bu arada. Yani Türk makalelerinde bu pek olmuyor.
+
+[Speaker 1]:
+Şu an ben de tezim için sürekli makale bir şeyler arıyorum. Yani kodu var. İyi ki var diyorum.
+
+[Speaker 2]:
+Görüyorum neyi neden yaptıklarını.
+
+[Speaker 1]:
+Zaten yapmaya çalıştığım şeyin çok endüstriyel örneği de olmadığı için sadece böyle makale şeyleri var. Adamlar da yani işte oradaki researchtörler adamlar değil mi ben de cinsiyetçilik yapmıyorum. Oradaki kişiler iyi ki koyuyor yani. İyi ki koyuyor o kodları. Kesinlikle yani bu işi ileriye itiyor. Yani kesinlikle yani sen onu kullanarak işte onların yaptığı şeyi geliştirebiliyorsun vesaire vesaire. Yani gerçekten çok kıymetli. Evet.
+
+[Speaker 2]:
+Burada en çok kullandığınız sitelerden aslında bahsettiniz. Özellikle ben Medium tarafına biraz şaşırdım bu arada. Medium?
+
+[Speaker 1]:
+Yani Medium birazcık da basit kalıyor gibi böyle hissettiriyor. Tabii orada gerçekten güzel yayınlar çıkıyor. Ben sürekli okuyorum. Ama ne bileyim principal deyince bir de doktorası var. Şey var.
+
+[Speaker 2]:
+Daha böyle makaleler içinde kaybolması gerekiyor. Medium okuyamaz falan.
+
+[Speaker 1]:
+Öyle bir şey var. Oradan işte sektörde ne olduğunu anlıyor biliyorsun. Yani kim ne yapmış?
+
+[Speaker 2]:
+Neler oluyor falan.
+
+[Speaker 1]:
+Sonrasında zaten archive'a gidip archive.org'a gidip oradan makalesini buluyorsun. İşte kodlarını buluyorsun vesaire. O birazcık daha böyle hani güncel kalayım. Neler olmuş işte vesaire. İşte takip ettiğim birkaç kişi var.
+
+[Speaker 2]:
+O noktada.
+
+[Speaker 1]:
+İşte Twors Data Science'ın mesela şeyi var.
+
+[Speaker 2]:
+Blu var orada.
+
+[Speaker 1]:
+Orada da çok güzel böyle...
+
+[Speaker 2]:
+Nike'ın tek blu var mı ya?
+
+[Speaker 1]:
+Şeyde Medium'da.
+
+[Speaker 2]:
+Bildiğim kadarıyla yok.
+
+[Speaker 1]:
+Geçmişte kendi blu varmış.
+
+[Speaker 2]:
+Tek blu. Public.
+
+[Speaker 1]:
+Son onu kapatmışlar.
+
+[Speaker 2]:
+Ama şu anda benim bildiğim kadarıyla yok.
+
+[Speaker 1]:
+açık kaynağı kontribüsün.
+
+[Speaker 2]:
+Başlar mı?
+
+[Speaker 1]:
+Açık kaynağı kontribüsün var. Belki onu ekleyebilirim.
+
+[Speaker 2]:
+Repo'ya. Şu anda...
+
+[Speaker 1]:
+Evet. Sanıyorum buldum.
+
+[Speaker 2]:
+Evet. Çok enteresan şeyler var yani.
+
+[Speaker 1]:
+Hatta bir tanesini bizim ekipteki kişiler şey yaptı.
+
+[Speaker 2]:
+Açık kaynak haline getirdi.
+
+[Speaker 1]:
+Şu Repo'yu paylaşabilirim belki buradan. Bu public yani herhangi bir confidential bir şey yok. Açık kaynağa katkı. Official organizasyon şeyi varmış zaten Nike'ın. Swift tarafında Repo'lar var.
+
+[Speaker 2]:
+Java var. Bir tane Python var. Birlik Flow. Gerçi aşağı doğru gidiyor. Spark.
+
+[Speaker 1]:
+Acceptation.
+
+[Speaker 2]:
+Buraya bir bakarım mutlaka.
+
+[Speaker 1]:
+Tek blok açarsanız okumaya gelir.
+
+[Speaker 2]:
+Ben derçok tek blokları okuyorum ya. Oradan ekip teknolojiden kullanıyor.
+
+[Speaker 1]:
+Gerçek bir kezler nedir? Haberler ederim o konuda bir gelişim olursa.
+
+[Speaker 2]:
+Açık kaynağa yapılan katkılar deyince sizin YR tarafında bir yönetim kurulu üyeliğiniz, bir başkanlığınız, aynı zamanda ara eklediğiniz de
+
+[Speaker 1]:
+üç tane açık kaynağa paket var. Evet. Bunlar da az iş değil. Gerçekten büyük işler.
+
+[Speaker 2]:
+Yani özellikle bir üç tane paket yazmak falan. Bunların dokümentasyonu da var. İlla en nihayetinde.
+
+[Speaker 1]:
+Bunlar gerçekten ağzım sanmayacak büyük işler.
+
+[Speaker 2]:
+Neden YR? Neden R? Neden R?
+
+[Speaker 1]:
+Yani evet o tarafta R paketi yazmak,
+
+[Speaker 2]:
+özellikle hani
+
+[Speaker 1]:
+işte şimdi geçenlerde bahsetmiştim,
+
+[Speaker 2]:
+bu yakınlarda yayınladığımız kitapta kullandığımız,
+
+[Speaker 1]:
+daha doğrusu bir var olan bir paketi geliştirip, işte kitapta önerdiğimiz yöntemleri ekledik ona. İşte o paketin,
+
+[Speaker 2]:
+daha doğrusu yeni bir paket olmayacak da, var olan bir pakete contribution gibi olacak.
+
+[Speaker 1]:
+işte birkaç öyle fikir de var. Yani bunlar aslında keyifli şeyler. Yani insanı farklı düşünmesine sağlayan,
+
+[Speaker 2]:
+işte oturup ne bileyim
+
+[Speaker 1]:
+Instagram'a bakacağına, oturup işte bir kod yazıp
+
+[Speaker 2]:
+bunu community ile paylaşmak
+
+[Speaker 1]:
+çok keyifli. hatta bu yazdığımız sıra da geçenlerde bahsetmiştim,
+
+[Speaker 2]:
+bu
+
+[Speaker 1]:
+Comp Index R paketi ile ilgili. Çok ciddi bir ilgi aldı.
+
+[Speaker 2]:
+Tabii ki de yani
+
+[Speaker 1]:
+işte Tidy R, şunu, bunun yanında hiçbir şey yani kesinlikle de kendi çapımızda yaptığımız bir şey. Burada işte kompozit indeksleri otomatik bir şekilde bu kitap bu arada
+
+[Speaker 2]:
+yakın zamanlarda evet
+
+[Speaker 1]:
+Semra Hoca ile yayınladığımız doktora danışmanım Mimarsinan'dan. Bu Comp Index paketi de işte
+
+[Speaker 2]:
+kompozit indikatörlerin
+
+[Speaker 1]:
+hızlı bir şekilde
+
+[Speaker 2]:
+yaratılmasıyla alakalı. Yani
+
+[Speaker 1]:
+aslında baktığımda
+
+[Speaker 2]:
+birkaç böyle ufak bir katkı da yapıyoruz
+
+[Speaker 1]:
+literatüre. Ama
+
+[Speaker 2]:
+genel amaç orada işte var olan teknikleri
+
+[Speaker 1]:
+hızlı bir şekilde yapıp
+
+[Speaker 2]:
+sunmak. Hatta bir MATLAB paketi var
+
+[Speaker 1]:
+bu
+
+[Speaker 2]:
+bu konu üzerinde.
+
+[Speaker 1]:
+Biz onu işte onu biraz geliştirdik. Ara çektik.
+
+[Speaker 2]:
+Daha böyle
+
+[Speaker 1]:
+optimize hale
+
+[Speaker 2]:
+getirdik. Hatta beraber paketi yazdığımız
+
+[Speaker 1]:
+yazarlardan bir tanesi
+
+[Speaker 2]:
+onu
+
+[Speaker 1]:
+günlük yaşantısında
+
+[Speaker 2]:
+kullanıyor.
+
+[Speaker 1]:
+Sürekli işte hesapta vesaire.
+
+[Speaker 2]:
+Hatta çok enteresan bir
+
+[Speaker 1]:
+e-mail
+
+[Speaker 2]:
+aldık.
+
+[Speaker 1]:
+Brezilya İstatistik Enstitüsü'nden
+
+[Speaker 2]:
+bir
+
+[Speaker 1]:
+uzman istatistikçi bize yazdı. Ya işte
+
+[Speaker 2]:
+dedi
+
+[Speaker 1]:
+paketinizi içeride
+
+[Speaker 2]:
+kullanıyoruz.
+
+[Speaker 1]:
+İşte bizim indekslerimizi hesaplamak için
+
+[Speaker 2]:
+hayatımızı gerçekten
+
+[Speaker 1]:
+çok kolaylaştırdı. İşte paketi geliştirmeyi düşünüyor musunuz? İşte neler yapmayı düşünüyorsunuz?
+
+[Speaker 2]:
+Baya böyle çok güzel uzun bir
+
+[Speaker 1]:
+liste gönderdi bize. İşte bakın şunu şunu eklerseniz çok
+
+[Speaker 2]:
+daha güzel olur.
+
+[Speaker 1]:
+Şunu şöyle yaparsanız çok
+
+[Speaker 2]:
+daha iyi olur falan diye.
+
+[Speaker 1]:
+Bu mesaj bizi çok mutlu etti.
+
+[Speaker 2]:
+Yani bu
+
+[Speaker 1]:
+bunu parayla satın alamazsın.
+
+[Speaker 2]:
+Yani bir bakıyorsun
+
+[Speaker 1]:
+bir şey yayınlıyorsun. Brezilya'dan Brezilya'daki
+
+[Speaker 2]:
+yayınlanan bir
+
+[Speaker 1]:
+istatistiğin
+
+[Speaker 2]:
+altında
+
+[Speaker 1]:
+senin paketini çalışıyor.
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+belki orada sadece bir kişi
+
+[Speaker 2]:
+kullanıyor. Belki bir tane
+
+[Speaker 1]:
+bir şey
+
+[Speaker 2]:
+hesapladı ama bu bile
+
+[Speaker 1]:
+aslında insana ciddi bir şey
+
+[Speaker 2]:
+veriyor.
+
+[Speaker 1]:
+Yani motivasyon
+
+[Speaker 2]:
+veriyor.
+
+[Speaker 1]:
+Yani kullanıldığını
+
+[Speaker 2]:
+bilmek özellikle de
+
+[Speaker 1]:
+bu kadar uğraşılmış teknik işlemi
+
+[Speaker 2]:
+kullanıldığını bilmek
+
+[Speaker 1]:
+çok güzel hissi.
+
+[Speaker 2]:
+Bir de o tarafta
+
+[Speaker 1]:
+sadece kullanmamış birçok da
+
+[Speaker 2]:
+böyle maddeler halinde özellikler talep etmiş.
+
+[Speaker 1]:
+yapacak mısınız falan? Kesinlikle.
+
+[Speaker 2]:
+Aynen aynen.
+
+[Speaker 1]:
+İşte o noktada şey birazcık nasıl diyeyim
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+biraz zor paketi yapıyorsun. Evet süper bir
+
+[Speaker 2]:
+heyecanla yayınlıyorsun.
+
+[Speaker 1]:
+Sonrasının makalesini
+
+[Speaker 2]:
+yayınlıyorsun.
+
+[Speaker 1]:
+Şimdi işte ilk yazdığım paketin makalesi
+
+[Speaker 2]:
+yayınlandı. Bu da
+
+[Speaker 1]:
+The Stats'ın. Bu Comp Index'le Rich Rack Extra'nın
+
+[Speaker 2]:
+makalleri şu anda
+
+[Speaker 1]:
+review aşamasında. işte onu yapıyorsun süper heyecanla vesaire. Aslında sonrasında
+
+[Speaker 2]:
+onu maintain etmen lazım. İşte yeni özellikler eklemen lazım
+
+[Speaker 1]:
+vesaire. İşte o tarafını
+
+[Speaker 2]:
+yönetmek
+
+[Speaker 1]:
+gerçekten çok zor. Yani ciddi emek gerektiriyor.
+
+[Speaker 2]:
+O noktada hatta şey bile diyebiliyorsun
+
+[Speaker 1]:
+ya bunu ekleyeceğimi
+
+[Speaker 2]:
+ben yeni bir
+
+[Speaker 1]:
+paket mi yazsam? Bu benim
+
+[Speaker 2]:
+projelere başlama şey.
+
+[Speaker 1]:
+Gelen işçileri
+
+[Speaker 2]:
+ya ben
+
+[Speaker 1]:
+burayla şimdi iki saat uğraşacağım
+
+[Speaker 2]:
+yeni bir şeye geçsem daha iyi.
+
+[Speaker 1]:
+çok büyük paket
+
+[Speaker 2]:
+yani çok büyük paket dediğimde çok kullanılan
+
+[Speaker 1]:
+paketlere
+
+[Speaker 2]:
+baktığınızda
+
+[Speaker 1]:
+işte ne bileyim Python'dan örnek vereceksek scikit-learn işte
+
+[Speaker 2]:
+R'dan örnek
+
+[Speaker 1]:
+vereceksek
+
+[Speaker 2]:
+tidy R
+
+[Speaker 1]:
+vesaire
+
+[Speaker 2]:
+bu
+
+[Speaker 1]:
+burada işte çok fazla
+
+[Speaker 2]:
+contributorlar var yani.
+
+[Speaker 1]:
+Dünyanın her yerinden
+
+[Speaker 2]:
+contributorlar var işte onlar
+
+[Speaker 1]:
+girip geliştiriyorlar vesaire. İşte o seviyeye
+
+[Speaker 2]:
+gelmek çok zor.
+
+[Speaker 1]:
+ya işte bir research grup oluşturup
+
+[Speaker 2]:
+bu research grubun
+
+[Speaker 1]:
+hedeflerinden bir tanesini
+
+[Speaker 2]:
+bu olarak
+
+[Speaker 1]:
+alıp belki o sayede bir şeyler
+
+[Speaker 2]:
+yapılabilir ama
+
+[Speaker 1]:
+tek başına biraz zor oluyor yani açıkçası.
+
+[Speaker 2]:
+Bunu mesela Python tarafında yapsaydınız
+
+[Speaker 1]:
+komünite desteği
+
+[Speaker 2]:
+olarak buradaki contributorlar olarak bir fark olur muydu?
+
+[Speaker 1]:
+Yani güzel soru aslında. Açıkçası o noktada
+
+[Speaker 2]:
+aklıma gelen şu oldu
+
+[Speaker 1]:
+belki istatistik en üstünde
+
+[Speaker 2]:
+kullanmayabilirlerdi. Yani Python daha çok böyle R kullanabileceklerini düşündüğüm için belki de yanlış
+
+[Speaker 1]:
+bir
+
+[Speaker 2]:
+yorum ama belki o noktada
+
+[Speaker 1]:
+ya işte böyle bir paket
+
+[Speaker 2]:
+var ama
+
+[Speaker 1]:
+Python için yazılmış bunu kullanmayalım diyebilirlerdi. Onun dışında
+
+[Speaker 2]:
+ama yani bir de yazdığımız paketler biraz daha böyle
+
+[Speaker 1]:
+şey olduğu için niş olduğu için daha çok işte istatistiksel aslında hedef kitle biraz daha researcherlar
+
+[Speaker 2]:
+yani hani
+
+[Speaker 1]:
+commercial tarafta
+
+[Speaker 2]:
+tabii ki de
+
+[Speaker 1]:
+bir kişi
+
+[Speaker 2]:
+alıp kullanabilir ama
+
+[Speaker 1]:
+mesela bir scikit-le
+
+[Speaker 2]:
+ya da diğer
+
+[Speaker 1]:
+bahsettiğimiz
+
+[Speaker 2]:
+o büyük
+
+[Speaker 1]:
+çözümler için açısından çok daha
+
+[Speaker 2]:
+farklı. Bunlar hani daha ufak bir paket
+
+[Speaker 1]:
+aslında hani her biri bir istatistik
+
+[Speaker 2]:
+konusunun
+
+[Speaker 1]:
+testini yapıyor
+
+[Speaker 2]:
+gibi anladım ben doğru anlayıysam. Evet doğru.
+
+[Speaker 1]:
+Doğru.
+
+[Speaker 2]:
+Yani böyle
+
+[Speaker 1]:
+scikit-learn gibi içerisinde birçok entegrasyon ve işte
+
+[Speaker 2]:
+model bulunduran uçtan uca bir süreci yönettiğimiz
+
+[Speaker 1]:
+işler değil de böyle olunca
+
+[Speaker 2]:
+belki hani
+
+[Speaker 1]:
+şu anda aklıma şeyi getirdi
+
+[Speaker 2]:
+bunu daha
+
+[Speaker 1]:
+eforuslu halletmek için şimdi
+
+[Speaker 2]:
+LLM tarafı kod yazdırma
+
+[Speaker 1]:
+işinde gittikçe gelişiyor ya aslında
+
+[Speaker 2]:
+sıfırdan bir şeyler
+
+[Speaker 1]:
+yazmak için
+
+[Speaker 2]:
+berbatlar
+
+[Speaker 1]:
+veya çok hatalı
+
+[Speaker 2]:
+işler yapıyorlar.
+
+[Speaker 1]:
+O en başta da
+
+[Speaker 2]:
+bahsettiğimiz aslında yanlılık
+
+[Speaker 1]:
+meselesinden dolayı. Bu tarz uyarlatma işlerini işte
+
+[Speaker 2]:
+arı al
+
+[Speaker 1]:
+Python'a çevir ama yapıyı bozma sadece çevirme işlemini gerçekleştir.
+
+[Speaker 2]:
+Bu tarz case'lerle kontrol edeydi aslında bu paketler Python'a da çevrilebilir mi diye
+
+[Speaker 1]:
+anlık olarak düşündüm ve konuyu
+
+[Speaker 2]:
+buradan LLM kodu yazdırmaya bağlayacağım.
+
+[Speaker 1]:
+Yani tabii denemek lazım
+
+[Speaker 2]:
+ama ne kadar
+
+[Speaker 1]:
+sağlıklı olacağı tartışılır yani.
+
+[Speaker 2]:
+Denemek
+
+[Speaker 1]:
+test etmek lazım.
+
+[Speaker 2]:
+Ama tabii olursa
+
+[Speaker 1]:
+hatta
+
+[Speaker 2]:
+ne bileyim
+
+[Speaker 1]:
+bu başarılı olursa aslında
+
+[Speaker 2]:
+bununla ilgili
+
+[Speaker 1]:
+tamamen bir framework da
+
+[Speaker 2]:
+yaratılabilir. Ne bileyim
+
+[Speaker 1]:
+işte Aynen öyle
+
+[Speaker 2]:
+from R to
+
+[Speaker 1]:
+Python gibi bir şey. İşte bir
+
+[Speaker 2]:
+R paketini
+
+[Speaker 1]:
+gösteriyorsun source kodunu ondan sonra
+
+[Speaker 2]:
+import dediğin
+
+[Speaker 1]:
+zaman otomatik
+
+[Speaker 2]:
+olarak sana
+
+[Speaker 1]:
+Python şey
+
+[Speaker 2]:
+olarak döndürüyor. Yani Python groper olarak döndürüyor.
+
+[Speaker 1]:
+Yani eğer bu gerçekten çalışıyorsa konu bu noktaya
+
+[Speaker 2]:
+kadar gidebilir yani. Çok da güzel olur
+
+[Speaker 1]:
+aslında. Hiç uğraşmazsın. Ya da işte
+
+[Speaker 2]:
+bazı noktalarda ya tabii ki
+
+[Speaker 1]:
+aslında şu da var. Yani
+
+[Speaker 2]:
+Python ortamından
+
+[Speaker 1]:
+R kodu da çalıştırabiliyorsun
+
+[Speaker 2]:
+ya da diğer türlü de R ortamından Python'ı da
+
+[Speaker 1]:
+çalıştırabiliyorsun. yani bunu ne bileyim
+
+[Speaker 2]:
+bunu da yapabilirsin ama o noktada
+
+[Speaker 1]:
+işte sintakta
+
+[Speaker 2]:
+falan aşina
+
+[Speaker 1]:
+değilsen işte belki o noktada
+
+[Speaker 2]:
+biraz zaman kaybettiriyor olabilir.
+
+[Speaker 1]:
+Yani. Ya bir
+
+[Speaker 2]:
+ya bilmiyorum bir de Python implementasyonu
+
+[Speaker 1]:
+olsa oradaki
+
+[Speaker 2]:
+community'nin davranışını da anlık olarak merak ettim
+
+[Speaker 1]:
+açıkçası.
+
+[Speaker 2]:
+O zaman ne olurdu diye. Evet. Ve buradan şeye bağlayayım olayı LLM'e kod yazdırmak.
+
+[Speaker 1]:
+Yani bir principle
+
+[Speaker 2]:
+LLM'e kod yazdırıyor mu gerçekten. LLM'e kod yazdırmak hakkında ne düşünüyor bir de onu merak ediyorum.
+
+[Speaker 1]:
+Yok yok öyle bir şey yok. Ya LLM'e kod
+
+[Speaker 2]:
+yazdırmak
+
+[Speaker 1]:
+ne bileyim
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+açıkçası çok şey
+
+[Speaker 2]:
+gelmiyor bana. Yani çok
+
+[Speaker 1]:
+sağlıklı
+
+[Speaker 2]:
+gelmiyor. E tabii ki denedim denemedim değil. Yani çok
+
+[Speaker 1]:
+basit şeyleri
+
+[Speaker 2]:
+yapabiliyorsun.
+
+[Speaker 1]:
+İşte mesela
+
+[Speaker 2]:
+atıyorum
+
+[Speaker 1]:
+Stack Overflow'a
+
+[Speaker 2]:
+gidip
+
+[Speaker 1]:
+yeni bir şey öğreniyorsan
+
+[Speaker 2]:
+yeni bir framework
+
+[Speaker 1]:
+öğreniyorsan vesaire işte bana şu
+
+[Speaker 2]:
+kod örneklerini
+
+[Speaker 1]:
+göster. İşte şu
+
+[Speaker 2]:
+framework'la alakalı
+
+[Speaker 1]:
+vesaire
+
+[Speaker 2]:
+dediğinde evet
+
+[Speaker 1]:
+gidiyor gösteriyor.
+
+[Speaker 2]:
+Tamam
+
+[Speaker 1]:
+kullanışlı. Ama oturup
+
+[Speaker 2]:
+oradan da
+
+[Speaker 1]:
+full scale bir kod yazmasını bekleyemezsin. Çünkü çok farklı bir şey. Senin use case'ini anlaması
+
+[Speaker 2]:
+lazım.
+
+[Speaker 1]:
+Yani mümkün
+
+[Speaker 2]:
+değil yani. Enterprise
+
+[Speaker 1]:
+seviyesinde scale edilebilecek komplike bir şeyin
+
+[Speaker 2]:
+LLM'ini
+
+[Speaker 1]:
+yazması
+
+[Speaker 2]:
+mümkün değil yani.
+
+[Speaker 1]:
+Kesinlikle. Uçtan uca
+
+[Speaker 2]:
+değil de
+
+[Speaker 1]:
+mesela işte
+
+[Speaker 2]:
+GitHub Copilot
+
+[Speaker 1]:
+tabii o kesinlikle. Yani o mesela
+
+[Speaker 2]:
+çok büyük
+
+[Speaker 1]:
+kesinlikle çok büyük
+
+[Speaker 2]:
+bir yardım. Yani
+
+[Speaker 1]:
+GitHub
+
+[Speaker 2]:
+Copilot'ına
+
+[Speaker 1]:
+işte
+
+[Speaker 2]:
+editörüne
+
+[Speaker 1]:
+entegre ediyorsun.
+
+[Speaker 2]:
+Oradan
+
+[Speaker 1]:
+işte debug etme
+
+[Speaker 2]:
+konusunda bile
+
+[Speaker 1]:
+Direct Stack Overflow'a gidip saatlerce entityleri okumak yerine o sana zaman kazandırıyor. İşte ya da
+
+[Speaker 2]:
+kodumu dokümente et
+
+[Speaker 1]:
+diyorsun. Dokümente edebiliyor. İşte reformat et diyor.
+
+[Speaker 2]:
+Reformat
+
+[Speaker 1]:
+edebiliyorsun
+
+[Speaker 2]:
+falan.
+
+[Speaker 1]:
+Bu açılardan gerçekten
+
+[Speaker 2]:
+faydalı yani.
+
+[Speaker 1]:
+Gerçekten
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+can sıkıcı şeyleri onun üstüne
+
+[Speaker 2]:
+atabiliyorsun. Yani ama
+
+[Speaker 1]:
+ondan fazlasını beklememek lazım. Kesinlikle. Ya sıfırdan işte bir
+
+[Speaker 2]:
+yapı kur.
+
+[Speaker 1]:
+Şunu yaz
+
+[Speaker 2]:
+diye böyle bir ne kadar
+
+[Speaker 1]:
+özelleştirsen de
+
+[Speaker 2]:
+promptu
+
+[Speaker 1]:
+orada çıkacak
+
+[Speaker 2]:
+pipeline
+
+[Speaker 1]:
+baştan aşağı
+
+[Speaker 2]:
+linkli
+
+[Speaker 1]:
+abuk sabuk bir şey
+
+[Speaker 2]:
+oluyor. Her zaman
+
+[Speaker 1]:
+yani. Kesinlikle.
+
+[Speaker 2]:
+Yani diyorlar ki
+
+[Speaker 1]:
+işte halelen web sitesi yazdı.
+
+[Speaker 2]:
+Tamam ne olacak
+
+[Speaker 1]:
+index.html yazabilirsin. Çok basit bir şekilde
+
+[Speaker 2]:
+yani bunu
+
+[Speaker 1]:
+git işte çok meşhur bir site var. Web School mu? Ne öyle bir şey.
+
+[Speaker 2]:
+Oraya gittiğinde
+
+[Speaker 1]:
+bir sürü örnek var.
+
+[Speaker 2]:
+Yani oradan
+
+[Speaker 1]:
+copy paste yap.
+
+[Speaker 2]:
+Notepad'de
+
+[Speaker 1]:
+index.html
+
+[Speaker 2]:
+arasında
+
+[Speaker 1]:
+web sitesi yaptım. Örneğin yani. O noktada
+
+[Speaker 2]:
+Frontend'e iyi yapıyor bence bu arada. Yani özellikle
+
+[Speaker 1]:
+benim istediğim
+
+[Speaker 2]:
+frontend'ten bahsediğim. Yani ben hani
+
+[Speaker 1]:
+bir data science olarak düşünürsek yani basit bir
+
+[Speaker 2]:
+model yaptım.
+
+[Speaker 1]:
+Bunu işte
+
+[Speaker 2]:
+API'ye
+
+[Speaker 1]:
+çevirdim. hızlıca bir arayüz çıkartacağım ki
+
+[Speaker 2]:
+yani son kullanıcı da orada birkaç tıklamayla orada inference'ını
+
+[Speaker 1]:
+alabilsin. Basit bir şey istiyorum.
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Buradaki basit arayüzü
+
+[Speaker 2]:
+hızlıca yaptırabiliyorum.
+
+[Speaker 1]:
+Oradaki işi görüyor gerçekten.
+
+[Speaker 2]:
+Aynen.
+
+[Speaker 1]:
+Bu mesela
+
+[Speaker 2]:
+gayet güzel yani.
+
+[Speaker 1]:
+Hani özellikle şey de iyi örneğin işte TextoSQL fonksiyonu
+
+[Speaker 2]:
+çok iyi. Yani arka tarafta
+
+[Speaker 1]:
+işte o SQL query'yi nasıl
+
+[Speaker 2]:
+yaratayım?
+
+[Speaker 1]:
+İşte nasıl
+
+[Speaker 2]:
+kullanıcının
+
+[Speaker 1]:
+işte sorduğu şeyi filtreleri vesaire
+
+[Speaker 2]:
+yapayım yerine
+
+[Speaker 1]:
+o noktada TextoSQL'e
+
+[Speaker 2]:
+verdiğinde kullanıcıya çok daha farklı bir bir
+
+[Speaker 1]:
+tecrübe sunuyorsun.
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+experience sunuyorsun.
+
+[Speaker 2]:
+O noktada
+
+[Speaker 1]:
+kullanıcı sana işte şunu şunu görmek istiyorum
+
+[Speaker 2]:
+diyor. Arka tarafta
+
+[Speaker 1]:
+SQL queriesine dönüyor. SQL queriesinden veri çıkıyor.
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+bu noktalarda gerçekten kolaylık sağlıyor.
+
+[Speaker 2]:
+Ama hani
+
+[Speaker 1]:
+bunun üzerindeki beklentiler bana çok gerçekçi
+
+[Speaker 2]:
+gelmiyor. Ve tehlikeli de geliyor yani bu noktada bu açıdan kullanmak. Yani
+
+[Speaker 1]:
+düşünsene
+
+[Speaker 2]:
+LLM'de yaratılan bir bir kod
+
+[Speaker 1]:
+gidiyor işte kullanıcı
+
+[Speaker 2]:
+ile temas eden bir ortamda
+
+[Speaker 1]:
+işte çalışıyor örneğin
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+makine öğrenmesi
+
+[Speaker 2]:
+ne olduğunu bilmiyorsun
+
+[Speaker 1]:
+arka tarafta vesaire vesaire yani çok çok mantıklı
+
+[Speaker 2]:
+gelmiyor yani ona. Evet
+
+[Speaker 1]:
+model yapmak için
+
+[Speaker 2]:
+kod yazdırmak
+
+[Speaker 1]:
+hala
+
+[Speaker 2]:
+çok kötü bence. orada
+
+[Speaker 1]:
+gerçekten şey ama şey
+
+[Speaker 2]:
+ya böyle basit app
+
+[Speaker 1]:
+yapmak için
+
+[Speaker 2]:
+falan
+
+[Speaker 1]:
+gerçekten
+
+[Speaker 2]:
+yazıyor o taraflarda
+
+[Speaker 1]:
+bir şeyler. Bir streamlit hızlı bir şekilde yazabilir sana. Yani sonuçta tutorial'a gidip
+
+[Speaker 2]:
+oradan tutorial'a bakıp
+
+[Speaker 1]:
+işte oradan şunu şunu değiştireceğim yerine tutorial iyi çalışıyor
+
+[Speaker 2]:
+bu arada. Hani örnek bir repo bulup
+
+[Speaker 1]:
+hani sen
+
+[Speaker 2]:
+mesela kodu yazdın evet model hazır
+
+[Speaker 1]:
+onu uğraştın leakin yok sağa sola atlamıyor
+
+[Speaker 2]:
+modelin
+
+[Speaker 1]:
+düzgün çalışıyor
+
+[Speaker 2]:
+varsayımlar falan filan
+
+[Speaker 1]:
+hani bunu
+
+[Speaker 2]:
+arayüze koyacağım örnek
+
+[Speaker 1]:
+arayüzü de buldum
+
+[Speaker 2]:
+kitaptan
+
+[Speaker 1]:
+şimdi 2 saat
+
+[Speaker 2]:
+uyarlamaya çalışacağına
+
+[Speaker 1]:
+al şu 2 kodu da şunları bir uyarla
+
+[Speaker 2]:
+bir crosshead
+
+[Speaker 1]:
+dediğinde
+
+[Speaker 2]:
+hani modeli bozmadan ön yüz koy dediğinde de koyabiliyor.
+
+[Speaker 1]:
+O açıdan da
+
+[Speaker 2]:
+ben baya faydalı buluyorum yani.
+
+[Speaker 1]:
+Gayet güzel. prosed ettiriyorum. Ya şimdi
+
+[Speaker 2]:
+LLM tarafı evet hype
+
+[Speaker 1]:
+yüksek inanılmaz bir hype
+
+[Speaker 2]:
+var.
+
+[Speaker 1]:
+Oradaki aslında LLM'ler
+
+[Speaker 2]:
+daha önceden de vardı.
+
+[Speaker 1]:
+GPT ile birlikte
+
+[Speaker 2]:
+LLM hayatımıza girmedi
+
+[Speaker 1]:
+konusunu da
+
+[Speaker 2]:
+konuştuk.
+
+[Speaker 1]:
+Şimdi bu
+
+[Speaker 2]:
+CNA'yı deyince aslında bir de
+
+[Speaker 1]:
+Stable Diffusion
+
+[Speaker 2]:
+tarafı var.
+
+[Speaker 1]:
+Hatta sizin
+
+[Speaker 2]:
+Nike'da yaptığınızda bir ürün vardı.
+
+[Speaker 1]:
+Bu içeride
+
+[Speaker 2]:
+kullandığınız
+
+[Speaker 1]:
+CNA case'lerinden
+
+[Speaker 2]:
+böyle tabii
+
+[Speaker 1]:
+oradaki şeylere dikkat ederek
+
+[Speaker 2]:
+artık yani ne kadar girebiliyorsunuz bilmiyorum. Birkaç böyle
+
+[Speaker 1]:
+bize bir
+
+[Speaker 2]:
+üründen
+
+[Speaker 1]:
+bahsedebilir misiniz?
+
+[Speaker 2]:
+Tabii tabii.
+
+[Speaker 1]:
+Aslında bu noktada linklere
+
+[Speaker 2]:
+bakıyordum da
+
+[Speaker 1]:
+şu var ama
+
+[Speaker 2]:
+burada da
+
+[Speaker 1]:
+no thanks ok. Şuraya baktığımızda aslında
+
+[Speaker 2]:
+bunu
+
+[Speaker 1]:
+public bir şekilde
+
+[Speaker 2]:
+yayınlandığını görebiliyoruz. Burada
+
+[Speaker 1]:
+bu Stable Diffusion'ın fine tune edilmiş versiyonu aslında.
+
+[Speaker 2]:
+Bu noktada
+
+[Speaker 1]:
+olimpiyatlarda
+
+[Speaker 2]:
+bunu atletlere sundu Nike. Bir
+
+[Speaker 1]:
+standta bir stand yaptı atletler için kendi sponsor
+
+[Speaker 2]:
+oldukları
+
+[Speaker 1]:
+atletler için ve atletler
+
+[Speaker 2]:
+buradaki
+
+[Speaker 1]:
+işte makineye gidip yani bilgisayar daha doğrusu
+
+[Speaker 2]:
+tablet var
+
+[Speaker 1]:
+tablete işte prompt yazıp bu promptun sayesinde işte bazı
+
+[Speaker 2]:
+desenler imajlar tasarımlar
+
+[Speaker 1]:
+yarattı. Sonrasında da çok enteresan
+
+[Speaker 2]:
+bir makine vardı. Makinede
+
+[Speaker 1]:
+tişörte baskı
+
+[Speaker 2]:
+yapıyor anında.
+
+[Speaker 1]:
+Yani tişört
+
+[Speaker 2]:
+printer
+
+[Speaker 1]:
+diyebiliriz. Ve anında işte prompt yazıyorsun dizayn çıkıyor işte
+
+[Speaker 2]:
+bazı
+
+[Speaker 1]:
+alternatifler onları seçiyor
+
+[Speaker 2]:
+atlet tabletten
+
+[Speaker 1]:
+ve sonrasında tişörtü hemen basılıyor işte belli bir süre içerisinde tişört hazır işte
+
+[Speaker 2]:
+AI Generated
+
+[Speaker 1]:
+Design tişörtünün aslında bunu Nike
+
+[Speaker 2]:
+olimpiyatlarda gün yüzüne
+
+[Speaker 1]:
+çıkarttı
+
+[Speaker 2]:
+yani.
+
+[Speaker 1]:
+buna yakın ofisyal bir
+
+[Speaker 2]:
+ürünü. İçeride de hatta designerlara destek amaçlı kullanılıyor gibi
+
+[Speaker 1]:
+bir şey
+
+[Speaker 2]:
+dediğinizi hatırlıyorum. Evet. Hatta burada
+
+[Speaker 1]:
+şuradaki
+
+[Speaker 2]:
+blog postu da
+
+[Speaker 1]:
+bundan bahsediliyor. çok daha fazla
+
+[Speaker 2]:
+detaya girmeyeyim. Public olarak zaten
+
+[Speaker 1]:
+yeterince
+
+[Speaker 2]:
+bilgi paylaşılıyor.
+
+[Speaker 1]:
+Bu sitenin
+
+[Speaker 2]:
+teması da aynı böyle AWS Partirag'a benziyor.
+
+[Speaker 1]:
+Ha
+
+[Speaker 2]:
+olabilir
+
+[Speaker 1]:
+belki. Responsible AI kısmı da
+
+[Speaker 2]:
+varmış.
+
+[Speaker 1]:
+O zaman şöyle bir seksiyon bahsedilebiliriz.
+
+[Speaker 2]:
+Yeni başlayanlara neler
+
+[Speaker 1]:
+önerirsiniz? Yeni başlayan
+
+[Speaker 2]:
+ne? Data
+
+[Speaker 1]:
+science'e
+
+[Speaker 2]:
+yeni başlayanlar mı?
+
+[Speaker 1]:
+Yoksa
+
+[Speaker 2]:
+data alanına aslında yeni başlayanlar
+
+[Speaker 1]:
+yani
+
+[Speaker 2]:
+benim genel olarak gördüğüm hani buradaki
+
+[Speaker 1]:
+ilk hani
+
+[Speaker 2]:
+böyle merak ettiğim
+
+[Speaker 1]:
+kısmı şunu sorayım. Sizce yeni
+
+[Speaker 2]:
+başlayanların genel olarak bu alandaki yaptıkları en büyük hatalar bunlar böyle
+
+[Speaker 1]:
+doğru bilinen
+
+[Speaker 2]:
+ama yanlış
+
+[Speaker 1]:
+şeyler. Ben de
+
+[Speaker 2]:
+gönüllü birkaç yerde
+
+[Speaker 1]:
+işte
+
+[Speaker 2]:
+mentorluk falan yapıyorum. notebook
+
+[Speaker 1]:
+incelediğim oluyor. İşte mesela ne bileyim sekans verisini
+
+[Speaker 2]:
+random
+
+[Speaker 1]:
+split etme olayı
+
+[Speaker 2]:
+çok oluyor.
+
+[Speaker 1]:
+Veya işte
+
+[Speaker 2]:
+bütün her şeyi label encoderla encodlama bu tarz böyle
+
+[Speaker 1]:
+sürekli aynı şeyler
+
+[Speaker 2]:
+geliyor zaten. Ve hani herhalde bunlar doğru zannediliyor.
+
+[Speaker 1]:
+demek ki
+
+[Speaker 2]:
+bunu nasıl bunu nasıl önüne geçeceğiz veya işte bunları
+
+[Speaker 1]:
+bu kişiler nasıl
+
+[Speaker 2]:
+fark edecek bu taraftaki önerileriniz ne olur
+
+[Speaker 1]:
+veya sizin gördüğünüz kezler neler?
+
+[Speaker 2]:
+Ya evet bu
+
+[Speaker 1]:
+kesinlikle oluyor. Çok daha
+
+[Speaker 2]:
+enteresan şeyler de olabiliyor. İşte örneğin
+
+[Speaker 1]:
+her şeyi işte yeni bir
+
+[Speaker 2]:
+yöntem öğreniyor.
+
+[Speaker 1]:
+İşte kişiler örneğin spark
+
+[Speaker 2]:
+öğrendi.
+
+[Speaker 1]:
+Her şeyi sparkla çözmeye çalışıyor. belki de spark'a
+
+[Speaker 2]:
+ihtiyacı yok. Yani
+
+[Speaker 1]:
+belki de veriyi
+
+[Speaker 2]:
+memori de
+
+[Speaker 1]:
+çalıştırabileceğin şekli.
+
+[Speaker 2]:
+Yani atıyorum 10 megabaytlık
+
+[Speaker 1]:
+bir csv sparkla proses etmene
+
+[Speaker 2]:
+gerek yok.
+
+[Speaker 1]:
+Ama işte
+
+[Speaker 2]:
+bu tip hatalara düşebiliyor
+
+[Speaker 1]:
+insanlar. Onun dışında böyle fanatik olanlar oluyor.
+
+[Speaker 2]:
+İşte ne bileyim atıyorum
+
+[Speaker 1]:
+işte ben
+
+[Speaker 2]:
+jangocuyum. Ya jango
+
+[Speaker 1]:
+aman işte gerisi fast api
+
+[Speaker 2]:
+o da neymiş
+
+[Speaker 1]:
+falan. Yani bunlar
+
+[Speaker 2]:
+bunlar bence yanlış.
+
+[Speaker 1]:
+Fanatikleşmek
+
+[Speaker 2]:
+yanlış.
+
+[Speaker 1]:
+Ya da işte
+
+[Speaker 2]:
+bazı arkadaşlar
+
+[Speaker 1]:
+vardı çalıştığım şirketlerde. Node.js
+
+[Speaker 2]:
+hayranıydılar. Ya aman
+
+[Speaker 1]:
+Node.js işte en iyi
+
+[Speaker 2]:
+programlama dili
+
+[Speaker 1]:
+backend için. İşte
+
+[Speaker 2]:
+Python da neymiş. Java da
+
+[Speaker 1]:
+neymiş. Ya da işte ben Python'cıyım.
+
+[Speaker 2]:
+Java
+
+[Speaker 1]:
+Scala da neymiş.
+
+[Speaker 2]:
+Canım
+
+[Speaker 1]:
+onlar işte old school
+
+[Speaker 2]:
+falan. Bunlar çok
+
+[Speaker 1]:
+yanlış şeyler.
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+gerçekten
+
+[Speaker 2]:
+yerine göre programlama dilleri
+
+[Speaker 1]:
+kullanılırsa çok farklı
+
+[Speaker 2]:
+yerlere gidebiliyor. yani.
+
+[Speaker 1]:
+İşte birçok arkadaşım var işte Java Scala
+
+[Speaker 2]:
+konusunda gerçekten tecrübeli. Python da biliyorlar ama
+
+[Speaker 1]:
+bazı noktalarda Java ve Scala'yla
+
+[Speaker 2]:
+gitmek özellikle Big Data tarafında çok daha büyük avantaj sağlıyor.
+
+[Speaker 1]:
+Çünkü o frameworkler aslında Scala ve Java üzerinde geliştirilmiş şeyler. Gibi yani
+
+[Speaker 2]:
+bu tip
+
+[Speaker 1]:
+fanatikleşmeye
+
+[Speaker 2]:
+girmemeleri güzel olur. Bir de
+
+[Speaker 1]:
+sadece trend diye bir şey öğrenmek de
+
+[Speaker 2]:
+bence
+
+[Speaker 1]:
+çok mantıklı
+
+[Speaker 2]:
+olmuyor.
+
+[Speaker 1]:
+Gerçekten yani işte
+
+[Speaker 2]:
+ya bu da
+
+[Speaker 1]:
+trendmiş ki
+
+[Speaker 2]:
+hadi gelip bunu öğrenelim falan. Eğer bundan zevk almıyorsan
+
+[Speaker 1]:
+ya da işte
+
+[Speaker 2]:
+bunu ilerletebilecek
+
+[Speaker 1]:
+potansiyel
+
+[Speaker 2]:
+görmüyorsan kendinde bence
+
+[Speaker 1]:
+bunu yapmamak lazım. Kesinlikle
+
+[Speaker 2]:
+hani
+
+[Speaker 1]:
+bir de şu
+
+[Speaker 2]:
+hatayla görüyorum genç arkadaşlar da tabii ki de
+
+[Speaker 1]:
+çok güzel genç
+
+[Speaker 2]:
+arkadaşların
+
+[Speaker 1]:
+ilgili olması
+
+[Speaker 2]:
+heyecanlı
+
+[Speaker 1]:
+olması işte hemen çok basit bir tutorial bitirip ya tamam işte
+
+[Speaker 2]:
+ben machine learning
+
+[Speaker 1]:
+expertim falan dedikleri
+
+[Speaker 2]:
+oluyor.
+
+[Speaker 1]:
+Bu yanlış yani
+
+[Speaker 2]:
+hani
+
+[Speaker 1]:
+bunu yaktık tabii biz de geçmişte
+
+[Speaker 2]:
+ama
+
+[Speaker 1]:
+günün birinde gerçekten tokat gibi
+
+[Speaker 2]:
+bir
+
+[Speaker 1]:
+bir tepki görebiliyorsun kiminden işte
+
+[Speaker 2]:
+biri koduna baktığında ya da
+
+[Speaker 1]:
+işte biri sana çok böyle zor bir soru
+
+[Speaker 2]:
+sorduğunda yani
+
+[Speaker 1]:
+bu noktalarda
+
+[Speaker 2]:
+bu konularda
+
+[Speaker 1]:
+bir şey biliyorum
+
+[Speaker 2]:
+demek
+
+[Speaker 1]:
+gerçekten çok zor.
+
+[Speaker 2]:
+Hani ne bileyim
+
+[Speaker 1]:
+işte mesela bahsettik işte
+
+[Speaker 2]:
+paket yazdım makale yazdım vesaire ama yani
+
+[Speaker 1]:
+mesela bazı
+
+[Speaker 2]:
+akademisyenlere
+
+[Speaker 1]:
+bakıyorsun işte
+
+[Speaker 2]:
+beş bin on bin
+
+[Speaker 1]:
+site station'ları
+
+[Speaker 2]:
+var ama
+
+[Speaker 1]:
+inanılmaz bir nasıl diyeyim
+
+[Speaker 2]:
+inanılmaz böyle
+
+[Speaker 1]:
+insanlar şey yani yok canım işte
+
+[Speaker 2]:
+bir şeyler yapıyoruz
+
+[Speaker 1]:
+falan ama onların yaptığına bakıp kendi yaptığına baktığında sen iyice
+
+[Speaker 2]:
+böyle hani yerin dibine girmeye
+
+[Speaker 1]:
+başlıyorsun
+
+[Speaker 2]:
+falan.
+
+[Speaker 1]:
+Bu noktada birazcık kendi sınırlarını
+
+[Speaker 2]:
+bilmek önemli bence ve dediğim gibi yani bu alanlarda
+
+[Speaker 1]:
+bir şey biliyorum
+
+[Speaker 2]:
+demek
+
+[Speaker 1]:
+biraz cesaret ister yani. hani
+
+[Speaker 2]:
+hani evet
+
+[Speaker 1]:
+bilgi sahibiyim biraz tecrübem var demek
+
+[Speaker 2]:
+evet
+
+[Speaker 1]:
+güzel olabilir ama bir şey çok iyi biliyorum
+
+[Speaker 2]:
+acayip hakimim
+
+[Speaker 1]:
+tabii ki de
+
+[Speaker 2]:
+bazı noktalarda
+
+[Speaker 1]:
+çok hakim
+
+[Speaker 2]:
+olabiliriz ama hani
+
+[Speaker 1]:
+her şeye
+
+[Speaker 2]:
+hakim olmak
+
+[Speaker 1]:
+mümkün değil
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+kesinlikle.
+
+[Speaker 2]:
+özellikle bu alanda
+
+[Speaker 1]:
+yani bildiğim bir şey var o da hiçbir şey bilmediğim
+
+[Speaker 2]:
+yani gerçekten
+
+[Speaker 1]:
+özellikle
+
+[Speaker 2]:
+ne vardı ki bu
+
+[Speaker 1]:
+science data science daha çok öğrendikçe
+
+[Speaker 2]:
+aslında ne kadar çok bilmediğini görüyorsun
+
+[Speaker 1]:
+yani çok enteresan
+
+[Speaker 2]:
+tabii ki de bazı alanlarda
+
+[Speaker 1]:
+uzmanlaşabilirsin ne bileyim time series forecasting konusunda müthiş bir uzmanlığa sahip olabilirsin harika
+
+[Speaker 2]:
+ama bu
+
+[Speaker 1]:
+işte bütün zaman serisi
+
+[Speaker 2]:
+alanında
+
+[Speaker 1]:
+mesela
+
+[Speaker 2]:
+time
+
+[Speaker 1]:
+gpt'den şimdi konuşmaya başladık işte yakın zamanlarda makalesi çıktı tamamen
+
+[Speaker 2]:
+foundational model
+
+[Speaker 1]:
+işte time series forecasting için
+
+[Speaker 2]:
+bu arada
+
+[Speaker 1]:
+hiçbir language model
+
+[Speaker 2]:
+falan yok
+
+[Speaker 1]:
+arkasında direkt foundational model
+
+[Speaker 2]:
+yani olayı çok başka bir yere götürüyor örneğin yani
+
+[Speaker 1]:
+değişik yani
+
+[Speaker 2]:
+konular
+
+[Speaker 1]:
+artık
+
+[Speaker 2]:
+yakalamak bile çok zor olmaya
+
+[Speaker 1]:
+başladı
+
+[Speaker 2]:
+gündemi
+
+[Speaker 1]:
+evet
+
+[Speaker 2]:
+peki son sorum
+
+[Speaker 1]:
+sizi
+
+[Speaker 2]:
+en çok
+
+[Speaker 1]:
+geliştiren
+
+[Speaker 2]:
+proje neydi
+
+[Speaker 1]:
+bu
+
+[Speaker 2]:
+bu bir tanesi
+
+[Speaker 1]:
+özellikle bu açıkçası bu
+
+[Speaker 2]:
+Raiden Zingat tarafında
+
+[Speaker 1]:
+gerçekten çok
+
+[Speaker 2]:
+güzel insanlarla
+
+[Speaker 1]:
+çalıştım
+
+[Speaker 2]:
+o noktada
+
+[Speaker 1]:
+bu yaşam skor mesela çok enteresan
+
+[Speaker 2]:
+bir projeydi o noktada
+
+[Speaker 1]:
+belki gerçekten ilk kez son kullanıcıya
+
+[Speaker 2]:
+giden
+
+[Speaker 1]:
+yani direkt yaptığımız
+
+[Speaker 2]:
+bir modelin
+
+[Speaker 1]:
+ya da işte
+
+[Speaker 2]:
+bir
+
+[Speaker 1]:
+yaklaşımın direkt son
+
+[Speaker 2]:
+kullanıcı tarafından kullanıldığı
+
+[Speaker 1]:
+belki ilk
+
+[Speaker 2]:
+ilk ürünlerden
+
+[Speaker 1]:
+bir tanesi 2015 ya da
+
+[Speaker 2]:
+2016
+
+[Speaker 1]:
+yanlış hatırlamıyorsam
+
+[Speaker 2]:
+ve hala da
+
+[Speaker 1]:
+çalışıyor çok kullanılmıyor
+
+[Speaker 2]:
+anladığım kadarıyla şu anda arada bakıyorum
+
+[Speaker 1]:
+ama hala
+
+[Speaker 2]:
+canlıda yani bu beni
+
+[Speaker 1]:
+gerçekten çok geliştirmişti onun dışında bu pilavcısı
+
+[Speaker 2]:
+tarafında da
+
+[Speaker 1]:
+ciddi anlamda işte ilk kişi
+
+[Speaker 2]:
+olmam
+
+[Speaker 1]:
+Data Science açısından işte ekibi
+
+[Speaker 2]:
+kurmam
+
+[Speaker 1]:
+kendi kendimi
+
+[Speaker 2]:
+o noktada
+
+[Speaker 1]:
+geliştirmem vesaire işte bu taraftan işte bu bahsettiğim
+
+[Speaker 2]:
+bu
+
+[Speaker 1]:
+inovasyon yarışmasında
+
+[Speaker 2]:
+ödül aldığımız
+
+[Speaker 1]:
+proje falan bunlar aslında gerçekten geriye dönüp
+
+[Speaker 2]:
+baktığımda
+
+[Speaker 1]:
+çok büyük
+
+[Speaker 2]:
+katkılarının olduğunu görüyorum yani
+
+[Speaker 1]:
+işte orada mesela o proje sayesinde
+
+[Speaker 2]:
+örneğin bütün bu
+
+[Speaker 1]:
+ML Ops olayına tam anlamıyla
+
+[Speaker 2]:
+girmeye başladım
+
+[Speaker 1]:
+çünkü başka yapacak kimse
+
+[Speaker 2]:
+yoktu o noktada
+
+[Speaker 1]:
+ben inisiyatif almak
+
+[Speaker 2]:
+zorunda kaldım
+
+[Speaker 1]:
+işte bütün ML Ops bütün hatta sistem adminlik bile yaptım
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+işte onları mesela
+
+[Speaker 2]:
+öğrendim çok
+
+[Speaker 1]:
+çok katkısı
+
+[Speaker 2]:
+oldu yani
+
+[Speaker 1]:
+tabii şu anda
+
+[Speaker 2]:
+belki
+
+[Speaker 1]:
+oradaki yaptığım şeyleri
+
+[Speaker 2]:
+yapmıyorum ama
+
+[Speaker 1]:
+olayın temelini
+
+[Speaker 2]:
+anlama konusunda
+
+[Speaker 1]:
+işin o tarafını
+
+[Speaker 2]:
+görme konusunda ciddi bir
+
+[Speaker 1]:
+tecrübe
+
+[Speaker 2]:
+kattı bana yani
+
+[Speaker 1]:
+evet yani özellikle istatistik tarafından PhD'ye kadar gitmiş bu kadar hard matematik tarafını ve işte bu kağıtlar üzerinde
+
+[Speaker 2]:
+çalışma paperlar tarafına bu kadar hakim
+
+[Speaker 1]:
+üstüne bir de
+
+[Speaker 2]:
+computer science tarafında bu kadar
+
+[Speaker 1]:
+işin içine de girmiş gerçekten az kişi bulunur kolay prinsip olumuyor
+
+[Speaker 2]:
+galiba yani
+
+[Speaker 1]:
+yok canım birçok prinsip var
+
+[Speaker 2]:
+dünyada
+
+[Speaker 1]:
+o yüzden ya gerçekten
+
+[Speaker 2]:
+ama düşününce bir de
+
+[Speaker 1]:
+o şey tarafına
+
+[Speaker 2]:
+ben böyle bir tık takıldım gerçekten hani o Starbucks tarafına sabah gidiyordum sabah tan akşam okuyordum işte full amacım o ara gelişmek diye
+
+[Speaker 1]:
+ben de galiba bir tık şu sıraları öyle hissediyorum yani gerçekten full işle haşinleşirim ve bir şekilde
+
+[Speaker 2]:
+sürekli kendimi böyle
+
+[Speaker 1]:
+geliştirmeye çalışıyorum
+
+[Speaker 2]:
+burada kırılma noktası kırılma noktası nasıl oldu bu arada en son bir de onu sorayım artık
+
+[Speaker 1]:
+arkadaşlar soru varsa soruları da alabiliriz ne anlamda
+
+[Speaker 2]:
+kırılma
+
+[Speaker 1]:
+arkadaşlar
+
+[Speaker 2]:
+ya bu
+
+[Speaker 1]:
+döngü işte mesela
+
+[Speaker 2]:
+sabah kalkıyordunuz ve full kendinizi
+
+[Speaker 1]:
+geliştirdiğiniz
+
+[Speaker 2]:
+döngüyü nasıl bırakabildiniz
+
+[Speaker 1]:
+yani tamamen aslında bırakmış değilim
+
+[Speaker 2]:
+hala
+
+[Speaker 1]:
+ne bileyim işte kaç saat çalışıyorsunuz
+
+[Speaker 2]:
+bu arada
+
+[Speaker 1]:
+işçi olarak mı yoksa
+
+[Speaker 2]:
+total
+
+[Speaker 1]:
+total ya sonuçta eşlik edince yani çalışıyorum neyi çalışma
+
+[Speaker 2]:
+değerlendirdiğim dönem
+
+[Speaker 1]:
+kimisi işte atıp
+
+[Speaker 2]:
+makale okumayı
+
+[Speaker 1]:
+işten sonra
+
+[Speaker 2]:
+çalışma olarak görür ama ben onu
+
+[Speaker 1]:
+mesela çalışma
+
+[Speaker 2]:
+olarak görmüyorum
+
+[Speaker 1]:
+çünkü gerçekten ilgimi çekiyor
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+değişik bir şey
+
+[Speaker 2]:
+ne bileyim mesela
+
+[Speaker 1]:
+scientific makale
+
+[Speaker 2]:
+okumak
+
+[Speaker 1]:
+iyi gelen bir şey
+
+[Speaker 2]:
+bana hani
+
+[Speaker 1]:
+mesela
+
+[Speaker 2]:
+normal kitap çok daha az okurum
+
+[Speaker 1]:
+ama işte scientific makale
+
+[Speaker 2]:
+daha çok okurum
+
+[Speaker 1]:
+mesela eşimde tam tersidir işte
+
+[Speaker 2]:
+eşimde doktora
+
+[Speaker 1]:
+tecrübesi var işte bitirememiş vesaire
+
+[Speaker 2]:
+daha doğrusu bırakmış
+
+[Speaker 1]:
+neyse ki neyse ki diyorum
+
+[Speaker 2]:
+bırakmış sonunda yapamamış
+
+[Speaker 1]:
+şey yani tamamlamak istememiş her neyse
+
+[Speaker 2]:
+mesela o da bir şey diyor yani bende
+
+[Speaker 1]:
+hiçbir zaman böyle bir şey yoktu
+
+[Speaker 2]:
+diyor yani bu birazcık
+
+[Speaker 1]:
+mesela ben onların
+
+[Speaker 2]:
+işi olarak görmüyorum
+
+[Speaker 1]:
+açıkçası işte oturup medium blogunu okumak sabah kalktığında bu mesela iş değil yani benim için
+
+[Speaker 2]:
+daha çok
+
+[Speaker 1]:
+ilgi çekiyor
+
+[Speaker 2]:
+ama tabii ki de
+
+[Speaker 1]:
+yani evlendikten sonra açıkçası
+
+[Speaker 2]:
+bu noktada
+
+[Speaker 1]:
+biraz tabii
+
+[Speaker 2]:
+yani aile hayatının da önem vermek gerektiğini
+
+[Speaker 1]:
+anlıyorsun
+
+[Speaker 2]:
+doğal olarak
+
+[Speaker 1]:
+aynen ve
+
+[Speaker 2]:
+hatta
+
+[Speaker 1]:
+şunu bile yaptığım oluyor
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+mesela yaz tatillerinde işte
+
+[Speaker 2]:
+genelde
+
+[Speaker 1]:
+3 haftalık
+
+[Speaker 2]:
+falan bir
+
+[Speaker 1]:
+tatile çıkıyoruz yani yapmaya çalışıyoruz her sene o dönemlerde ilk zamanlarda işte
+
+[Speaker 2]:
+ne bileyim ya
+
+[Speaker 1]:
+işte 3 hafta var işte şu kursu bitiririm işte şu sertifika sınavına hazırlanır
+
+[Speaker 2]:
+falan
+
+[Speaker 1]:
+yani son 2 senedir hiçbir şey yapmıyorum
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+işte ne bileyim
+
+[Speaker 2]:
+o aşamada
+
+[Speaker 1]:
+scientific makale bile
+
+[Speaker 2]:
+okumuyorum
+
+[Speaker 1]:
+açıyorum işte
+
+[Speaker 2]:
+roman okumaya başlıyorum ya da ne bileyim
+
+[Speaker 1]:
+çok böyle tüketilmesi kolay bir dizi izlemeye
+
+[Speaker 2]:
+başlıyorum
+
+[Speaker 1]:
+ya da işte çevreyi izliyorum
+
+[Speaker 2]:
+orayı
+
+[Speaker 1]:
+kafayı boşaltma gerektiğini hissediyorum
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+bunda önemli olduğunu hissettim sonuçta tabii ki de
+
+[Speaker 2]:
+dediğim gibi
+
+[Speaker 1]:
+işte makale okumu
+
+[Speaker 2]:
+iş olarak görülmüyorsun
+
+[Speaker 1]:
+ama sonuç itibariyle birazcık daha
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+bir noktada rahatlatsa da
+
+[Speaker 2]:
+bir noktada da hala beyni meşgul tutan
+
+[Speaker 1]:
+bir şey
+
+[Speaker 2]:
+beyni yoran bir şey
+
+[Speaker 1]:
+bunu mesela
+
+[Speaker 2]:
+son zamanlarda azalttığımı
+
+[Speaker 1]:
+söyleyebilirim
+
+[Speaker 2]:
+yani evet
+
+[Speaker 1]:
+yani hafta sonları mesela artık bilgisayarı çok fazla
+
+[Speaker 2]:
+açmıyorum
+
+[Speaker 1]:
+işte eğer okul işi zaten kesinlikle iş için hiçbir şey
+
+[Speaker 2]:
+yapmıyorum da
+
+[Speaker 1]:
+ama okulla
+
+[Speaker 2]:
+alakalı
+
+[Speaker 1]:
+üniversiteyi
+
+[Speaker 2]:
+ilgili hazırlamam
+
+[Speaker 1]:
+gereken bir şey varsa onu mesela
+
+[Speaker 2]:
+yapıyorum
+
+[Speaker 1]:
+yapmak zorundayım onun dışında ne bileyim işte
+
+[Speaker 2]:
+daha çok
+
+[Speaker 1]:
+hayatı da birazcık yaşamak
+
+[Speaker 2]:
+hayatından da zevk almak lazım yani tabii ki de
+
+[Speaker 1]:
+yani
+
+[Speaker 2]:
+bunları öğrenmek
+
+[Speaker 1]:
+keyifli kesinlikle
+
+[Speaker 2]:
+ama dışarıda da
+
+[Speaker 1]:
+gerçekten
+
+[Speaker 2]:
+durduramadığımız bir hayat var belki çok
+
+[Speaker 1]:
+duygusal konuşma
+
+[Speaker 2]:
+gibi oldu yok yok ya gerçekten bence güzel bir konuşma yani ben kendime çok
+
+[Speaker 1]:
+paylaşım giden bir şey var
+
+[Speaker 2]:
+aile önemli
+
+[Speaker 1]:
+ne işte ne bileyim Türkiye'ye gelmeye çalışıyorum sık sık işte
+
+[Speaker 2]:
+ailemi görme annem babamı görmeye çalışıyorum
+
+[Speaker 1]:
+arkadaşlarına vakit geçirmeye çalışıyorum burada eşimle vakit geçirmeye çalışıyorum köpeklerimle vakit geçirmeye çalışıyorum iş arkadaşlarımla çıkıyoruz şunu bunu yapıyoruz vesaire
+
+[Speaker 2]:
+bu da önemli yani
+
+[Speaker 1]:
+bunun mesela
+
+[Speaker 2]:
+önemli olduğunu
+
+[Speaker 1]:
+son iki senede
+
+[Speaker 2]:
+falan anladım yani
+
+[Speaker 1]:
+gerçekten öncesinde
+
+[Speaker 2]:
+tamamen benim için
+
+[Speaker 1]:
+yeni bir şeyler
+
+[Speaker 2]:
+öğreneyim
+
+[Speaker 1]:
+işte
+
+[Speaker 2]:
+akşamları eve geldiğimde
+
+[Speaker 1]:
+bilgisayara çıkıştı şunu yapayım şu kodu yapayım şunu öğreneyim
+
+[Speaker 2]:
+bunu öğreneyim falan ama
+
+[Speaker 1]:
+bir yerden sonra fazla yani
+
+[Speaker 2]:
+bir ayarını bilmek lazım
+
+[Speaker 1]:
+sonuç itibariyle nasıl diyeyim
+
+[Speaker 2]:
+yani
+
+[Speaker 1]:
+tabii ki de düşündüğümde mesela
+
+[Speaker 2]:
+o kadar şey yaptım belki
+
+[Speaker 1]:
+işte atıyorum beş bir tane
+
+[Speaker 2]:
+beş bir tane
+
+[Speaker 1]:
+site station'u yok
+
+[Speaker 2]:
+ya da ne bileyim
+
+[Speaker 1]:
+belki aynı aşamada
+
+[Speaker 2]:
+gelebilecek yerlere gelemedin ama
+
+[Speaker 1]:
+bir yerde de açıkçası bir şeyi bulmak
+
+[Speaker 2]:
+gerekiyor yani
+
+[Speaker 1]:
+o noktada
+
+[Speaker 2]:
+limiti bulmak daha doğrusu dengeyi bulmak
+
+[Speaker 1]:
+gerekiyor valla teşekkür ederim gerçekten güzel bir konuşmaydı benim de kendime çok
+
+[Speaker 2]:
+pay çıkardığım yerler oldu daha hani
+
+[Speaker 1]:
+yaşım bir tık
+
+[Speaker 2]:
+bir noktada
+
+[Speaker 1]:
+durmak içerisinde
+
+[Speaker 2]:
+genç olsa da
+
+[Speaker 1]:
+güzel bir tecrübe paylaşımıyordu kesinlikle
+
+[Speaker 2]:
+valla
+
+[Speaker 1]:
+olgun beyi biz sabah kadar
+
+[Speaker 2]:
+konuşsak da bitiremez yani daha gönüllü deneyimler var mentorluklar var kursera tarafı var
+
+[Speaker 1]:
+yani var da var yani gerçekten inanılmaz dolu bir kariyeri var
+
+[Speaker 2]:
+bu yayınlık
+
+[Speaker 1]:
+şimdi bu kadar diyelim
+
+[Speaker 2]:
+çok teşekkür ederim
+
+[Speaker 1]:
+geldiğiniz için ne demek
+
+[Speaker 2]:
+ben teşekkür ederim
+
+[Speaker 1]:
+gerçekten keyifliydi
+
+[Speaker 2]:
+benim için de
+
+[Speaker 1]:
+belki tekrar görüşebiliriz
+
+[Speaker 2]:
+ne demek umarım ikincisini yapmak
+
+[Speaker 1]:
+kısmet olur görüşmek üzere o zaman arkadaşlar çok teşekkürler görüşmek üzere

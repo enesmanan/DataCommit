@@ -1,0 +1,5188 @@
+[3.32s - 5.32s] Selamlar herkese hoş geldiniz.
+[6.34s - 9.54s] Data Commit'in ilk yayınıyla birlikteyiz.
+[10.32s - 13.22s] İlk yayına özel Kaan Bıçakçı var.
+[13.64s - 14.52s] Hoş geldiniz Kaan bu arada.
+[15.82s - 17.14s] Merhabalar hoş bulduk.
+[18.30s - 21.68s] Ben çok kısaca bu serinin çıkışından bahsedeyim.
+[21.98s - 25.34s] Akabinde Kaan'ı tanımakla başlayalım.
+[25.34s - 30.40s] Bu serinin çıkışı aslında data tarafında bu virüs zamanları çok yoğundu.
+[31.18s - 33.52s] O dönemler böyle bir sürü online yetkinlik oluyordu.
+[34.46s - 39.52s] Hem virüsün kapanmayla birlikte bu inanılmaz etkiliydi.
+[39.60s - 43.84s] Çok fazla o dönemde online event vardı ve ben de o dönemde yeni girmiştim data tarafına.
+[44.50s - 46.34s] Bu eventlerden çokça faydalandım.
+[47.06s - 50.80s] Fakat günümüze geldiğimizde aslında bu eventlerin sayısı gittikçe azaldı.
+[50.80s - 55.86s] Hatta şu anda neredeyse online'da data tarafında düzgün event çıkmıyor gibi bir şey.
+[56.12s - 56.94s] Çok az çıkıyor.
+[57.84s - 59.54s] Onsite tarafındakiler de azaldı bu arada.
+[60.22s - 64.80s] Multi Group olarak bizim amacımız da hem online etkinliklerle data tarafını güçlendirmek.
+[65.70s - 71.72s] Akabinde de yurt dışındaki bu insanları Türkiye'ye geldiklerinde tekrardan komite içerisine kazandırmak.
+[72.32s - 74.48s] Burada da ilk başlangıcımız Kaan oldu.
+[74.96s - 76.16s] Tekrardan hoş geldin Kaan.
+[77.22s - 78.50s] Merhaba hoş bulduk.
+[78.50s - 81.92s] Açıklama için bayağı açıklayıcı oldu aslında.
+[82.06s - 82.62s] Teşekkür ederiz.
+[82.80s - 84.92s] Yani senin de dediğin gibi birkaç şey eklemek isterim aslında.
+[86.92s - 92.44s] Özellikle bu yayın Google Developers Club yapıyordu.
+[92.88s - 94.40s] Geçmişte baktığımız zaman.
+[94.60s - 95.98s] Belki bilenler vardır.
+[97.42s - 103.10s] Onlar ama sanırım yani bir aslında öneri olarak da bunu size şey yapabilirim belki aklıma gelmişken.
+[103.50s - 108.10s] Onlar sürekli böyle tekrar eden konular üzerinden bir şeyler yapıyordu.
+[108.24s - 115.52s] Hani belki burada daha farklı konulara yönelirsiniz veya farklı konuları el alırsanız her seferinde veya almaya çalışırsanız bence daha iyi olur.
+[115.52s - 118.70s] Diğer türlü hep sürekli aynı 3-4 konu dönüp duruyor.
+[119.32s - 121.50s] Çok bir şey olmayan efektif olmuyor.
+[122.84s - 122.84s] 
+[123.04s - 123.52s] Buna katılıyorum.
+[124.18s - 128.56s] O dönemlerde Google Assistant Club çok fazla TensorFlow meşhur etmeye çalışıyordu.
+[128.64s - 129.70s] Öyle bir şey vardı.
+[130.28s - 133.76s] Sürekli böyle TensorFlow'un haifıyla birlikte hep TensorFlow yayınları vardı.
+[133.76s - 137.96s] Bizim buradaki olay birazcık daha senin üzerinden gidecek aslında.
+[138.18s - 141.84s] Hani senin sektör tecrübelerin ve bugüne kadarki deneyimlerini göreceğiz.
+[142.08s - 144.70s] Tabii seyirci sorularıyla da olay gitmişçe derinleşebilir.
+[145.30s - 148.06s] İstersen hatta seni tanımakla başlayabiliriz.
+[149.42s - 150.24s] Tabii.
+[151.12s - 151.94s] Merhabalar.
+[152.04s - 153.32s] Beni tanımayan varsa ben Kaan.
+[154.04s - 157.70s] 2022 yılında yazılım mühendisinden mezun oldum.
+[159.18s - 167.86s] Okulu bitirmeden önce 2021 yılında ilk böyle çalışmaya başlamaya ilk profesyonel kariyerim o zaman başladı diyebilirim 2021 yılında.
+[168.46s - 171.88s] Yani şu anda da 3,5 yıl kadar panoğlu çalışmaya başlayalım.
+[173.48s - 176.96s] Bu Data Science Machine Learning tarafında çalışmaya başladım.
+[177.74s - 185.02s] Ondan öncesinde çalışmaya başlamadan önce yaklaşık bir sene kadar bir kendi çalışma sürecim vardı.
+[185.02s - 190.64s] Yani işte nedir bu işte konseptleri öğrenmek işte Machine Learning nedir ne değildir işte veri bilimi falan.
+[190.78s - 195.20s] Hani herkesin geçtiği yollarda ben de bir sene kadar bir çalışma sürecim oldu.
+[195.46s - 200.96s] Ondan sonra 2021 yılında ilk işime girdim.
+[202.14s - 209.16s] Şu anda da İngiltere'de Willis Towers Watson yani WTW bir sigorta firmasında.
+[209.16s - 217.90s] İşte modellerin yazılması işte diplo edilmesi test edilmesi gibi işlerde görev alıyorum.
+[218.84s - 220.10s] Kısaca bu şekilde.
+[220.94s - 222.80s] Onun haricinde iş haricinde.
+[223.96s - 224.92s] Tabii ki.
+[225.44s - 229.84s] Mesela bir sektöre ki tarafın var ya çok erken giriyorsun bir de sektöre.
+[230.18s - 233.26s] O taraftaki girişin nasıl oldu?
+[233.42s - 235.86s] Sen bu veri bilimini aslında ilk başlangıcın nasıl oldu?
+[235.96s - 238.16s] Seni bu alana yönlendiren şey neydi burada?
+[239.34s - 242.34s] Şimdi şöyle dediğim gibi ben yazılım mühendisliği okudum.
+[244.86s - 246.04s] 2018'de girdim.
+[246.26s - 249.02s] Ondan ikinci sınıfta Erasmus'a gittim.
+[249.56s - 251.00s] Almanya'ya gittim bu arada.
+[251.64s - 259.82s] Sonra Almanya'da baktım ki bu hani yazılım mühendisliği konuları hani iyi güzel ama böyle çok spesifik alanlara yöneliyordu.
+[259.98s - 261.16s] İşte işte mobil vardı.
+[261.46s - 263.60s] İşte bekentle alakalı şeyler vardı.
+[263.74s - 265.08s] Şimdi bunlar benim ilgimi çekmedi.
+[265.82s - 272.14s] Ben onun öncesinde hani böyle ufak tefek kodları alıp 3-5 modifikasyon yapıp hani çalıştırabiliyordum.
+[272.32s - 275.02s] Hani böyle ilkokuldan beri kodlan bir insan değilim.
+[275.06s - 278.76s] Hani öyleleri vardır ya böyle bazı takıntılı insanlar falan değil.
+[279.24s - 280.28s] Hani öyle biri değildim.
+[280.50s - 281.70s] Bunlar ilgimi çekmedi.
+[281.70s - 287.36s] Sonra baktım işte bu yapay zeka tabii o zaman yapay zeka marketing terimi baktığımız zaman.
+[288.88s - 291.88s] Dedim buradan sektöre girebilir miyiz falan.
+[292.24s - 296.32s] İlk o zaman dedim ki ben buraya doğru yöneleyeyim falan.
+[296.94s - 298.60s] İlk o şekilde tanıştım.
+[298.78s - 303.08s] Baktım insanlar neler yapıyor, işte neler var, sektöre nasıl girelim.
+[304.12s - 305.82s] O şekilde sonra döndüm.
+[306.12s - 308.14s] Döndükten sonra çalışmaya devam ettim.
+[308.82s - 313.90s] 2021 yılında da iş bulmuş oldum yani öyle söyleyeyim.
+[314.00s - 315.08s] Önce staj olarak başladım.
+[315.54s - 316.92s] Birer kadar bir staj süreci oldu.
+[317.00s - 317.42s] İş buluştu nasıldı?
+[318.44s - 322.96s] İlk mesela stajyer olarak giriyorsun ve bulunduğun şehirde bir işe girmiyorsun.
+[323.66s - 324.74s] Bildiğim kadarıyla.
+[325.52s - 328.70s] Başka şehirden bir işe o dönemlerde stajyer olarak giriyorsun.
+[328.84s - 329.70s] Sonra devam ediyorsun.
+[330.06s - 331.48s] Oradan tam zamanlığa mı geçtin?
+[331.68s - 334.88s] Ama hala da okuyor gözüküyorsun mesela LinkedIn'den gördüğüm kadarıyla.
+[335.32s - 336.54s] Oradaki süreci nasıl yönettin?
+[337.20s - 338.54s] Evet şimdi şöyle oldu.
+[339.02s - 341.68s] O dönemler bir CV hazırlanın.
+[341.78s - 342.82s] Çok dendik bir CV'ydi.
+[343.96s - 345.36s] YouTube kanalı mülklerim.
+[345.52s - 348.52s] Onunla karşılaştırması ilk CV'im bu, son şu andaki CV'im bu diye.
+[348.66s - 349.70s] Çok dendik bir CV'ydi.
+[353.10s - 356.14s] Böyle 3-5 yani buldum böyle LinkedIn'den.
+[356.24s - 358.72s] O zaman çok spesifik staj arıyorum.
+[358.82s - 359.72s] Staj da yok zaten.
+[361.12s - 362.66s] Baya bir aradım yani.
+[363.08s - 364.56s] Şu an baya bir denmez ama belki hani.
+[364.78s - 365.94s] Bir iki ay diyeyim hani iki ay.
+[366.16s - 366.84s] Yalan olmasın.
+[367.28s - 368.12s] İki ay aradım.
+[369.04s - 370.08s] Baktım bir şey yok.
+[371.96s - 376.04s] Hani bir yerden bir case aldım ama o da yürümedi yani.
+[378.26s - 382.08s] Sonra çevremde baktım hani ilgilenen kimler var acaba?
+[382.54s - 383.98s] Bir referans.
+[384.38s - 387.30s] Birisi referans olursa belki şirkete girmem daha kolay olur.
+[387.40s - 391.96s] Hani burada mülakata girmek zor.
+[392.08s - 395.20s] Çünkü tecrübeniz olmayınca insan hiç bakmıyor bile maalesef.
+[395.58s - 399.00s] Yani şey gibi herkes tecrübeli elemanlar arıyor ama kimse yetiştirmek istemiyor.
+[399.36s - 401.66s] O sorunda ben de yüzleştim yani.
+[402.50s - 405.04s] Sonra bir referans aracı değil.
+[405.20s - 408.34s] İşte o İzmir'deki şirket karşıma çıktı.
+[409.28s - 412.20s] Onlarla bir mülakat süreci oldu.
+[412.82s - 417.28s] Sen de sanırım ismen hani bildiğin kişiler baktığımızda baktığımızda.
+[417.74s - 421.24s] Buradan da selam olsun yani Deniz Hoca'ya, Murat Şahin'e.
+[422.00s - 424.92s] Evet yani onlarla bir sürecimiz oldu.
+[425.02s - 426.80s] Yani bir staj süreci oldu ilk başta.
+[426.80s - 430.22s] Daha sonra hani ben orada staj sürecinde İzmir'e gittim bu arada.
+[430.64s - 432.32s] Hani staj sürecinde hani ofisteydim.
+[434.72s - 440.72s] Ondan sonra staj bittikten sonra da bir süre sanırım kavme devam ettim.
+[440.90s - 443.06s] Hani çok hatırlayamıyorum biraz şey oldu.
+[443.94s - 446.24s] Ondan sonra tam zamanlıya geçtim.
+[446.70s - 447.68s] Ben okuyordum.
+[448.22s - 449.70s] Tam zamanlı nasıl olacak?
+[449.84s - 451.84s] Hani uzaktan götürdük.
+[452.08s - 453.16s] Bir yıl kadar falan.
+[453.70s - 454.78s] Öyle hatırlıyorum.
+[454.88s - 456.04s] Bir yıl kadar uzaktan götürdüm.
+[456.04s - 458.62s] Tam zamanlıyı okurken uzaktan götürdüm.
+[458.96s - 461.52s] Yani hem tam zamanlı çalışıyorsun hem okuyorsun.
+[461.74s - 463.86s] Uzaktan çalışmaya devam ediyorsun.
+[464.48s - 465.46s] O zaman okula gitmiyor musun?
+[466.20s - 468.92s] Yani tam zamanlı denir mi?
+[469.34s - 471.46s] Kaçta kaç arası çalıştığımı çok hatırlamıyorum.
+[471.84s - 473.16s] Yanlış bilgi vermiyorum ama.
+[473.88s - 474.74s] İstanbul'daydım ben.
+[474.90s - 476.42s] İstanbul'da okuyordum.
+[476.64s - 478.32s] İzmir'e uzaktan çalışıyordum.
+[478.44s - 484.14s] Hani belki sabah 9-5 belki hep online olamıyordum belki.
+[484.14s - 488.50s] Ama hani olabildiğim kadar çoğunlukla online olmaya çalışıyordum.
+[488.74s - 493.00s] Son sınıfta dersler birazcık daha böyle hani staj falan vardır.
+[493.34s - 494.98s] İşte böyle birazcık daha hafifler ya belki.
+[495.54s - 498.74s] O şekilde olduğu için hani götürme imkanımız olmuştu.
+[499.26s - 499.58s] Öyle değilim.
+[499.58s - 502.14s] Benim de tam tersi şu anda.
+[502.62s - 503.64s] Ben de İzmir'deyim.
+[503.72s - 505.44s] İstanbul'a remote çalışıyorum.
+[505.72s - 507.42s] Ama zorlayıcı bir süreç.
+[507.56s - 510.12s] Yani gerçekten inanılmaz zorlanıyor insan.
+[510.44s - 510.86s] Evet.
+[510.96s - 513.12s] Okul iş dengesini kurmak çok zor.
+[513.22s - 515.96s] Hani belki bu durumda olanlar için bir önerin olur mu?
+[518.22s - 520.08s] Ben de çok zorlanmıştım.
+[520.26s - 522.82s] Çünkü benim alttan kalan derslerim de vardı.
+[522.94s - 523.70s] Erasmus'tan ötürü.
+[525.90s - 527.16s] Sınavlar oluyordu.
+[527.54s - 531.12s] İşte oradaki şeyleri götürmek gerekiyordu.
+[531.14s - 532.76s] Onlar da çok yardımcı oluyordu sağ olsunlar.
+[533.12s - 534.52s] Hani esnek davranıyorlardı.
+[534.66s - 536.46s] Yani sınav zamanı olsun vesaire.
+[538.10s - 539.38s] Yani bilmiyorum.
+[539.62s - 541.92s] Motivasyonu kaybetmemek bence en önemli şey burada.
+[542.36s - 545.52s] Yoksa böyle yaptığınız her şey işkence gibi gelmeye başlar.
+[545.68s - 546.68s] Bu da nereden geliyor?
+[547.52s - 549.12s] Yaptığınız şey sevmenizden geliyor.
+[550.54s - 551.36s] Öyle değil.
+[551.84s - 552.48s] Kesinlikle.
+[552.66s - 555.04s] Mesela o dönemlerle alakalı bir de şunu sorayım.
+[555.24s - 557.76s] O dönem günde kaç saat çalışıyordun?
+[559.06s - 561.32s] İş olarak mı yoksa normal çalışmam?
+[561.82s - 562.78s] Hani ders gibi.
+[563.88s - 566.22s] Dersi de bence işin içine katmamız lazım.
+[566.22s - 568.68s] Çünkü hem öğrencisin hem şeysin.
+[569.26s - 570.02s] Çalışansın.
+[570.72s - 571.78s] Çalışıyorsun yani.
+[572.06s - 572.88s] Mesai bitiyor bu sefer.
+[573.06s - 573.88s] Derslere çalışıyorsun.
+[574.10s - 575.30s] Yani ne kadar çalışıyordun günde?
+[578.42s - 579.92s] Çok hatırlamıyorum.
+[580.12s - 584.64s] Yani hani böyle spesifik bir sayı da değil.
+[585.06s - 586.82s] Şimdi şöyle oluyordu genelde.
+[587.24s - 588.90s] Mesela okuldaysam.
+[591.12s - 594.98s] O çalıştığım şirketin işini akşama doğru mesela bitiriyordum falan.
+[594.98s - 599.12s] Ondan hani belki 6 saat desek günde.
+[599.78s - 602.50s] Yani 7-8 belki oluyormuştur yani.
+[602.60s - 604.44s] O şekilde baktığımız zaman okul artı iş yani.
+[605.32s - 607.40s] Bu arada güzel bir sayıymış.
+[607.58s - 611.46s] Yani şu an zaten saatçi 8 saat mesai atıyorsun normal vakitte.
+[611.54s - 613.88s] Bir de okul olunca üstüne devam etmek gerekiyor.
+[613.88s - 618.70s] Hani belki o dönemlerdeki danışmanlık şirketiydi diyebiliyorum İzmir'deki.
+[618.94s - 621.20s] Belki hani onun biraz eskildiği de olabilir.
+[621.70s - 622.62s] Evet doğru.
+[622.80s - 623.76s] O tarz bir şirket.
+[626.16s - 630.24s] Burada veribimle gelişte kırılma anı dediğin bir an var mı?
+[630.50s - 635.56s] Mesela ne oldu da bir anda bu alana bu kadar yatırım yapmaya karar verdin?
+[636.14s - 638.62s] Ve korona zamanı ben hatırlıyorum.
+[639.86s - 642.20s] Bayağı günde saatlerini harcadığını biliyorum.
+[642.28s - 643.90s] Bu işe ciddi vakit ayırdığını.
+[643.90s - 647.20s] Ne oldu da tam olarak bu kafaya girdin?
+[647.40s - 648.68s] O sevme kafası aslında.
+[648.80s - 649.72s] Biraz da bu işi sevme.
+[650.78s - 651.36s] Evet.
+[651.80s - 656.46s] Dediğim gibi ilk Erasmus'ta dedim hani bu mobildir, backendtir, webtir.
+[656.56s - 657.34s] Buna ben sarmıyorum.
+[657.52s - 658.58s] İşte farklı bir alana yöneliyim.
+[658.74s - 659.34s] İlk o zaman.
+[659.78s - 661.64s] Sonra işte Covid oldu ben geldim.
+[661.98s - 665.02s] İşte 2020-2021 işte o civarlar.
+[665.18s - 665.94s] İşte Covid falan.
+[667.34s - 668.68s] Sonra şeyle tanıştım.
+[669.44s - 670.74s] Böyle YouTube'a machine learning.
+[671.18s - 672.98s] Bayağı machine learning yazdım dümdüz.
+[672.98s - 675.08s] Karşıma Andrew McGill çıktı.
+[675.82s - 676.10s] Şansa.
+[676.88s - 677.76s] Yani onu ben biraz...
+[677.76s - 678.70s] O zaman da bir de bu vardı.
+[679.54s - 682.96s] Yani sanırım bilmiyorum ki o çok popülerdi yani öyle söyleyeyim.
+[684.32s - 686.00s] Neyse o çıktı karşıma falan.
+[686.20s - 690.78s] Baktım Stanford Üniversitesi'nin işte machine learning kursu.
+[690.80s - 692.82s] 2018 yılındaki kursu yani.
+[693.22s - 694.08s] Ben baktım falan.
+[694.68s - 697.38s] İyi güzel dedim hani ben buna çalışayım bari.
+[698.22s - 699.48s] Sonra baktım.
+[700.02s - 702.96s] Daha farklı kurslar, daha farklı mecliseler keşfettim.
+[702.98s - 706.08s] İşte bu adamın mesela kurserada bir kursu varmış mesela.
+[706.22s - 707.02s] O da eskiymiş de.
+[707.46s - 711.94s] Ben onu alarak hani o çalışma şeyi orada başladı.
+[712.10s - 713.90s] Yani o kursu aldım.
+[714.44s - 716.60s] O şekilde başlamış oldum.
+[716.62s - 717.44s] O da eski bir kursu.
+[717.46s - 718.30s] Daha sonra yenilendi.
+[718.30s - 720.50s] Yenisi de gayet güzeldi.
+[720.56s - 721.60s] Onu da incelemiştim.
+[721.72s - 722.44s] Biraz oldu ama.
+[724.08s - 725.26s] O şekilde yani.
+[725.56s - 727.10s] Tam orada başladım.
+[727.62s - 731.00s] Bir de covid noktasında evdeydik çoğumuz.
+[731.10s - 732.86s] Eve kapanık bir şekilde yaşıyorduk.
+[733.90s - 736.06s] Bayağı yatak ve bilgisayar arasında böyle.
+[736.30s - 737.86s] Arada bir de yemek yiyordum tabii.
+[737.86s - 740.38s] Yani öyle bir hayatım vardı bir süre.
+[740.88s - 742.14s] Hani çalışıyordum.
+[742.24s - 743.68s] Çalıştıkça da hani böyle hoşuma gidiyor.
+[743.78s - 744.48s] Hani böyle seviyordum.
+[744.52s - 746.56s] Hani konular ilgimi çekiyor yani öyle söyleyeyim.
+[747.04s - 749.20s] Hani machine learning falan var.
+[749.28s - 750.90s] Hani böyle bayağı marketing de var.
+[751.02s - 754.20s] Yani baktığın zaman hani böyle birisi küçük bir diner regresyon kursun.
+[754.20s - 755.38s] Yapay zeka falan diyor.
+[756.00s - 756.68s] Ve baktım.
+[756.68s - 758.96s] Onların alt şeyini öğrendim.
+[759.06s - 760.74s] Hani altyapısında neler varmış.
+[760.74s - 764.36s] Hani ne kadar yalan yanlış bilgi oranları fark etmeye başladım.
+[765.72s - 767.20s] Böyle devam ettim yani.
+[769.40s - 770.18s] Güzel ya.
+[770.26s - 772.74s] O dönemler çok hype da değildi bu alan.
+[772.94s - 775.68s] Tam böyle yeni geliyordu.
+[775.88s - 776.48s] Pahazlanıyordu.
+[776.78s - 778.72s] Hatta science tarafı daha böyle.
+[778.94s - 780.32s] Şu anda da hala science oldu.
+[780.58s - 781.20s] Çok hype ama.
+[781.42s - 783.36s] Sen machine learning engineer olarak çalışıyorsun.
+[783.66s - 785.90s] Senin aslında title'ın ML engineer.
+[786.54s - 788.88s] Çalıştığın şu andaki şirkette de ML engineers'in.
+[789.20s - 790.22s] Orada ne yapıyorsun?
+[790.22s - 794.72s] Mesela bir ML engineer ile data science'ın farkını temelde nasıl tanımlayabilirsin?
+[796.08s - 796.18s] Evet.
+[796.58s - 797.94s] Şimdi şöyle arkadaşlar.
+[798.54s - 801.62s] Türkiye'de sanırım bunun çok ayrımı yok anladığım kadarıyla.
+[801.70s - 803.96s] Yani bu title'la rastlaki fark çok belirgin değil.
+[805.56s - 809.80s] Ama genel olarak yurt dışında çalışacaksanız şuna bakılır.
+[809.90s - 813.22s] Şimdi şu anki durumu göz önünde bulundurarak söylüyorum.
+[813.38s - 817.06s] Hani bundan belki iki sene önce daha farklı bir cevap verirdik ama.
+[817.06s - 819.94s] Şu an hani konuşuyorsak işte Kasım 2024.
+[820.56s - 821.10s] Kasım 2024.
+[821.10s - 825.08s] Data scientist dediğimiz hani en azından büyük şirketler diyelim.
+[825.30s - 828.20s] Baktığımız zaman hani işte beş on bin çalışı olanan.
+[828.54s - 832.00s] Data scientist kişiler benim gördüğüm kadarıyla.
+[832.00s - 836.58s] o şirketin domeninde yüksek bilgi sahibi olan kişiler.
+[836.84s - 840.04s] Yani işte veri setini iyi tanıyor.
+[840.28s - 843.80s] Ya işte müşteriler neye ihtiyacı olur onu kestirebiliyor.
+[843.90s - 845.68s] Yani o domen hakkında bir bilgisi var.
+[846.42s - 849.62s] Ve genelde notluklarla çalışıyorlar onu gördüğüm kadarıyla.
+[850.64s - 854.78s] yazılan kodlar birazcık daha prototip tarzı oluyor.
+[854.98s - 856.24s] Hani böyle bir şeyi yazalım.
+[857.08s - 859.30s] Shiftleyelim hani deploy edelim değil de.
+[859.70s - 861.48s] Prototip yapılıyor.
+[861.68s - 864.02s] İşte sonuçlar sunum haline getiriliyor falan.
+[864.24s - 868.86s] Bu birazcık daha data scientist olarak görünüyor şu an günümüzde.
+[868.94s - 869.90s] Benim gördüğüm kadarıyla.
+[870.48s - 874.54s] ML engineer arkadaşlar bir model kurar.
+[874.54s - 876.06s] veya işte bir prototipten ilerler.
+[876.28s - 877.74s] Yani mesela data scientist takımı.
+[878.28s - 879.66s] Veya işte bir data scientist.
+[880.02s - 881.38s] Bir prototip kurar.
+[881.50s - 887.20s] Onu alırsanız production'a yani ürün haline hazır hale getirirsiniz.
+[887.34s - 887.92s] Yani bu ne demek?
+[888.44s - 890.42s] İşte mesela onu yazan kişi çok.
+[891.26s - 893.32s] Mesela iyi kod vardır arkadaşlar.
+[893.52s - 894.76s] Bir de Allah'a affetsin kodu vardır.
+[895.20s - 898.44s] Yani Allah'a affetsin kodu production'a çıkmaz.
+[899.16s - 901.74s] Çok kötü kodlar da oluyor bazen.
+[901.74s - 905.32s] Onları mesela düzeltmeniz bu sürecin bir parçası.
+[905.88s - 910.94s] Daha sonra o prototipi tekrardan çalıştırıp sonuçları doğrulamanız bu sürecin bir parçası.
+[911.10s - 913.60s] Yani çünkü siz kodu düzelttiniz ama sonuçlar değişti.
+[913.70s - 915.62s] Mesela sonuçların değişmemesi lazım baktığınız zaman.
+[915.92s - 917.36s] Aynı açıkları vermesi lazım.
+[917.52s - 919.32s] İşte burada bir test süreci falan var.
+[920.84s - 924.58s] Bunları yapabilmek için bir dizayn.
+[925.76s - 927.90s] Bir şey dizayn edebiliyormamız lazım.
+[927.90s - 931.12s] Yani bir model alacaksınız.
+[931.50s - 933.60s] O modeli düzenleyeceksiniz.
+[933.70s - 934.80s] Kodları düzenleyeceksiniz.
+[935.26s - 939.82s] Burada gerekiyorsa işte dediğim gibi dizayn krensipleri kullanarak bunu yapacaksınız.
+[940.58s - 945.90s] Daha sonra işte projeye göre değiştir ama işte bir endpoint yazılacak.
+[946.78s - 949.20s] O endpointte hatalar neler olacak?
+[949.42s - 950.54s] İşte nasıl handle edecek?
+[950.54s - 953.82s] Bunların hepsi arkadaşlar bu cycle'ın hepsi.
+[953.98s - 955.56s] ML Engineer olarak düşünebilirsiniz.
+[955.92s - 958.94s] Yani Machine Learning artı software engineer gibi bir şey bu.
+[959.52s - 965.28s] Hani baktığımız zaman hani böyle ML Engineer deyince insanlar hani sabahtan akşama kadar modeller yazıyor.
+[965.86s - 973.62s] İşte işte solda bir tane model işte ortada bir tane işte her neyse işte test ediyoruz falan.
+[973.62s - 980.30s] Şirkete göre değiştir ama hani her gün ama her gün yani her gün çılgınlar gibi model zor.
+[980.52s - 980.68s] Niye?
+[981.20s - 984.74s] Bir modeller sonuçta para kazanmamız lazım sonuçta işin sonunda.
+[985.36s - 990.06s] Yani sürekli model yazarsak bir şeyi hani üstünden para kazanmamız daha zor olur.
+[990.16s - 994.60s] Hani baktığın zaman bir tane işinde karar kılıp onu müşteriye hazır hale getirmek gerekiyor.
+[995.04s - 999.64s] O sürecinde işte software engineering kısmında da yine ML Engineer rol alıyor.
+[1000.02s - 1001.38s] Umurum açıklayıcı olmuştur.
+[1001.38s - 1003.88s] Kesinlikle açıklayıcıydı.
+[1005.06s - 1011.30s] O hani TR tarafındaki o Science'ın rolü aslında biraz analizciye kayması ve data analiste kayması.
+[1011.74s - 1015.04s] Biraz ilerleyen vakitlerde bunun kırılacağını düşünüyorum ya.
+[1015.34s - 1024.52s] Benim de kendi gözlemim biraz böyle orta ölçekli şirketlerdeki Science'lar yani analizci alınacak olsa da Science ilanı açılıyor.
+[1026.34s - 1028.30s] Biraz böyle gene hype'den kaynaklı galiba.
+[1029.36s - 1033.56s] Akabinde işte Science olarak giren kişi de daha çok böyle analiz işi yapıyor işte.
+[1034.02s - 1036.26s] Bir modeli deploy etme kısmı dediğin gibi çok yok.
+[1036.58s - 1043.48s] O taraftaki ML Engineer'ın veya işte ML Ops süreçlerini yönetecek insanlar da yok içeride.
+[1043.48s - 1050.02s] Biraz da o bu taraftaki işte yükselme hype'ının da TR tarafına biraz vurması gerekiyor.
+[1050.18s - 1051.72s] Yine böyle şirketsel bütçeler de var.
+[1053.22s - 1054.74s] O taraf biraz enteresan.
+[1054.84s - 1056.10s] Şimdi sen VTM'desin.
+[1064.08s - 1073.12s] O taraftaki modeli yazılı diplo ettiniz işte bir endpoint yaptınız işte salam AWS Azure neyse artık bir yere diplo ettiniz.
+[1073.40s - 1076.18s] Şimdi diplo ettikten sonra arkadaşlar bu model kullanılacak.
+[1076.18s - 1081.70s] Ama o modeli diplo ettikten sonra kaderini terk edemezsiniz.
+[1082.42s - 1085.18s] O modeli bir şekilde izlemeniz lazım.
+[1085.62s - 1087.02s] Yani monitöring deniyor buna da.
+[1087.62s - 1088.68s] Neden izlemeniz lazım?
+[1088.84s - 1091.82s] Çünkü siz bir modeli train ettiniz.
+[1092.24s - 1093.98s] Bir veri setiyle eğittiniz yani.
+[1093.98s - 1099.36s] O veri seti zamanla arkadaşlar değişmeye başlıyor.
+[1099.64s - 1100.30s] Mesela ne gibi?
+[1100.92s - 1107.98s] Sizin COVID'den önceki ve COVID'den sonraki online alışveriş davranışınız mesela farklıdır büyük ihtimalle.
+[1108.16s - 1113.22s] Yani mesela COVID döneminde online alışveriş yapmak istediğinizde kartınız reddedilmiş olabilir.
+[1113.48s - 1114.64s] Mesela bir online setlerde.
+[1115.08s - 1123.82s] İşte o davranışlarının farklı olmasından ötürü modelin o paterni bilmemesinden dolayı size yanlış bir şekilde kartınızı reddediyor mesela.
+[1124.52s - 1129.06s] Şimdi bu süreçte yani o sürece biz monitöring diyoruz.
+[1129.22s - 1129.90s] Yani izleme diyoruz.
+[1130.14s - 1135.24s] Modelin belli aralıklarla biz performansını inceliyoruz.
+[1135.36s - 1139.30s] İşte bir tane metrik belirlerseniz problemimize göre bu eh bir skor olabilir.
+[1139.52s - 1140.74s] Daha spesifik bir şey olabilir.
+[1141.18s - 1145.22s] Ve bakarsanız işte bir aralık belirlerseniz haftada bir bakabilirsiniz.
+[1145.50s - 1146.64s] Ayda bir olabilir.
+[1146.76s - 1147.54s] Üç ayda bir olabilir.
+[1147.88s - 1151.10s] Ve baktınız ki performansı böyle düşmeye başlıyor.
+[1151.10s - 1157.78s] Performansı düşmeye başlıyorsa burada modeli güncellememiz gerektiğini anlıyoruz arkadaşlar.
+[1158.72s - 1166.38s] İşte bu da hani TNS'in dediği aslında ML Ops sürecinden bir kesitleyebilirim yani.
+[1167.26s - 1169.46s] Yani bir driftten bahsediyorsun aslında.
+[1169.64s - 1171.90s] Orada bir ya konsept kayabilir ya data kayabilir.
+[1172.14s - 1176.14s] O drift'i yakalayan kişi de biraz machine learning, ML Ops'çu kişiler oluyor diyorsun.
+[1176.38s - 1177.24s] Yani ben yapıyorum diyorsun.
+[1177.96s - 1181.88s] Ya tabii sen konuya hakimsin aldığım kadarıyla.
+[1182.78s - 1183.80s] Drift deniyor.
+[1184.60s - 1187.34s] Yani veri set, ettiğiniz veri seti var arkadaşlar.
+[1187.38s - 1188.82s] Bir de gelecekte gelen veri seti var.
+[1189.14s - 1195.26s] Bu veri setleri alakasızsa modelle zaten itham üretemez.
+[1195.38s - 1199.28s] Hani bu veri setle değişmeye başladığında gene farklı metrikleriniz var.
+[1199.28s - 1201.66s] gibi gibi yani öyle söyleyeyim.
+[1203.22s - 1203.72s] Aynen.
+[1204.10s - 1208.62s] Ya burada mesela bu süreci siz nasıl handle ediyorsunuz?
+[1208.70s - 1212.06s] Mesela sizin datalarınız cloud'a çıkabiliyor mu sigortacılık sektöründe?
+[1212.36s - 1214.52s] Oradaki tabii İngiltere daha farklıdır.
+[1215.08s - 1216.10s] Regülasyonlar nasıl?
+[1216.38s - 1217.98s] Cloud kullanabiliyor musunuz?
+[1218.12s - 1219.66s] İşte lokalde mi çalışıyorsunuz?
+[1219.84s - 1220.74s] Nasıl yapıyorsunuz orayı?
+[1222.72s - 1224.68s] Regülasyonları ben çok bilmiyorum açıkçası.
+[1225.22s - 1229.62s] Nasıl yaptığımı söyleyemem büyük ihtimalle.
+[1229.92s - 1230.62s] Kusura bakmayın.
+[1230.80s - 1234.02s] Ama şöyle ki şunu diyeyim.
+[1234.30s - 1236.48s] Hani bir şeyle linklemek istemiyorum açıkçası.
+[1236.64s - 1240.30s] Çünkü bu tarz şeyler burada ciddiye alınıyor baya.
+[1240.48s - 1242.52s] Hani olup olmadık bir şey söylemeyelim.
+[1242.82s - 1243.74s] Şöyle oluyor.
+[1244.46s - 1245.60s] Regülasyonları farklı.
+[1245.94s - 1250.30s] Ve büyük ihtimalle bir kullanıcının datasını
+[1250.30s - 1252.40s] siz almayacaksınız büyük ihtimalle burada.
+[1252.60s - 1253.54s] Hani alıyorsanız da
+[1253.54s - 1256.90s] yani bayağı sıkı regülasyonlar var.
+[1256.90s - 1257.64s] Onu söyleyebilirim.
+[1258.02s - 1260.02s] Ve büyük ihtimalle mesela
+[1261.32s - 1262.70s] alırsanız da nereye alırsınız?
+[1262.78s - 1265.34s] Lokalinizde büyük ihtimalle almazsınız.
+[1265.46s - 1267.24s] Yani böyle bir yerde çalışsanız.
+[1267.48s - 1269.16s] Yani uzak bir sunucu olur.
+[1269.52s - 1272.52s] O sonucudan ihtiyacı doluğunda çekersiniz.
+[1272.70s - 1273.82s] Daha sonra silinir belki.
+[1273.88s - 1277.00s] Bilmiyorum hani o retention policy nasıldır.
+[1277.36s - 1278.50s] Öyle söyleyeyim yani.
+[1280.94s - 1282.48s] Bundan önceki deneyimin
+[1282.48s - 1283.92s] senin danışmanlık şirketiydi.
+[1284.06s - 1285.04s] Şu an çalıştığın yer
+[1285.04s - 1286.40s] sigortacılık şirketi.
+[1287.02s - 1288.78s] Mesela danışmanlık şirketi de
+[1288.78s - 1289.96s] birazcık daha rahattır.
+[1290.10s - 1291.56s] Hani orada NLP projeleri olur.
+[1291.68s - 1293.18s] Belki görüntü işleme alabilirler.
+[1294.24s - 1295.66s] İçeride farklı farklı
+[1295.66s - 1297.88s] projeler olabilir alanlardan.
+[1298.46s - 1299.40s] Burada ama
+[1299.40s - 1301.06s] sigorta şirketinde
+[1301.06s - 1303.00s] muhtemelen tabüler data vardır.
+[1303.48s - 1304.68s] Ve hani tabülerden öteye de
+[1304.68s - 1305.94s] bir köy yoktur gibi hissettiriyor.
+[1306.06s - 1306.68s] Hissettiriyor.
+[1307.44s - 1309.08s] Senin buradaki deneyimlerin
+[1309.08s - 1310.40s] nasıl farklı datalara
+[1310.40s - 1311.38s] işte NLP tarafına
+[1311.38s - 1312.24s] görüntü işleme tarafına
+[1312.24s - 1313.30s] içeride dokunabiliyor musun?
+[1314.50s - 1315.32s] Hiç dokunamıyorum.
+[1315.52s - 1315.60s] Evet.
+[1316.40s - 1317.64s] Danışmanlık şirketinin
+[1317.64s - 1318.40s] artısı o zaten.
+[1318.58s - 1319.92s] Hani herhangi bir noktadan
+[1319.92s - 1321.08s] proje gelebilir.
+[1322.32s - 1324.10s] bu X sektörünün
+[1324.10s - 1325.28s] daha sonra 2 ay sonra
+[1325.28s - 1326.42s] Y'den bir şey gelir.
+[1326.52s - 1327.46s] Bunlar farklıdır.
+[1328.30s - 1329.06s] Birisi NLP'dir.
+[1329.14s - 1330.10s] Birisi Time seristir.
+[1330.20s - 1331.68s] Ama tabi burada öyle bir şey
+[1331.68s - 1332.62s] mümkün değil.
+[1334.44s - 1334.86s] Yani
+[1334.86s - 1335.98s] onun için
+[1335.98s - 1337.18s] danışmanlık şirketi aslında
+[1337.18s - 1338.64s] kendinizi geliştirmek için
+[1338.64s - 1339.84s] yani o tarz bir şirket
+[1339.84s - 1340.92s] daha iyi olabilir.
+[1341.08s - 1341.26s] Çünkü
+[1342.18s - 1344.08s] farklı konseptlere dokunmak
+[1344.92s - 1345.90s] daha iyi olabilir.
+[1346.08s - 1346.18s] Ama
+[1346.18s - 1347.84s] günün sonunda sanırım
+[1347.84s - 1349.20s] bir şeyde
+[1349.20s - 1350.60s] uzman olmak istersiniz.
+[1350.60s - 1351.50s] yani bütün hepsinde
+[1351.50s - 1352.74s] uzman olabilir misiniz?
+[1353.54s - 1355.04s] Yani çok çalışırsanız
+[1355.04s - 1355.36s] belki
+[1356.00s - 1356.56s] olabilir.
+[1356.74s - 1357.16s] Ama o kadar
+[1357.16s - 1358.12s] enerjiniz var mı?
+[1359.94s - 1360.50s] Diyemiyorum.
+[1361.10s - 1361.60s] Değil mi?
+[1362.16s - 1362.16s] 
+[1362.16s - 1362.72s] ya
+[1362.72s - 1363.56s] şu anda hani
+[1363.56s - 1365.32s] NLP ve LLM tarafında
+[1365.32s - 1366.58s] ciddi bir hype var ya
+[1367.22s - 1368.34s] sizin şirkette
+[1368.34s - 1369.34s] bu tarafta yapılan
+[1369.34s - 1370.24s] ürünler var mı?
+[1370.70s - 1371.26s] Veya
+[1371.26s - 1372.22s] senin o tarafa
+[1372.22s - 1372.54s] hiç
+[1373.14s - 1374.18s] kanalize olman gibi
+[1374.18s - 1374.84s] bir durum var mı?
+[1374.92s - 1376.06s] Full tabularım dedin ama
+[1376.06s - 1377.08s] o tarafta böyle
+[1377.08s - 1377.52s] farklı
+[1377.52s - 1378.98s] atraksiyonlar olacak mı?
+[1379.02s - 1379.70s] Sen ne düşünüyorsun?
+[1382.40s - 1383.16s] Genelde
+[1383.16s - 1383.70s] LLM'ler
+[1383.70s - 1384.24s] insanlar
+[1384.24s - 1385.62s] yani bu tarz
+[1385.62s - 1386.36s] şirketlerde
+[1386.36s - 1387.20s] şunun için kullanıyor.
+[1387.48s - 1388.04s] Yani bir
+[1388.04s - 1389.72s] ürün var
+[1389.72s - 1390.82s] bu şirketin çıkardığı.
+[1390.90s - 1391.64s] Bu herhangi bir şirket
+[1391.64s - 1392.02s] olabilir.
+[1392.44s - 1393.60s] Bu üründe
+[1395.18s - 1396.52s] kimsenin bakmadığı
+[1396.52s - 1397.66s] yardım sayfası vardır.
+[1398.14s - 1398.24s] Hani
+[1398.24s - 1399.76s] dokümentasyon vardır.
+[1399.88s - 1400.40s] Hani mesela
+[1400.40s - 1401.26s] böyle 10 sayfa
+[1401.26s - 1402.00s] kimsenin okumadı.
+[1403.12s - 1403.78s] bunu
+[1403.78s - 1405.06s] LLM ile
+[1405.06s - 1405.68s] replace
+[1406.54s - 1407.20s] edebiliyorlar.
+[1408.14s - 1409.12s] Öyle söyleyeyim.
+[1409.18s - 1410.02s] Onun haricinde
+[1410.02s - 1410.70s] çok fazla
+[1410.70s - 1411.68s] yüz case var mı?
+[1412.00s - 1412.48s] Mesela benim
+[1412.48s - 1413.64s] sigorta şirketi
+[1413.64s - 1414.06s] LLM
+[1414.90s - 1416.08s] yani çok fazla
+[1416.08s - 1416.66s] yok.
+[1416.90s - 1417.34s] Genelde
+[1417.34s - 1418.82s] LLM dediğimiz zaman
+[1418.82s - 1419.98s] bir
+[1419.98s - 1421.18s] metni
+[1421.18s - 1421.96s] veya dokümanı
+[1421.96s - 1422.82s] analiz edip
+[1422.82s - 1423.50s] ondan bir sonuç
+[1423.50s - 1424.06s] çıkarmaya
+[1424.06s - 1425.12s] yönelik
+[1425.12s - 1425.86s] projeler oluyor.
+[1426.04s - 1426.36s] Öyle söyleyeyim.
+[1426.46s - 1427.42s] Hani böyle çok uçan kaçan
+[1427.42s - 1428.06s] şeyler olmuyor.
+[1428.06s - 1429.60s] Doğru doğru.
+[1429.80s - 1429.88s] Yani
+[1429.88s - 1430.42s] Malta
+[1430.42s - 1431.42s] Agent gibi bir şeyler de
+[1431.42s - 1432.16s] yoktur muhtemelen.
+[1432.34s - 1432.70s] Dümdüz
+[1432.70s - 1432.86s] hani
+[1432.86s - 1433.22s] rock
+[1433.22s - 1433.62s] sıfır
+[1433.62s - 1434.18s] temperature
+[1434.18s - 1435.86s] arkada sadece
+[1435.86s - 1436.46s] dokümanı
+[1436.46s - 1437.10s] dönüversin.
+[1437.34s - 1437.86s] Arkadaşlar
+[1437.86s - 1438.18s] uzak kilo
+[1438.18s - 1438.82s] nevdir yani
+[1438.82s - 1439.60s] öyle söyleyeyim sana.
+[1441.22s - 1441.60s] O kadar.
+[1444.16s - 1445.02s] Şeyi sorayım
+[1445.02s - 1445.16s] ya
+[1445.16s - 1445.92s] bir günün
+[1445.92s - 1446.54s] nasıl geçiyor
+[1446.54s - 1447.22s] iş yerinde?
+[1447.40s - 1448.02s] Uzaktan mı
+[1448.02s - 1448.54s] çalışıyorsun?
+[1448.72s - 1449.24s] İngiltere'de
+[1449.24s - 1449.62s] hibrit mi
+[1449.62s - 1450.18s] çalışıyorsun?
+[1450.56s - 1451.08s] Nasıl
+[1451.08s - 1451.74s] yapıyorsun?
+[1453.38s - 1454.10s] Hibrit
+[1454.10s - 1455.50s] çalışıyoruz.
+[1456.88s - 1457.60s] Orada
+[1457.60s - 1458.38s] değişiyor
+[1458.38s - 1459.24s] ofis günleri.
+[1459.46s - 1459.56s] Hani
+[1459.56s - 1460.72s] bir iki gün
+[1460.72s - 1461.22s] belirlediğimiz
+[1461.22s - 1461.96s] ofis günleri
+[1461.96s - 1462.70s] olur mesela.
+[1463.44s - 1464.28s] O zaman
+[1464.28s - 1464.88s] gidilir.
+[1464.94s - 1465.18s] Ve işte
+[1465.18s - 1465.92s] bir önemli
+[1465.92s - 1466.62s] bir toplantı
+[1466.62s - 1466.80s] olur.
+[1466.86s - 1467.16s] Veya bir
+[1467.16s - 1468.14s] başka bir
+[1468.14s - 1468.82s] ilk event
+[1468.82s - 1469.06s] olur.
+[1469.20s - 1469.76s] İşte nedir?
+[1469.96s - 1470.52s] Etkinlik
+[1470.52s - 1470.76s] olur.
+[1471.02s - 1471.52s] O zaman
+[1471.52s - 1471.84s] gidilir.
+[1471.88s - 1472.14s] Ama onun
+[1472.14s - 1472.78s] haricinde
+[1473.90s - 1475.08s] bir şey var
+[1475.08s - 1475.20s] yani
+[1475.20s - 1475.88s] nasıl diyebilirim?
+[1476.28s - 1476.56s] Bu
+[1476.56s - 1477.82s] bir güven var
+[1477.82s - 1478.44s] insana.
+[1478.58s - 1478.68s] Hani
+[1478.68s - 1479.68s] tamam sen
+[1479.68s - 1480.54s] biz seni
+[1480.54s - 1481.14s] beş gün ofiste
+[1481.14s - 1481.68s] istemiyoruz.
+[1481.84s - 1482.06s] Okey.
+[1482.26s - 1482.40s] Ama
+[1482.40s - 1483.28s] biz sana da
+[1483.28s - 1483.76s] güveniyoruz.
+[1484.08s - 1484.98s] Sana güveniyoruz ki
+[1484.98s - 1486.22s] sen işi bitireceksin.
+[1488.12s - 1488.90s] böyle bir
+[1488.90s - 1489.40s] şey var
+[1489.40s - 1489.70s] yani.
+[1490.44s - 1491.00s] Onun
+[1491.00s - 1491.56s] haricinde
+[1491.56s - 1492.66s] bir gün
+[1492.66s - 1492.90s] nasıl
+[1492.90s - 1493.40s] geçiyor?
+[1494.04s - 1494.60s] Yani
+[1494.60s - 1495.08s] değişiyor.
+[1495.18s - 1495.28s] Çok
+[1495.28s - 1495.90s] atraksiyonlu
+[1495.90s - 1496.22s] günler
+[1496.22s - 1496.52s] doluyor.
+[1496.64s - 1497.26s] Öyle söyleyebilirim
+[1497.26s - 1497.48s] yani.
+[1497.94s - 1498.34s] Böyle çok
+[1499.60s - 1500.54s] yoğun olmayan
+[1500.54s - 1501.24s] günler doluyor.
+[1501.40s - 1501.40s] 
+[1501.40s - 1501.82s] değişiyor.
+[1501.98s - 1501.98s] 
+[1501.98s - 1502.44s] böyle bir
+[1502.44s - 1503.58s] ara ara
+[1503.58s - 1503.76s] böyle
+[1503.76s - 1504.40s] deadline'lar
+[1504.40s - 1504.60s] gelir.
+[1504.76s - 1505.50s] Sıkışırsınız ya.
+[1505.98s - 1506.52s] Burada da aynı
+[1506.52s - 1507.08s] şekilde oluyor.
+[1507.32s - 1507.32s] 
+[1507.32s - 1507.50s] bir
+[1507.50s - 1507.98s] release
+[1507.98s - 1509.14s] zamanı oluyor
+[1509.14s - 1509.68s] yazılım
+[1509.68s - 1510.32s] süreçinde.
+[1510.92s - 1511.16s] Yani
+[1511.16s - 1511.52s] bir şeyi
+[1511.52s - 1511.86s] böyle
+[1512.44s - 1513.00s] yaparsanız
+[1513.00s - 1513.62s] yaparsanız
+[1513.62s - 1514.02s] bütün her
+[1514.02s - 1514.22s] şey
+[1514.22s - 1515.78s] böyle ortaya
+[1515.78s - 1516.10s] konur.
+[1516.24s - 1516.72s] Ve daha sonra
+[1516.72s - 1517.42s] o
+[1518.24s - 1519.10s] end to end
+[1519.10s - 1519.78s] çalışacak olur.
+[1520.08s - 1520.70s] İşte o end to end
+[1520.70s - 1521.74s] çalışma süreçleri
+[1521.74s - 1522.84s] biraz zordur.
+[1522.92s - 1523.40s] Bütün parçaları
+[1523.40s - 1523.78s] bir araya
+[1523.78s - 1524.14s] getirdik.
+[1524.34s - 1524.52s] Böyle hani
+[1524.52s - 1524.74s] bütün
+[1524.74s - 1525.36s] legoları
+[1525.92s - 1526.78s] koyup gibi.
+[1527.22s - 1527.52s] İşte o
+[1527.52s - 1528.74s] yıkmadan onu
+[1528.74s - 1529.72s] bir şekilde
+[1529.72s - 1530.22s] çalıştırmak
+[1530.22s - 1530.82s] gerekiyor bazen.
+[1530.90s - 1531.46s] Oralarda
+[1531.46s - 1531.98s] tabii
+[1533.44s - 1534.72s] fazla çalıştığımız
+[1534.72s - 1535.24s] zamanlar
+[1535.24s - 1535.82s] oluyordur
+[1535.82s - 1536.32s] mutlaka.
+[1537.12s - 1538.16s] O şekilde.
+[1539.30s - 1540.06s] Şöyle bir
+[1540.06s - 1540.94s] hikayem var mı ya?
+[1541.36s - 1542.00s] Modeli
+[1542.00s - 1542.80s] yaptınız
+[1542.80s - 1543.34s] yaptınız
+[1543.34s - 1543.90s] yaptınız.
+[1544.22s - 1545.18s] bakıyorsunuz
+[1545.18s - 1545.76s] karlılık
+[1545.76s - 1545.96s] iyi.
+[1546.66s - 1547.30s] Şirkete
+[1547.30s - 1547.66s] geçili
+[1547.66s - 1547.96s] güzel.
+[1548.42s - 1549.06s] Herkes
+[1549.06s - 1549.64s] üst yönetimi
+[1549.64s - 1550.16s] okeylemiş
+[1550.16s - 1550.44s] falan.
+[1550.68s - 1551.32s] Artık
+[1551.32s - 1551.52s] buna
+[1551.52s - 1552.32s] diploiladınız
+[1552.32s - 1553.38s] bir baktınız
+[1553.38s - 1554.56s] çok acayip
+[1554.56s - 1555.14s] şeyler oluyor.
+[1555.76s - 1556.36s] Şirket bir anda
+[1556.36s - 1557.06s] inanılmaz paralar
+[1557.06s - 1557.54s] kaybetmeye
+[1557.54s - 1557.90s] başladı.
+[1558.20s - 1558.32s] Çok
+[1558.32s - 1559.16s] apır sapır
+[1559.16s - 1559.98s] tahminler çıkıyor.
+[1560.34s - 1561.14s] Belki işte
+[1561.14s - 1562.18s] periyotlama
+[1562.18s - 1562.88s] hatası olur.
+[1563.40s - 1564.08s] İşte orada
+[1564.08s - 1564.54s] bir drift
+[1564.54s - 1564.80s] olur.
+[1565.02s - 1565.48s] Veya
+[1565.48s - 1566.16s] data leak
+[1566.16s - 1567.12s] sen daha
+[1567.12s - 1568.22s] iyi bilirsin
+[1568.22s - 1568.52s] leakage
+[1568.52s - 1569.52s] denen belki
+[1569.52s - 1570.36s] modelin
+[1570.36s - 1570.86s] treninde
+[1570.86s - 1571.40s] böyle bir
+[1571.40s - 1571.66s] sorun
+[1571.66s - 1571.80s] olur.
+[1571.88s - 1572.10s] Böyle bir
+[1572.10s - 1572.70s] hikayen var mı
+[1572.70s - 1572.82s] hiç?
+[1572.90s - 1573.04s] Böyle
+[1573.04s - 1573.66s] proz çıkıp
+[1573.66s - 1574.22s] patladığınız?
+[1576.38s - 1577.28s] O kadar
+[1577.28s - 1578.38s] soru sordun ama
+[1578.38s - 1579.48s] senin yüzmek
+[1579.48s - 1580.24s] olmasın öyle bir
+[1580.24s - 1580.98s] şeyimiz yok.
+[1581.96s - 1583.14s] Öyle bir şey olmadı.
+[1583.80s - 1584.84s] çünkü şöyle
+[1585.76s - 1586.64s] öyle bir şey
+[1586.64s - 1587.36s] olursa
+[1588.46s - 1589.40s] başa dönmek
+[1589.40s - 1589.88s] gerekir.
+[1589.98s - 1590.60s] Başa dönünce
+[1590.60s - 1590.98s] ne olur?
+[1591.36s - 1591.90s] 3 ay harcat
+[1591.90s - 1592.88s] mesela sallıyorum.
+[1593.30s - 1593.54s] Çünkü
+[1593.54s - 1594.58s] süreçler uzun
+[1594.58s - 1594.88s] sürer.
+[1595.12s - 1595.12s] 
+[1595.12s - 1597.00s] model seçilir.
+[1597.22s - 1597.40s] İşte onun
+[1597.40s - 1598.42s] üstüne tartışılır.
+[1599.40s - 1600.38s] Test edeceğiniz
+[1600.38s - 1600.86s] veri setli
+[1600.86s - 1601.44s] belirlenir.
+[1601.70s - 1601.78s] İşte
+[1601.78s - 1602.62s] gibi gibi
+[1602.62s - 1603.02s] süreçler.
+[1603.12s - 1603.56s] Bunlar zaman
+[1603.56s - 1603.90s] alır.
+[1604.56s - 1604.84s] Hem
+[1604.84s - 1605.42s] orada
+[1606.10s - 1607.14s] enerji kaybı
+[1607.14s - 1607.28s] var.
+[1607.28s - 1607.70s] Hem işte
+[1607.70s - 1608.32s] kaynak olarak
+[1608.32s - 1608.84s] kayıp var.
+[1609.20s - 1609.84s] Kötü olur.
+[1609.96s - 1610.22s] Yani öyle
+[1610.22s - 1611.04s] olmasını istemeyiz
+[1611.04s - 1611.52s] maalesef.
+[1613.42s - 1613.86s] Bu
+[1613.86s - 1614.52s] kaç kişilik
+[1614.52s - 1615.34s] ekimsiniz bu arada?
+[1617.12s - 1618.04s] Onu söyleyemiyoruz
+[1618.04s - 1618.84s] maalesef herhalde.
+[1619.66s - 1620.98s] Onu söyleyemiyoruz
+[1620.98s - 1621.50s] maalesef.
+[1622.14s - 1622.90s] Onu da mı
+[1622.90s - 1623.48s] söyleyemiyoruz
+[1623.48s - 1623.68s] ya?
+[1625.08s - 1626.06s] Peki
+[1626.06s - 1626.60s] mesela
+[1626.60s - 1628.00s] mesai bitirdin.
+[1628.18s - 1628.48s] Artık
+[1628.48s - 1629.04s] bilgisayarın
+[1629.04s - 1629.70s] kapağını
+[1629.70s - 1630.42s] indirdin.
+[1630.52s - 1630.98s] Ondan sonra
+[1630.98s - 1631.38s] ne yapıyorsun?
+[1633.16s - 1634.54s] Ondan sonra
+[1636.00s - 1637.48s] ne yapıyorum?
+[1638.16s - 1638.42s] Kendi
+[1638.42s - 1638.98s] çalışacağım
+[1638.98s - 1639.32s] şeylere
+[1639.32s - 1639.62s] bakıyorum
+[1639.62s - 1640.08s] açıkçası.
+[1640.30s - 1640.38s] Yani
+[1640.38s - 1640.68s] iş
+[1640.68s - 1641.12s] ayrı.
+[1641.20s - 1641.64s] Benim kendi
+[1641.64s - 1642.74s] geçmek istediğim
+[1642.74s - 1643.42s] yerler ayrı.
+[1643.94s - 1644.92s] O tarz
+[1644.92s - 1645.24s] şeylere
+[1645.24s - 1645.78s] yöneliyorum.
+[1646.02s - 1647.02s] Belki böyle
+[1647.02s - 1647.74s] çok ekstrem
+[1647.74s - 1648.10s] bir durum
+[1648.10s - 1648.46s] varsa
+[1648.46s - 1648.88s] mesela
+[1648.88s - 1649.42s] bittikten
+[1649.42s - 1650.80s] bilgisayar sonradan
+[1650.80s - 1651.74s] akşamüstü
+[1651.74s - 1651.98s] falan
+[1651.98s - 1653.50s] kod veya
+[1653.50s - 1654.18s] test yazılım
+[1654.18s - 1654.60s] oluyor ama
+[1654.60s - 1655.64s] çok
+[1655.64s - 1656.88s] sık değil
+[1656.88s - 1657.22s] yani öyle
+[1657.22s - 1657.62s] söyleyeyim.
+[1659.38s - 1660.12s] Burada
+[1660.12s - 1660.86s] hobilerin
+[1660.86s - 1661.26s] var mı
+[1661.26s - 1661.58s] mesela?
+[1662.46s - 1663.18s] İş dışında
+[1663.18s - 1663.84s] farklı
+[1663.84s - 1664.54s] nelerle
+[1664.54s - 1664.94s] ulaşıyorsun?
+[1666.66s - 1667.96s] İş dışında
+[1667.96s - 1668.72s] farklı nelerle
+[1668.72s - 1669.18s] ulaşıyorum?
+[1669.42s - 1669.60s] Şimdi
+[1669.60s - 1670.40s] gelmeden önce
+[1670.40s - 1670.88s] chatten
+[1670.88s - 1671.54s] biri bir şey
+[1671.54s - 1672.02s] yazmış.
+[1672.84s - 1673.52s] Onur
+[1673.52s - 1673.94s] bir şey
+[1673.94s - 1674.44s] yazmış.
+[1674.90s - 1674.98s] Çok
+[1674.98s - 1675.64s] şeyime gitti.
+[1675.88s - 1676.36s] Benim bu
+[1678.10s - 1679.28s] tartıştığımız konuların
+[1679.28s - 1680.14s] bir tanesi bu.
+[1680.40s - 1680.82s] Kategorik
+[1680.82s - 1681.30s] feature'ler
+[1681.30s - 1681.60s] label
+[1681.60s - 1682.08s] encoding
+[1682.08s - 1683.28s] yapıyorum.
+[1683.48s - 1683.90s] Hocam doğru
+[1683.90s - 1684.18s] değil mi?
+[1684.36s - 1684.48s] Demiş.
+[1685.30s - 1686.42s] Böyle bir şey
+[1686.42s - 1687.04s] vardı aslında.
+[1687.42s - 1688.32s] Böyle bir hikaye
+[1688.32s - 1688.66s] vardı.
+[1689.48s - 1689.88s] Hani
+[1689.88s - 1690.72s] sen sormuşsun ya
+[1690.72s - 1691.30s] diplo ettiniz
+[1691.30s - 1692.06s] patladım
+[1692.06s - 1692.62s] falan diye.
+[1693.12s - 1695.14s] İlk şey aşamasında
+[1695.14s - 1695.74s] bu
+[1695.74s - 1697.10s] prototip aşamasında
+[1697.10s - 1697.98s] birisi yazmış.
+[1698.28s - 1698.86s] Ama
+[1698.86s - 1699.90s] kategorik
+[1699.90s - 1700.70s] feature'lara
+[1700.70s - 1701.00s] label
+[1701.00s - 1701.38s] encoder
+[1701.38s - 1702.06s] uygulayarak
+[1702.06s - 1702.48s] yazmış.
+[1703.06s - 1703.60s] Şimdi
+[1703.60s - 1704.08s] burada bir
+[1704.08s - 1704.88s] sıkıntı oluyor.
+[1705.84s - 1706.76s] süreç doğru
+[1706.76s - 1707.04s] değil.
+[1708.12s - 1708.24s] Hani
+[1708.24s - 1709.34s] olabildiğince
+[1709.34s - 1710.18s] doğru yapmamız
+[1710.18s - 1710.56s] gerekir.
+[1710.62s - 1711.08s] Mesela onu
+[1711.08s - 1711.66s] erkenden
+[1711.66s - 1712.00s] görüp
+[1712.00s - 1712.78s] düzeltmiştik.
+[1713.00s - 1713.76s] İleride çok
+[1713.76s - 1714.46s] ekstrem bir
+[1714.46s - 1714.86s] sorun olur
+[1714.86s - 1715.12s] muydu
+[1715.12s - 1715.40s] model
+[1715.40s - 1716.06s] performans
+[1716.06s - 1716.58s] açısından?
+[1718.20s - 1718.82s] Tartışılır.
+[1719.00s - 1719.08s] Çok
+[1719.08s - 1719.80s] hani böyle
+[1719.80s - 1720.72s] model 95
+[1720.72s - 1721.42s] skor veriyorken
+[1721.42s - 1721.86s] ben 90
+[1721.86s - 1722.26s] verecek
+[1722.26s - 1722.68s] hali yok.
+[1722.68s - 1723.18s] ama
+[1723.18s - 1724.28s] burada
+[1725.06s - 1726.16s] siz ileride
+[1726.16s - 1726.52s] nasıl bir
+[1726.52s - 1726.88s] veri
+[1726.88s - 1727.66s] geleceğini
+[1727.66s - 1728.22s] bilmediğiniz
+[1728.22s - 1728.46s] için
+[1728.46s - 1729.28s] bu
+[1729.28s - 1730.02s] işte
+[1730.02s - 1731.04s] bilinmezliğe
+[1731.04s - 1731.54s] hazırlıklı
+[1731.54s - 1732.22s] olmak gerekir.
+[1732.66s - 1732.98s] Label
+[1732.98s - 1733.36s] encoder
+[1733.36s - 1733.94s] dediğimiz
+[1733.94s - 1734.90s] saygı
+[1734.90s - 1735.32s] kullanan
+[1735.32s - 1735.64s] klas
+[1735.64s - 1737.10s] bunu sağlamadığı
+[1737.10s - 1737.38s] için onu
+[1737.38s - 1737.94s] değiştirerek
+[1737.94s - 1738.34s] gitmiştik
+[1738.34s - 1738.66s] mesela.
+[1739.74s - 1740.18s] Bu da baya
+[1740.18s - 1740.66s] bir şey oldu
+[1740.66s - 1740.84s] aslında.
+[1740.98s - 1741.30s] Meme oldu.
+[1741.38s - 1741.96s] Data leak gibi
+[1741.96s - 1742.40s] yani üstüme
+[1742.40s - 1742.84s] yapıştı.
+[1743.22s - 1744.28s] Bir data leak
+[1744.28s - 1744.82s] bir de bu
+[1744.82s - 1745.64s] label encoder
+[1745.64s - 1746.18s] yani üstüme
+[1746.18s - 1746.40s] yapıştı.
+[1747.40s - 1748.04s] Label
+[1748.04s - 1748.62s] encoder'ı
+[1748.62s - 1748.86s] sadece
+[1748.86s - 1749.50s] label'larda
+[1749.50s - 1750.28s] kullanmalıyız.
+[1751.06s - 1751.44s] Evet.
+[1751.62s - 1752.08s] O direkt
+[1755.06s - 1756.50s] o yazıyor
+[1756.50s - 1757.04s] yani gerçekten
+[1757.04s - 1757.54s] sadece
+[1757.54s - 1758.28s] label'larda
+[1758.28s - 1759.18s] kullanılmalı.
+[1759.26s - 1759.82s] Ama bu
+[1759.82s - 1761.34s] yeni başlayan kişiler
+[1761.34s - 1762.04s] mesela çok fazla
+[1762.04s - 1762.80s] GPT ile
+[1762.80s - 1764.20s] pipeline yazdırıyor.
+[1764.38s - 1764.68s] İşte adam
+[1764.68s - 1765.96s] diyor ki işte
+[1765.96s - 1766.78s] benim böyle böyle
+[1766.78s - 1767.60s] bir kodum var
+[1767.60s - 1768.54s] şöyle değişkenler var
+[1768.54s - 1769.44s] şuna bir modeli
+[1769.44s - 1770.02s] kuruver diyor.
+[1770.42s - 1771.02s] GPT de
+[1771.02s - 1772.26s] böyle gördüğü
+[1772.26s - 1773.22s] tüm kategorikleri
+[1773.22s - 1774.00s] label encoder
+[1774.00s - 1774.34s] atıyor.
+[1774.68s - 1775.42s] Yani bu
+[1775.42s - 1776.76s] yeni başlayan
+[1776.76s - 1777.12s] tarafta
+[1777.12s - 1778.10s] çok çok fazla
+[1778.10s - 1778.78s] yapılan bir şey.
+[1779.50s - 1780.26s] Ben de
+[1780.26s - 1780.82s] hatta
+[1780.82s - 1781.44s] bana böyle
+[1781.44s - 1782.28s] yazanlara falan
+[1782.28s - 1783.40s] bunu gördüğüm
+[1783.40s - 1783.60s] vakit
+[1783.60s - 1784.12s] senin videonuna
+[1784.12s - 1784.46s] atıyorum.
+[1785.60s - 1786.82s] Abi şu videoyu
+[1786.82s - 1787.38s] izlen neden
+[1787.38s - 1788.22s] kullanmamalıyız
+[1788.22s - 1788.64s] bir gör
+[1788.64s - 1789.38s] bir öğren
+[1789.38s - 1790.28s] neye sebebiyet
+[1790.28s - 1790.82s] veriyor falan
+[1790.82s - 1791.08s] diye.
+[1791.52s - 1792.02s] O tarafta
+[1792.02s - 1792.84s] videolar gerçekten
+[1792.84s - 1793.34s] çok iyi.
+[1793.74s - 1794.28s] Hatta
+[1794.28s - 1795.04s] geri gelmişken
+[1795.04s - 1795.68s] o konuya da
+[1795.68s - 1796.90s] değinebiliriz.
+[1796.94s - 1797.16s] Senin bir
+[1797.16s - 1797.72s] YouTube kanalım
+[1797.72s - 1797.98s] var.
+[1798.40s - 1799.04s] Ve şu anda
+[1799.04s - 1800.00s] hatta şey koymuşsun
+[1800.00s - 1800.62s] alt tarafa.
+[1801.40s - 1802.08s] Orada
+[1802.08s - 1802.68s] çok güzel
+[1802.68s - 1802.94s] hani
+[1802.94s - 1803.78s] DS tarafında
+[1803.78s - 1804.76s] videolarım var.
+[1805.26s - 1806.26s] Hatta yani
+[1806.26s - 1807.02s] TR'de
+[1807.02s - 1807.80s] bulamayacağınız
+[1807.80s - 1808.44s] videolar bunlar.
+[1808.44s - 1810.18s] çok böyle
+[1810.18s - 1811.62s] bootcamp'lerde bile
+[1811.62s - 1813.28s] çok değinilmeyen
+[1813.28s - 1813.86s] üstün körü
+[1813.86s - 1814.22s] geçilen
+[1814.22s - 1815.38s] şeylere
+[1815.38s - 1815.76s] değiniyor.
+[1815.84s - 1816.16s] Çok güzel
+[1816.16s - 1816.66s] videolar var
+[1816.66s - 1817.40s] gerçekten de.
+[1818.32s - 1818.74s] O süreç
+[1818.74s - 1819.32s] nasıl başladı?
+[1820.78s - 1821.50s] YouTube
+[1821.50s - 1822.42s] nasıl başladı?
+[1823.36s - 1824.18s] Dediğim gibi
+[1824.18s - 1824.64s] aslında bu
+[1824.64s - 1825.36s] bootcamp'lerde
+[1825.36s - 1825.90s] değinilmeyen
+[1825.90s - 1826.30s] konular
+[1826.30s - 1826.66s] vesaire
+[1826.66s - 1827.10s] var ya
+[1827.10s - 1827.52s] hani
+[1827.52s - 1828.70s] LinkedIn'de
+[1828.70s - 1829.66s] önümüze çıkıyor.
+[1829.94s - 1830.28s] İşte birisi
+[1830.28s - 1831.08s] bir proje yapıyor.
+[1831.74s - 1832.36s] 20 kişiye
+[1832.36s - 1832.92s] etiketliyor.
+[1833.36s - 1833.38s] İşte
+[1833.38s - 1834.82s] GitHub linkini
+[1834.82s - 1835.38s] falan atıyor.
+[1837.40s - 1838.64s] sonra ben
+[1838.64s - 1839.62s] hani
+[1839.62s - 1840.42s] ölüme düştükçe
+[1840.42s - 1841.72s] kaç
+[1841.72s - 1842.78s] 2022 falan
+[1842.78s - 1843.06s] hani
+[1843.06s - 1844.46s] şu anki olduğumdan
+[1844.46s - 1845.02s] hani daha az
+[1845.02s - 1845.86s] tecrübeli kendim
+[1845.86s - 1846.88s] bunları inceliyordum.
+[1847.10s - 1848.22s] Ve sonra gözüme
+[1848.22s - 1848.98s] böyle bazı şeyler
+[1848.98s - 1849.84s] çarpmaya başladım.
+[1850.30s - 1850.70s] Şimdi bir
+[1851.72s - 1853.04s] yapılan projelerin
+[1853.04s - 1853.98s] neredeyse çoğu
+[1853.98s - 1854.16s] hani
+[1854.16s - 1855.06s] duplike gibi
+[1855.06s - 1855.56s] hani böyle
+[1855.56s - 1856.68s] çok ufak tefek
+[1856.68s - 1857.36s] farklılıklar var.
+[1857.52s - 1857.96s] Hatta bazı
+[1857.96s - 1858.80s] fonksiyonlar var.
+[1859.40s - 1860.54s] Aynı isimle
+[1860.54s - 1861.12s] hani ben artık
+[1861.12s - 1861.84s] ezberledim yani
+[1861.84s - 1862.60s] ismini göre göre
+[1862.60s - 1863.02s] yani hatta
+[1863.02s - 1863.62s] şu an açayım
+[1863.62s - 1864.62s] mesela bir tanesi.
+[1864.62s - 1866.34s] hani o fonksiyon vardır
+[1866.34s - 1867.16s] yani öyle söyleyeyim.
+[1867.42s - 1868.06s] Yani o kadar çok
+[1868.06s - 1869.30s] böyle copy paste gidiyor ki
+[1871.62s - 1872.98s] çok nasıl
+[1872.98s - 1873.64s] diyeyim yani
+[1873.64s - 1875.16s] bir şey yapmak
+[1875.16s - 1875.80s] istiyorsak arkadaşlar
+[1875.80s - 1876.92s] bu alanda
+[1876.92s - 1877.66s] birazcık böyle
+[1877.66s - 1878.38s] değiştirip
+[1878.38s - 1879.06s] sonuçlarımı
+[1879.06s - 1879.50s] nasıl etkiliyor
+[1879.50s - 1880.20s] buna bakmamız lazım.
+[1880.38s - 1881.86s] Yani deneysel kısmı
+[1881.86s - 1883.32s] önemli burada.
+[1884.16s - 1885.24s] Sonra baktım
+[1885.24s - 1886.34s] birkaç hata
+[1886.34s - 1887.12s] görmeye başladım.
+[1887.28s - 1888.00s] Hani kendim önce
+[1888.00s - 1889.04s] öğrendim.
+[1889.26s - 1889.80s] Özellikle
+[1889.80s - 1890.52s] Reddit Destek
+[1890.52s - 1891.12s] Overflow'da
+[1891.12s - 1892.14s] gördüklerimle
+[1892.14s - 1893.00s] başladı bu süreç.
+[1893.54s - 1894.38s] İşte baktım
+[1894.38s - 1895.46s] bazı böyle
+[1895.46s - 1896.62s] gözüme çarpan
+[1897.50s - 1898.22s] yanlışlar var.
+[1898.42s - 1899.12s] Hani kod
+[1899.12s - 1899.80s] sintaks olarak
+[1899.80s - 1900.28s] doğru.
+[1900.54s - 1901.26s] Yani kod çalışıyor
+[1901.26s - 1902.46s] onda bir sıkıntı yok.
+[1902.68s - 1904.14s] Ama süreç yanlış.
+[1904.32s - 1905.54s] Modelleme süreci yanlış.
+[1906.16s - 1906.74s] Bunu
+[1906.74s - 1908.06s] görmeye başladım.
+[1908.20s - 1908.48s] Ve bu
+[1908.48s - 1910.18s] bayağı olmaya başladı.
+[1910.36s - 1911.04s] Hatta bayağı bayağı
+[1911.04s - 1911.60s] görmeye başladım.
+[1911.76s - 1912.72s] Çok baktıkça böyle artık
+[1912.72s - 1913.82s] gözüme çarpmaya başladı.
+[1914.88s - 1916.08s] dedim ki
+[1916.08s - 1916.64s] tamam ben
+[1916.64s - 1918.38s] YouTube kanalı açayım
+[1918.38s - 1919.08s] madem.
+[1919.38s - 1919.72s] Hani öyle
+[1919.72s - 1920.46s] böyle
+[1920.46s - 1921.44s] sıkıldıkça falan
+[1921.44s - 1922.10s] video atarım.
+[1922.56s - 1923.14s] Genelde
+[1923.14s - 1923.84s] ayda bir iki
+[1923.84s - 1924.74s] defa video atıyorum
+[1924.74s - 1925.52s] vakit buldukça.
+[1925.96s - 1926.86s] Bu konularla
+[1926.86s - 1927.64s] değinmiş olurum.
+[1927.84s - 1928.72s] Hem kendi bilgimde
+[1928.72s - 1929.46s] pekiştirmiş olurum.
+[1929.50s - 1929.94s] Çünkü mesela
+[1929.94s - 1930.88s] bir video hazırlamadan
+[1930.88s - 1932.00s] önce
+[1933.20s - 1934.64s] kendi kaynaklarım
+[1934.64s - 1935.12s] vesaire var.
+[1935.34s - 1935.46s] Mesela
+[1935.46s - 1935.98s] beşinle
+[1935.98s - 1937.28s] ilgili bir şey anlatacaksam.
+[1937.28s - 1938.16s] benim için öncelik kitabı var.
+[1938.40s - 1938.54s] Mesela
+[1938.54s - 1938.86s] böyle
+[1938.86s - 1940.30s] altı ciddi sayfalık.
+[1940.40s - 1941.14s] Mesela oradan bakıyorum
+[1941.14s - 1942.10s] matematik temeline.
+[1942.40s - 1943.46s] Kendimi tekrardan bir
+[1943.46s - 1944.32s] şey yapıyorum.
+[1944.36s - 1944.46s] Yani
+[1944.46s - 1945.42s] gözden geçiriyorum.
+[1945.78s - 1946.56s] O şekilden
+[1946.56s - 1947.60s] kendimde pekiştirmiş
+[1947.60s - 1947.80s] olduğunu
+[1947.80s - 1948.04s] hem
+[1948.04s - 1949.40s] farklı şeylerde
+[1949.40s - 1950.28s] faydalanmış oluyor.
+[1951.04s - 1951.88s] Anlatırken de
+[1951.88s - 1952.68s] basit indirgerek
+[1952.68s - 1953.68s] anlatmaya çalışıyorum.
+[1953.84s - 1954.06s] Yani
+[1954.06s - 1955.60s] işin bir kompleks kısmı var.
+[1955.66s - 1956.62s] Hiç anlaşılmayan
+[1956.62s - 1957.38s] hani
+[1957.38s - 1958.14s] nasıl derler?
+[1958.92s - 1960.38s] Anlaşılması zor olan kısmı var.
+[1960.52s - 1960.72s] Ama
+[1960.72s - 1961.98s] onu böyle
+[1962.92s - 1964.28s] bir öyküleştirerek
+[1964.28s - 1965.28s] bir hikayeleştirerek
+[1965.28s - 1965.94s] bir şekilde
+[1965.94s - 1967.18s] basit indirgediğimiz zaman
+[1967.18s - 1968.54s] aslında o kompleks kısım
+[1968.54s - 1969.76s] kaybolmuş oluyor.
+[1969.94s - 1971.02s] Asıl önemli olan şey
+[1971.02s - 1972.18s] orada o mantığını anlamak.
+[1972.66s - 1973.28s] Ben de aslında
+[1973.28s - 1973.60s] onu
+[1973.60s - 1975.08s] vermeye çalışıyorum.
+[1975.34s - 1976.56s] YouTube kanalında.
+[1977.82s - 1978.52s] Beklerim.
+[1978.84s - 1979.28s] Öyle söyleyeyim.
+[1980.82s - 1982.08s] Ben hatırlıyorum.
+[1982.16s - 1982.42s] Galiba
+[1982.42s - 1982.92s] ilk
+[1982.92s - 1984.46s] gittiğin zaman da
+[1984.46s - 1985.20s] İngiltere'ye
+[1985.20s - 1986.12s] YouTube kanalını da
+[1986.12s - 1987.48s] o dönemlerde açmıştın.
+[1987.82s - 1988.40s] Diye
+[1988.40s - 1989.14s] hatırlıyorum.
+[1989.46s - 1990.72s] Hatta ilk videolarından bir de
+[1990.72s - 1991.16s] graden
+[1991.16s - 1992.14s] diskant üzerineydi.
+[1992.40s - 1993.06s] Ve şeyden böyle
+[1995.04s - 1996.50s] kağıt üzerinde değil de
+[1996.50s - 1997.22s] direkt böyle
+[1998.44s - 1998.98s] matematiksel
+[1998.98s - 1999.98s] arka planda herhalde
+[1999.98s - 2000.46s] bir şeyler vardı.
+[2000.72s - 2002.02s] Animasyonlar dönüyordu böyle.
+[2002.94s - 2003.28s] Ya dedim
+[2003.28s - 2004.06s] TR tarafında
+[2004.06s - 2004.82s] güzel içerik.
+[2004.90s - 2006.32s] Böyle bir şey yok şu anda.
+[2006.90s - 2007.62s] Ama ondan sonra
+[2007.62s - 2008.68s] mesela kağıda geçişin
+[2008.68s - 2009.76s] bence daha güzel oldu.
+[2010.58s - 2011.20s] Adeta bir
+[2011.20s - 2012.56s] işte orada bir
+[2012.56s - 2013.10s] hocalık
+[2013.10s - 2013.98s] vibe'iyle birlikte
+[2013.98s - 2015.14s] böyle kalem kağıtla
+[2015.14s - 2016.78s] şeyleri özetlemen falan.
+[2017.00s - 2018.02s] Bence çok çok çok
+[2018.02s - 2018.84s] daha açıklayıcı.
+[2019.02s - 2019.46s] Güzel.
+[2019.72s - 2020.98s] Kod üzerinden de
+[2020.98s - 2022.42s] hem live coding yapıyorsun
+[2022.42s - 2023.12s] hem anlatıyorsun.
+[2023.20s - 2024.38s] O da ciddi bir eziyet.
+[2024.38s - 2026.12s] yani direkt olarak böyle videoların
+[2026.12s - 2026.58s] olması da
+[2026.58s - 2027.62s] TR tarafında
+[2027.62s - 2028.84s] çok çok kıymetli yani.
+[2029.78s - 2030.74s] Yani orada
+[2030.74s - 2031.30s] dediğim gibi
+[2031.30s - 2032.42s] gradient descent ile başladım.
+[2032.82s - 2033.66s] Onu yaparken
+[2033.66s - 2034.74s] bir ay falan uğraşmıştım
+[2034.74s - 2035.58s] yalan olmasın yani.
+[2035.84s - 2036.76s] Belki bir buçuk ay.
+[2036.98s - 2037.56s] Ama belli değil.
+[2037.90s - 2038.42s] O belli.
+[2039.56s - 2040.20s] Animasyonlar
+[2040.20s - 2040.84s] Python'da
+[2040.84s - 2042.12s] yapmıştım yani.
+[2042.26s - 2042.66s] Hani böyle
+[2042.66s - 2043.34s] Python'da
+[2043.34s - 2044.76s] Manim diye bir kütüphane var arkadaşlar.
+[2045.24s - 2046.24s] Veya da çete yazayım.
+[2047.64s - 2049.68s] Bu bir Python kütüphanesi.
+[2049.68s - 2050.76s] Burada kod yazarak
+[2050.76s - 2051.94s] animasyon yapıyorsunuz.
+[2051.94s - 2054.30s] o video kaç 19 dakika falan.
+[2054.84s - 2055.86s] Bayağı bir uğraşmıştım.
+[2055.98s - 2056.90s] Yani kütüphaneye de bilmiyorum.
+[2057.80s - 2057.92s] Hani
+[2058.92s - 2059.94s] garip bir şeydi yani.
+[2060.04s - 2060.74s] Böyle bayağı uğraşarak.
+[2060.86s - 2061.14s] Belki
+[2061.14s - 2062.56s] 1500 satıra yakın
+[2062.56s - 2063.48s] kod vardır belki.
+[2063.70s - 2064.56s] Hani çok iyi bir kod değil.
+[2064.64s - 2065.76s] Copy PSPF'a gitti ama
+[2065.76s - 2066.54s] yani sonuçta
+[2067.30s - 2068.50s] 1200'de 1300 satır
+[2068.98s - 2070.12s] arası bir şeydi yani.
+[2070.30s - 2071.34s] Hepsini sonra renderlıyor.
+[2071.44s - 2072.22s] Bir araya koyuyor.
+[2072.62s - 2073.90s] Ben sonra seslendiriyorum.
+[2074.06s - 2074.18s] İşte
+[2074.84s - 2076.26s] o şekilde bir videoydu.
+[2076.26s - 2077.30s] daha sonra işte
+[2077.30s - 2077.96s] kağıt kalem
+[2077.96s - 2078.80s] var.
+[2079.46s - 2080.40s] Orada da
+[2080.40s - 2081.20s] ana konseptleri
+[2081.20s - 2081.64s] anlattım.
+[2081.84s - 2082.42s] Özellikle işte bu
+[2082.42s - 2083.62s] data science kısmında.
+[2084.18s - 2084.68s] Daha sonra
+[2084.68s - 2085.68s] live coding'e
+[2085.68s - 2086.66s] birazcık kaydım.
+[2087.34s - 2087.48s] İşte
+[2087.48s - 2088.38s] sistem dizaynı
+[2088.38s - 2089.32s] yaptım bir tane.
+[2091.12s - 2091.92s] Öyle.
+[2094.28s - 2095.66s] Ya o videodaki
+[2095.66s - 2096.32s] emek gerçekten
+[2096.32s - 2096.94s] hissediliyor.
+[2097.24s - 2097.98s] Ama bir ay
+[2097.98s - 2099.02s] uğraştığını ben bilmiyorum.
+[2099.18s - 2099.82s] Gerçekten büyük
+[2099.82s - 2100.46s] emek yani.
+[2101.56s - 2102.46s] Helal olsun.
+[2102.46s - 2102.82s] Yani işte
+[2103.84s - 2104.86s] hafta sonları
+[2104.86s - 2105.10s] falan
+[2105.10s - 2106.02s] bakmıştım.
+[2106.16s - 2106.34s] Hani böyle
+[2106.34s - 2107.64s] yani 28 gün
+[2107.64s - 2108.44s] aralıksız değil
+[2108.44s - 2108.92s] tabii ama
+[2108.92s - 2109.22s] hani
+[2109.22s - 2110.46s] başladım
+[2110.46s - 2110.98s] bittim
+[2110.98s - 2111.68s] dediğim şey
+[2111.68s - 2112.28s] bir ay yani.
+[2112.58s - 2112.96s] Öyle söyleyeyim.
+[2114.62s - 2116.02s] Ya buraya geçerken
+[2116.02s - 2117.08s] chatten
+[2117.08s - 2119.02s] hain tavşanlar
+[2119.02s - 2119.78s] dediğin onur
+[2119.78s - 2120.10s] değil mi?
+[2120.34s - 2121.48s] Öyle gözüküyor
+[2121.48s - 2122.04s] en iki bende.
+[2122.50s - 2123.60s] Hain tavşanlar
+[2123.60s - 2123.86s] olarak
+[2125.20s - 2126.06s] Onur diyorum
+[2126.06s - 2126.66s] o zaman direkt.
+[2126.84s - 2127.60s] Hani ismi Onur'sa
+[2127.60s - 2128.38s] sen tanıyorsan.
+[2128.70s - 2129.44s] Onur, Onur.
+[2130.22s - 2130.86s] Evet.
+[2131.24s - 2131.90s] Ben şey
+[2131.90s - 2132.76s] fotoğrafı göremiyorum.
+[2132.84s - 2133.88s] Sadece hain tavşanlar
+[2133.88s - 2134.28s] yazıyor.
+[2134.64s - 2135.64s] Ya hain tavşanların
+[2135.64s - 2136.42s] Onur'un yani.
+[2136.50s - 2137.58s] Şöyle bir sorusu var.
+[2138.02s - 2139.24s] Gerçek hayattaki
+[2139.24s - 2140.16s] işlerinizde
+[2140.16s - 2141.10s] ensemble modelleri
+[2141.10s - 2141.94s] kullanabiliyor musunuz
+[2141.94s - 2142.12s] diyor.
+[2142.44s - 2143.16s] İşte birkaç tane
+[2143.16s - 2144.08s] modeli
+[2144.08s - 2144.84s] birlikte
+[2144.84s - 2145.34s] birlikte
+[2145.34s - 2145.84s] ektirip
+[2145.84s - 2146.56s] tek bir skor
+[2146.56s - 2147.20s] oluşturma
+[2147.20s - 2147.90s] gerçi orada bir
+[2147.90s - 2148.82s] ağırlıklandırma falan.
+[2149.10s - 2150.20s] Yani bu gerçek hayata
+[2150.20s - 2150.88s] gerçekten
+[2150.88s - 2152.60s] kullanılan bir senaryom yoksa
+[2152.60s - 2153.68s] sadece Kegel'de yarışma
+[2153.68s - 2154.70s] kazanmak için mi yapılıyor?
+[2155.22s - 2156.04s] Güzel bir soru.
+[2157.82s - 2159.00s] Şimdi şöyle
+[2159.00s - 2161.04s] sektörünüze göre değişir.
+[2161.42s - 2162.18s] Eğer ki
+[2162.18s - 2163.24s] tek amacınız
+[2163.24s - 2164.58s] doğruluksa yani
+[2164.58s - 2165.40s] sadece bir
+[2165.40s - 2166.16s] metrik vardır.
+[2166.20s - 2167.76s] Çok kritik bir senaryodur.
+[2167.92s - 2168.76s] Ve sadece siz
+[2168.76s - 2169.92s] en doğrucağa
+[2169.92s - 2172.18s] ulaşmak istiyorsanız
+[2172.18s - 2173.14s] üç modeli
+[2173.14s - 2173.78s] birleştirirsiniz.
+[2173.98s - 2174.50s] Bu nedir?
+[2175.00s - 2175.70s] Bir tıbbi
+[2176.62s - 2177.56s] senaryo olabilir.
+[2177.84s - 2178.22s] Mesela sadece
+[2178.22s - 2179.28s] doğruluk önemli
+[2179.28s - 2179.66s] olabilir.
+[2179.86s - 2180.52s] Ve siz en doğrucağa
+[2180.52s - 2181.00s] ulaşmak için
+[2181.00s - 2181.30s] bu kadar
+[2181.30s - 2181.74s] modeli
+[2181.74s - 2182.44s] birleştirirsiniz.
+[2184.28s - 2185.76s] Benim için
+[2185.76s - 2186.50s] ben böyle bir şey
+[2186.50s - 2187.06s] yapmadım.
+[2187.58s - 2187.96s] Böyle bir şey
+[2187.96s - 2188.48s] ihtiyacımız
+[2188.48s - 2189.02s] olmadı.
+[2189.14s - 2189.76s] Yani öyle söyleyeyim.
+[2189.84s - 2190.56s] Genelden
+[2190.56s - 2192.08s] teki zaten
+[2192.08s - 2192.86s] yetiyor.
+[2192.86s - 2194.32s] onun üstünde
+[2194.32s - 2194.68s] böyle
+[2195.62s - 2196.70s] ufak tefek
+[2196.70s - 2197.34s] tuningler
+[2197.34s - 2198.06s] vesaire yaparak
+[2198.06s - 2198.96s] işler çözülüyor.
+[2200.38s - 2200.38s] 
+[2201.40s - 2202.14s] herhangi bir
+[2202.14s - 2202.80s] yani çoğu zaman
+[2202.80s - 2203.34s] şöyle diyeyim.
+[2203.74s - 2203.90s] Mesela
+[2203.90s - 2204.90s] bankacılık sektörü
+[2204.90s - 2205.44s] de olabilir bu.
+[2205.64s - 2205.74s] Hani
+[2206.38s - 2207.24s] önemli olan
+[2207.24s - 2207.84s] problemi
+[2207.84s - 2208.56s] üç aşağı beş
+[2208.56s - 2208.88s] yukarı
+[2208.88s - 2209.46s] çözmek.
+[2209.54s - 2210.12s] Hani en iyi
+[2210.12s - 2211.06s] sonucu veren
+[2211.06s - 2211.80s] modeli
+[2211.80s - 2212.96s] yazmak
+[2212.96s - 2213.48s] değil de
+[2213.48s - 2214.06s] çünkü en iyi
+[2214.06s - 2214.86s] sonucu veren
+[2214.86s - 2215.38s] model mesela
+[2215.38s - 2215.82s] sağlıyorum
+[2215.82s - 2217.32s] Onur'un dediği
+[2217.32s - 2217.54s] ki mesela
+[2217.54s - 2218.10s] üç model
+[2218.10s - 2218.84s] üç model
+[2218.84s - 2219.64s] diplo ettiniz.
+[2219.90s - 2220.60s] Üç model
+[2220.60s - 2221.16s] daha sonra
+[2221.16s - 2222.34s] izlemeniz gerekiyor.
+[2222.34s - 2223.06s] üç model tekrardan
+[2223.06s - 2223.86s] tren edeceksiniz
+[2223.86s - 2224.76s] belli bir süre sonra.
+[2225.22s - 2225.44s] Hani bunun
+[2225.44s - 2226.28s] maliyeti de var.
+[2226.76s - 2227.60s] Siz üç modeli
+[2227.60s - 2228.14s] yazdınız.
+[2228.58s - 2229.30s] Bir yıl çalıştınız.
+[2229.50s - 2230.38s] Sonra ayrıldınız.
+[2230.54s - 2231.08s] Bu üç modeli
+[2231.08s - 2231.54s] kim bakacak?
+[2231.64s - 2232.78s] Hani bu takımın da
+[2232.78s - 2233.38s] modelleri
+[2233.38s - 2234.26s] anlaması gerekiyor.
+[2234.82s - 2235.36s] Burada farklı
+[2235.36s - 2236.18s] senaryolar var.
+[2237.70s - 2238.86s] Benim böyle bir
+[2238.86s - 2239.64s] üç modeli
+[2239.64s - 2240.12s] birleştirmanım
+[2240.12s - 2240.72s] olmadığı için.
+[2241.94s - 2242.54s] Kaggle'da
+[2242.54s - 2243.54s] belki yapmışımdır
+[2243.54s - 2244.12s] şöyle söyleyeyim.
+[2244.28s - 2244.80s] Gerçek
+[2244.80s - 2245.62s] hiç böyle bir
+[2245.62s - 2247.22s] diplomat da bulunmadım.
+[2247.34s - 2247.76s] Yani öyle söyleyeyim.
+[2248.54s - 2249.38s] Ya bunu
+[2249.38s - 2249.92s] ben de sürekli
+[2249.92s - 2250.44s] soruyorum.
+[2250.44s - 2250.92s] Hatta
+[2250.92s - 2252.68s] bizim ekibe de
+[2252.68s - 2253.38s] dedim yani
+[2254.20s - 2255.34s] bankacılık sektöründe
+[2255.34s - 2255.86s] olduğumuz için
+[2255.86s - 2256.68s] model yaparken
+[2256.68s - 2257.32s] birkaç tane
+[2257.32s - 2258.04s] modeli birleştirdim.
+[2258.28s - 2258.90s] Ekürüsü
+[2258.90s - 2259.56s] %100 artacak
+[2259.56s - 2260.18s] belli yani.
+[2261.00s - 2262.02s] Yok dediler.
+[2262.12s - 2262.66s] Karmaşıklığa
+[2262.66s - 2263.14s] gerek yok.
+[2263.66s - 2264.64s] Çünkü tam olarak
+[2264.64s - 2265.68s] senin dediğin süreçler
+[2265.68s - 2266.10s] bunun
+[2266.10s - 2267.32s] izleme maliyeti
+[2267.32s - 2268.34s] bunu devam ettirme
+[2268.34s - 2268.94s] maliyeti
+[2268.94s - 2269.88s] ve dediğin gibi
+[2269.88s - 2270.50s] yapan kişi
+[2270.50s - 2271.40s] işten ayrılınca
+[2271.40s - 2272.56s] sonradan gelecek
+[2272.56s - 2273.04s] kişinin bunu
+[2273.04s - 2273.78s] anlaması.
+[2273.78s - 2275.14s] o daha beter.
+[2275.28s - 2276.28s] En beter o bence
+[2276.28s - 2276.90s] yani bir şekilde
+[2276.90s - 2277.84s] devam ettiriliyor da
+[2277.84s - 2278.82s] sonradan gelen
+[2278.82s - 2279.30s] kişiye bunun
+[2279.30s - 2280.54s] aktarılması sürecindeki
+[2280.54s - 2281.04s] o kayıp
+[2281.04s - 2281.68s] o boşluk
+[2281.68s - 2282.78s] asıl orası
+[2282.78s - 2283.44s] mesele gibi.
+[2284.08s - 2284.16s] Ya
+[2284.16s - 2285.02s] dokumentasyona
+[2285.02s - 2285.80s] geleyim oradan ya.
+[2286.52s - 2287.20s] Dokumentasyonu
+[2287.20s - 2288.38s] nasıl yapıyorsunuz?
+[2288.56s - 2289.38s] Bir de
+[2289.38s - 2289.78s] senin
+[2289.78s - 2290.78s] kendine
+[2290.78s - 2291.32s] herhalde
+[2291.32s - 2292.08s] oluşturduğun
+[2292.08s - 2292.42s] birçok
+[2292.42s - 2293.36s] dokumentasyon var.
+[2293.56s - 2293.56s] 
+[2293.56s - 2294.04s] TensorFlow
+[2294.04s - 2295.06s] notbooklar var.
+[2295.60s - 2296.28s] Farklı
+[2296.28s - 2296.96s] farklı böyle
+[2296.96s - 2297.74s] yazdığın
+[2297.74s - 2298.60s] gene YouTube
+[2298.60s - 2299.40s] kanalı için
+[2299.40s - 2300.30s] destekleyici yazdığın
+[2300.30s - 2301.16s] notbooklar var.
+[2301.44s - 2302.04s] Bunları hangi
+[2302.04s - 2302.84s] motivasyonla yapıyorsun?
+[2306.18s - 2306.90s] Dokumentasyon
+[2306.90s - 2307.72s] nasıl yazıyoruz?
+[2308.06s - 2308.06s] 
+[2309.22s - 2310.04s] herhangi bir
+[2310.04s - 2310.80s] yani yazdığınız
+[2310.80s - 2311.26s] yazılımın
+[2311.26s - 2312.08s] dokümentasyonu
+[2312.08s - 2312.10s] olarak
+[2312.10s - 2313.04s] bahsedecek olursak
+[2313.04s - 2313.94s] genelde
+[2314.84s - 2315.56s] sıkıla
+[2315.56s - 2315.84s] sıkıla
+[2315.84s - 2316.24s] yazıyoruz
+[2316.24s - 2316.62s] arkadaşlar
+[2316.62s - 2317.68s] baktığımız zaman
+[2317.68s - 2317.82s] ya
+[2317.82s - 2318.48s] dokumentasyon
+[2318.48s - 2318.80s] yazmak
+[2318.80s - 2319.16s] birazcık
+[2319.16s - 2319.48s] sıkıcı
+[2319.48s - 2319.78s] bir iş.
+[2320.18s - 2320.26s] Ben
+[2320.26s - 2321.18s] sevmiyorum.
+[2322.86s - 2323.58s] Çekçik
+[2323.58s - 2323.98s] biti
+[2323.98s - 2324.36s] olur.
+[2324.52s - 2324.96s] Çekçik
+[2324.96s - 2325.34s] biti
+[2325.34s - 2325.52s] her
+[2325.52s - 2325.80s] şekil
+[2325.80s - 2326.08s] izin
+[2326.08s - 2326.40s] vermeye
+[2326.40s - 2326.76s] bilir.
+[2327.00s - 2327.36s] Her
+[2327.36s - 2328.52s] herhangi bir
+[2328.52s - 2328.82s] izin
+[2328.82s - 2329.16s] verilen
+[2329.16s - 2330.16s] el
+[2330.16s - 2330.28s] ele
+[2330.28s - 2330.70s] aracı
+[2330.70s - 2330.84s] ile
+[2330.84s - 2331.02s] önce
+[2331.02s - 2331.26s] bir
+[2331.26s - 2332.06s] taslak
+[2332.06s - 2332.88s] olarak başlayıp
+[2332.88s - 2334.14s] daha sonra onu düzelterek
+[2335.14s - 2337.42s] gitmek daha iyi oluyor.
+[2337.70s - 2338.38s] Yani en baştan
+[2338.38s - 2339.00s] uçturmaktansa
+[2339.00s - 2339.94s] gerçekte o angare
+[2339.94s - 2340.34s] işleri.
+[2340.64s - 2341.90s] Benim ruhumu da
+[2341.90s - 2342.66s] rahat açıkçası.
+[2342.94s - 2343.92s] Onun haricinde
+[2344.94s - 2346.16s] kendi yazdığım
+[2346.16s - 2346.48s] dediğim
+[2346.48s - 2347.24s] evet bir ara
+[2347.24s - 2347.84s] tensiflo
+[2347.84s - 2348.82s] notlukları
+[2348.82s - 2349.68s] yazıyordum.
+[2349.68s - 2351.26s] yani çoğu
+[2351.26s - 2351.70s] şeyi orada
+[2351.70s - 2352.24s] kavradığımı
+[2352.24s - 2352.74s] düşünüyorum.
+[2353.44s - 2354.10s] O da
+[2354.10s - 2354.52s] nereden
+[2354.52s - 2354.96s] başladı?
+[2355.14s - 2355.48s] Baktım
+[2355.48s - 2356.18s] herkes
+[2356.18s - 2356.84s] işte bu
+[2356.84s - 2357.40s] tensiflo
+[2357.40s - 2358.06s] bir şeydir
+[2358.06s - 2358.42s] yapıyor.
+[2359.12s - 2359.82s] Yine
+[2359.82s - 2360.32s] birkaç
+[2360.32s - 2360.78s] eksiklik
+[2360.78s - 2361.34s] hissettim.
+[2361.52s - 2361.88s] Dedim ben
+[2361.88s - 2362.58s] ben de yapayım
+[2362.58s - 2362.98s] benimki de
+[2362.98s - 2363.62s] bulunsun falan.
+[2365.76s - 2365.90s] Bu
+[2365.90s - 2366.70s] İzmir'deyken
+[2366.70s - 2366.84s] o
+[2366.84s - 2367.02s] şey
+[2367.02s - 2367.48s] başlamış
+[2367.48s - 2367.86s] İzmir'de
+[2367.86s - 2368.18s] çalışmaya
+[2368.18s - 2368.68s] başladığım
+[2368.68s - 2369.36s] zaman o repoyu
+[2369.36s - 2369.94s] açmıştım.
+[2370.32s - 2370.62s] Daha sonra
+[2370.62s - 2371.14s] bayağı devam
+[2371.14s - 2371.56s] ettirdim.
+[2372.28s - 2373.62s] 17-18 tane
+[2373.62s - 2374.20s] notluk falan
+[2374.20s - 2374.76s] oldu belki.
+[2375.50s - 2376.50s] O şekilde
+[2376.50s - 2377.30s] yaptım.
+[2377.82s - 2378.50s] Başka
+[2378.50s - 2379.46s] ne sormuştun?
+[2380.24s - 2380.92s] Mesela
+[2380.92s - 2381.96s] YouTube kanalındaki
+[2381.96s - 2382.82s] destekleyici
+[2382.82s - 2383.86s] dokümentasyonlar
+[2383.86s - 2384.12s] da var.
+[2384.26s - 2384.58s] Buradaki
+[2384.58s - 2385.38s] motivasyon ne?
+[2385.56s - 2385.92s] Bunları
+[2385.92s - 2386.86s] neden bir
+[2386.86s - 2387.60s] dokümentasyon
+[2387.60s - 2388.06s] yazıyorsun?
+[2388.40s - 2389.10s] Burada yazdın
+[2389.10s - 2389.96s] notları
+[2389.96s - 2390.70s] sonra sen
+[2390.70s - 2391.26s] kullanıyor musun
+[2391.26s - 2391.62s] mesela?
+[2391.72s - 2392.52s] Bunlar kendine
+[2392.52s - 2393.18s] de mi bir not?
+[2393.36s - 2393.80s] Yoksa
+[2393.80s - 2394.24s] gerçekten
+[2394.24s - 2394.96s] faydalı olması
+[2394.96s - 2395.30s] için mi
+[2395.30s - 2395.50s] yapıyorsun?
+[2396.90s - 2397.58s] Gerçekten
+[2397.58s - 2398.18s] faydalı olması
+[2398.18s - 2398.40s] için
+[2398.40s - 2398.80s] yapıyorum.
+[2399.02s - 2399.06s] Çünkü
+[2399.06s - 2399.38s] benim
+[2399.38s - 2400.20s] notlarım
+[2400.20s - 2400.56s] var.
+[2400.76s - 2400.92s] Benim
+[2400.92s - 2402.02s] defterlerim
+[2402.02s - 2402.40s] meşhurdur.
+[2402.52s - 2402.92s] Beni yakından
+[2402.92s - 2403.46s] tanıyanlar
+[2403.46s - 2403.86s] bir böle.
+[2405.12s - 2405.66s] Direkti
+[2405.66s - 2405.78s] direk
+[2405.78s - 2406.24s] notlarım
+[2406.24s - 2406.50s] vardır.
+[2408.32s - 2409.04s] Bu
+[2409.04s - 2409.96s] araştıklarım
+[2409.96s - 2410.94s] o notlarının
+[2410.94s - 2411.58s] bir kısmı
+[2411.58s - 2412.00s] sadece.
+[2412.16s - 2412.30s] Hani
+[2412.30s - 2412.56s] kendi
+[2412.56s - 2413.06s] notlarım
+[2413.06s - 2413.32s] değil.
+[2414.62s - 2415.50s] Karışmak için
+[2415.50s - 2415.96s] hazırladığım
+[2415.96s - 2416.32s] notları
+[2416.32s - 2416.82s] öyle söyleyeyim.
+[2416.98s - 2417.18s] Sadece
+[2417.18s - 2417.84s] sevdiğim için
+[2417.84s - 2418.38s] paylaşıyorum
+[2418.38s - 2418.52s] böyle
+[2418.52s - 2418.88s] şeyleri
+[2418.88s - 2419.44s] öyle söyleyeyim.
+[2419.60s - 2419.70s] Yani
+[2419.70s - 2420.80s] insanlar da
+[2420.80s - 2421.72s] doğru bilgiye
+[2421.72s - 2422.18s] ulaşsın.
+[2423.58s - 2424.30s] İşlerini
+[2424.30s - 2424.98s] kolaylaştırın
+[2424.98s - 2425.20s] falan.
+[2425.38s - 2425.64s] Çünkü
+[2425.64s - 2426.96s] ben de aynı
+[2426.96s - 2427.38s] süreçten
+[2427.38s - 2427.76s] geçtim.
+[2427.76s - 2428.98s] ben de
+[2428.98s - 2429.16s] mesela
+[2429.16s - 2429.54s] kaynak
+[2429.54s - 2429.96s] arıyordum.
+[2430.26s - 2430.44s] Ama
+[2430.44s - 2431.04s] mesela bu
+[2431.04s - 2431.38s] şekilde
+[2431.38s - 2432.02s] tam istediğim
+[2432.02s - 2432.82s] kaynakları
+[2432.82s - 2433.22s] bulamıyordum.
+[2433.28s - 2433.42s] Veya
+[2433.42s - 2433.88s] buluyordum
+[2434.86s - 2435.50s] okuyunca
+[2435.50s - 2436.24s] kafam karışıyordu
+[2436.24s - 2436.52s] falan.
+[2436.52s - 2437.30s] burada
+[2437.30s - 2437.90s] mesela
+[2437.90s - 2438.88s] şey
+[2438.88s - 2439.40s] hatırlıyorum.
+[2439.68s - 2440.58s] Neyde kafam karıştı?
+[2441.02s - 2441.42s] Diyorum
+[2441.42s - 2442.14s] mesela şu konuyu
+[2442.14s - 2442.56s] anlatacağım.
+[2442.64s - 2442.72s] Da
+[2442.72s - 2442.98s] cross
+[2442.98s - 2443.34s] validation.
+[2443.86s - 2444.48s] Sallıyorum.
+[2445.32s - 2446.00s] Anlatacağım.
+[2446.20s - 2446.82s] Ben bu konu
+[2446.82s - 2447.30s] yokurken
+[2447.30s - 2447.90s] çalışırken
+[2447.90s - 2448.46s] ilk başta
+[2448.46s - 2450.04s] hangi kısımda
+[2450.04s - 2450.70s] kafam karıştı?
+[2450.80s - 2451.22s] Mesela onu
+[2451.22s - 2451.96s] bir önce
+[2451.96s - 2453.38s] hatırlamaya çalışıyorum.
+[2453.66s - 2454.12s] Sonra
+[2454.12s - 2455.14s] bunu
+[2455.14s - 2456.14s] nasıl farklı
+[2456.14s - 2457.30s] şekilde izah edebilirim?
+[2457.36s - 2457.46s] Hani
+[2457.46s - 2457.90s] çünkü ben
+[2457.90s - 2458.58s] artık mantığını
+[2458.58s - 2459.00s] anladım.
+[2459.38s - 2460.24s] Kafa karıştım.
+[2460.32s - 2460.94s] Gitti o konuda.
+[2460.94s - 2461.02s] ama
+[2461.02s - 2462.04s] bu videoyu
+[2462.04s - 2462.48s] mesela ben
+[2462.48s - 2462.84s] hazırladım
+[2462.84s - 2463.24s] zannediyiz
+[2463.24s - 2463.54s] sizce
+[2463.54s - 2464.58s] ve onun
+[2464.58s - 2465.04s] o konuda
+[2465.04s - 2465.36s] kafası
+[2465.36s - 2465.84s] karışabilir.
+[2466.06s - 2466.22s] Burayı
+[2466.22s - 2466.40s] nasıl
+[2466.40s - 2466.68s] aşağı
+[2466.68s - 2466.96s] yapabiliriz?
+[2467.06s - 2467.20s] Veya
+[2467.20s - 2467.36s] bu
+[2467.36s - 2467.70s] cross
+[2467.70s - 2467.90s] validation
+[2467.90s - 2468.22s] herkes
+[2468.22s - 2468.56s] yapıyor.
+[2468.70s - 2469.06s] Güzel ama
+[2469.06s - 2470.12s] bunun arkasındaki
+[2470.12s - 2470.84s] motivasyonu
+[2470.84s - 2471.40s] tam neden
+[2471.40s - 2471.92s] yapıyorum?
+[2472.08s - 2472.10s] Hani
+[2472.10s - 2472.82s] bir
+[2472.82s - 2473.72s] sebep sunman
+[2473.72s - 2474.12s] niye
+[2474.12s - 2474.66s] yapıyoruz
+[2474.66s - 2474.90s] bunu?
+[2475.24s - 2475.42s] Gibi
+[2475.42s - 2475.60s] yani
+[2475.60s - 2476.08s] sorulara
+[2476.08s - 2476.38s] cevap
+[2476.38s - 2477.14s] vermeye
+[2477.14s - 2477.58s] çalışarak
+[2477.58s - 2478.16s] hazırlıyorum.
+[2478.82s - 2479.50s] Motivasyonumda
+[2479.50s - 2479.86s] bilgiyi
+[2479.86s - 2480.32s] paylaşmak
+[2480.32s - 2480.48s] öyle
+[2480.48s - 2480.86s] söyleyeyim.
+[2482.12s - 2482.28s] Yani
+[2482.28s - 2482.74s] yoksa
+[2484.56s - 2485.24s] yani
+[2485.24s - 2485.62s] bunların
+[2485.62s - 2485.98s] hiçbirini
+[2485.98s - 2486.24s] mesela
+[2486.24s - 2487.12s] paylaşmayıp
+[2487.12s - 2487.80s] hepsini
+[2487.80s - 2488.24s] ücretli
+[2488.24s - 2488.46s] mesela
+[2488.46s - 2488.98s] paywall
+[2488.98s - 2489.56s] arkasına
+[2489.56s - 2489.98s] koyup
+[2489.98s - 2490.10s] da
+[2490.10s - 2490.48s] bir şeyler
+[2490.48s - 2491.26s] yapabilirdim.
+[2491.40s - 2491.92s] Baktığın
+[2491.92s - 2492.54s] zaman belki
+[2492.54s - 2494.14s] ben o şekilde
+[2494.14s - 2494.70s] yapmıyorum.
+[2494.94s - 2494.94s] 
+[2494.94s - 2495.98s] paylaşmayı
+[2495.98s - 2496.34s] seviyorum
+[2496.34s - 2496.76s] öyle vakit
+[2496.76s - 2497.28s] buldukça.
+[2497.84s - 2498.22s] Öyle
+[2498.22s - 2498.48s] değilim.
+[2500.24s - 2500.46s] Yani
+[2500.46s - 2500.78s] güzel.
+[2500.98s - 2500.98s] 
+[2500.98s - 2501.72s] paylaşmanın
+[2501.72s - 2502.54s] faydalı olmalı
+[2502.54s - 2503.10s] motivasyon
+[2503.10s - 2503.66s] inanılmaz.
+[2503.94s - 2504.64s] Kesinlikle.
+[2505.12s - 2506.06s] Bu arada
+[2506.06s - 2506.80s] Onur'dan bir
+[2506.80s - 2507.48s] soru daha var.
+[2507.92s - 2508.54s] İmbalance
+[2508.54s - 2509.24s] data hakkında.
+[2510.02s - 2510.54s] Onu da
+[2510.54s - 2510.84s] alalım.
+[2511.22s - 2511.78s] İmbalance
+[2511.78s - 2512.82s] data ile çalıştınız mı?
+[2512.94s - 2513.38s] İmbalance
+[2513.38s - 2514.06s] data problemini
+[2514.06s - 2514.92s] nasıl çözüyorsunuz?
+[2516.52s - 2517.22s] Smote
+[2517.22s - 2517.58s] diye bir şey
+[2517.58s - 2518.10s] var arkadaşlar.
+[2518.22s - 2518.48s] Smote
+[2518.48s - 2519.16s] kullanmayarak
+[2519.16s - 2519.72s] bir problemi
+[2519.72s - 2520.42s] çözebiliriz.
+[2521.24s - 2521.60s] Smote
+[2521.60s - 2522.16s] deme abi.
+[2523.38s - 2524.08s] Orada
+[2524.08s - 2524.60s] senin hatta
+[2524.60s - 2525.08s] şeyin var.
+[2525.26s - 2526.10s] Notebook var.
+[2526.28s - 2526.70s] Smote
+[2526.70s - 2527.26s] 'nin yanlış
+[2527.26s - 2528.06s] kullanılması
+[2528.06s - 2528.64s] sonucu olsan
+[2528.64s - 2529.26s] data link.
+[2530.56s - 2531.26s] O
+[2531.26s - 2532.14s] aynı bir dünya
+[2532.14s - 2532.50s] zaten.
+[2533.62s - 2534.32s] Bir
+[2534.32s - 2535.60s] üç dört
+[2535.60s - 2536.32s] defa falan
+[2536.32s - 2537.18s] okumuşumdur.
+[2537.76s - 2538.46s] Bunu
+[2538.46s - 2539.32s] en son
+[2539.32s - 2540.18s] Gediz yarışması
+[2540.18s - 2540.40s] vardı.
+[2540.54s - 2540.92s] Gediz'de
+[2540.92s - 2541.18s] finale
+[2541.18s - 2541.90s] kalmıştık.
+[2542.32s - 2542.90s] Orada da
+[2542.90s - 2543.44s] açıp bir
+[2543.44s - 2543.82s] baktım
+[2543.82s - 2544.26s] okudum.
+[2544.68s - 2545.14s] İmbalance
+[2545.14s - 2545.68s] data üzerine
+[2545.68s - 2546.36s] aslında güzel bir
+[2546.36s - 2546.68s] notebook.
+[2546.68s - 2547.60s] orada Smote
+[2547.60s - 2548.40s] kullanmak durumunda
+[2548.40s - 2548.78s] kaldık.
+[2548.96s - 2549.04s] Yani
+[2549.04s - 2550.86s] kullanmasak olurdu da
+[2550.86s - 2552.22s] aslında
+[2552.22s - 2553.08s] undersampling
+[2553.08s - 2553.52s] artı
+[2553.52s - 2553.84s] smote
+[2553.84s - 2554.34s] attık.
+[2554.74s - 2555.40s] Bence kötü bir
+[2555.40s - 2555.74s] pipeline.
+[2556.02s - 2556.30s] Yani direkt
+[2556.30s - 2557.26s] undersamplingle
+[2557.26s - 2558.14s] çözebilsek daha
+[2558.14s - 2559.70s] mantıklı olurdu.
+[2559.80s - 2560.70s] Sannediyorsun bu konuya.
+[2560.70s - 2561.78s] şimdi
+[2561.78s - 2562.78s] dediğin
+[2562.78s - 2563.64s] noktaya
+[2563.64s - 2564.34s] bakacak olursak
+[2564.34s - 2564.62s] şimdi
+[2564.62s - 2565.16s] Gediz
+[2565.16s - 2565.50s] şey
+[2565.50s - 2565.78s] kegel
+[2565.78s - 2566.16s] yaşması
+[2566.16s - 2566.62s] değil mi?
+[2567.26s - 2567.42s] Aynen
+[2567.42s - 2568.22s] şimdi
+[2568.22s - 2568.88s] kegel
+[2568.88s - 2569.60s] yaşmasında
+[2569.60s - 2570.24s] genelde
+[2570.24s - 2570.88s] metrik oluyor
+[2570.88s - 2571.20s] ve onu
+[2571.20s - 2571.64s] fullemeye
+[2571.64s - 2572.02s] çalışıyoruz.
+[2572.20s - 2572.58s] Burada her
+[2572.58s - 2573.32s] yöntem
+[2573.32s - 2574.08s] mübah olabilir.
+[2574.40s - 2574.84s] Ama bunu
+[2574.84s - 2575.14s] daha sonra
+[2575.14s - 2575.70s] değiştirdiler.
+[2575.92s - 2576.02s] Artık
+[2576.02s - 2576.18s] nasıl
+[2576.18s - 2576.50s] oluyor?
+[2576.74s - 2577.50s] Notebook'unu
+[2577.50s - 2578.38s] anlatıyorsun
+[2578.38s - 2579.12s] finalde kalıyorsun
+[2579.12s - 2579.54s] vesaire.
+[2579.66s - 2579.72s] Bu
+[2579.72s - 2580.42s] güzel bir
+[2580.42s - 2580.54s] şey
+[2580.54s - 2580.96s] baktığımız
+[2580.96s - 2581.20s] sadece
+[2581.20s - 2582.44s] bir
+[2582.44s - 2583.16s] skalar
+[2583.16s - 2583.66s] sayıya
+[2583.66s - 2584.02s] maksimize
+[2584.02s - 2584.30s] etmek
+[2584.30s - 2584.68s] yerine
+[2584.68s - 2585.10s] bu
+[2585.10s - 2585.26s] ana
+[2585.26s - 2585.62s] düşünce
+[2585.62s - 2585.88s] sistemi
+[2585.88s - 2586.18s] nasıl
+[2586.18s - 2586.88s] motivasyon
+[2586.88s - 2587.08s] neydi
+[2587.08s - 2587.26s] bunu
+[2587.26s - 2587.66s] anlatman
+[2587.66s - 2588.06s] istiyorlar.
+[2588.18s - 2588.20s] Bu
+[2588.20s - 2588.46s] güzel
+[2588.46s - 2588.62s] bir
+[2588.62s - 2588.78s] şey.
+[2591.94s - 2592.62s] O
+[2592.62s - 2593.80s] bahsettiğim
+[2593.80s - 2594.30s] notlukta
+[2594.30s - 2594.82s] benim üstüm
+[2594.82s - 2595.08s] yapışan
+[2595.08s - 2595.74s] notluklardan
+[2595.74s - 2595.92s] hani
+[2595.92s - 2596.38s] gerçekten
+[2596.38s - 2596.94s] insanlar
+[2596.94s - 2597.40s] bazı
+[2597.40s - 2597.60s] kişiler
+[2597.60s - 2597.76s] beni
+[2597.76s - 2597.98s] öyle
+[2597.98s - 2598.40s] tanıyor.
+[2599.28s - 2599.38s] Hani
+[2600.54s - 2601.22s] konusunu
+[2601.22s - 2601.42s] ilk
+[2601.42s - 2602.02s] anlattığım
+[2602.02s - 2603.12s] notluklardan
+[2603.12s - 2603.50s] birisi
+[2603.50s - 2603.70s] büyük
+[2603.70s - 2604.04s] ihtimalle
+[2604.04s - 2604.22s] o.
+[2606.88s - 2607.42s] Bir
+[2607.42s - 2607.68s] de
+[2607.68s - 2608.02s] ne
+[2608.02s - 2608.46s] diyecektim
+[2608.46s - 2608.68s] tam
+[2608.68s - 2609.82s] unuttum.
+[2610.16s - 2610.28s] Şey
+[2610.28s - 2610.80s] gerçek
+[2610.80s - 2611.40s] hayatta
+[2611.40s - 2611.78s] proda
+[2611.78s - 2612.14s] çıkan
+[2612.14s - 2612.56s] üründe
+[2612.56s - 2613.26s] bu
+[2613.26s - 2613.76s] imbalans
+[2613.76s - 2614.14s] tarafını
+[2614.14s - 2614.34s] nasıl
+[2614.34s - 2614.56s] ele
+[2614.56s - 2615.24s] alabiliriz?
+[2615.68s - 2615.68s] 
+[2615.68s - 2616.14s] kegel
+[2616.14s - 2616.64s] yaşamasına
+[2616.64s - 2616.96s] mübah
+[2616.96s - 2617.84s] her şeye
+[2617.84s - 2618.26s] gidelim.
+[2618.46s - 2618.50s] Ama
+[2618.50s - 2618.80s] gerçek
+[2618.80s - 2619.22s] hayattan
+[2619.22s - 2619.50s] böyle
+[2619.50s - 2619.94s] değil ya.
+[2620.54s - 2620.66s] Evet
+[2620.66s - 2621.00s] tam
+[2621.00s - 2621.32s] onu
+[2621.32s - 2621.60s] diyordum
+[2621.60s - 2622.24s] hatırlattım.
+[2622.56s - 2623.08s] Şimdi
+[2623.08s - 2623.46s] arkadaşlar
+[2623.46s - 2624.22s] gerçek
+[2624.22s - 2624.58s] hayatta
+[2624.58s - 2625.10s] bir tane
+[2625.10s - 2625.50s] metrik
+[2625.50s - 2625.74s] yok.
+[2626.18s - 2626.64s] Birden
+[2626.64s - 2626.90s] fazla
+[2626.90s - 2627.26s] metrik
+[2627.26s - 2627.46s] belki
+[2627.46s - 2627.94s] 5
+[2627.94s - 2628.14s] belki
+[2628.14s - 2628.44s] 6
+[2628.44s - 2628.58s] tane
+[2628.58s - 2629.02s] metriniz
+[2629.02s - 2629.30s] var.
+[2629.80s - 2630.16s] Bunlardan
+[2630.16s - 2630.56s] bir tanesi
+[2630.56s - 2630.90s] modelin
+[2630.90s - 2631.32s] başarısı
+[2631.32s - 2631.72s] olabilir.
+[2632.40s - 2633.12s] Diğeri
+[2633.12s - 2633.70s] modelin
+[2633.70s - 2633.94s] ne
+[2633.94s - 2634.24s] kadar
+[2634.24s - 2635.02s] hızlı
+[2635.02s - 2635.88s] prediction
+[2635.88s - 2636.44s] verdiği
+[2636.44s - 2636.76s] olabilir.
+[2640.28s - 2640.90s] ne kadarlık
+[2640.90s - 2641.44s] bir kaynak
+[2641.44s - 2641.80s] kullanıyor.
+[2642.00s - 2642.00s] 
+[2642.00s - 2642.60s] siz gidip de
+[2642.60s - 2643.58s] 4 tane
+[2643.58s - 2645.06s] GPU'yu
+[2645.06s - 2645.50s] bağlayıp
+[2645.50s - 2646.14s] bir modeli
+[2646.14s - 2646.96s] prediktettirmek
+[2646.96s - 2647.28s] ile
+[2648.42s - 2649.14s] CPU'sünü
+[2649.14s - 2649.90s] prediktettirmek
+[2649.90s - 2650.26s] arasında
+[2650.26s - 2651.28s] fark olur.
+[2651.42s - 2651.72s] Bunların
+[2651.72s - 2652.10s] hepsi bir
+[2652.10s - 2652.36s] metrik
+[2652.36s - 2652.80s] arkadaşlar
+[2652.80s - 2653.58s] baktığınız zaman.
+[2654.64s - 2655.02s] Bu
+[2655.02s - 2655.64s] metriklerin
+[2657.70s - 2658.70s] her biri
+[2658.70s - 2659.54s] verilen işe
+[2659.54s - 2659.70s] göre
+[2659.70s - 2660.24s] değişiyor.
+[2660.64s - 2660.76s] Şimdi
+[2660.76s - 2660.98s] burada
+[2660.98s - 2661.40s] imbalans
+[2661.40s - 2661.58s] data
+[2661.58s - 2662.24s] olduğu zaman
+[2662.24s - 2663.46s] bir seçim
+[2663.46s - 2663.88s] yapmamız
+[2663.88s - 2664.24s] gerekiyor.
+[2664.34s - 2664.74s] Çoğu zaman
+[2665.58s - 2666.30s] imbalans
+[2666.30s - 2666.62s] data da
+[2666.62s - 2667.10s] genelde
+[2667.10s - 2667.76s] az olan
+[2667.76s - 2668.26s] sınıfı
+[2668.26s - 2668.66s] bilmeye
+[2668.66s - 2669.24s] çalışıyoruz.
+[2669.24s - 2669.78s] ama tabii
+[2669.78s - 2670.80s] nasıl
+[2670.80s - 2671.12s] diyeyim
+[2671.12s - 2671.76s] çok olan
+[2671.76s - 2672.78s] sınıfı
+[2672.78s - 2673.00s] da böyle
+[2673.00s - 2673.22s] çok
+[2673.22s - 2673.48s] nasıl
+[2673.48s - 2673.78s] derler
+[2673.78s - 2674.42s] öldürmemek
+[2674.42s - 2674.96s] kaydıyla.
+[2675.64s - 2676.34s] Burada
+[2676.34s - 2676.92s] genelde
+[2678.00s - 2678.72s] ağırlıklandırma
+[2678.72s - 2679.38s] yaparak
+[2679.38s - 2680.80s] bir
+[2680.80s - 2681.38s] sonuca
+[2681.38s - 2681.54s] var.
+[2681.62s - 2682.08s] İlk
+[2682.08s - 2682.56s] prototip
+[2682.56s - 2683.10s] kısmında
+[2683.10s - 2683.66s] o şekilde
+[2683.66s - 2684.74s] ilerlenebilir.
+[2686.28s - 2687.00s] Bakarsınız
+[2687.00s - 2687.32s] mesela
+[2687.32s - 2687.78s] ağırlık
+[2687.78s - 2688.30s] verdiniz
+[2688.30s - 2688.84s] adolan
+[2688.84s - 2689.82s] klas
+[2689.82s - 2690.16s] ağırlık
+[2690.16s - 2690.56s] verdiniz.
+[2690.74s - 2691.06s] Başarını
+[2691.06s - 2691.28s] ettiniz
+[2691.28s - 2691.48s] nasıl
+[2691.48s - 2691.92s] değişti?
+[2692.38s - 2692.76s] Bunu
+[2692.76s - 2693.56s] kaldırabilir
+[2693.56s - 2693.90s] misiniz?
+[2694.10s - 2694.26s] Bu
+[2694.26s - 2694.52s] sizin
+[2694.52s - 2694.70s] için
+[2694.70s - 2694.92s] iyi
+[2694.92s - 2695.08s] bir
+[2695.08s - 2695.38s] şey mi?
+[2695.66s - 2696.06s] Mesela
+[2696.06s - 2696.22s] bu
+[2696.22s - 2696.54s] nedir?
+[2697.12s - 2697.84s] Kredi
+[2697.84s - 2698.22s] kartı
+[2698.22s - 2698.58s] verirse
+[2698.58s - 2698.94s] herkes
+[2699.76s - 2700.50s] şeydir
+[2700.50s - 2700.80s] büyük
+[2700.80s - 2701.08s] tümayla
+[2701.08s - 2701.72s] görmüştür.
+[2702.30s - 2702.84s] Burada
+[2702.84s - 2703.08s] mesela
+[2703.08s - 2703.54s] arkadaşlar
+[2703.54s - 2703.80s] bir
+[2703.80s - 2704.12s] kişi
+[2704.12s - 2705.40s] siz bir
+[2705.40s - 2705.82s] alışveriş
+[2705.82s - 2706.50s] yapıyorsunuz.
+[2706.62s - 2707.00s] Alışveriş
+[2707.00s - 2707.82s] yaptığınız zaman
+[2708.82s - 2708.88s] isteğe
+[2709.56s - 2709.56s] 
+[2709.56s - 2710.08s] isteğe
+[2710.08s - 2710.50s] kartınıza
+[2710.50s - 2710.96s] girdiniz
+[2710.96s - 2711.46s] ve daha
+[2711.46s - 2712.20s] sonra kartınızı
+[2712.20s - 2712.64s] reddedildi.
+[2712.86s - 2713.04s] Hani
+[2713.04s - 2713.54s] onay
+[2713.54s - 2714.00s] vermeden
+[2714.00s - 2714.64s] şimdi
+[2714.64s - 2715.04s] siz
+[2715.04s - 2716.18s] onay
+[2716.18s - 2717.40s] almadığınız zaman
+[2717.40s - 2717.94s] bunu gidip
+[2717.94s - 2718.18s] bir daha
+[2718.18s - 2718.86s] denersiniz.
+[2718.98s - 2719.28s] Değil mi?
+[2719.46s - 2719.54s] Hani
+[2719.54s - 2720.22s] hemen
+[2720.22s - 2720.74s] onay
+[2720.74s - 2721.04s] almadığı
+[2721.04s - 2721.62s] yapmıyorum
+[2721.62s - 2721.84s] falan
+[2721.84s - 2722.48s] demezsiniz.
+[2722.66s - 2722.74s] Hani
+[2722.74s - 2723.30s] bir daha
+[2723.30s - 2723.86s] denersiniz.
+[2723.86s - 2725.18s] bu arkada
+[2725.18s - 2725.36s] bir
+[2725.36s - 2726.38s] modeli olduğunu
+[2726.38s - 2726.76s] farz
+[2726.76s - 2726.98s] edelim.
+[2727.26s - 2727.36s] Burada
+[2727.36s - 2728.28s] modeli
+[2728.28s - 2728.48s] siz
+[2728.48s - 2729.48s] sizin
+[2729.48s - 2731.46s] işleminiz
+[2731.46s - 2733.54s] düzgün olduğu
+[2733.54s - 2734.18s] halde
+[2734.18s - 2734.88s] size
+[2734.88s - 2736.22s] dedik ki
+[2736.22s - 2736.40s] hani
+[2736.40s - 2737.70s] dolandırıcı olarak
+[2737.70s - 2739.30s] nitelendirdi ve
+[2739.30s - 2740.68s] işlemi yaptırmadın.
+[2741.20s - 2741.48s] Bu
+[2741.48s - 2741.64s] bir
+[2741.64s - 2742.32s] false
+[2742.32s - 2742.82s] pozitif
+[2742.82s - 2743.00s] oluyor.
+[2743.16s - 2743.30s] Arkadaş
+[2743.30s - 2743.56s] yani
+[2743.56s - 2744.62s] scam olmayan
+[2744.62s - 2744.80s] bir şey
+[2744.80s - 2745.48s] scam olarak
+[2745.48s - 2746.40s] nitelendirdi.
+[2746.54s - 2746.60s] Bu
+[2746.60s - 2746.94s] false
+[2746.94s - 2747.46s] pozitif.
+[2747.80s - 2748.48s] Bunu
+[2748.48s - 2749.36s] çoğu durumda
+[2749.36s - 2750.20s] kaldırabilirsiniz.
+[2750.32s - 2750.44s] Böyle
+[2750.44s - 2750.70s] mesela
+[2750.70s - 2751.12s] dediğim gibi
+[2751.12s - 2751.46s] bir daha
+[2751.46s - 2751.98s] denersiniz.
+[2752.20s - 2752.30s] Ama
+[2752.30s - 2753.56s] scam olan
+[2753.56s - 2753.84s] bir şey
+[2753.84s - 2754.60s] kaçırdığınız
+[2754.60s - 2754.94s] zaman
+[2754.94s - 2755.72s] bunun
+[2755.72s - 2756.52s] maliyeti
+[2756.52s - 2757.50s] false
+[2757.50s - 2757.96s] pozitife
+[2757.96s - 2758.18s] göre
+[2758.18s - 2759.04s] bir önceki
+[2759.04s - 2759.38s] örnekte
+[2759.38s - 2760.00s] daha fazla
+[2760.00s - 2760.34s] oluyor.
+[2760.66s - 2761.34s] Amacımız
+[2761.34s - 2762.02s] genelde bunları
+[2762.02s - 2762.62s] kaçırmamak
+[2762.62s - 2763.26s] olduğu için
+[2764.52s - 2765.20s] ağırlık
+[2765.20s - 2766.28s] ağırlıklandırarak
+[2766.28s - 2767.38s] ilerlemeye
+[2767.38s - 2767.84s] çalışıyoruz.
+[2768.06s - 2768.46s] Örnek
+[2768.46s - 2768.74s] umarım
+[2768.74s - 2769.26s] açıklayıcı
+[2769.26s - 2769.68s] olmuştur.
+[2770.02s - 2770.36s] Hani
+[2770.36s - 2770.94s] bir
+[2770.94s - 2772.02s] klastan birine
+[2777.56s - 2778.72s] daha fazla
+[2778.72s - 2779.04s] ağırlık
+[2779.04s - 2779.34s] vermek.
+[2779.44s - 2779.82s] Yani bu ne
+[2779.82s - 2780.10s] demek?
+[2780.90s - 2781.44s] Sizin
+[2781.44s - 2781.86s] modeliniz
+[2781.86s - 2782.34s] eğitim
+[2782.34s - 2783.06s] aşamasında
+[2784.52s - 2785.34s] bir
+[2785.34s - 2786.00s] kayıp
+[2786.00s - 2786.58s] fonksiyonu
+[2786.58s - 2787.14s] hesaplayacak.
+[2787.40s - 2787.74s] Genel olarak
+[2787.74s - 2788.08s] konuşacak
+[2788.08s - 2788.98s] olursak ve
+[2790.16s - 2791.30s] küçük olan
+[2791.30s - 2791.94s] az olan
+[2791.94s - 2792.56s] klası
+[2792.56s - 2793.68s] bilemediğinde
+[2793.68s - 2794.16s] ona
+[2794.16s - 2795.76s] daha fazla
+[2795.76s - 2796.00s] ceza
+[2796.00s - 2796.48s] uykulanmak
+[2796.48s - 2796.66s] demek.
+[2797.04s - 2797.04s] 
+[2797.04s - 2798.60s] ağırlıklandırmak.
+[2800.12s - 2800.68s] açık
+[2800.68s - 2801.62s] bir anlatımdı.
+[2802.50s - 2802.94s] Peki
+[2802.94s - 2803.42s] mesela
+[2803.42s - 2804.02s] imbalans
+[2804.02s - 2804.38s] data da
+[2804.38s - 2804.98s] aklına gelen
+[2804.98s - 2805.60s] smotty
+[2805.60s - 2806.72s] sampling
+[2806.72s - 2807.52s] yöntemleri
+[2807.52s - 2807.78s] var.
+[2808.26s - 2808.82s] Belki
+[2808.82s - 2809.90s] LLM ile
+[2809.90s - 2810.12s] falan
+[2810.12s - 2810.40s] data
+[2810.40s - 2811.46s] ürettilebilirler.
+[2811.58s - 2812.00s] Öyle bir şey
+[2812.00s - 2812.36s] olabilir.
+[2812.86s - 2813.34s] Böyle başka
+[2813.34s - 2813.80s] aklına gelen
+[2813.80s - 2814.22s] bir teknik
+[2814.22s - 2814.52s] var mı?
+[2814.64s - 2814.94s] Başka
+[2814.94s - 2815.16s] nasıl
+[2815.16s - 2815.82s] ele alınabilir
+[2815.82s - 2816.16s] bu durum?
+[2817.40s - 2818.04s] LLM
+[2818.04s - 2818.26s] ve
+[2818.26s - 2818.56s] şimdi
+[2818.56s - 2819.44s] veri üretmek
+[2820.50s - 2821.40s] ya şimdi
+[2821.40s - 2821.86s] veri
+[2821.86s - 2822.78s] şöyle bir şey var
+[2822.78s - 2824.70s] veri üretebiliyorsak
+[2824.70s - 2825.44s] yani o veriyi
+[2825.44s - 2826.54s] tamamen üretebiliyorsak
+[2826.54s - 2827.44s] zaten o verinin
+[2828.42s - 2829.06s] dağılımını
+[2829.06s - 2829.96s] zaten çözmüşüz
+[2829.96s - 2830.56s] demektir ki
+[2830.56s - 2830.82s] zaten
+[2830.82s - 2831.54s] bu sefer
+[2831.54s - 2832.14s] bizim modele
+[2832.14s - 2833.04s] ihtiyacımız olmaz.
+[2833.28s - 2833.50s] Hani orada
+[2833.50s - 2834.22s] veri üretme
+[2834.22s - 2835.06s] birazcık
+[2835.06s - 2836.08s] derin konular
+[2836.08s - 2836.22s] yani
+[2837.24s - 2838.52s] veri üretebiliyorsak
+[2838.52s - 2839.28s] demek ki
+[2839.28s - 2839.98s] ben veri çok iyi
+[2839.98s - 2840.46s] öğrenmişim.
+[2840.60s - 2841.04s] Yani niye
+[2841.04s - 2841.76s] bir daha farklı
+[2841.76s - 2842.20s] bir modele
+[2842.20s - 2842.52s] vereyim?
+[2843.10s - 2843.84s] Hani orada
+[2843.84s - 2844.26s] farklı
+[2844.26s - 2844.96s] sorulması
+[2844.96s - 2845.28s] gereken
+[2845.28s - 2845.90s] sorular var.
+[2850.00s - 2850.74s] Evet
+[2850.74s - 2851.22s] yani
+[2851.22s - 2851.82s] LLM ile
+[2851.82s - 2852.54s] veri üretme
+[2852.54s - 2854.06s] genelde bu işi
+[2854.06s - 2854.98s] gunlarla vesaire
+[2854.98s - 2855.44s] yapıyorlar.
+[2855.66s - 2856.32s] LLM'lere
+[2856.32s - 2857.22s] geçti sanırım.
+[2858.14s - 2859.26s] Yani öyle bir şeyi
+[2860.10s - 2861.22s] ben deploy
+[2861.22s - 2861.86s] etmedim.
+[2862.14s - 2862.86s] Bu konuda bilgim yok
+[2862.86s - 2863.38s] ama dediğim
+[2863.38s - 2864.28s] senaryo
+[2864.28s - 2864.94s] geçerli yani.
+[2866.72s - 2867.72s] Text data
+[2867.72s - 2868.24s] tarafında
+[2868.24s - 2868.66s] aslında
+[2868.66s - 2870.42s] tercih edilen bir durum.
+[2870.72s - 2870.84s] Yani
+[2870.84s - 2871.72s] LLM ile
+[2871.72s - 2872.82s] biraz hani
+[2872.82s - 2873.28s] o text
+[2873.28s - 2874.18s] data'daki
+[2874.18s - 2875.60s] zayıf sınıfı
+[2875.60s - 2876.88s] taklit eden
+[2876.88s - 2877.60s] benzer bir şeyde
+[2877.60s - 2878.24s] ürettirip
+[2878.24s - 2879.30s] modelin birazcık
+[2879.30s - 2879.68s] daha o
+[2879.68s - 2880.54s] klasik başarısını
+[2880.54s - 2881.08s] artırmak
+[2881.08s - 2882.50s] kullanılan bir durum.
+[2882.72s - 2883.66s] Ama dediğin gibi
+[2883.66s - 2884.06s] ben de hiç
+[2884.06s - 2884.78s] prod'da böyle bir
+[2884.78s - 2885.12s] durumu
+[2885.12s - 2886.26s] görmedim.
+[2887.22s - 2887.98s] Tabii text
+[2887.98s - 2888.62s] datasında
+[2889.66s - 2890.34s] olabilir.
+[2890.34s - 2890.82s] LLM'ler
+[2890.82s - 2891.78s] üretilebilir.
+[2892.00s - 2892.76s] LLM zaten
+[2892.76s - 2893.72s] çok büyük
+[2893.72s - 2894.52s] data da üretildiği
+[2894.52s - 2894.78s] için
+[2894.78s - 2895.22s] mesela
+[2895.22s - 2896.14s] on klaslı bir
+[2896.14s - 2897.04s] şeyiniz var.
+[2897.18s - 2898.00s] Klasifikiş yapacaksınız
+[2898.00s - 2899.16s] text datasını da
+[2899.16s - 2900.36s] orada üretebilirsiniz.
+[2900.54s - 2900.60s] Ama
+[2900.60s - 2901.62s] hani gidip de
+[2901.62s - 2901.96s] mesela
+[2901.96s - 2902.90s] tabularda
+[2902.90s - 2903.38s] tanız var.
+[2903.52s - 2903.82s] 40 tane
+[2903.82s - 2904.36s] feature var
+[2904.36s - 2904.70s] mesela.
+[2904.92s - 2905.40s] Hani burada
+[2906.28s - 2907.12s] düzgün bir şey
+[2907.12s - 2907.82s] üretmek daha
+[2907.82s - 2909.30s] zor oluyor.
+[2910.38s - 2911.02s] Tabiler
+[2911.02s - 2911.60s] tabiler
+[2911.60s - 2912.30s] da zor
+[2912.30s - 2912.94s] dedin.
+[2913.08s - 2913.78s] Yani orada
+[2913.78s - 2914.96s] smoothie
+[2914.96s - 2915.56s] falan da
+[2915.56s - 2916.60s] kötü ya.
+[2917.12s - 2918.04s] Yani genel olarak
+[2918.04s - 2918.84s] tabiler
+[2918.84s - 2919.06s] zor.
+[2920.06s - 2920.82s] ağırlıkla
+[2920.82s - 2921.40s] başlıyoruz.
+[2921.90s - 2922.66s] Farklı
+[2922.66s - 2923.10s] kayıp
+[2923.10s - 2924.52s] fonksiyonları
+[2924.52s - 2924.76s] var.
+[2925.42s - 2926.00s] Catbuzz
+[2926.00s - 2927.14s] da var sanırım
+[2927.14s - 2927.98s] bakabilirsiniz.
+[2928.34s - 2929.16s] Kök ile
+[2929.16s - 2929.68s] alakalı
+[2929.68s - 2931.10s] bazı fonksiyonlar
+[2931.10s - 2931.30s] var.
+[2931.68s - 2932.18s] Square rule
+[2932.18s - 2934.06s] ile başlayan bir şey
+[2934.06s - 2934.24s] var.
+[2934.34s - 2934.76s] Tam ismi aklına
+[2934.76s - 2935.10s] gelmeden
+[2935.10s - 2935.86s] bulabilirsiniz.
+[2936.04s - 2937.20s] Yani o tarz
+[2937.20s - 2937.84s] şeylere de
+[2938.94s - 2939.70s] prototiple
+[2939.70s - 2940.64s] ilerleyebilirsiniz.
+[2942.86s - 2943.94s] Ben buradan
+[2943.94s - 2944.72s] şeye geçeceğim.
+[2944.90s - 2945.64s] Birazcık
+[2945.64s - 2946.78s] kendini nasıl
+[2946.78s - 2947.48s] geliştirdin.
+[2947.68s - 2947.78s] İşte
+[2947.78s - 2949.20s] güncel kalmak için
+[2949.20s - 2950.02s] takip ettiğin
+[2950.02s - 2951.20s] kaynaklara.
+[2951.42s - 2952.04s] Ve burayla
+[2952.04s - 2952.62s] alakalı şöyle bir
+[2952.62s - 2953.32s] açıklama yapacağım.
+[2953.64s - 2954.36s] Arkadaşlar
+[2954.36s - 2954.60s] burada
+[2954.60s - 2955.56s] Kaan'dan aldığımız
+[2955.56s - 2956.44s] bu kaynakları
+[2956.44s - 2957.14s] bu bilgileri
+[2957.14s - 2958.30s] sonrasında
+[2958.30s - 2958.94s] ben bunları
+[2958.94s - 2959.36s] alıp
+[2959.36s - 2960.52s] bir repolaştıracağım.
+[2960.94s - 2961.14s] Bu
+[2961.14s - 2961.56s] reponun
+[2961.56s - 2961.92s] linkinde
+[2961.92s - 2962.58s] paylaşacağız.
+[2962.86s - 2962.94s] Yani
+[2962.94s - 2963.30s] Kaan'ın
+[2963.30s - 2964.10s] önerileri
+[2964.10s - 2964.74s] baki olarak
+[2964.74s - 2965.16s] alacak.
+[2965.64s - 2966.02s] İlla
+[2966.02s - 2966.58s] bu yayının
+[2966.58s - 2967.44s] 50.
+[2967.62s - 2968.04s] dakikasına
+[2968.04s - 2968.68s] geldiğinizde
+[2968.68s - 2968.92s] buradan
+[2968.92s - 2969.28s] bulmak
+[2969.28s - 2969.66s] durumunda
+[2969.66s - 2970.18s] değilsiniz.
+[2970.44s - 2971.16s] Bunlar
+[2971.16s - 2971.90s] aşağıya da
+[2971.90s - 2972.72s] yorumlara da
+[2972.72s - 2973.72s] veya farklı
+[2973.72s - 2974.20s] mecralar
+[2974.20s - 2974.88s] üzerinden de
+[2974.88s - 2976.64s] bizim repoda
+[2976.64s - 2977.42s] tuttuğumuz ve
+[2977.42s - 2977.90s] sonrasında
+[2977.90s - 2978.44s] insanların
+[2978.44s - 2979.28s] buna ulaşabilip
+[2979.28s - 2980.08s] tekrar
+[2980.08s - 2980.70s] bu
+[2980.70s - 2981.78s] komit serisindeki
+[2981.78s - 2982.38s] tüm kişilerin
+[2982.38s - 2982.98s] önerilerine
+[2982.98s - 2984.26s] ulaşıp
+[2984.26s - 2984.70s] kendilerini
+[2984.70s - 2985.34s] geliştirmek için
+[2985.34s - 2986.04s] kullanabilecekleri
+[2986.04s - 2986.60s] güzel bir
+[2986.60s - 2987.14s] arşiv
+[2987.14s - 2987.86s] yaratmak
+[2987.86s - 2988.40s] amacımız.
+[2988.40s - 2989.38s] Burada
+[2989.38s - 2989.60s] şuna
+[2989.60s - 2990.18s] başlayabilirim.
+[2990.28s - 2990.48s] İlk
+[2990.48s - 2990.80s] soru
+[2990.80s - 2991.76s] kendini
+[2991.76s - 2991.98s] nasıl
+[2991.98s - 2992.56s] geliştiriyorsun
+[2992.56s - 2993.16s] şu anda
+[2993.16s - 2993.74s] bulunduğun
+[2993.74s - 2994.16s] konuda?
+[2998.44s - 2999.36s] Valla
+[2999.36s - 2999.54s] bu
+[2999.54s - 3000.06s] aralar
+[3000.06s - 3001.58s] elenem
+[3001.58s - 3002.46s] ve
+[3002.46s - 3002.80s] işte
+[3002.80s - 3003.62s] türevleri
+[3003.62s - 3004.10s] olarak
+[3004.10s - 3004.46s] düşüncek
+[3004.46s - 3005.02s] olursak
+[3005.02s - 3006.24s] genelde
+[3006.24s - 3006.72s] redditte
+[3006.72s - 3007.32s] bakıyorum
+[3007.32s - 3007.60s] insanlar
+[3007.60s - 3007.98s] neler
+[3007.98s - 3008.60s] paylaşıyor.
+[3009.90s - 3009.98s] İşte
+[3009.98s - 3010.44s] mesela
+[3010.44s - 3012.10s] chatte
+[3012.10s - 3012.24s] de
+[3012.24s - 3012.60s] mesela
+[3012.60s - 3013.30s] Onur
+[3013.30s - 3013.58s] bir şey
+[3013.58s - 3014.12s] sormuş.
+[3014.34s - 3014.78s] Ona
+[3014.78s - 3014.98s] da
+[3014.98s - 3016.04s] referans
+[3016.04s - 3016.38s] vererek
+[3016.38s - 3016.76s] mesela
+[3016.76s - 3017.36s] chat
+[3017.36s - 3017.74s] çifti
+[3017.74s - 3018.02s] o
+[3018.02s - 3018.30s] bir
+[3018.30s - 3019.22s] mesela
+[3019.22s - 3019.96s] diyelim.
+[3019.96s - 3020.86s] Bunu öğrenmek
+[3020.86s - 3021.50s] istiyorsunuz.
+[3022.16s - 3022.64s] Mesela
+[3022.64s - 3023.02s] redditte
+[3023.02s - 3023.48s] gidiyorum.
+[3023.84s - 3024.98s] 4-5 tane
+[3024.98s - 3025.46s] sabredip
+[3025.46s - 3025.86s] buluyorum.
+[3027.28s - 3028.04s] İnsanlar
+[3028.04s - 3028.62s] paylaşıyor zaten.
+[3028.86s - 3029.18s] Model
+[3029.18s - 3029.90s] çıktı falan
+[3029.90s - 3030.12s] böyle
+[3030.12s - 3031.16s] son
+[3031.16s - 3032.84s] anons olarak
+[3032.84s - 3033.04s] işte
+[3033.04s - 3033.46s] son dakika
+[3033.46s - 3034.04s] haber edeyim
+[3034.04s - 3034.34s] yani.
+[3034.72s - 3034.90s] Böyle
+[3034.90s - 3035.54s] paylaşılıyor.
+[3036.08s - 3036.32s] Sonra
+[3036.32s - 3037.24s] altında
+[3037.24s - 3037.94s] deneyimleyen
+[3037.94s - 3038.46s] insanlar
+[3038.46s - 3039.50s] yorum yapıyor.
+[3040.04s - 3040.38s] İşte
+[3040.38s - 3042.04s] bu konumda
+[3042.04s - 3042.66s] uzmanı
+[3042.66s - 3042.88s] olan
+[3042.88s - 3043.44s] insanlar
+[3043.44s - 3043.78s] mesela
+[3043.78s - 3044.46s] yorumlar yapıyor
+[3044.46s - 3044.76s] falan.
+[3045.04s - 3045.80s] Oradan
+[3045.80s - 3045.92s] böyle
+[3045.92s - 3046.20s] 3-5
+[3046.20s - 3046.60s] bir şeyler
+[3046.60s - 3047.84s] kapmaya çalışıyorum.
+[3048.00s - 3048.26s] Daha sonra
+[3048.26s - 3049.12s] o kaptığım şeyleri
+[3049.12s - 3049.32s] böyle
+[3049.32s - 3050.04s] pekiştirmeye
+[3050.04s - 3050.58s] çalışıyorum.
+[3051.68s - 3052.40s] Geliştirme
+[3052.40s - 3052.92s] anlamında
+[3052.92s - 3053.70s] bu şekilde.
+[3053.98s - 3054.10s] Bu
+[3054.10s - 3054.40s] tabi
+[3054.40s - 3054.80s] işin
+[3054.80s - 3056.02s] şey kısmı
+[3056.02s - 3056.44s] ne derler?
+[3057.34s - 3058.06s] Güzel
+[3058.06s - 3058.52s] NLP
+[3058.52s - 3059.08s] kısmı.
+[3059.18s - 3059.42s] Bir de
+[3059.42s - 3059.52s] bu
+[3059.52s - 3059.86s] software
+[3059.86s - 3060.06s] engine
+[3060.06s - 3060.60s] kısmı
+[3060.60s - 3060.76s] var.
+[3060.84s - 3061.60s] Yazılım tarafı
+[3061.60s - 3061.76s] var.
+[3062.30s - 3062.86s] Orada
+[3062.86s - 3063.84s] bakıyorum
+[3063.84s - 3064.28s] genelde
+[3064.28s - 3064.48s] büyük
+[3064.48s - 3064.94s] repolarda
+[3064.94s - 3065.26s] insanlar
+[3065.26s - 3065.72s] nasıl
+[3065.72s - 3067.10s] şeyler
+[3067.10s - 3067.40s] yapmış
+[3067.40s - 3067.66s] daha
+[3067.66s - 3068.04s] bir şey
+[3068.76s - 3069.48s] transforması
+[3069.48s - 3069.76s] kütüphane
+[3069.76s - 3069.98s] mesela
+[3069.98s - 3070.38s] büyük
+[3070.38s - 3071.34s] baktığınızda
+[3071.34s - 3071.68s] keras
+[3071.68s - 3072.04s] büyük
+[3072.04s - 3072.78s] python
+[3072.78s - 3073.14s] büyük
+[3073.14s - 3073.74s] kütüphane
+[3073.74s - 3074.30s] bu
+[3074.30s - 3074.74s] insanlar
+[3074.74s - 3075.36s] bu
+[3075.36s - 3075.62s] kadar
+[3075.62s - 3075.90s] büyük
+[3075.90s - 3076.34s] repoyu
+[3076.34s - 3076.68s] hem
+[3078.88s - 3079.68s] nasıl
+[3079.68s - 3080.20s] derler
+[3080.20s - 3081.28s] güncel bir
+[3081.28s - 3081.66s] şekilde
+[3081.66s - 3082.96s] güncelliyorlar
+[3082.96s - 3083.88s] sıklıkla
+[3083.88s - 3084.02s] değil
+[3084.02s - 3085.58s] hem
+[3085.58s - 3086.22s] kişiler
+[3086.22s - 3086.66s] açık
+[3086.66s - 3086.86s] yani
+[3086.86s - 3087.20s] open
+[3087.20s - 3087.50s] source
+[3087.50s - 3087.72s] hem
+[3087.72s - 3088.00s] o kadar
+[3088.00s - 3088.40s] kişinin
+[3088.40s - 3089.38s] kontribüşünün yaptığı
+[3089.38s - 3089.62s] bir şeyi
+[3089.62s - 3090.82s] ayak tutuyorlar
+[3090.82s - 3091.68s] hem de
+[3091.68s - 3092.60s] güzel
+[3092.60s - 3093.04s] dizayn
+[3093.04s - 3093.50s] yapmışlar
+[3093.50s - 3093.68s] yani
+[3093.68s - 3094.10s] burada
+[3094.10s - 3095.16s] burada
+[3095.16s - 3095.54s] buralardan
+[3095.54s - 3095.72s] bir şey
+[3095.72s - 3096.18s] kapmaya
+[3096.18s - 3096.70s] çalışıyorum
+[3096.70s - 3097.44s] soferinçinin
+[3097.44s - 3097.88s] adına
+[3097.88s - 3098.52s] işte
+[3098.52s - 3099.66s] sallıyorum
+[3099.66s - 3100.60s] abstract
+[3100.60s - 3101.10s] class
+[3101.10s - 3102.22s] yapısı
+[3102.22s - 3102.58s] var mı
+[3102.58s - 3102.98s] nasıl
+[3102.98s - 3103.68s] kullanmış
+[3103.68s - 3104.58s] bir şey
+[3104.58s - 3105.12s] konfigüre
+[3105.12s - 3105.56s] edecekler
+[3105.56s - 3106.22s] bir modeli
+[3106.22s - 3107.00s] bu
+[3107.00s - 3107.66s] konfigürasyon
+[3107.66s - 3107.82s] nasıl
+[3107.82s - 3108.34s] ayarlanmış
+[3108.34s - 3108.66s] mesela
+[3108.66s - 3109.06s] bunlar
+[3110.32s - 3111.12s] bakıyorum
+[3111.12s - 3111.32s] 35
+[3111.32s - 3112.18s] birisini
+[3112.18s - 3112.44s] oradan
+[3112.44s - 3112.66s] alıyorum
+[3112.66s - 3112.92s] birisini
+[3112.92s - 3113.16s] oradan
+[3113.16s - 3113.52s] alıyorum
+[3113.52s - 3114.12s] kendim
+[3114.12s - 3115.04s] harmanlayıp
+[3115.04s - 3115.98s] bir şey
+[3115.98s - 3116.64s] oluşturmaya
+[3116.64s - 3117.02s] çalışıyorum
+[3117.02s - 3117.20s] öyle
+[3117.20s - 3117.40s] değil
+[3118.52s - 3119.32s] mesela
+[3119.32s - 3119.62s] burada
+[3119.62s - 3120.10s] bakıyorum
+[3120.10s - 3120.40s] diyorsun
+[3120.40s - 3120.72s] ya
+[3120.72s - 3121.80s] keras
+[3121.80s - 3122.06s] çok
+[3122.06s - 3122.28s] büyük
+[3122.28s - 3122.48s] bir
+[3122.48s - 3122.72s] repo
+[3122.72s - 3123.44s] içerisinde
+[3123.44s - 3123.60s] bir
+[3123.60s - 3123.88s] sürü
+[3124.78s - 3125.50s] klasör
+[3125.50s - 3125.84s] dosya
+[3125.84s - 3126.16s] yapısı
+[3126.16s - 3126.38s] var
+[3126.38s - 3127.12s] bunları
+[3127.12s - 3127.32s] böyle
+[3127.32s - 3127.66s] tek tek
+[3127.66s - 3127.94s] girip
+[3127.94s - 3128.60s] bakıyorsun
+[3128.60s - 3129.08s] yoksa
+[3129.08s - 3129.56s] komikleri
+[3129.56s - 3129.68s] mi
+[3129.68s - 3130.20s] inceliyorsun
+[3130.20s - 3130.72s] nasıl
+[3130.72s - 3130.98s] bir
+[3130.98s - 3131.54s] orada
+[3131.54s - 3132.10s] stratejim
+[3132.10s - 3132.30s] var
+[3132.30s - 3133.74s] valla
+[3133.74s - 3133.98s] ben
+[3133.98s - 3134.96s] elim
+[3134.96s - 3135.22s] boş
+[3135.22s - 3135.58s] olduğunda
+[3135.58s - 3135.94s] açıkçası
+[3135.94s - 3136.36s] tek tek
+[3136.36s - 3136.66s] girip
+[3136.66s - 3137.02s] ben onu
+[3137.02s - 3137.50s] kullanıyorum
+[3137.50s - 3138.12s] forkluyorum
+[3138.12s - 3138.34s] yani
+[3138.34s - 3138.56s] sonra
+[3138.56s - 3139.22s] kullanıyorum
+[3139.22s - 3139.98s] fokal
+[3139.98s - 3141.10s] bilgisayarı
+[3141.10s - 3141.30s] var
+[3141.30s - 3142.38s] baya
+[3142.38s - 3142.96s] git
+[3142.96s - 3143.50s] geziyorum
+[3143.50s - 3143.70s] yani
+[3143.70s - 3144.00s] öyle
+[3144.00s - 3144.32s] içinde
+[3144.32s - 3145.92s] surf yapmak
+[3145.92s - 3146.28s] denebilir
+[3146.28s - 3146.52s] yani
+[3146.52s - 3146.76s] öyle
+[3146.76s - 3147.72s] bakıyorum
+[3147.72s - 3148.04s] neler
+[3148.04s - 3148.18s] var
+[3148.18s - 3148.54s] neler
+[3148.54s - 3148.74s] yok
+[3150.18s - 3150.90s] neresi
+[3150.90s - 3151.50s] geliştirilebilir
+[3151.50s - 3151.96s] mesela
+[3151.96s - 3152.72s] bunları
+[3152.72s - 3153.22s] saplamaya
+[3153.22s - 3153.54s] çalışıyorum
+[3153.54s - 3154.38s] veya işçilerde
+[3154.38s - 3154.90s] neler var
+[3154.90s - 3156.04s] vaktim varsa
+[3156.04s - 3156.36s] işte
+[3156.36s - 3157.24s] birisi bir
+[3157.24s - 3158.28s] bak bulmuştur
+[3158.28s - 3158.74s] mesela onu
+[3158.74s - 3159.20s] işi olarak
+[3159.20s - 3159.76s] koymuştur
+[3159.76s - 3160.52s] o nasıl
+[3160.52s - 3161.04s] düzeltilir
+[3161.04s - 3161.64s] o nereden
+[3161.64s - 3162.00s] çıkıyor
+[3162.00s - 3163.68s] mesela bir işi
+[3163.68s - 3164.00s] alıp
+[3164.00s - 3164.54s] düzeltmek
+[3164.54s - 3165.00s] istediğimiz
+[3165.00s - 3165.46s] zamanda
+[3165.46s - 3166.20s] işte o
+[3166.20s - 3167.44s] adamın
+[3167.44s - 3167.78s] verdiği
+[3167.78s - 3168.02s] mesela
+[3168.02s - 3168.36s] kodu
+[3168.36s - 3169.26s] kendimizi
+[3169.26s - 3169.92s] çalıştırmamız
+[3169.92s - 3170.38s] gerekiyor
+[3170.38s - 3170.76s] ve işte
+[3170.76s - 3170.90s] orada
+[3170.90s - 3171.62s] çalıştırırken
+[3171.62s - 3172.50s] hatayı
+[3172.50s - 3172.80s] böyle
+[3172.80s - 3173.44s] adım adım
+[3173.44s - 3174.08s] takip etmek
+[3174.08s - 3174.56s] gerekebilir
+[3174.56s - 3174.82s] işte
+[3174.82s - 3175.46s] mesela
+[3175.46s - 3176.04s] bir kod
+[3176.04s - 3176.60s] çalışırken
+[3176.60s - 3177.34s] 5-6
+[3177.34s - 3178.24s] farklı yerden
+[3178.24s - 3178.60s] sekiyor
+[3178.60s - 3178.82s] mesela
+[3178.82s - 3179.24s] ama
+[3179.24s - 3179.68s] işte
+[3179.68s - 3180.20s] o hata
+[3180.20s - 3180.60s] nereden
+[3180.60s - 3180.92s] geldi
+[3180.92s - 3181.22s] işte
+[3181.22s - 3181.78s] hangisinde
+[3181.78s - 3182.24s] bir hata
+[3183.54s - 3183.84s] atladı
+[3183.84s - 3184.74s] gibi
+[3184.74s - 3186.22s] şeyler oluyor
+[3186.22s - 3186.60s] ortada
+[3186.60s - 3188.30s] geliştiğimi hissediyorum
+[3188.30s - 3188.80s] yani açıkçası
+[3188.80s - 3189.56s] bunları yaparken
+[3191.84s - 3193.48s] kesinlikle güzel bir nokta
+[3193.48s - 3194.58s] ya hatta
+[3194.58s - 3195.86s] senin açık kaynağa
+[3195.86s - 3196.66s] katkılarım var
+[3196.66s - 3197.28s] mesela işte
+[3197.28s - 3198.10s] keras tarafında
+[3198.10s - 3198.64s] ciddi bir
+[3198.64s - 3199.26s] kontrol birşey
+[3199.26s - 3200.62s] kontrol birtursun
+[3200.62s - 3201.38s] sende
+[3201.38s - 3202.42s] o tarafa
+[3202.42s - 3203.56s] aslında biraz da
+[3203.56s - 3204.12s] bahsettin
+[3204.12s - 3204.36s] yani
+[3204.36s - 3205.48s] nasıl bu durumu
+[3205.48s - 3205.94s] ele aldın
+[3205.94s - 3206.14s] işte
+[3206.14s - 3206.64s] işuları
+[3206.64s - 3207.18s] incelemen
+[3207.18s - 3207.90s] tek tek
+[3207.90s - 3208.92s] koddaki hataları
+[3208.92s - 3209.24s] böyle
+[3209.24s - 3210.56s] dedik dedik edip
+[3210.56s - 3211.44s] oradan yakalayıp
+[3211.44s - 3212.22s] belki çözmen
+[3212.22s - 3212.66s] ya burada
+[3212.66s - 3212.94s] mesela
+[3212.94s - 3214.00s] paylaşabileceğin
+[3214.00s - 3215.66s] bir hikayen
+[3215.66s - 3216.02s] olur mu
+[3216.02s - 3216.38s] ya bunu
+[3216.38s - 3217.28s] şöyle yakaladım
+[3217.28s - 3217.50s] da
+[3217.50s - 3218.26s] işte şuraya
+[3218.26s - 3218.52s] şöyle bir
+[3218.52s - 3219.44s] kontrol birşey attım
+[3220.92s - 3221.52s] bizim
+[3221.52s - 3221.88s] hani
+[3221.88s - 3222.78s] bu
+[3222.78s - 3223.72s] tabi bu çok
+[3223.72s - 3224.54s] yeni başlayanla
+[3224.54s - 3225.20s] hitap eden bir şey
+[3225.20s - 3225.60s] değil ama
+[3225.60s - 3226.88s] en azından
+[3226.88s - 3228.36s] açık kaynağa
+[3228.36s - 3229.28s] katkı yapmak isteyen
+[3229.28s - 3229.86s] kişiler için
+[3229.86s - 3230.82s] nasıl bir öneride
+[3230.82s - 3231.30s] bulunuruz
+[3232.78s - 3233.56s] keras
+[3233.56s - 3234.28s] katkı
+[3234.28s - 3234.92s] şöyle başladı
+[3234.92s - 3235.54s] ben bir
+[3235.54s - 3236.62s] görüntü işlem
+[3236.62s - 3237.30s] modeli
+[3237.30s - 3238.26s] yüzünde çalışıyordum
+[3238.26s - 3239.50s] dense net
+[3239.50s - 3240.96s] kullanacaktım
+[3240.96s - 3241.12s] ve
+[3241.12s - 3242.12s] dense net mi
+[3242.12s - 3242.32s] yine
+[3243.88s - 3244.66s] yok
+[3244.66s - 3246.10s] dense net olmayabilir
+[3246.10s - 3246.50s] bir tane
+[3246.50s - 3247.72s] model kullanıyorum
+[3247.72s - 3248.74s] pretrain model kullanıyorum
+[3248.74s - 3249.60s] keras'tan
+[3249.60s - 3251.32s] daha sonra
+[3251.32s - 3252.54s] bir parametresi
+[3252.54s - 3253.92s] çok lazım oldu
+[3255.26s - 3256.12s] hatta bunu
+[3256.12s - 3256.82s] tensile flow
+[3256.82s - 3258.52s] notebook hazırlarken
+[3258.52s - 3259.12s] fark ettim
+[3259.12s - 3259.76s] orada öyle söyleyeyim
+[3259.76s - 3260.40s] yani denk geldi
+[3260.40s - 3262.18s] bir parametreyi
+[3262.18s - 3262.88s] yazıyorum
+[3262.88s - 3263.68s] modelin çıktısı
+[3263.68s - 3264.44s] değişmesi lazım
+[3264.44s - 3265.40s] ama değişmiyordu
+[3265.40s - 3266.18s] sonra baktım
+[3266.18s - 3266.86s] kaynak kodunu
+[3266.86s - 3267.46s] niye değişmiyor
+[3267.46s - 3267.94s] falan diye
+[3267.94s - 3268.54s] çünkü bu da bir
+[3268.54s - 3269.18s] kod yani
+[3269.18s - 3269.84s] bir şey çağırıyor
+[3269.84s - 3270.48s] baktığım zaman
+[3271.14s - 3271.78s] baktım
+[3271.78s - 3272.78s] o parametre
+[3272.78s - 3273.00s] mesela
+[3273.00s - 3274.06s] parametre olarak
+[3274.06s - 3274.34s] var
+[3274.34s - 3274.96s] ama
+[3274.96s - 3275.76s] kod bile o içinde
+[3275.76s - 3276.36s] kullanılmak
+[3276.36s - 3276.70s] mesela
+[3276.70s - 3278.12s] öyle kalmış
+[3278.12s - 3278.96s] yani kendi başına
+[3279.72s - 3280.36s] ilk
+[3280.36s - 3281.60s] kerasa katkı
+[3281.60s - 3281.96s] bu şekilde
+[3281.96s - 3282.34s] başladı
+[3282.34s - 3282.96s] yani dedim
+[3282.96s - 3284.68s] ben bunu düzeltirim
+[3284.68s - 3286.20s] ben bunu düzeltirim
+[3286.20s - 3286.38s] dedim
+[3286.38s - 3287.22s] bir tane
+[3287.22s - 3288.94s] fork oluşturdum
+[3288.94s - 3289.24s] kendine
+[3289.24s - 3289.48s] bir tane
+[3289.48s - 3290.24s] branş açtım
+[3292.56s - 3294.12s] şey düzelttim
+[3294.12s - 3294.92s] kodu düzelttim
+[3294.92s - 3296.38s] ondan sonra
+[3297.30s - 3298.54s] projesi açtım
+[3298.54s - 3299.62s] daha sonra
+[3299.62s - 3300.76s] test yazmamı
+[3300.76s - 3301.00s] istendi
+[3301.00s - 3301.30s] o zaman
+[3301.30s - 3301.88s] çok böyle
+[3301.88s - 3302.52s] işin içinde
+[3302.52s - 3304.22s] neden test yazıyoruz
+[3304.22s - 3304.50s] falan
+[3304.50s - 3305.24s] belki modunda
+[3305.24s - 3305.54s] olabilir
+[3305.54s - 3305.86s] belki
+[3305.86s - 3306.18s] bayağı
+[3306.18s - 3306.62s] önceydi bu
+[3308.64s - 3309.42s] öyle
+[3309.42s - 3309.98s] girmiştim
+[3309.98s - 3310.22s] yani
+[3313.88s - 3314.60s] yani
+[3314.60s - 3316.00s] ya şu an
+[3316.00s - 3316.24s] mesela
+[3316.24s - 3317.06s] keras hala
+[3317.06s - 3318.26s] kontribütörlerden
+[3318.26s - 3319.06s] test yazılmasını
+[3319.06s - 3319.52s] istiyor mu
+[3319.52s - 3320.38s] o da enteresanmış
+[3320.38s - 3320.82s] yani senden
+[3320.82s - 3321.60s] test yazılmasını
+[3321.60s - 3322.10s] istenmesi
+[3322.10s - 3322.78s] şu anda
+[3322.78s - 3323.40s] o taraftaki
+[3323.40s - 3324.10s] testler biraz
+[3324.10s - 3325.74s] direkt otomatik
+[3325.74s - 3326.34s] yapılıyor ya
+[3339.24s - 3339.96s] gitme
+[3339.96s - 3340.72s] action bunu
+[3340.72s - 3342.04s] siz bir
+[3342.04s - 3342.98s] projesi açtığınız
+[3342.98s - 3343.38s] zaman
+[3343.38s - 3344.24s] o testleri
+[3344.24s - 3344.78s] çalıştırır
+[3344.78s - 3345.00s] niye
+[3345.00s - 3345.78s] çünkü
+[3345.78s - 3346.34s] dediğim gibi
+[3346.34s - 3347.16s] buraya çok fazla
+[3347.16s - 3347.48s] kişi
+[3348.42s - 3349.58s] kontribüs yapıyor
+[3349.58s - 3349.94s] ve
+[3349.94s - 3351.76s] o kişiler
+[3351.76s - 3352.48s] herhangi bir şey
+[3352.48s - 3353.18s] kırdı mı
+[3353.18s - 3353.86s] bozdu mu
+[3355.16s - 3356.26s] kitap action
+[3356.26s - 3357.32s] bu testleri
+[3357.32s - 3357.78s] çalıştırıyor
+[3357.78s - 3358.20s] arkadaşım
+[3358.20s - 3358.72s] bu testler
+[3358.72s - 3359.48s] niye yazılıyor
+[3359.48s - 3360.98s] ona değinelim
+[3360.98s - 3361.34s] şimdi
+[3362.46s - 3363.68s] youtube videomda
+[3363.68s - 3364.42s] anlatmıştım herhalde
+[3364.42s - 3364.98s] bir tanesinden
+[3366.42s - 3367.78s] bir özellik
+[3367.78s - 3368.64s] yazdınız arkadaşlar
+[3368.64s - 3370.18s] şimdi siz bunu
+[3370.18s - 3371.48s] test etmezsiniz
+[3371.48s - 3372.86s] yani test etmekten
+[3372.86s - 3373.66s] kastım yani
+[3373.66s - 3373.94s] böyle
+[3373.94s - 3375.70s] konsolda açıp
+[3375.70s - 3376.46s] üç beş tane
+[3376.46s - 3378.70s] çıktı almak değil
+[3378.70s - 3379.32s] yani gerçekten
+[3379.32s - 3380.56s] oturup
+[3380.56s - 3381.00s] düşünüp
+[3381.00s - 3381.42s] işte
+[3381.42s - 3381.90s] bu
+[3381.90s - 3382.80s] ben bir fonksiyonu
+[3382.80s - 3383.22s] yazdım
+[3383.22s - 3384.38s] bu fonksiyonu
+[3384.38s - 3385.52s] ben hangi değerleri
+[3385.52s - 3386.06s] verirsem
+[3386.06s - 3387.34s] ne çıktı alırım
+[3387.34s - 3388.26s] bunu bir
+[3388.26s - 3389.78s] testini yazmak
+[3389.78s - 3390.20s] gerekir
+[3390.20s - 3391.02s] hani gerçekten
+[3391.02s - 3391.96s] ben o istediğim
+[3391.96s - 3392.80s] değerleri alıyor muyum
+[3392.80s - 3394.04s] hani bunu bir test etmek
+[3394.04s - 3394.46s] gerekir
+[3394.46s - 3395.40s] doğruluğuna emin
+[3395.40s - 3395.74s] olmak
+[3395.74s - 3397.04s] daha sonra işte
+[3397.04s - 3397.62s] hata
+[3398.16s - 3398.94s] hani
+[3398.94s - 3399.82s] try-except
+[3399.82s - 3400.62s] blokları varsa
+[3400.62s - 3400.92s] işte
+[3400.92s - 3402.08s] bunları test etmek
+[3402.08s - 3402.64s] gerekir işte
+[3402.64s - 3403.46s] hatalı bir veri
+[3403.46s - 3404.04s] geldiği zaman
+[3404.04s - 3404.28s] buraya
+[3404.28s - 3404.94s] hatalı bir input
+[3404.94s - 3405.52s] geldiği zaman
+[3405.52s - 3406.74s] bu
+[3406.74s - 3407.50s] işte
+[3407.50s - 3407.94s] class
+[3407.94s - 3408.44s] fonksiyon
+[3408.44s - 3409.16s] metot neyse
+[3409.16s - 3410.24s] bir
+[3410.24s - 3410.96s] exception
+[3410.96s - 3411.66s] atıyor mu
+[3411.66s - 3412.00s] veya işte
+[3412.00s - 3412.54s] benim istediğim
+[3412.54s - 3413.20s] exception atıyor mu
+[3413.20s - 3414.38s] benim istediğim hata mesajını
+[3414.38s - 3414.86s] veriyor mu
+[3414.86s - 3415.90s] bunlar önemli şeyler
+[3415.90s - 3416.44s] arkadaşlar
+[3417.84s - 3418.56s] bunlar
+[3418.56s - 3420.38s] siz kodu yazarsınız
+[3420.38s - 3421.64s] kodu yazdıktan sonra da
+[3421.64s - 3422.94s] bunun testini yazarsınız
+[3422.94s - 3424.52s] testlerimi daha çok
+[3424.52s - 3425.30s] seviyorsanız
+[3425.30s - 3426.94s] test driven development
+[3426.94s - 3427.50s] diye bir şey var
+[3427.50s - 3427.96s] TDD
+[3427.96s - 3429.60s] onda da insanlar
+[3429.60s - 3430.58s] önce testi yazıyor
+[3430.58s - 3430.82s] sonra
+[3430.82s - 3432.24s] fonksiyonu yazıyor
+[3432.24s - 3432.46s] falan
+[3432.46s - 3433.40s] değişik
+[3433.40s - 3433.80s] böyle
+[3433.80s - 3435.28s] bir şey
+[3435.28s - 3436.22s] yani öyle söyleyeyim
+[3437.70s - 3438.78s] testler bunun için
+[3438.78s - 3439.32s] yazılıyor
+[3439.32s - 3440.94s] bunu yazdığınız zaman
+[3440.94s - 3442.12s] da ileriki dönemde
+[3442.12s - 3442.56s] sizin
+[3442.56s - 3444.00s] kod değilsiniz
+[3444.00s - 3444.64s] yani
+[3444.64s - 3445.90s] bütün kodlarınız
+[3445.90s - 3446.88s] bulunduğu ortam
+[3446.88s - 3448.04s] o kadar çok büyüyor ki
+[3448.04s - 3449.80s] bir şey tek tek
+[3449.80s - 3450.78s] test etme fırsatınız
+[3450.78s - 3451.42s] artık kalmama
+[3451.42s - 3451.94s] başlıyor
+[3451.94s - 3452.54s] ama
+[3452.54s - 3453.76s] bunları önceden
+[3453.76s - 3454.50s] yazarsanız
+[3454.50s - 3455.92s] bunlar testlerden
+[3455.92s - 3456.68s] şekilde birikmeye
+[3456.68s - 3457.40s] başlıyor
+[3457.40s - 3458.46s] ve siz bir şey
+[3458.46s - 3459.38s] kırdığınız zaman
+[3459.38s - 3460.44s] çok önceden
+[3460.44s - 3461.04s] haberiniz oluyor
+[3461.04s - 3461.40s] yani
+[3461.40s - 3462.58s] bir şeyi
+[3462.58s - 3464.00s] yazdığınız
+[3464.00s - 3465.40s] daha sonra
+[3465.40s - 3466.24s] farklı bir şekilde
+[3466.24s - 3468.04s] release etmek var
+[3468.04s - 3469.78s] bunu test aşamasında
+[3469.78s - 3470.42s] yakalayıp
+[3470.42s - 3471.82s] release etmeden
+[3471.82s - 3473.04s] onu düzeltmek var
+[3473.04s - 3474.38s] baklı bir şeyi
+[3474.38s - 3475.42s] düzeltmek
+[3475.42s - 3476.28s] daha masraf olur
+[3476.28s - 3476.96s] tabii ki
+[3478.40s - 3479.26s] kesinlikle
+[3479.26s - 3480.34s] ben buradan
+[3480.34s - 3481.38s] şeyi
+[3481.38s - 3482.38s] yakalanın
+[3482.38s - 3483.72s] senin güncel kalma
+[3483.72s - 3484.26s] yöntemlerini
+[3484.26s - 3485.00s] redditi
+[3485.00s - 3486.40s] çok kullandığını
+[3486.40s - 3486.74s] anlıyorum
+[3486.74s - 3487.56s] orada baktığın
+[3487.56s - 3488.52s] sabredditler var
+[3488.52s - 3489.86s] bunun haricinde
+[3489.86s - 3491.46s] mesela bir framework'ı
+[3491.46s - 3492.18s] takip ediyor musun
+[3492.18s - 3492.92s] teknik blog
+[3492.92s - 3493.82s] takip ediyor musun
+[3493.82s - 3495.04s] o taraftaki güncelliği
+[3495.04s - 3495.78s] nasıl sağlıyorsun
+[3502.82s - 3504.00s] kolet diye
+[3504.00s - 3504.74s] adam var
+[3504.74s - 3505.44s] duymuşsun
+[3505.44s - 3505.56s] odur
+[3505.56s - 3506.06s] keresinin
+[3506.06s - 3506.54s] ana
+[3506.54s - 3507.68s] kurucusu
+[3507.68s - 3508.30s] yapıcısı
+[3524.02s - 3525.02s] yazıcısı
+[3525.02s - 3525.76s] gibi bir yeri
+[3525.76s - 3526.06s] ben size
+[3526.06s - 3526.38s] oraya
+[3526.38s - 3527.14s] takıldığım
+[3527.14s - 3527.34s] oluyor
+[3527.34s - 3528.20s] ama genelde
+[3528.20s - 3528.90s] bir şey
+[3528.90s - 3530.08s] araştıracaksam
+[3530.08s - 3530.36s] böyle
+[3530.36s - 3531.66s] google'a giriyorum
+[3531.66s - 3532.56s] neler çıkıyor
+[3532.56s - 3533.00s] bakıyorum
+[3533.00s - 3533.20s] yani
+[3533.20s - 3534.62s] çok spesifik
+[3534.62s - 3534.86s] bir
+[3534.86s - 3536.38s] takip ettim
+[3536.38s - 3536.74s] bir blog
+[3536.74s - 3537.64s] yok açıkçası
+[3537.64s - 3538.46s] eskiden
+[3539.20s - 3540.28s] TensorFlow'un
+[3540.28s - 3540.98s] kaydını
+[3540.98s - 3541.88s] takip ediyordum
+[3541.88s - 3542.56s] bazen
+[3542.56s - 3543.58s] güzel şeyler oluyor
+[3543.58s - 3543.96s] ama onu
+[3543.96s - 3544.44s] bıraktım
+[3546.70s - 3547.42s] sonradan
+[3547.42s - 3548.66s] derin öğrenme
+[3548.66s - 3549.12s] tarafı var
+[3549.12s - 3549.38s] bu arada
+[3549.38s - 3549.86s] TensorFlow
+[3549.86s - 3550.54s] deyince
+[3550.54s - 3551.42s] aklıma o geldi
+[3551.42s - 3552.96s] derin öğrenme
+[3552.96s - 3553.52s] tarafını
+[3553.52s - 3554.74s] iş yerinde kullanıyor musun
+[3554.74s - 3555.98s] özellikle
+[3555.98s - 3557.08s] sigortacılık sektörünü
+[3557.08s - 3557.58s] düşününce
+[3558.10s - 3559.28s] ve derin öğrenme
+[3559.28s - 3559.60s] deyince
+[3559.60s - 3560.08s] özellikle
+[3560.08s - 3560.72s] ne bileyim
+[3560.72s - 3561.28s] reglasyon
+[3561.28s - 3562.02s] açıklanabilirlik
+[3562.02s - 3562.40s] gibi şeyler
+[3562.40s - 3563.14s] geliyor aklıma
+[3563.14s - 3564.06s] kullanılıyor mu
+[3565.56s - 3566.80s] çok yeri yok
+[3569.70s - 3571.14s] ben aslında
+[3571.14s - 3571.84s] derin öğrenmeyi
+[3571.84s - 3572.18s] seviyorum
+[3572.18s - 3572.54s] ama
+[3573.26s - 3574.12s] tabular da
+[3574.12s - 3574.46s] tolunca
+[3574.46s - 3575.04s] derin öğrenme
+[3575.04s - 3575.62s] uygulamakla
+[3575.62s - 3576.42s] bir şey oluyor
+[3576.42s - 3576.70s] yani
+[3577.42s - 3578.36s] dıkkınlık geliyor
+[3578.36s - 3578.64s] yani
+[3578.64s - 3579.24s] öyle söyleyeyim
+[3579.24s - 3579.96s] ortasında
+[3580.86s - 3582.24s] yani kesinlikle
+[3583.14s - 3584.16s] o zaman
+[3584.16s - 3585.18s] biraz böyle
+[3585.18s - 3586.44s] güzel kısımlardan biri
+[3586.44s - 3587.60s] şu anda
+[3587.60s - 3589.28s] yeni başlayan
+[3589.28s - 3589.76s] kişilere
+[3589.76s - 3590.38s] işte
+[3590.38s - 3591.44s] data science olur
+[3591.44s - 3592.06s] machine learning
+[3592.06s - 3592.80s] alanına geçecek
+[3592.80s - 3593.44s] kişiler olur
+[3593.44s - 3594.70s] bunların
+[3594.70s - 3595.28s] üniversitenin
+[3595.28s - 3595.96s] başında olabilir
+[3595.96s - 3596.58s] veya işte
+[3596.58s - 3597.36s] yeni mezun olabilir
+[3597.36s - 3598.98s] bu kişilere
+[3598.98s - 3600.32s] ne gibi önerilerde
+[3601.20s - 3602.00s] bulunursun
+[3602.00s - 3603.54s] ne gibi önerilerde
+[3603.54s - 3604.04s] bulmanın
+[3605.32s - 3606.12s] şimdi
+[3606.12s - 3606.74s] ona da bir şey
+[3606.74s - 3607.30s] yazmıştım
+[3607.30s - 3608.32s] biraz geçmiş
+[3608.32s - 3609.26s] 12 dakika
+[3609.26s - 3609.84s] geçmiş herhalde
+[3609.84s - 3610.40s] neden bu kadar
+[3610.40s - 3612.04s] 20 dakika
+[3612.04s - 3613.22s] yok
+[3613.22s - 3614.70s] bir şey yazmış
+[3614.70s - 3616.40s] kod yazılmak için
+[3616.40s - 3617.28s] cloud 3.5
+[3617.28s - 3618.02s] sonnet mi
+[3618.02s - 3618.52s] yoksa
+[3619.30s - 3620.26s] cpt4o mu
+[3620.26s - 3621.62s] tercih ediyorsunuz
+[3621.62s - 3621.78s] diye
+[3622.96s - 3624.44s] şimdi yeni başlayan
+[3624.44s - 3625.04s] arkadaşlar
+[3626.18s - 3627.80s] şu andaki dönemi
+[3627.80s - 3628.20s] göz önünde
+[3628.20s - 3629.04s] bulundurduğumuz zaman
+[3629.04s - 3631.06s] güzel bir kaynak
+[3631.06s - 3631.98s] yani bu elenenler
+[3631.98s - 3632.84s] cpt4o mu
+[3632.84s - 3633.94s] tercih ediyorsunuz
+[3633.94s - 3634.98s] bunlara
+[3634.98s - 3636.32s] şu an bedava
+[3636.32s - 3637.38s] baktığımız zaman
+[3637.38s - 3637.80s] bir şey
+[3637.80s - 3638.64s] sorup bir cevap
+[3638.64s - 3639.10s] alabiliyoruz
+[3639.10s - 3640.04s] bence bu çok değerli
+[3640.04s - 3640.28s] bir şey
+[3640.28s - 3642.42s] ben başladığım zaman
+[3642.42s - 3644.14s] gpt3 vardı
+[3644.14s - 3645.50s] gpt3 de böyle
+[3645.50s - 3647.84s] şu ana kıyasladığımız zaman
+[3647.84s - 3648.26s] tabi
+[3648.26s - 3649.40s] çok bir şey gözükmüyor
+[3649.40s - 3649.56s] yani
+[3649.56s - 3651.22s] çok salak bir model olarak
+[3651.22s - 3652.22s] gözüküyor baktığınız zaman
+[3652.22s - 3652.88s] ama o zaman
+[3652.88s - 3653.82s] gpt3'ü böyle
+[3653.82s - 3655.04s] insanlar hayretle bakıyordu
+[3655.04s - 3655.30s] yani
+[3655.30s - 3656.62s] yani
+[3656.62s - 3656.82s] işte
+[3656.82s - 3658.18s] autocomplete falan yapıyordu
+[3658.18s - 3659.38s] falan oluyordu
+[3659.38s - 3659.76s] böyle
+[3661.76s - 3662.96s] yeni başlayan arkadaşlar
+[3662.96s - 3663.74s] bence bu
+[3663.74s - 3665.42s] elenen modellerini
+[3665.42s - 3666.94s] nasıl kullanacağını
+[3666.94s - 3668.70s] nasıl efektif şekilde kullanacağını
+[3668.70s - 3669.50s] bence öğrenmeli
+[3670.48s - 3671.24s] çünkü
+[3671.24s - 3673.20s] dünya bir noktada
+[3673.20s - 3673.52s] hani
+[3673.52s - 3674.98s] farklı bir yöne gidiyor
+[3674.98s - 3676.74s] bu teknolojik gelişmeler
+[3676.74s - 3677.04s] var
+[3677.04s - 3678.08s] şey demiyorum
+[3678.08s - 3679.00s] ben sizin yerinize alacak
+[3679.00s - 3679.48s] demiyorum
+[3679.48s - 3680.60s] öyle bir şey değil ama
+[3680.60s - 3682.96s] bunları efektif bir şekilde
+[3682.96s - 3683.84s] kullanmayı öğrenirsiniz
+[3683.84s - 3684.22s] arkadaşlar
+[3684.22s - 3684.56s] hani
+[3684.56s - 3686.16s] bir iş yaptığınızdaki
+[3686.16s - 3687.04s] üretkenlerinizi
+[3687.04s - 3687.74s] arttırabilirsiniz
+[3687.74s - 3688.08s] yani
+[3688.08s - 3689.86s] 3 saatte yapacağınız bir işi
+[3689.86s - 3690.20s] belki
+[3690.20s - 3691.82s] 1 saatte yapabilirsiniz
+[3691.82s - 3694.64s] o geri kalan 2 saati kendinize ayırırsınız
+[3694.64s - 3696.06s] veya farklı işlerle uğraşabilirsiniz
+[3696.06s - 3697.38s] bu noktada
+[3697.38s - 3699.56s] bu modelleri kullanabilmeyi
+[3699.56s - 3700.72s] bilmek
+[3700.72s - 3701.38s] önemli
+[3701.38s - 3702.14s] yani burada
+[3702.14s - 3703.24s] sadece
+[3703.24s - 3705.84s] mesela bir kodlama yapacaksınız
+[3705.84s - 3707.08s] yani o kodu atıp
+[3707.08s - 3707.90s] işte bana şunu yap
+[3707.90s - 3709.14s] demekten ziyade
+[3709.14s - 3711.16s] birazcık detayına girmek gerekiyor
+[3711.16s - 3711.34s] işte
+[3712.32s - 3713.96s] şöyle bir kod var
+[3713.96s - 3716.08s] şu şekilde bir dizayn yapacağım
+[3716.08s - 3717.42s] şu noktada şu olsun
+[3717.42s - 3718.24s] işte bu olsun
+[3718.24s - 3718.48s] hani
+[3718.48s - 3720.10s] hepsini modellen bekleyemeyiz
+[3720.10s - 3722.74s] zaten öyle bir şey çok gerçekçi değil
+[3722.74s - 3723.10s] ama
+[3723.10s - 3725.40s] ince noktalarını böyle öğrenirseniz
+[3725.40s - 3726.06s] işte şu lazım
+[3726.06s - 3727.14s] şunu nasıl yapabiliriz
+[3727.14s - 3727.52s] veya işte
+[3728.38s - 3729.48s] şu kodu
+[3730.60s - 3731.28s] hataları
+[3731.28s - 3731.62s] işte
+[3731.62s - 3732.18s] nasıl
+[3732.18s - 3733.22s] derler
+[3733.22s - 3734.56s] nasıl handle edebiliriz
+[3734.56s - 3734.98s] yani bir
+[3734.98s - 3737.20s] try exit nasıl ekleyebiliriz
+[3737.20s - 3738.68s] veya işte
+[3739.42s - 3740.44s] şu yapıyı
+[3740.44s - 3741.96s] bu koda nasıl uydurabiliriz
+[3741.96s - 3742.88s] gibi şeyler aslında
+[3742.88s - 3743.94s] bence öğrenmek için
+[3743.94s - 3745.24s] güzel şeyler
+[3745.24s - 3745.48s] hani
+[3745.48s - 3746.54s] oradan bir
+[3746.54s - 3748.12s] yola koyulabilirsiniz
+[3748.12s - 3748.74s] yani işte
+[3748.74s - 3750.02s] ha böyle bir konsept varmış
+[3750.02s - 3750.94s] falan daha sonra onu
+[3750.94s - 3752.16s] o konsepti
+[3752.16s - 3753.10s] internete detaylı
+[3753.10s - 3753.78s] araştırabilirsiniz
+[3753.78s - 3754.40s] yani işte
+[3754.40s - 3756.92s] işte bloglar nasıl yapmış
+[3756.92s - 3757.42s] veya işte
+[3757.42s - 3759.52s] gerçek işin içinde olan kişiler
+[3759.52s - 3759.92s] bu
+[3759.92s - 3761.92s] dizayn etenlerine
+[3761.92s - 3763.02s] işte metodolojiyi nasıl uyguluyor
+[3763.02s - 3763.26s] falan
+[3763.26s - 3765.28s] buradan araştırabilirsiniz
+[3765.28s - 3766.22s] yani gidebilirsiniz
+[3766.22s - 3768.02s] kod yazdırmak için
+[3768.02s - 3768.98s] bu soru da cevap vereyim
+[3771.46s - 3772.76s] çoğu şirkette
+[3772.76s - 3773.08s] yani
+[3773.08s - 3773.76s] kodu
+[3773.76s - 3775.08s] alıp
+[3775.08s - 3776.42s] bu araçlara
+[3776.42s - 3777.28s] bu platformlara
+[3777.28s - 3778.44s] yapıştırmanız yasak
+[3778.44s - 3780.32s] çünkü gizlilik
+[3780.32s - 3780.76s] yani
+[3780.76s - 3781.82s] baktığınız zaman
+[3781.82s - 3783.14s] hani gidip de gizli olan bir şeyi
+[3783.14s - 3784.36s] buraya yapıştıramazsınız
+[3784.36s - 3784.60s] niye
+[3784.60s - 3785.68s] çünkü arkadaşlar
+[3785.68s - 3786.74s] LLM dediğiniz şey
+[3788.06s - 3790.04s] çok büyük bir veri yığını alıyor
+[3790.04s - 3791.16s] bir tekzi yığını alıyor
+[3791.16s - 3793.26s] onu kendi içinde sıkıştırıyor
+[3793.26s - 3794.50s] yani kompres ediyor
+[3794.50s - 3795.42s] ve daha sonra
+[3795.42s - 3796.10s] siz
+[3796.10s - 3796.96s] bir şeyler
+[3796.96s - 3798.20s] istedikçe
+[3798.20s - 3798.54s] o
+[3799.34s - 3800.02s] yığında
+[3800.02s - 3801.12s] size bir şeyler veriyor
+[3801.12s - 3801.92s] siz
+[3801.92s - 3803.82s] gizli olan bir şey
+[3803.82s - 3804.70s] attığınız zaman
+[3804.70s - 3806.36s] o gizli olan şeyi
+[3806.36s - 3806.72s] başka
+[3806.72s - 3807.84s] başka kişinin
+[3807.84s - 3808.30s] tarafına
+[3808.30s - 3809.52s] erişilme riski oluyor
+[3809.52s - 3810.64s] ondan dolayı
+[3810.64s - 3811.20s] yasaklı
+[3811.20s - 3812.66s] tabii şeyler var
+[3812.66s - 3813.12s] hani işte
+[3813.12s - 3814.44s] enterprise seviyesinde
+[3814.44s - 3815.62s] veriyi kullanmıyoruz
+[3815.62s - 3816.48s] falan filan ama
+[3816.48s - 3818.40s] biraz güven meselesi
+[3818.40s - 3819.42s] o veri
+[3819.42s - 3820.96s] çıktıktan sonra
+[3820.96s - 3821.66s] üçüncü partiye
+[3821.66s - 3822.46s] gittikten sonra
+[3822.46s - 3824.40s] insanların güveni
+[3825.36s - 3826.16s] bilmiyorum
+[3826.16s - 3827.24s] belki olmayabilir
+[3828.26s - 3829.50s] öyle söyleyeyim
+[3829.50s - 3831.06s] ama kendim kişisi olarak
+[3831.06s - 3832.26s] yapacak olursan
+[3832.26s - 3833.54s] TR tarafında
+[3833.54s - 3834.30s] co-pilot var
+[3834.30s - 3835.08s] işte Microsoft
+[3835.08s - 3836.60s] o birazcık
+[3837.50s - 3838.42s] şirketlerle böyle
+[3838.42s - 3839.04s] anlaşıp
+[3839.04s - 3839.96s] işte co-pilotun
+[3839.96s - 3840.66s] kullanılmasını
+[3840.66s - 3842.42s] çok teşvik ediyor
+[3842.42s - 3842.78s] hani sizin
+[3842.78s - 3843.76s] verinizi kullanmayacağız
+[3843.76s - 3845.14s] bu hem normal co-pilot
+[3845.14s - 3846.10s] hem GitHub co-pilot
+[3846.10s - 3846.72s] yani
+[3846.72s - 3847.90s] Microsoft altyapısını
+[3847.90s - 3848.44s] kullandığı için
+[3848.44s - 3849.30s] aslında şirketler
+[3849.30s - 3849.84s] Windows
+[3849.84s - 3850.92s] orada hani
+[3850.92s - 3852.46s] anlaşmaya varılıp
+[3852.46s - 3853.56s] LLM şirketlerin
+[3853.56s - 3854.20s] güvenli bir şekilde
+[3854.20s - 3855.10s] kullanması için
+[3855.10s - 3856.34s] böyle bir
+[3856.34s - 3858.16s] şeyi var
+[3858.16s - 3860.44s] altyapı sağlaması var
+[3860.44s - 3862.18s] mesela sizin şirkette
+[3862.18s - 3863.80s] böyle bir anlaşma var mı
+[3863.80s - 3864.88s] veya
+[3864.88s - 3867.04s] siz kullanabiliyor musunuz
+[3867.04s - 3867.56s] rahatça
+[3867.56s - 3868.18s] açık mı
+[3872.10s - 3873.66s] bir tanesiyle
+[3873.66s - 3874.70s] vardı da
+[3874.70s - 3875.84s] haberi de çıkmıştı
+[3875.84s - 3876.24s] sanırım
+[3876.24s - 3878.34s] ama çok şey değil
+[3878.34s - 3879.10s] rahat değil
+[3879.10s - 3879.64s] yani bizde
+[3879.64s - 3880.92s] benim çalıştığım
+[3880.92s - 3881.84s] yiyerede özellikle
+[3881.84s - 3882.82s] çok böyle
+[3882.82s - 3883.56s] sensitive
+[3883.56s - 3884.42s] hani hassas
+[3884.42s - 3885.42s] veri olduğu için
+[3885.42s - 3886.50s] bunu direkt olarak
+[3886.50s - 3888.20s] birisiyle anlaşsa bile
+[3888.20s - 3890.66s] çok güvenmeyin
+[3890.66s - 3891.06s] şeyi
+[3891.06s - 3892.26s] muhtosu var
+[3892.26s - 3892.66s] birazcık
+[3892.66s - 3893.06s] hani böyle
+[3893.06s - 3894.44s] sonuçta
+[3894.44s - 3894.80s] mesela
+[3894.80s - 3895.62s] kullanıcı datası
+[3895.62s - 3895.86s] diyelim
+[3895.86s - 3896.68s] kullanıcı datası
+[3896.68s - 3897.74s] yani
+[3897.74s - 3899.50s] böyle bir şey olursa
+[3899.50s - 3899.72s] tabii
+[3900.30s - 3900.96s] hani
+[3900.96s - 3902.08s] Türkiye'de
+[3902.08s - 3902.84s] biraz daha farklı
+[3902.84s - 3903.96s] oluyor bu süreçten
+[3903.96s - 3904.72s] yandım kadarıyla
+[3904.72s - 3904.96s] hani
+[3904.96s - 3906.66s] ama burada
+[3906.66s - 3907.74s] o tuşeler sıkı
+[3907.74s - 3909.06s] onun için
+[3909.06s - 3910.44s] öyle yani
+[3910.44s - 3911.88s] yok yok
+[3911.88s - 3912.58s] kullanıcı datası
+[3912.58s - 3913.26s] zaten hani
+[3913.26s - 3913.76s] giremezsiz
+[3913.76s - 3914.34s] o şekilde
+[3914.34s - 3914.80s] değil de
+[3914.80s - 3915.34s] aslında hani
+[3915.34s - 3916.20s] basit bir
+[3916.20s - 3917.86s] x bir kodu
+[3917.86s - 3918.80s] yazdırmak için
+[3918.80s - 3920.22s] aslında kullanabilirsin
+[3920.22s - 3921.14s] yani bazı
+[3921.14s - 3921.96s] şirketler var
+[3921.96s - 3922.60s] mesela işte
+[3922.60s - 3923.94s] gpd
+[3923.94s - 3925.86s] direkt bxr'da
+[3925.86s - 3926.42s] non yani
+[3926.42s - 3927.12s] giremiyorsun
+[3927.66s - 3929.20s] şey kapatmış
+[3929.20s - 3930.18s] domenini kapatmış
+[3930.18s - 3931.90s] bpn'e bağlı olduğun süre boyunca
+[3931.90s - 3932.34s] yani
+[3932.34s - 3933.62s] böyle bir şey var
+[3933.62s - 3934.68s] kapalıdır bilmiyorum
+[3934.68s - 3935.96s] olabilir
+[3935.96s - 3936.82s] ama tabii
+[3936.82s - 3938.16s] başlangıç için
+[3938.16s - 3939.50s] bana şöyle bir kod lazım
+[3939.50s - 3940.68s] diye
+[3940.68s - 3942.34s] şablondan ilerlemek
+[3942.34s - 3943.62s] mantıklı gayet de
+[3943.62s - 3944.46s] doğal bir şey yani
+[3944.46s - 3945.36s] ama tabii
+[3945.36s - 3946.66s] işler spesifik
+[3946.66s - 3947.66s] hale geldikçe
+[3947.66s - 3948.40s] yani kodunuz
+[3948.40s - 3949.28s] zaten modeller
+[3949.28s - 3950.32s] afallamaya başlıyor
+[3950.32s - 3952.18s] öyle şeyler var
+[3952.18s - 3952.54s] veya işte
+[3952.54s - 3953.24s] hassas veriyi
+[3953.24s - 3953.92s] vermemek var
+[3953.92s - 3955.10s] ama başlangıç için
+[3955.10s - 3956.04s] bence güzel dediğim gibi
+[3956.04s - 3957.10s] zaten dokumentasyonu
+[3957.10s - 3958.02s] yazarken falan da
+[3958.02s - 3959.50s] yardımcı oluyor yani
+[3961.18s - 3962.64s] şimdi çok güzel bir
+[3963.36s - 3964.02s] konsept
+[3964.02s - 3965.04s] bir noktadayız
+[3965.04s - 3966.42s] önemli bir
+[3966.42s - 3966.98s] kısım
+[3966.98s - 3967.68s] sence
+[3967.68s - 3969.22s] yeni başlayanların
+[3969.22s - 3970.28s] senin alanında
+[3970.28s - 3971.30s] yaptıkları
+[3971.30s - 3973.00s] doğru zannettiği
+[3973.00s - 3974.02s] ama yanlış olan
+[3974.02s - 3975.32s] şeylere birkaç örnek
+[3975.32s - 3975.90s] verebilir misin?
+[3978.46s - 3979.30s] verebilir mi?
+[3979.30s - 3980.66s] sadece model yazmak
+[3980.66s - 3980.96s] değil
+[3980.96s - 3983.10s] sadece notlukta
+[3984.40s - 3985.84s] pipeline kurmak
+[3985.84s - 3986.24s] değil
+[3986.24s - 3987.66s] ben de öyle
+[3987.66s - 3988.32s] zannediyordum
+[3988.32s - 3989.40s] kendimden biliyorum
+[3989.40s - 3990.32s] yani örnek veriyorum
+[3990.32s - 3990.66s] çünkü
+[3990.66s - 3992.30s] ben de öyle zannediyorum
+[3992.30s - 3992.90s] ama öyle değil
+[3992.90s - 3993.44s] tabii ki
+[3993.44s - 3994.32s] dediğim gibi
+[3994.32s - 3995.74s] farklı metikler var
+[3995.74s - 3996.06s] işte
+[3996.06s - 3997.20s] veya işte sonuçların
+[3997.20s - 3998.14s] sunulması var
+[3998.14s - 3999.62s] veya işte bu model üstünden
+[3999.62s - 4000.50s] para kazanmak var
+[4000.50s - 4000.76s] yani
+[4000.76s - 4001.98s] modeli yazdık
+[4001.98s - 4002.34s] ee
+[4002.90s - 4003.48s] bitti
+[4003.48s - 4004.26s] işte
+[4004.26s - 4005.68s] şöyle doğruluk aldık
+[4005.68s - 4006.34s] ee
+[4006.34s - 4007.30s] para kazandık mı?
+[4007.46s - 4007.56s] yok
+[4007.56s - 4008.56s] o zaman ne işe yaradı?
+[4008.82s - 4009.16s] yani sadece
+[4009.16s - 4010.30s] elektrik yaktık
+[4010.30s - 4011.28s] yani anlatabiliyorum
+[4011.28s - 4012.52s] yani bir şirketteyseniz
+[4012.52s - 4013.70s] üstünden para kazanmak
+[4013.70s - 4014.38s] isteyecekler bunu
+[4016.86s - 4017.38s] ee
+[4017.38s - 4018.20s] bunlardan bir tanesi
+[4018.20s - 4018.62s] mesela
+[4018.62s - 4019.68s] data leakage
+[4019.68s - 4020.20s] vardı mesela
+[4020.20s - 4021.32s] ben de yapmışımdır
+[4021.32s - 4021.80s] büyük ihtimalle
+[4021.80s - 4022.76s] çünkü ben de bilmiyordum
+[4023.82s - 4024.34s] ee
+[4024.34s - 4024.90s] veya daha sonra
+[4024.90s - 4025.50s] label and code
+[4025.50s - 4026.32s] kullanım falan
+[4026.32s - 4027.06s] bunlar da benim
+[4027.06s - 4028.24s] önceden çok yaptığım
+[4028.24s - 4029.06s] aslında doğru bildiğim
+[4029.06s - 4029.80s] yanlış şeyler
+[4029.80s - 4031.08s] bunları paylaşıyorum zaten
+[4031.08s - 4033.18s] bunları daha önce
+[4033.18s - 4034.42s] ulaşabilmek isterdim
+[4034.42s - 4034.56s] işte
+[4034.56s - 4036.02s] redditte olsun
+[4036.02s - 4036.38s] takılı
+[4036.38s - 4037.32s] fiyaslaki exchange
+[4037.32s - 4038.04s] var mesela
+[4038.04s - 4039.16s] meslek overflow'un
+[4039.16s - 4040.06s] farklı alt
+[4040.96s - 4041.80s] şeyleri var
+[4041.80s - 4042.06s] mesela
+[4042.06s - 4042.76s] data science için
+[4042.76s - 4043.24s] gibi
+[4043.24s - 4044.08s] ee
+[4044.08s - 4044.90s] burası takıla takıla
+[4044.90s - 4045.66s] birazcık ben bunları
+[4045.66s - 4046.04s] öğrendim
+[4046.04s - 4046.76s] bunları daha erken
+[4046.76s - 4047.84s] görseydim
+[4047.84s - 4048.48s] belki daha farklı
+[4048.48s - 4049.06s] olabilirdi
+[4049.06s - 4050.62s] arkadaşlar tavsiyem
+[4050.62s - 4051.42s] bu tür yerlerde
+[4051.42s - 4052.58s] takılması
+[4052.58s - 4053.94s] yani farklı yerlerden
+[4053.94s - 4055.14s] bilgiyi alıp
+[4055.14s - 4056.64s] onları bir şekilde
+[4056.64s - 4057.86s] harmanlamak gerekiyor
+[4057.86s - 4058.58s] işte bu
+[4058.58s - 4059.54s] credit olur
+[4059.54s - 4060.50s] ya forsele olur
+[4060.50s - 4062.70s] işte herhangi bir yer olur
+[4062.70s - 4063.40s] ee
+[4063.40s - 4064.24s] buradan alıp
+[4064.24s - 4065.20s] ee
+[4065.20s - 4065.98s] bakmak lazım
+[4065.98s - 4066.56s] ve gerekirse
+[4066.56s - 4067.56s] karşılaştırmak lazım
+[4067.56s - 4068.68s] kiliselerin ak dediğinde
+[4068.68s - 4069.56s] diğeri kara diyebilir
+[4069.56s - 4070.54s] şimdi öyle olunca
+[4070.54s - 4071.54s] hangisi doğru oluyor
+[4071.54s - 4072.18s] ee bu
+[4072.18s - 4072.90s] sizi daha çok
+[4072.90s - 4073.92s] araştırma yetecektir
+[4073.92s - 4074.78s] ee bu da bence
+[4074.78s - 4075.12s] iyi bir şey
+[4075.12s - 4075.86s] yani baktığımız zaman
+[4077.40s - 4078.04s] kesinlikle
+[4078.04s - 4079.20s] ya orada aslında
+[4079.20s - 4079.70s] LLM
+[4080.68s - 4081.32s] legitmenin
+[4081.32s - 4081.88s] ee
+[4081.88s - 4082.98s] de bir şeyi var
+[4082.98s - 4084.24s] yani bir yanlılığı var
+[4084.24s - 4084.80s] orada hani
+[4084.80s - 4086.12s] o da yanlış şeyler
+[4086.12s - 4086.74s] söyleyebiliyor
+[4086.74s - 4087.52s] ee
+[4087.52s - 4088.50s] ve çok yanlış
+[4088.50s - 4089.54s] kodlar yazılabiliyor
+[4089.54s - 4090.42s] doğru zannedilir
+[4090.42s - 4091.76s] benim de
+[4091.76s - 4092.70s] naçizane tavsiyem
+[4092.70s - 4093.52s] şey oluyor genelde
+[4093.52s - 4094.96s] bir tane kitap belirlemek
+[4094.96s - 4096.22s] yani alanda böyle
+[4096.22s - 4097.46s] iyi eküt olmuş
+[4097.46s - 4098.20s] bir kitabı
+[4098.20s - 4098.72s] alıp
+[4098.72s - 4099.64s] onunla birlikte
+[4099.64s - 4100.38s] hani GPT'yi
+[4100.38s - 4101.06s] yardımcı olarak
+[4101.06s - 4101.60s] kullanıp
+[4101.60s - 4102.70s] aslında gitmek
+[4102.70s - 4103.52s] ee
+[4103.52s - 4104.08s] ve kitabı
+[4104.08s - 4105.02s] sonuna kadar gitmek
+[4105.02s - 4106.18s] aslında önemli trik
+[4106.18s - 4107.28s] biraz sonuna kadar
+[4107.28s - 4107.84s] gelebilmek
+[4107.84s - 4108.74s] çünkü yani sonuna kadar
+[4108.74s - 4109.20s] gelince
+[4109.20s - 4110.78s] sağa sola da dallanmış
+[4110.78s - 4111.38s] ve olayı da
+[4111.38s - 4111.96s] uçtan uca
+[4111.96s - 4113.02s] bir noktada görebilmiş
+[4113.02s - 4113.42s] oluyorsun
+[4113.42s - 4114.68s] ee
+[4114.68s - 4115.52s] senin bu konuda
+[4115.52s - 4116.56s] kitap konusunda
+[4116.56s - 4117.80s] bir tavsiyen olur mu?
+[4120.08s - 4121.66s] kitap konusunda
+[4121.66s - 4122.82s] koletin
+[4122.82s - 4124.00s] keresi anlattı
+[4124.00s - 4124.90s] derin öğrenmekte var
+[4124.90s - 4125.18s] onu
+[4125.18s - 4126.16s] met ediyorlar
+[4126.16s - 4126.56s] bayağı
+[4126.56s - 4127.22s] ben de birkaç
+[4127.22s - 4128.80s] hepsi okumadım ben ama
+[4128.80s - 4130.10s] baktığım kadarıyla
+[4130.10s - 4131.46s] gayet güzel anlatmış
+[4131.46s - 4131.78s] zaten
+[4131.78s - 4133.02s] konuya hakim
+[4133.02s - 4135.12s] birisi güzel bence
+[4135.12s - 4136.06s] onun haricinde
+[4139.30s - 4140.34s] yazan ismini
+[4140.34s - 4140.68s] oldum
+[4140.68s - 4141.16s] bir tane
+[4141.16s - 4141.90s] meşgitörün kitabı
+[4141.90s - 4142.38s] dediğim gibi
+[4142.38s - 4142.94s] bende olan
+[4142.94s - 4143.58s] onun linkini
+[4143.58s - 4144.02s] paylaşalım
+[4144.02s - 4144.28s] zaten
+[4144.28s - 4144.62s] daha sonra
+[4144.62s - 4145.48s] refer koyarsınız
+[4145.48s - 4146.84s] hem başlangıç
+[4146.84s - 4147.40s] seviyesi var
+[4147.40s - 4147.78s] hem de
+[4147.78s - 4148.22s] ileri
+[4148.22s - 4149.28s] advanced topics
+[4149.28s - 4149.94s] olarak
+[4149.94s - 4151.08s] ileri seviye konular
+[4151.08s - 4151.90s] var
+[4151.90s - 4152.76s] şey mi acaba
+[4152.76s - 4153.24s] hands-on
+[4153.24s - 4153.66s] yaşın
+[4153.66s - 4154.14s] örnek mi?
+[4154.74s - 4156.08s] çok klasik bir kitap
+[4156.08s - 4156.24s] ya
+[4156.24s - 4157.20s] keresi
+[4157.20s - 4157.36s] yok
+[4157.36s - 4158.02s] öyle değil
+[4158.02s - 4159.00s] yok yok
+[4159.00s - 4159.46s] öyle değil
+[4159.46s - 4159.64s] hani
+[4159.64s - 4160.64s] teorik olarak
+[4160.64s - 4161.28s] baktığımız zaman
+[4161.28s - 4161.38s] hani
+[4161.38s - 4163.40s] kod implementasyon olarak
+[4163.40s - 4164.14s] ve teorik olarak
+[4164.14s - 4165.30s] işin arka planında
+[4165.30s - 4165.76s] dönen şeyler
+[4165.76s - 4166.64s] anlatan bir kitap
+[4168.10s - 4169.54s] çok implementasyon
+[4169.54s - 4169.94s] kitabı
+[4169.94s - 4170.54s] okumadım
+[4170.54s - 4172.32s] kendim sağdan soldan
+[4172.32s - 4172.74s] görerek
+[4172.74s - 4173.64s] birazcık yaptım
+[4173.64s - 4175.08s] git hafta olsun
+[4175.08s - 4175.70s] keglede olsun
+[4175.70s - 4177.06s] kendim aldım çalıştırdım
+[4177.06s - 4178.18s] o şekilde ilerleme
+[4178.18s - 4178.58s] çalıştım
+[4178.58s - 4178.82s] da
+[4178.82s - 4179.84s] teorik olarak
+[4179.84s - 4181.34s] dediğim gibi
+[4181.34s - 4183.62s] iki tane kitabım var
+[4183.62s - 4183.86s] yani
+[4184.94s - 4185.86s] evde yani
+[4185.86s - 4186.44s] bayağı
+[4186.44s - 4187.06s] öyle söyleyeyim
+[4187.06s - 4187.34s] hani
+[4187.34s - 4188.00s] ebook olarak
+[4188.00s - 4188.86s] yani kullandım
+[4188.86s - 4190.28s] onları
+[4190.28s - 4190.70s] verim
+[4190.70s - 4191.16s] ben bu
+[4191.28s - 4191.56s] bir şey
+[4191.56s - 4192.10s] olmasını
+[4192.10s - 4192.76s] destekliyorum
+[4192.76s - 4192.88s] yani
+[4192.88s - 4193.22s] bir tane
+[4193.22s - 4193.84s] basılı kitap
+[4193.84s - 4194.26s] olmasını
+[4194.26s - 4194.80s] ve onu
+[4194.80s - 4195.50s] sonuna kadar
+[4195.50s - 4195.96s] okumayı
+[4195.96s - 4196.88s] çok destekliyorum
+[4196.88s - 4197.08s] hani
+[4197.08s - 4197.40s] sen de
+[4197.40s - 4197.76s] o tarafta
+[4197.76s - 4198.06s] zaten
+[4198.06s - 4198.56s] inanılmaz
+[4198.56s - 4199.24s] defterlerin
+[4199.24s - 4199.50s] varmış
+[4199.50s - 4200.30s] not alıyormuşsun
+[4200.30s - 4201.32s] basılı bir şey
+[4201.32s - 4201.98s] yapıyormuşsun
+[4201.98s - 4203.70s] o basılıya
+[4203.70s - 4204.30s] inanıyoruz
+[4204.30s - 4204.78s] ve bunu
+[4204.78s - 4205.50s] sürdüreceğiz
+[4208.60s - 4209.40s] şey soruyorum
+[4209.40s - 4210.18s] seni en çok
+[4210.18s - 4211.02s] geliştiren proje
+[4211.02s - 4211.38s] neydi
+[4211.38s - 4211.96s] bu arada
+[4211.96s - 4213.22s] ya bu bir noktada
+[4213.22s - 4214.40s] biraz böyle
+[4214.40s - 4215.16s] kırılma noktası
+[4215.16s - 4215.72s] gibi de oluyor
+[4215.72s - 4216.04s] hani
+[4216.74s - 4217.46s] öyle bir
+[4217.46s - 4218.36s] proje oluyor ki
+[4218.36s - 4218.80s] ya benim
+[4218.80s - 4219.58s] mesela şeydi
+[4219.58s - 4220.86s] hekatonlara
+[4220.86s - 4221.62s] çok katılıyorum
+[4221.62s - 4222.40s] ilk böyle
+[4222.40s - 4223.16s] Anadolu sigortanın
+[4223.16s - 4223.76s] hekatonu vardı
+[4223.76s - 4224.64s] orada bir chatbot
+[4224.64s - 4225.12s] yaptım
+[4225.12s - 4225.82s] ilk yaptığım
+[4225.82s - 4226.58s] chatbottu
+[4226.58s - 4227.82s] raza ile yapmıştım
+[4227.82s - 4228.38s] hatta bunu
+[4228.38s - 4229.58s] ondan beridir
+[4229.58s - 4230.68s] chatbot yapıyorum
+[4230.68s - 4231.38s] her hekatona
+[4231.38s - 4232.34s] yani ne bileyim
+[4232.34s - 4232.96s] belki 10 tane
+[4232.96s - 4233.58s] yapmışızdır
+[4233.58s - 4234.16s] yani bu arada
+[4234.16s - 4235.54s] o benim için bir kırılma
+[4235.54s - 4236.18s] noktasıydı
+[4236.18s - 4237.30s] yani senin böyle bir şeyin
+[4237.30s - 4237.62s] var mı
+[4239.56s - 4241.52s] benim kırılma noktası
+[4241.52s - 4242.24s] belki politik ile
+[4242.24s - 4242.96s] tanışmak olabilir
+[4242.96s - 4243.82s] politik bir araç
+[4243.82s - 4244.74s] arkadaşlar bilmiyorsanız
+[4244.74s - 4245.44s] o da üstüme yapışan
+[4245.44s - 4246.08s] araçlardan biri
+[4246.08s - 4246.54s] benim
+[4248.20s - 4248.92s] politik
+[4250.04s - 4250.76s] görmemle
+[4251.66s - 4252.92s] belki birazcık daha
+[4252.92s - 4253.66s] böyle işin
+[4253.66s - 4255.02s] daha ciddi kısmına
+[4255.02s - 4255.70s] geçiş yaptığını
+[4255.70s - 4256.22s] düşünüyorum
+[4256.22s - 4257.36s] özellikle bu
+[4257.36s - 4257.84s] software engineering
+[4257.84s - 4258.44s] olsun
+[4258.44s - 4259.00s] oradada
+[4259.00s - 4260.46s] bu dizel
+[4260.46s - 4260.92s] zaten
+[4260.92s - 4262.20s] falan aynı anda
+[4262.20s - 4263.34s] politik öğrenmemle
+[4263.34s - 4263.76s] başladım
+[4263.76s - 4264.52s] böyle denk geldi
+[4264.52s - 4266.34s] o araç
+[4266.34s - 4266.56s] yani
+[4266.56s - 4267.68s] bir
+[4267.68s - 4268.68s] mihenktaşı olarak
+[4269.62s - 4270.54s] nitelendirebilirim
+[4270.54s - 4271.84s] ondan sonra
+[4271.84s - 4272.80s] yani küçük
+[4272.80s - 4273.44s] orta çaplı
+[4273.44s - 4274.06s] projelerde
+[4274.06s - 4274.68s] genelde
+[4274.68s - 4275.82s] politik kullanıyorum
+[4275.82s - 4276.98s] kendikisel projelerde
+[4276.98s - 4277.30s] yani
+[4277.30s - 4279.62s] çok büyük projelerde
+[4279.62s - 4281.00s] politik paklamaz arkadaşlar
+[4281.00s - 4282.42s] onu da söyleyeyim
+[4282.42s - 4282.80s] yani 20
+[4282.80s - 4283.56s] pendip endisi
+[4283.56s - 4284.10s] olduğu zaman
+[4284.10s - 4285.12s] politik
+[4285.12s - 4286.58s] böyle birazcık
+[4286.58s - 4287.94s] yamulmaya
+[4287.94s - 4288.52s] başlayabilir
+[4288.52s - 4289.30s] onun için
+[4289.30s - 4289.70s] araç
+[4289.70s - 4290.44s] kullanıyorsanız
+[4290.44s - 4290.98s] bir aracın
+[4291.66s - 4292.80s] artılarını ve eksilerini
+[4292.80s - 4293.74s] iyi öğrenmek gerekiyor
+[4293.74s - 4294.30s] her şeyi
+[4294.30s - 4295.66s] bir araç öğrendiniz
+[4295.66s - 4295.94s] diye
+[4295.94s - 4296.82s] bir araç öğrendik
+[4296.82s - 4296.96s] diye
+[4296.96s - 4297.22s] veya
+[4297.22s - 4298.34s] onu sürekli
+[4298.34s - 4299.14s] aynı probleme
+[4299.14s - 4300.04s] atmamak lazım
+[4300.04s - 4300.26s] mesela
+[4300.26s - 4301.06s] her şeyde
+[4301.06s - 4301.82s] poetry kullanamam
+[4301.82s - 4302.60s] öyle bir şey yok
+[4302.60s - 4302.84s] ama
+[4302.84s - 4303.72s] çoğu zaman
+[4303.72s - 4305.16s] işimi görüyor mu
+[4305.16s - 4305.62s] görüyor
+[4305.62s - 4306.06s] iyi mi
+[4306.06s - 4306.38s] iyi
+[4306.38s - 4306.98s] o zaman
+[4306.98s - 4307.92s] sorun yok
+[4308.68s - 4309.52s] öyle değil
+[4309.52s - 4310.84s] burada belki
+[4310.84s - 4312.24s] poetry'den bahsettin
+[4312.24s - 4313.44s] poetry'nin de
+[4313.44s - 4314.02s] ne olduğunu
+[4314.02s - 4315.06s] ve belki
+[4315.06s - 4315.26s] oradaki
+[4315.26s - 4316.18s] piple farkını da
+[4316.18s - 4316.56s] çok kısa
+[4316.56s - 4317.30s] açıklayabilir misin
+[4318.36s - 4319.00s] tabii
+[4320.08s - 4321.02s] şimdi
+[4321.02s - 4321.30s] arkadaşlar
+[4321.30s - 4321.90s] poetry
+[4321.90s - 4323.16s] bir
+[4323.16s - 4325.00s] python projenizi
+[4325.00s - 4325.60s] yönetmeniz için
+[4325.60s - 4326.24s] bir araç
+[4326.24s - 4328.28s] herhangi bir
+[4328.28s - 4329.46s] mesela
+[4329.46s - 4329.76s] pip
+[4329.76s - 4332.12s] install yaptığınız zaman
+[4332.12s - 4332.74s] mesela bir
+[4332.74s - 4334.26s] kütüphane yükleyeceksiniz
+[4334.26s - 4334.62s] diyelim
+[4334.62s - 4335.94s] bu kütüphane
+[4335.94s - 4336.92s] pardon
+[4336.92s - 4338.90s] bir kod yazacaksınız
+[4338.90s - 4339.90s] bu kod içerisinde
+[4339.90s - 4341.02s] numpey kullanacaksınız
+[4341.02s - 4341.36s] şimdi
+[4341.36s - 4342.00s] numpey'in
+[4342.00s - 4342.80s] 2.0 sürümü
+[4342.80s - 4343.14s] diyelim
+[4343.14s - 4344.96s] bunu yüklüyorsunuz
+[4344.96s - 4345.74s] 2.0
+[4345.74s - 4346.00s] yüklendi
+[4346.00s - 4346.56s] numpey
+[4347.12s - 4347.64s] daha sonra
+[4347.64s - 4348.54s] farklı bir
+[4348.54s - 4349.90s] kütüphane yükleyeceksiniz
+[4349.90s - 4351.12s] mutlaka olmuştur
+[4351.12s - 4351.64s] hani böyle
+[4353.14s - 4354.52s] bir kütüphane yüklerse
+[4354.52s - 4355.58s] o lampayı kaldırır
+[4355.58s - 4355.78s] böyle
+[4355.78s - 4356.60s] numpey 2.0
+[4356.60s - 4357.04s] kaldırır
+[4357.04s - 4357.32s] böyle
+[4357.32s - 4357.52s] hani
+[4357.52s - 4358.10s] found
+[4358.10s - 4358.58s] işte
+[4359.88s - 4360.60s] existing
+[4360.60s - 4361.06s] installation
+[4361.06s - 4361.64s] öyle bir şey
+[4361.64s - 4361.88s] der
+[4361.88s - 4362.88s] mesela böyle
+[4362.88s - 4363.66s] sonra
+[4363.66s - 4364.00s] lampayı
+[4364.00s - 4364.62s] no kullandığınız
+[4364.62s - 4365.18s] versiyonu gider
+[4365.18s - 4365.54s] böyle
+[4365.54s - 4366.30s] downgrade
+[4366.30s - 4366.62s] alır
+[4366.62s - 4366.92s] upgrade
+[4366.92s - 4367.28s] alır
+[4367.28s - 4367.64s] neyse
+[4367.64s - 4367.84s] artık
+[4367.84s - 4370.36s] sonra ne olur
+[4370.36s - 4372.26s] sizin kullandığınız
+[4372.26s - 4373.78s] versiyonu değiştiği zaman
+[4373.78s - 4374.80s] sizin kodunuzun
+[4374.80s - 4375.74s] çalışmama riski var
+[4375.74s - 4376.36s] yani sizin
+[4376.36s - 4377.88s] kullandığınız
+[4377.88s - 4379.74s] kütüphanelerin versiyonları
+[4379.74s - 4380.88s] spesifik olmalar
+[4380.88s - 4381.24s] arkadaşlar
+[4381.24s - 4381.50s] bir
+[4382.68s - 4384.24s] kodlama yapıyorsanız
+[4384.24s - 4384.50s] yani
+[4384.50s - 4385.28s] çünkü
+[4385.28s - 4386.70s] versiyonlar değiştiği zaman
+[4386.70s - 4387.74s] kütüphanelerde
+[4389.26s - 4390.64s] değişimler olabilir
+[4390.64s - 4391.96s] fonksiyonlar yeri değişebilir
+[4391.96s - 4392.76s] fonksiyonların
+[4392.76s - 4393.70s] davranışı değişebilir
+[4393.70s - 4395.18s] onun için
+[4395.18s - 4397.38s] kütüphanelerin versiyonları
+[4397.38s - 4398.12s] önemli arkadaşlar
+[4398.12s - 4399.26s] poetri
+[4399.26s - 4399.88s] baktığın zaman
+[4399.88s - 4401.00s] en temel olarak
+[4401.00s - 4401.28s] yani
+[4401.28s - 4402.18s] baktığımız zaman
+[4402.18s - 4403.92s] siz bir kütüphanelerin
+[4403.92s - 4404.70s] öpeceğiniz zaman
+[4404.70s - 4406.30s] işte o kütüphanelerin
+[4406.30s - 4406.72s] mesela
+[4406.72s - 4407.66s] işte pandas
+[4407.66s - 4408.40s] baktığın zaman
+[4408.40s - 4409.22s] alt tarafında
+[4409.22s - 4410.04s] lampayı kullanıyor
+[4410.04s - 4410.40s] arkadaşlar
+[4410.40s - 4411.82s] taban olarak
+[4411.82s - 4412.66s] lampayı kullanıyor
+[4413.22s - 4413.90s] hani
+[4413.90s - 4414.84s] kütüphanelerde
+[4414.84s - 4415.30s] farklı
+[4415.30s - 4417.02s] hazır indirdiğiniz
+[4417.02s - 4417.78s] kütüphanelerde
+[4417.78s - 4418.30s] farklı farklı
+[4418.30s - 4419.00s] kütüphanelerde
+[4419.00s - 4419.46s] aslında
+[4419.46s - 4421.20s] burada bir
+[4421.20s - 4422.30s] kontrol yapıyor
+[4422.30s - 4423.18s] mesela siz bir kütüphane
+[4423.18s - 4423.92s] öpeceksiniz
+[4423.92s - 4424.90s] a kütüphanesi
+[4425.42s - 4426.68s] işte bu
+[4426.68s - 4427.64s] bu kütüphanesiyle
+[4427.64s - 4428.20s] uyumlu mu
+[4428.20s - 4429.10s] hani o versiyonlar
+[4429.10s - 4429.84s] arasında bir uyumsuzluk
+[4429.84s - 4430.46s] olabilir mi
+[4430.46s - 4431.76s] hani destekleme açısından
+[4431.76s - 4432.64s] bir sıkıntı var mı
+[4432.64s - 4432.82s] diye
+[4433.64s - 4435.02s] poetri kontrol ediyor
+[4435.02s - 4437.54s] bu güzel bir yanı
+[4437.54s - 4438.68s] fit install yaptığınız zaman
+[4438.68s - 4439.96s] bu çok mümkün olmayabilir
+[4439.96s - 4440.56s] hani burada
+[4440.56s - 4442.26s] konflikler yaşanabilir
+[4443.14s - 4444.10s] baktığımız zaman
+[4444.10s - 4445.58s] veya işte başka
+[4445.58s - 4446.54s] poetri'nin
+[4446.54s - 4446.90s] bir de
+[4446.90s - 4448.12s] log diye bir dosyası var
+[4448.12s - 4448.54s] arkadaşlar
+[4448.54s - 4449.96s] ona çok detaya girmeyin ama
+[4449.96s - 4452.22s] mesela bir proje yaptığın zaman
+[4452.22s - 4453.66s] üstünde 10 kişi çalışıyor
+[4453.66s - 4453.98s] diyelim
+[4453.98s - 4456.30s] 10-4 kişi diyelim
+[4456.30s - 4458.12s] 3-4 kişi çalıştığı zaman
+[4459.96s - 4462.04s] kodların çalıştığı ortam
+[4462.04s - 4463.24s] aynı olması gerekir
+[4463.24s - 4463.94s] yani kütüphaneler
+[4463.94s - 4465.32s] ve onların versiyonları
+[4465.32s - 4466.24s] aynı olması gerekir
+[4466.24s - 4466.90s] işte bu
+[4466.90s - 4468.82s] poeti log dosyası ile
+[4468.82s - 4469.40s] aslında bunu
+[4469.40s - 4470.82s] sağlamaya çalışıyor
+[4470.82s - 4471.48s] yani herkesin
+[4471.48s - 4473.52s] aynı versiyonu kullandığında
+[4473.52s - 4474.40s] aynı kütüphanenin
+[4474.40s - 4476.26s] o spesifik versiyonu kullandığından
+[4476.26s - 4477.74s] emin olmaya çalışıyor
+[4477.74s - 4478.20s] yani böyle
+[4478.20s - 4480.56s] incelik güzel detayları var
+[4480.56s - 4482.38s] öyle söyleyeyim basitce
+[4483.28s - 4485.68s] yani güzel bir açıklamaydı
+[4485.68s - 4486.26s] bence de
+[4486.26s - 4487.38s] poetri tarafını
+[4487.38s - 4488.36s] belki de ilk defa
+[4488.36s - 4489.04s] bu yayınla
+[4489.04s - 4489.98s] birlikte duyacak
+[4489.98s - 4490.76s] birçok kişi vardır
+[4490.76s - 4491.14s] yani
+[4491.14s - 4492.46s] poetri
+[4492.46s - 4493.24s] enteresan
+[4493.24s - 4495.10s] genelde dümdüz
+[4495.10s - 4495.52s] requirement
+[4495.52s - 4496.84s] hep hep install atarız
+[4496.84s - 4497.06s] yani
+[4497.06s - 4498.28s] okeydir bizim için
+[4499.66s - 4500.42s] burada
+[4501.20s - 4502.44s] Gökher Güner'in
+[4502.44s - 4503.02s] bir sorusu var
+[4503.02s - 4503.78s] Gökher abinin
+[4503.78s - 4505.10s] Prompt Engineer
+[4505.10s - 4506.18s] benzeri mesleklerin
+[4506.18s - 4507.72s] geleceğini nasıl görüyorsunuz?
+[4507.74s - 4509.22s] başkana gibi meslekler
+[4509.22s - 4510.18s] yetenekler çıkabilir
+[4510.18s - 4511.06s] yakın gelecekte
+[4512.80s - 4514.26s] Prompt Engineering
+[4515.86s - 4516.98s] geleceği var mı?
+[4517.12s - 4517.84s] çok emin değilim
+[4517.84s - 4518.54s] niye?
+[4520.98s - 4521.22s] yani
+[4521.22s - 4522.44s] Prompt Engineering
+[4522.44s - 4523.62s] aslında şöyle bir şey
+[4523.62s - 4524.28s] bir
+[4524.28s - 4526.42s] yani hepimiz yapıyoruz
+[4526.42s - 4527.26s] bunu büyük bir saniye
+[4527.26s - 4529.20s] bir el eleme girdiniz
+[4529.20s - 4530.86s] bir şey yazdınız
+[4530.86s - 4531.48s] istediğiniz çıktı
+[4531.48s - 4532.04s] vermedi
+[4532.04s - 4533.32s] veya işte tam
+[4533.32s - 4534.12s] aklınızdaki değil
+[4534.12s - 4534.80s] mesela bir şablon
+[4534.80s - 4535.32s] sunacaksınız
+[4535.32s - 4535.66s] kod olarak
+[4535.66s - 4537.10s] aklınızdakini vermedi
+[4537.10s - 4538.54s] daha sonra
+[4538.54s - 4539.26s] Prompt'u böyle
+[4539.26s - 4540.06s] 3 aşağı 5 kere
+[4540.06s - 4540.88s] takla attırmaya
+[4541.82s - 4542.54s] başlıyorsunuz
+[4542.54s - 4543.58s] bu da aslında
+[4543.58s - 4544.60s] bir Engineering
+[4544.60s - 4545.80s] olarak sayılabilir
+[4545.80s - 4546.54s] büyük ihtimalle
+[4546.54s - 4548.08s] şimdi bu
+[4548.08s - 4549.48s] benim anladığım kadarıyla
+[4549.48s - 4550.28s] ilk nereden çıkmış
+[4550.28s - 4551.36s] bir ona değineyim önce
+[4551.36s - 4552.58s] şimdi bu
+[4552.58s - 4554.06s] GPT 3 zamanları
+[4554.06s - 4554.42s] sanırım
+[4554.42s - 4555.28s] anladığım kadarıyla
+[4555.28s - 4555.92s] bu işte
+[4555.92s - 4556.82s] modeller çok
+[4556.82s - 4558.02s] yaygın değilken
+[4559.22s - 4559.96s] bu
+[4559.96s - 4560.92s] mesela
+[4560.92s - 4561.32s] opening
+[4561.32s - 4562.00s] API'yi
+[4562.00s - 4562.36s] sanırım
+[4562.36s - 4563.50s] fiyattan çok
+[4563.50s - 4564.06s] atılamıyor ama
+[4564.06s - 4564.84s] bu tür şeyler
+[4564.84s - 4565.88s] biraz maliyetliymiş
+[4565.88s - 4567.40s] bu maliyetten
+[4567.40s - 4567.90s] ötürü
+[4567.90s - 4568.86s] mesela işte
+[4568.86s - 4569.58s] sizi bir çıktı
+[4569.58s - 4570.50s] alacaksınız diyelim
+[4572.02s - 4573.16s] bunu işte
+[4573.16s - 4573.80s] 10 kelimede
+[4573.80s - 4574.50s] anlatmak var
+[4574.50s - 4575.22s] bir de 3 kelimede
+[4575.22s - 4575.88s] anlatmak var
+[4575.88s - 4576.48s] şimdi siz ne kadar
+[4576.48s - 4577.40s] uzun anlatırsanız
+[4577.40s - 4578.22s] o kadar daha fazla
+[4578.22s - 4579.04s] kredi yatacak
+[4579.04s - 4579.66s] şimdi
+[4579.66s - 4580.42s] Prompt Engineering
+[4580.42s - 4582.04s] de buradan
+[4582.04s - 4582.80s] anladığım kadarıyla
+[4582.80s - 4583.14s] biraz
+[4583.96s - 4584.70s] evrimleşmiş
+[4584.70s - 4585.20s] dönmüş yani önce
+[4585.20s - 4586.38s] bu optimize olarak
+[4586.38s - 4587.32s] Prompt Optimization
+[4587.32s - 4588.66s] olarak başlayıp
+[4588.66s - 4588.96s] daha sonra
+[4588.96s - 4589.40s] Enjinin'in
+[4589.40s - 4590.24s] sanırım dönmüş
+[4590.24s - 4591.54s] bildirim kadarıyla
+[4591.54s - 4592.24s] işte o
+[4592.24s - 4593.44s] oradan başlamış
+[4593.44s - 4594.50s] ve daha sonra
+[4594.50s - 4594.98s] günümüze
+[4594.98s - 4595.36s] gelmiş
+[4595.36s - 4597.38s] bu modellerden
+[4597.38s - 4598.46s] daha efektif nasıl
+[4598.46s - 4599.20s] çıktı alınır
+[4599.20s - 4601.12s] bunun yöntemleri
+[4601.12s - 4601.94s] aslında Prompt Engineering
+[4601.94s - 4602.24s] de
+[4604.70s - 4605.50s] Formt
+[4605.50s - 4606.84s] Enhancement
+[4606.84s - 4607.82s] olarak sanırım
+[4607.82s - 4608.20s] yani şu
+[4608.20s - 4609.16s] Prompt'u geliştirme
+[4609.16s - 4609.58s] yani modellen
+[4609.58s - 4610.12s] daha iyi nasıl
+[4610.12s - 4610.86s] çıktı alırız
+[4610.86s - 4612.02s] bunun geleceği
+[4612.02s - 4612.36s] var mı
+[4612.36s - 4613.78s] bence çok yok
+[4613.78s - 4614.04s] niye
+[4614.04s - 4615.44s] zaten şu an
+[4615.44s - 4616.08s] herhangi bir
+[4618.32s - 4618.92s] modeli
+[4618.92s - 4619.52s] gidip işte
+[4619.52s - 4619.88s] bana şöyle
+[4619.88s - 4620.48s] Prompt lazım
+[4620.48s - 4620.96s] deseniz de
+[4620.96s - 4621.40s] size bir şeyler
+[4621.40s - 4621.88s] yazar
+[4621.88s - 4622.40s] daha sonra
+[4622.40s - 4623.26s] üstünde oturursanız
+[4623.26s - 4623.98s] böyle mesela
+[4623.98s - 4625.86s] bunu düzeltebilirsiniz
+[4625.86s - 4626.20s] veya işte
+[4626.20s - 4626.90s] insanlar zaten
+[4626.90s - 4628.00s] Prompt'lar paylaşıyor
+[4628.00s - 4628.88s] baktığınız zaman
+[4628.88s - 4629.94s] onları da alıp
+[4629.94s - 4631.08s] böyle harmanlayabilirsiniz
+[4631.08s - 4631.96s] yani bir taslak
+[4631.96s - 4633.10s] Prompt'unuz olabilir
+[4633.76s - 4634.46s] ileride hani
+[4634.46s - 4635.92s] sırf Prompt yazdığı için
+[4635.92s - 4637.36s] para alacak bir insan
+[4637.36s - 4638.14s] olabilir mi
+[4638.14s - 4639.78s] benim çok aklıma
+[4639.78s - 4640.50s] yatmıyor açıkçası
+[4641.26s - 4642.30s] başka ne gibi
+[4642.30s - 4643.04s] meslekleri
+[4643.04s - 4644.40s] denkler çıkabilir
+[4645.36s - 4646.60s] şöyle olabilir
+[4647.62s - 4648.42s] mesleklerden
+[4648.42s - 4648.64s] mesela
+[4649.54s - 4651.14s] yazılım alanında
+[4651.14s - 4652.36s] değerlenecek olursam
+[4654.20s - 4655.82s] bir yapay zeka
+[4655.82s - 4657.02s] hani yapay zekanın
+[4657.02s - 4657.72s] diyelim artık
+[4657.72s - 4658.58s] sizi
+[4658.58s - 4660.18s] replace etmesi
+[4660.18s - 4660.48s] yani sizin
+[4660.48s - 4661.38s] elinizi alması
+[4661.38s - 4663.62s] çok mümkün değil
+[4663.62s - 4664.12s] hani bu
+[4664.12s - 4664.76s] seneye
+[4664.76s - 4665.36s] iki seneye
+[4665.36s - 4666.10s] olacak bir şey değil
+[4666.10s - 4666.44s] ama
+[4666.44s - 4667.80s] şurada şöyle bir şey
+[4667.80s - 4668.30s] olabilir hani
+[4668.30s - 4669.10s] gelecekte
+[4669.10s - 4670.68s] yapay zeka
+[4670.68s - 4671.66s] kullanmayı
+[4671.66s - 4673.00s] bilen bir tarafından
+[4673.00s - 4673.48s] belki
+[4673.48s - 4675.18s] replace edilebilirsiniz
+[4675.18s - 4675.48s] niye
+[4675.48s - 4676.32s] çünkü o kişi
+[4676.32s - 4676.84s] mesela daha
+[4676.84s - 4677.98s] üretken olmayı çözmüş
+[4677.98s - 4678.96s] işte daha
+[4678.96s - 4680.00s] efektif bir şekilde
+[4680.00s - 4680.62s] kodlama yapıyor
+[4680.62s - 4681.40s] yani bu kişisini
+[4681.40s - 4682.20s] önümüze geçebilir
+[4682.20s - 4683.06s] ama tabii
+[4683.84s - 4685.44s] bir yapay zeka
+[4685.44s - 4685.84s] seneye
+[4687.12s - 4687.92s] mümkün değil
+[4687.92s - 4688.74s] zaten alamaz
+[4688.74s - 4689.44s] yani şu an için
+[4689.44s - 4689.72s] hani
+[4690.56s - 4691.92s] el elem bir tane
+[4691.92s - 4692.80s] yani bir kod
+[4692.80s - 4693.34s] değilsi alsa
+[4693.34s - 4694.12s] böyle orta çaklı
+[4694.12s - 4694.90s] zaten yok eder
+[4694.90s - 4695.22s] yani
+[4695.22s - 4696.28s] hani baktığımız zaman
+[4697.66s - 4698.80s] onu toplaması
+[4698.80s - 4699.30s] da zor olur
+[4699.30s - 4700.72s] dediğim gibi
+[4700.72s - 4701.46s] yetenek olarak
+[4701.46s - 4702.56s] yani yapay zeka
+[4702.56s - 4703.16s] efektif
+[4703.82s - 4704.46s] kullanabilme
+[4704.46s - 4705.86s] bence ileride
+[4705.86s - 4706.40s] önemli olacak
+[4706.40s - 4707.06s] aslında bu her
+[4707.06s - 4707.80s] meslekçi olabilir
+[4707.80s - 4708.36s] belki mesela
+[4708.36s - 4709.36s] doktorlar için de
+[4709.36s - 4710.04s] hani
+[4710.72s - 4711.98s] şu an için demiyorum
+[4711.98s - 4712.52s] tabii şu an
+[4712.52s - 4713.50s] çok reliable
+[4713.50s - 4714.28s] güvenilir bir
+[4714.28s - 4715.00s] kaynak değil
+[4715.00s - 4715.68s] bu tür modeller
+[4715.68s - 4715.94s] ama
+[4715.94s - 4717.50s] belki ileride gelişirse
+[4717.50s - 4719.12s] daha güvenilir
+[4719.12s - 4720.58s] kaynak olabilirse
+[4722.58s - 4723.42s] olabilir yani
+[4723.42s - 4724.22s] bunu kullanma
+[4724.22s - 4725.16s] yeteneği de olabilir
+[4725.16s - 4725.98s] yani öyle söyleyeyim
+[4728.50s - 4729.42s] aynen ya
+[4729.42s - 4729.70s] bu arada
+[4729.70s - 4730.42s] prompt engineer
+[4730.42s - 4730.86s] deyince
+[4730.86s - 4731.52s] akla
+[4731.52s - 4732.14s] direkt hani
+[4732.14s - 4732.88s] el elem tarafı
+[4732.88s - 4733.18s] geliyor
+[4733.18s - 4734.36s] ama aslında
+[4734.36s - 4734.88s] görsel
+[4734.88s - 4735.26s] bu
+[4735.26s - 4736.38s] işte açıklayan
+[4736.38s - 4737.36s] difizyon modelleri
+[4737.36s - 4737.54s] var
+[4737.54s - 4738.20s] veya işte
+[4738.20s - 4739.00s] open a
+[4739.00s - 4739.58s] yine görsel
+[4739.58s - 4740.40s] üreten modelleri
+[4740.40s - 4740.58s] var
+[4740.58s - 4742.42s] o taraflara da
+[4742.42s - 4743.02s] bir prompt
+[4743.02s - 4743.82s] girilmesi gerekiyor
+[4743.82s - 4744.00s] ve
+[4744.00s - 4744.98s] o taraftaki
+[4744.98s - 4745.52s] promptlar
+[4745.52s - 4746.72s] pek buradaki gibi
+[4746.72s - 4747.74s] dümdüz konuşarak
+[4747.74s - 4748.22s] beraber bunu
+[4748.22s - 4748.94s] anlattığında
+[4748.94s - 4750.28s] çözülecek şeyler
+[4750.28s - 4750.68s] olmuyor
+[4750.68s - 4751.32s] bence
+[4751.32s - 4752.10s] prompt engineer
+[4752.10s - 4752.98s] title'ını hak eden
+[4752.98s - 4753.84s] biri varsa
+[4753.84s - 4754.72s] yani biraz görsel
+[4754.72s - 4755.36s] taraftakiler
+[4755.36s - 4756.14s] daha çok hak ediyor
+[4756.14s - 4757.52s] compute UI olsun
+[4757.52s - 4758.78s] o akışı
+[4758.78s - 4759.52s] tasarlamak
+[4759.52s - 4759.82s] işte
+[4759.82s - 4761.40s] en son o ağırlıkları
+[4761.40s - 4761.80s] vermek
+[4761.80s - 4762.40s] bazı işte
+[4762.40s - 4763.40s] negatif var
+[4763.40s - 4764.24s] pozitif var
+[4764.24s - 4766.08s] bir sürü parametre var
+[4766.08s - 4767.00s] prompt taraf
+[4767.00s - 4767.40s] şeyde
+[4767.40s - 4768.04s] el elem tarafında
+[4768.04s - 4768.40s] bir şey yok ki
+[4768.40s - 4768.84s] doğru düzgün
+[4768.84s - 4769.06s] yani
+[4769.06s - 4770.86s] kendini ifade edebilen
+[4770.86s - 4771.52s] insan herhalde
+[4771.52s - 4772.16s] bunu da çözer
+[4772.16s - 4772.78s] diye düşünüyorum
+[4772.78s - 4773.72s] evet
+[4773.72s - 4775.06s] genelde resim
+[4775.72s - 4776.72s] stable diffusion
+[4776.72s - 4777.38s] da başladı
+[4777.38s - 4777.82s] aslında bu
+[4777.82s - 4778.80s] resimden popüler
+[4778.80s - 4779.76s] olma resim üretme
+[4779.76s - 4780.70s] stable diffusion
+[4780.70s - 4781.52s] ile başladı
+[4781.52s - 4782.70s] tabi orada bir şey
+[4782.70s - 4783.58s] anlatmak daha zor
+[4783.58s - 4785.64s] kendimi tecrübe ettim zaten
+[4785.64s - 4786.00s] hani
+[4786.00s - 4787.70s] yani istiyorum ama
+[4787.70s - 4789.26s] tam olarak bu resim değil
+[4789.26s - 4791.24s] hani şuradan şöyle üstüne şey yapalım
+[4791.24s - 4792.44s] şurayı kırpalım falan
+[4792.44s - 4794.20s] sonra saçma sapan bir şey ortaya çıkıyor
+[4794.20s - 4794.82s] falan böyle
+[4794.82s - 4796.76s] orada tabi daha şey oluyor
+[4796.76s - 4797.02s] hani
+[4797.02s - 4798.54s] prompt üzerinde oynamak
+[4798.54s - 4800.36s] şu parametreleri iyi bilmek gerekiyor
+[4801.08s - 4801.96s] dediğim gibi
+[4801.96s - 4831.96s] 
+[4831.96s - 4834.20s] datalik şeyine referans vermiş
+[4835.48s - 4836.46s] şimdi gene
+[4836.46s - 4837.38s] onurdan bir soru var
+[4837.38s - 4839.34s] çok az bir datamız var ise
+[4839.34s - 4840.02s] örneğin işte
+[4840.02s - 4841.16s] 400 satırlık bir data
+[4841.16s - 4842.94s] bunun validasyonunu doğru bir şekilde
+[4842.94s - 4843.76s] nasıl yaparız
+[4843.76s - 4845.82s] devamında şöyle şeyler yazmış
+[4845.82s - 4846.96s] 3 tane
+[4846.96s - 4848.20s] klas varmış
+[4848.20s - 4849.92s] klasifikasyon problemi içinmiş
+[4849.92s - 4851.16s] statified
+[4851.16s - 4852.12s] keyfold yapmış
+[4852.12s - 4853.38s] fakat bu işe yaramamış
+[4855.42s - 4856.88s] 400 satırda
+[4856.88s - 4857.58s] machine learning
+[4858.64s - 4859.44s] bayağı
+[4859.44s - 4861.04s] zor yani
+[4861.04s - 4862.00s] asla baktığımız zaman
+[4863.26s - 4865.00s] şimdi böyle bir senaryo
+[4865.00s - 4865.66s] de ilk başta
+[4866.48s - 4867.56s] machine learning
+[4867.56s - 4868.74s] gerçekten gerekli mi?
+[4870.54s - 4870.94s] bunu bir
+[4870.94s - 4872.48s] sormak gerekiyor
+[4872.48s - 4872.62s] yani
+[4872.62s - 4873.72s] ben bunu
+[4873.72s - 4875.48s] listesel yöntemlerle
+[4875.48s - 4876.30s] metotlarla
+[4876.30s - 4877.42s] çözebilir miyim?
+[4877.54s - 4878.10s] veya çok basic
+[4878.10s - 4879.48s] yöntemlerle çözebilir miyim?
+[4879.90s - 4880.86s] bunu bir
+[4880.86s - 4882.02s] sorgulamak gerekir
+[4882.02s - 4882.36s] bence
+[4882.36s - 4883.48s] işte
+[4883.48s - 4884.32s] basic
+[4887.18s - 4888.14s] yarışma data
+[4888.14s - 4888.62s] soracağım
+[4888.62s - 4889.60s] sorun devamı geldi
+[4889.60s - 4890.34s] yarışma datası
+[4890.34s - 4891.26s] evet
+[4891.26s - 4893.20s] yarışma datası
+[4895.02s - 4895.82s] evet
+[4895.82s - 4897.30s] yani bu büyük ihtimalle
+[4897.30s - 4898.36s] zor bir soru
+[4898.36s - 4899.86s] şöyle olabilir
+[4899.86s - 4901.70s] benim kendi izlediğim bir
+[4901.70s - 4902.92s] metot yani öyle söyleyeyim
+[4902.92s - 4904.30s] bu tarz data
+[4904.30s - 4905.32s] az olduğu zaman
+[4905.32s - 4906.74s] ben
+[4906.74s - 4908.24s] kural tabanlı bir şey
+[4908.24s - 4909.08s] yazmaya gidiyorum
+[4909.08s - 4909.58s] genelde
+[4909.58s - 4911.04s] ama bu kuralları
+[4911.04s - 4911.74s] çıkarmak için
+[4911.74s - 4913.04s] öncelikle şöyle bir taktik
+[4913.04s - 4913.48s] izliyorum
+[4913.48s - 4914.90s] bir tane decision tree
+[4914.90s - 4915.28s] alıyorum
+[4915.28s - 4916.12s] yani bayağı bir de
+[4916.12s - 4916.68s] decision tree
+[4916.68s - 4917.66s] classified
+[4917.66s - 4918.50s] bu durumda
+[4919.30s - 4920.06s] sonra
+[4920.06s - 4921.40s] datayı böyle
+[4921.40s - 4923.04s] fit ediyorum
+[4923.04s - 4924.72s] önce tüm data
+[4924.72s - 4925.88s] fit edebilirsiniz
+[4925.88s - 4928.06s] bu decision tree
+[4928.06s - 4928.46s] classified
+[4928.46s - 4928.80s] arkadaşlar
+[4928.80s - 4930.26s] kuralları çıkarabilirsiniz
+[4930.26s - 4930.68s] yani
+[4930.68s - 4931.54s] bayağı
+[4931.70s - 4932.08s] işte
+[4932.08s - 4933.96s] feature'lar şunlardı
+[4933.96s - 4936.62s] işte şu değerler vardı
+[4936.62s - 4938.34s] işte ondan da şu şekilde oldu
+[4938.34s - 4939.32s] hani iften else
+[4939.32s - 4939.88s] şeklinde
+[4939.88s - 4941.08s] kuralları çıkarabilirsiniz
+[4941.08s - 4943.08s] bu şekilde
+[4943.08s - 4944.34s] kuralları çıkarıp
+[4944.34s - 4945.64s] daha sonra o kuralları
+[4945.64s - 4947.20s] böyle elinizle oynamak
+[4947.20s - 4948.72s] belki daha iyi sonuçlar verebilir
+[4948.72s - 4950.04s] zaten yarışma datası
+[4950.04s - 4950.58s] dediği için
+[4950.58s - 4950.80s] hani
+[4950.80s - 4952.08s] burada
+[4952.08s - 4954.56s] orada bir şeyler yapılabilir
+[4954.56s - 4955.18s] büyük ihtimalle
+[4956.38s - 4958.14s] cross validation'da
+[4958.14s - 4959.58s] kaldırabiliyorsak
+[4959.58s - 4959.74s] yani
+[4960.52s - 4961.94s] birazcık şey yapabiliriz
+[4961.94s - 4962.38s] hani mesela
+[4962.38s - 4963.82s] 400 diyor ya
+[4964.88s - 4966.46s] kaç folda bölebiliriz
+[4966.46s - 4966.58s] yani
+[4966.58s - 4967.50s] false sayısını
+[4967.50s - 4968.34s] şey tutabiliriz
+[4968.34s - 4969.04s] belki birazcık
+[4969.04s - 4969.90s] ne derler
+[4969.90s - 4971.64s] yüksek tutabiliriz
+[4971.64s - 4972.02s] mesela
+[4972.02s - 4973.88s] burada 400 ise
+[4973.88s - 4974.48s] işte
+[4974.48s - 4976.40s] 15-20 olabilir
+[4976.40s - 4977.62s] işte 15-20'de
+[4977.62s - 4978.06s] yine bir
+[4979.08s - 4980.28s] kurallar nasıl değişiyor
+[4980.28s - 4981.24s] bunları bir inceleyip
+[4981.24s - 4981.92s] hani o aradaki
+[4981.92s - 4983.04s] farkı
+[4983.04s - 4983.76s] daha sonra
+[4983.76s - 4985.70s] tüm datadan çıkardığım
+[4985.70s - 4987.00s] kurallarla karşılaştırıp
+[4987.00s - 4988.62s] bir şekilde kapatabilir miyim
+[4988.62s - 4988.78s] diye
+[4989.64s - 4990.38s] düşünebiliriz
+[4990.38s - 4991.24s] yani böyle çözdüğü bir
+[4991.24s - 4993.02s] problem olmuştu
+[4993.02s - 4993.32s] hani
+[4994.10s - 4995.56s] öyle söyleyeyim yani
+[4995.56s - 4996.96s] çünkü direkt böyle
+[4998.62s - 4999.72s] modeli kurdum
+[5000.66s - 5001.72s] sonuçları aldım
+[5001.72s - 5003.00s] yani bu tarz datalarda
+[5003.00s - 5004.06s] böyle başarı çok
+[5004.06s - 5004.82s] yüksek olmuyor
+[5004.82s - 5006.44s] üstüne post processing
+[5006.44s - 5008.04s] yapmak gerekiyor
+[5009.00s - 5010.14s] öyle söyleyeyim
+[5010.96s - 5011.36s] ya bu arada
+[5011.36s - 5012.20s] decision tree
+[5012.94s - 5014.08s] orada hani onu
+[5014.08s - 5014.82s] kuralları
+[5014.82s - 5015.98s] çıkarmak için yapıyorsun
+[5015.98s - 5017.10s] ve işte ne bileyim
+[5017.10s - 5018.26s] feature'i nereden kıracak
+[5018.26s - 5019.30s] onu bir göreyim
+[5019.30s - 5020.26s] ama orada da
+[5020.26s - 5021.90s] decision tree'nin
+[5021.90s - 5022.62s] parametrelerini
+[5022.62s - 5023.76s] çok iyi bilmeyen insanlar
+[5023.76s - 5024.82s] böyle aşırı fazla
+[5024.82s - 5025.74s] bir kural setiyle
+[5025.74s - 5026.98s] karşı karşıya kalabilirler
+[5026.98s - 5028.94s] biraz yüksek parametre
+[5028.94s - 5029.90s] verdiklerinde
+[5029.90s - 5030.94s] o taraf için
+[5030.94s - 5031.78s] bir önerin olur mu?
+[5031.98s - 5032.54s] yani böyle bir şey
+[5032.54s - 5033.34s] yapacak insanlar
+[5033.34s - 5034.52s] nereden başlasın?
+[5034.60s - 5035.18s] nasıl baksın?
+[5035.34s - 5036.44s] default parametrelerle
+[5036.44s - 5037.10s] eğittiği vakit
+[5037.10s - 5037.46s] mesela
+[5037.46s - 5039.00s] çok fazla kural çıkar mı?
+[5039.12s - 5040.16s] 400 satırlık bir veride
+[5041.72s - 5043.48s] max stepton'dan yaparsak
+[5043.48s - 5044.64s] ve verinin de
+[5046.00s - 5047.00s] varyansı yüksekse
+[5047.00s - 5048.18s] tabii şöyle
+[5048.18s - 5049.52s] ansiklopili kadar
+[5049.52s - 5050.34s] kural çıkabilir
+[5052.62s - 5053.92s] yani max stepton'i
+[5053.92s - 5055.16s] biraz sınırlamak lazım
+[5055.16s - 5056.74s] işte 3-5-7 artık
+[5056.74s - 5057.82s] neyse önce bir deneyip
+[5057.82s - 5058.60s] nasıl çıkıyor yani
+[5058.60s - 5060.80s] ona göre hareket etmek gerekir
+[5060.80s - 5062.42s] onu şey demiş
+[5062.42s - 5062.98s] devamlı olarak
+[5062.98s - 5063.82s] cross violation
+[5063.82s - 5064.60s] leave one out
+[5064.60s - 5065.40s] olur mu yoksa
+[5065.40s - 5066.16s] delice mi demiş
+[5066.16s - 5067.92s] leave one out
+[5068.70s - 5069.46s] olabilir
+[5069.46s - 5070.88s] yapabiliyorsan
+[5070.88s - 5072.58s] git denerdim yani
+[5072.58s - 5073.36s] sonuçta zaten
+[5073.36s - 5074.72s] fit etme süreci
+[5074.72s - 5075.46s] büyük ihtimalle kısa
+[5075.46s - 5076.32s] anadığım kadarıyla
+[5077.80s - 5078.56s] denenebilir
+[5078.56s - 5080.74s] mesela leave one out
+[5080.74s - 5081.46s] cross validation
+[5081.46s - 5082.10s] nedir?
+[5082.32s - 5082.66s] mesela onu da
+[5082.66s - 5084.66s] kısaca açıklayabilirsiniz
+[5084.66s - 5086.26s] bilmemişler için
+[5086.26s - 5086.52s] mesela
+[5086.52s - 5087.54s] tabii
+[5087.54s - 5088.48s] cross validation
+[5088.48s - 5089.04s] arkadaşlar
+[5089.04s - 5091.50s] test veriniz olmadığı
+[5091.50s - 5092.16s] takdirde
+[5092.16s - 5092.34s] takdirde
+[5092.34s - 5092.74s] veya işte
+[5092.74s - 5094.04s] nasıl derler
+[5094.04s - 5094.62s] modelinizi
+[5094.62s - 5095.32s] bir
+[5095.32s - 5096.26s] dsd üstüne
+[5096.26s - 5097.24s] test etmek istediğiniz
+[5097.24s - 5097.62s] zaman bir
+[5097.62s - 5099.16s] hiperparametre ayarlayacağınız zaman
+[5099.16s - 5101.18s] genelde kullanılan bir
+[5101.18s - 5102.24s] şeydir
+[5102.24s - 5103.00s] bu yöntemdir
+[5103.00s - 5104.52s] verinizi
+[5104.52s - 5106.28s] 5 eşit parçaya
+[5106.28s - 5107.02s] mesela bölüp
+[5107.80s - 5109.58s] 5 eşit parçaya böldüğünüz
+[5109.58s - 5110.44s] zaman verinizi
+[5110.44s - 5111.44s] 4 parçasını
+[5111.44s - 5111.94s] train de
+[5111.94s - 5112.42s] bir tanesini
+[5112.42s - 5113.40s] testte kullanırsınız
+[5113.40s - 5114.56s] ve daha sonra bu
+[5115.30s - 5116.54s] 5 eşit parçaya
+[5116.54s - 5117.30s] daşı train test
+[5117.30s - 5118.54s] bölümlerini değiştirerek
+[5118.54s - 5119.18s] devam edersiniz
+[5119.18s - 5119.86s] ve totalde
+[5119.86s - 5120.82s] 5 tane model
+[5120.82s - 5121.92s] fit etmiş olursunuz
+[5122.74s - 5124.06s] leave one out
+[5124.06s - 5125.28s] dediği şeyde
+[5125.28s - 5125.58s] arkadaşlar
+[5125.58s - 5126.44s] dediğimiz şeyde
+[5127.34s - 5128.26s] leave one
+[5128.26s - 5129.22s] hani bir tanesini
+[5129.22s - 5130.12s] açıkta bırakmak
+[5130.12s - 5130.30s] demek
+[5130.30s - 5131.02s] demek hani bir tane
+[5131.02s - 5131.96s] kalacak
+[5131.96s - 5132.18s] hani
+[5134.86s - 5135.78s] konsept olarak
+[5135.78s - 5137.04s] bir tane veriyi
+[5137.04s - 5137.72s] test olarak
+[5137.72s - 5138.26s] bulamak demek
+[5138.26s - 5139.08s] ama hani burada
+[5139.08s - 5140.28s] bir tanesini
+[5140.28s - 5140.80s] test olarak
+[5140.80s - 5141.44s] bulamak belki
+[5141.44s - 5141.72s] çok
+[5142.66s - 5143.78s] mantıklı olmayabilir
+[5143.78s - 5144.22s] hani böyle
+[5144.22s - 5145.36s] işte 3 tersini
+[5145.36s - 5145.86s] 5 tersini
+[5145.86s - 5146.20s] bırakayım
+[5146.20s - 5147.06s] olabildiğince
+[5147.06s - 5148.64s] pahalısını bırakıp
+[5148.64s - 5149.98s] test etmek
+[5149.98s - 5150.22s] demek
+[5150.22s - 5150.64s] yani
+[5152.10s - 5152.82s] mesela
+[5152.82s - 5153.76s] 400 veriden
+[5153.76s - 5155.50s] 5 tersini
+[5155.50s - 5156.38s] testte bırakıp
+[5156.38s - 5157.60s] 395'ini
+[5157.60s - 5158.12s] train ederek
+[5158.12s - 5158.62s] kullanabilir
+[5158.62s - 5159.80s] işte bunu
+[5159.80s - 5160.56s] tekrar etmek
+[5160.56s - 5161.98s] diyebiliriz
+[5163.72s - 5164.96s] şöyle bir şey demiş
+[5164.96s - 5165.82s] 400 satırsa
+[5165.82s - 5167.22s] 400 model oluyor yani
+[5167.22s - 5168.56s] tabii
+[5168.56s - 5169.54s] sürekli bir tane
+[5169.54s - 5170.10s] bırakırsak
+[5170.10s - 5171.02s] 400 model olur
+[5171.02s - 5172.20s] işte onu kısmak için
+[5172.20s - 5172.82s] belki 3-5
+[5172.82s - 5173.66s] yapıp
+[5173.66s - 5175.42s] onu kompensedebiliriz
+[5177.04s - 5178.14s] şöyle bir
+[5178.14s - 5178.86s] soru var
+[5178.86s - 5180.18s] güzel bir soru
+[5180.18s - 5180.46s] bence
+[5180.46s - 5181.36s] hocam
+[5181.36s - 5181.88s] yarışmalara
+[5181.88s - 5183.02s] katılacak
+[5183.02s - 5183.78s] bir yapay zeka
+[5183.78s - 5184.60s] yapabilir miyiz?
+[5185.06s - 5185.58s] işte kendisi
+[5185.58s - 5186.46s] skor alacak
+[5186.46s - 5187.46s] aldığı skoru
+[5187.46s - 5188.00s] kendisi
+[5188.00s - 5188.82s] iyileştirecek
+[5188.82s - 5190.42s] böyle bir şey yapmak
+[5190.42s - 5191.08s] mümkün olur mu?
+[5196.24s - 5197.20s] yani tabii
+[5197.20s - 5198.02s] mümkün değil
+[5198.02s - 5199.12s] demek
+[5199.12s - 5200.32s] yani çok mantıklı değil
+[5200.32s - 5200.80s] bu noktada
+[5200.80s - 5201.18s] ama tabii
+[5201.18s - 5202.22s] ne zaman mümkün olur
+[5202.22s - 5202.70s] sorusu
+[5202.70s - 5204.52s] asıl sorulması gereken
+[5204.52s - 5204.98s] soru
+[5205.62s - 5206.74s] şu an için çok
+[5207.46s - 5208.36s] mümkün mü?
+[5210.68s - 5211.36s] zannetmiyorum
+[5211.36s - 5212.72s] yapılabilir belki
+[5212.72s - 5213.30s] hani böyle çok
+[5213.30s - 5213.94s] spesifik
+[5213.94s - 5214.42s] bir
+[5215.52s - 5216.94s] agent pipeline'ı
+[5216.94s - 5217.12s] işte
+[5217.12s - 5218.04s] nasıl artık
+[5218.04s - 5219.22s] aklınıza yetiyorsa
+[5219.22s - 5219.88s] öyle bir şey kurup
+[5219.88s - 5220.22s] belki
+[5220.22s - 5222.46s] o domeyne özel bir
+[5222.46s - 5223.20s] elelemle
+[5223.20s - 5224.16s] desteklenirse
+[5224.16s - 5224.60s] belki
+[5224.60s - 5225.74s] olabilir
+[5225.74s - 5226.30s] hani çünkü
+[5226.30s - 5227.74s] yarışma datasında
+[5227.74s - 5228.80s] domeyne iyi bilmek
+[5228.80s - 5229.34s] lazım ki
+[5229.34s - 5230.50s] güzel feature'lar
+[5230.50s - 5231.36s] türetmek lazım
+[5231.36s - 5231.96s] işte bu da
+[5231.96s - 5233.10s] modelin başarısını
+[5233.10s - 5233.62s] arttırsın
+[5233.62s - 5233.78s] hani
+[5233.78s - 5235.42s] bunları modeller
+[5235.42s - 5236.30s] şu an çok iyi yapamaz
+[5236.30s - 5236.72s] onun için
+[5236.72s - 5237.62s] fine tune
+[5237.62s - 5238.04s] gerekir
+[5238.04s - 5238.38s] büyük ihtimalle
+[5238.38s - 5239.22s] domeyne spesifik
+[5241.74s - 5242.94s] kendi skorası
+[5242.94s - 5243.62s] iyileştirsin
+[5243.62s - 5245.24s] yani kendisini
+[5245.24s - 5245.78s] skor alıp
+[5245.78s - 5246.48s] iyileştirmesine
+[5246.48s - 5246.98s] büyük ihtimalle
+[5246.98s - 5247.88s] elelem gerekmez
+[5247.88s - 5248.24s] hani bu
+[5248.24s - 5249.60s] otomasyon skripti
+[5249.60s - 5250.62s] olarak yazılabilir
+[5250.62s - 5251.20s] büyük ihtimalle
+[5251.20s - 5252.44s] CLI olarak
+[5252.44s - 5252.78s] hani
+[5254.56s - 5255.92s] yani uğraşırsak
+[5255.92s - 5256.94s] uğraşılırsa
+[5256.94s - 5257.54s] olabilir ama
+[5257.54s - 5258.60s] performans çok iyi
+[5258.60s - 5259.10s] olur mu?
+[5259.86s - 5260.48s] birinci olmaz
+[5260.48s - 5261.00s] büyük ihtimalle
+[5261.00s - 5262.24s] ama ortalama
+[5262.24s - 5262.86s] bir şey olabilir
+[5262.86s - 5263.24s] belki
+[5263.24s - 5264.56s] uğraşmaya
+[5264.56s - 5265.10s] değer mi
+[5265.10s - 5265.52s] ona
+[5266.32s - 5267.24s] emin değil
+[5268.00s - 5269.42s] ya bu arada
+[5269.42s - 5270.32s] böyle bir şey
+[5270.32s - 5271.00s] yapmışlar
+[5271.00s - 5271.62s] şu an ben de
+[5271.62s - 5272.64s] bitirme projem için
+[5272.64s - 5274.00s] bu tarz bir
+[5274.00s - 5274.70s] konuya bakıyorum
+[5274.70s - 5275.32s] hani acaba
+[5275.32s - 5276.98s] data science tarafında
+[5276.98s - 5277.56s] bir agent
+[5277.56s - 5278.08s] yapsak
+[5278.08s - 5279.54s] data science'daki
+[5279.54s - 5280.44s] problemleri
+[5280.44s - 5281.34s] bu
+[5281.34s - 5282.32s] konuştuğumuz
+[5282.32s - 5282.54s] işte
+[5282.54s - 5283.22s] leak'tir
+[5283.22s - 5284.26s] periodlamadır
+[5284.26s - 5285.16s] bu tarz sorunları
+[5285.16s - 5286.54s] yaşatmadan
+[5286.54s - 5287.10s] düzgün bir
+[5287.10s - 5287.86s] pipeline'i kurup
+[5287.86s - 5288.78s] çözebilecek bir
+[5288.78s - 5290.24s] agent ortaya
+[5290.24s - 5291.20s] çıkartabilir miyiz?
+[5291.92s - 5292.36s] bunun için
+[5292.36s - 5293.22s] daha yeni bir tane
+[5293.22s - 5294.04s] paper çıkmış
+[5294.04s - 5295.86s] şu an tam olarak
+[5295.86s - 5296.46s] yayınlanmamış
+[5296.46s - 5297.28s] ama reposunu ben
+[5297.28s - 5298.18s] chat'e atayım
+[5298.94s - 5300.34s] bu repodan gidip
+[5300.34s - 5301.02s] bakabilirsiniz
+[5301.02s - 5301.54s] bunlar
+[5301.54s - 5302.20s] case-based
+[5302.20s - 5302.86s] diye bir şey yapmışlar
+[5302.86s - 5303.80s] case-based reasoning
+[5304.64s - 5305.78s] kegel'daki yarışmaları
+[5305.78s - 5306.22s] almışlar
+[5306.22s - 5306.92s] case-case
+[5306.92s - 5308.48s] bir soru geldiği vakit
+[5308.48s - 5309.66s] orada bir pipeline var
+[5309.66s - 5310.30s] pipeline önce
+[5310.30s - 5311.06s] case'i belirliyor
+[5311.06s - 5311.30s] işte
+[5311.30s - 5312.28s] ondan sonra
+[5312.28s - 5313.38s] ilgili case'deki
+[5313.38s - 5314.98s] aşamalara bakıyor
+[5314.98s - 5315.62s] nasıl yapmış
+[5315.62s - 5316.84s] orada bir döngü var
+[5316.84s - 5317.44s] tekrardan
+[5317.44s - 5318.86s] şeye bakıyor
+[5320.00s - 5321.12s] buradaki sonuç
+[5321.12s - 5321.74s] mantıklı mı
+[5321.74s - 5322.48s] hata veriyor mu
+[5322.48s - 5322.74s] falan
+[5322.74s - 5324.10s] kendi içerisinde
+[5324.10s - 5324.88s] bir debug yapıyor
+[5324.88s - 5325.88s] işte sonrasında
+[5325.88s - 5326.84s] başka bir yere gidiyor
+[5326.84s - 5327.68s] orada tekrardan
+[5327.68s - 5328.48s] bir döngüye giriyor
+[5328.48s - 5328.72s] falan
+[5328.72s - 5329.52s] bu şekilde
+[5329.52s - 5330.58s] fine-tune olmadan
+[5330.58s - 5332.14s] direkt case-based reasoning
+[5332.14s - 5332.88s] agent diye
+[5332.88s - 5333.74s] kendilerince
+[5333.74s - 5334.42s] böyle bir şey
+[5334.42s - 5335.12s] çıkarmışlar
+[5335.12s - 5336.66s] ilgilenenler bakabilir
+[5336.66s - 5337.72s] biraz fazla detaylı
+[5337.72s - 5338.90s] ve karmaşık bir şey
+[5338.90s - 5339.34s] açıkçası
+[5339.34s - 5339.60s] böyle
+[5339.60s - 5340.26s] pıt diye
+[5340.26s - 5341.32s] anlaşılmıyor
+[5342.12s - 5343.58s] zaten karmaşık olması
+[5343.58s - 5344.02s] gerekir
+[5344.02s - 5346.10s] ne kadar genel olursa
+[5346.10s - 5347.34s] başarı bir noktada
+[5347.34s - 5348.08s] o kadar düşer
+[5349.36s - 5350.26s] kompleks olması
+[5350.26s - 5351.24s] anlaşılabilir bence
+[5352.28s - 5352.96s] kesinlikle
+[5352.96s - 5353.22s] hatta
+[5353.22s - 5354.42s] repo'yu şeyde koymuşlar
+[5356.04s - 5357.58s] agent'ın ürettiği
+[5357.58s - 5358.26s] scriptlerin
+[5358.26s - 5359.46s] neden başarısız olduğunu
+[5359.46s - 5361.18s] öyle bir marktan da
+[5361.18s - 5361.56s] koymuşlar
+[5361.56s - 5362.36s] ona da bakabilirsiniz
+[5362.36s - 5363.42s] şöyle şöyle bir şey geldi
+[5363.42s - 5364.50s] bunlar başarısız oldu
+[5364.50s - 5364.98s] niye oldu
+[5364.98s - 5366.86s] şöyle bir soru var
+[5366.86s - 5367.90s] cazı 4'ten
+[5367.90s - 5369.54s] data engineer olarak
+[5369.54s - 5370.70s] meslekle ilerlerken
+[5370.70s - 5371.58s] özellikle hangi
+[5371.58s - 5372.70s] teknikleri ve araçları
+[5372.70s - 5373.46s] öğrenmek önemli
+[5373.46s - 5374.48s] gelişim için
+[5374.48s - 5375.26s] hangi kaynakları
+[5375.26s - 5375.92s] veya projeleri
+[5375.92s - 5376.48s] önerirsiniz
+[5376.48s - 5378.26s] burada farklı bir şey geldi
+[5378.26s - 5379.86s] hiç konuşmadık
+[5379.86s - 5380.26s] bu konuyu
+[5380.26s - 5381.18s] data engineer
+[5381.18s - 5382.32s] başlığı geldi
+[5383.80s - 5384.74s] valla
+[5384.74s - 5386.92s] hiç bu konuda
+[5386.92s - 5387.92s] gerçekten bilgim yok
+[5387.92s - 5389.62s] yanlış yönlendirmeyeyim
+[5389.62s - 5390.70s] data engineer
+[5390.70s - 5391.40s] genelde
+[5392.04s - 5392.80s] bir
+[5392.80s - 5393.82s] noktadan
+[5396.64s - 5398.24s] verinin toplantı bir yer vardır
+[5398.24s - 5399.40s] oradan veriyi çeken
+[5399.40s - 5400.20s] daha sonra
+[5400.20s - 5401.38s] alt takımları ileten
+[5402.42s - 5403.42s] kişiye olarak
+[5403.42s - 5404.34s] bakıyoruz
+[5405.16s - 5405.84s] burada
+[5405.84s - 5407.30s] tabular data
+[5407.30s - 5408.78s] şey oluyor
+[5408.78s - 5409.32s] nasıl diyeyim
+[5409.32s - 5410.52s] biraz daha öne çıkıyor
+[5410.52s - 5410.82s] çünkü
+[5410.82s - 5412.84s] data engineerin çalıştığı yerler
+[5412.84s - 5413.30s] genelde
+[5413.30s - 5414.24s] mesela büyük şirketler
+[5414.24s - 5414.56s] mesela
+[5414.56s - 5415.36s] bankacı
+[5415.36s - 5416.26s] sigortadır
+[5416.26s - 5417.10s] her neyse
+[5418.26s - 5420.06s] SQL kullanarak
+[5420.06s - 5420.60s] aslında
+[5420.60s - 5421.78s] veriyi çekip
+[5421.78s - 5422.92s] onu daha sonra
+[5422.92s - 5424.74s] uygun hale
+[5424.74s - 5425.18s] artık
+[5425.18s - 5426.04s] join
+[5426.04s - 5426.70s] olabilir
+[5426.70s - 5427.54s] farklı farklı
+[5427.54s - 5428.74s] ben çok hakim
+[5428.74s - 5429.26s] dediğim gibi
+[5429.26s - 5429.74s] dediğim gibi oraya ama
+[5430.54s - 5431.32s] orada
+[5431.32s - 5432.04s] anlık kaderle
+[5432.04s - 5432.42s] SQL
+[5432.42s - 5433.84s] kullanılıyor
+[5433.84s - 5434.48s] büyük ihtimalle
+[5434.48s - 5435.96s] Transact SQL'de
+[5435.96s - 5436.90s] TSQL'de
+[5436.90s - 5437.82s] kullanılıyordur
+[5437.82s - 5438.46s] böyle ilerisi
+[5438.46s - 5438.62s] ve
+[5438.62s - 5439.28s] kreler için
+[5441.72s - 5442.50s] hangi
+[5442.50s - 5443.42s] kaynaklı proje
+[5443.42s - 5444.40s] maalesef bilmiyorum
+[5445.26s - 5446.04s] üzgünüm
+[5446.04s - 5446.40s] çok
+[5446.40s - 5447.50s] şeyim yok
+[5447.50s - 5449.30s] ya bu
+[5449.30s - 5450.30s] Kaan
+[5450.30s - 5450.46s] ve
+[5450.46s - 5450.80s] machine learning
+[5450.80s - 5451.38s] engineering olarak
+[5451.38s - 5452.08s] çalıştığı için
+[5452.08s - 5453.26s] daha çok model
+[5453.26s - 5454.42s] diploj
+[5454.42s - 5454.96s] birazcık hani
+[5454.96s - 5455.56s] o süreçlere
+[5455.56s - 5457.20s] direkt o title
+[5457.20s - 5457.72s] olduğu için
+[5457.72s - 5458.26s] daha hakim
+[5458.26s - 5458.82s] data engineering
+[5458.82s - 5459.74s] biraz bunların dışında
+[5459.74s - 5460.22s] kalıyor ya
+[5460.22s - 5460.90s] onlar böyle
+[5460.90s - 5461.76s] model kurmuyor
+[5462.64s - 5463.60s] direkt o
+[5463.60s - 5464.64s] model kurulacak
+[5464.64s - 5465.36s] datadaki
+[5465.36s - 5465.76s] işte o
+[5465.76s - 5466.60s] borat
+[5466.60s - 5467.50s] o pipeline'i
+[5467.50s - 5468.38s] sana getiren
+[5468.38s - 5469.10s] kişi aslında
+[5469.10s - 5469.98s] biraz data engineer
+[5469.98s - 5471.06s] o oluyor diye
+[5471.06s - 5472.04s] biliyorum
+[5472.04s - 5472.66s] benim de
+[5472.66s - 5473.84s] gözlemlediğim kadarıyla
+[5473.84s - 5474.92s] Kaan da dediği gibi
+[5474.92s - 5475.76s] SQL tarafı
+[5475.76s - 5477.08s] her şeyin başıya
+[5477.08s - 5477.60s] hani
+[5477.60s - 5478.44s] science tarafında da
+[5478.44s - 5478.92s] başı bende
+[5478.92s - 5479.42s] SQL
+[5479.42s - 5480.86s] inanılmaz kuvvetli
+[5480.86s - 5481.38s] olması lazım
+[5481.38s - 5481.96s] data engineer
+[5481.96s - 5482.56s] tarafta
+[5482.56s - 5483.68s] ya orada da
+[5483.68s - 5484.26s] Docker
+[5484.26s - 5485.26s] işte ne bileyim
+[5485.26s - 5486.04s] farklı
+[5486.04s - 5486.84s] Kafka
+[5486.84s - 5487.36s] Filling gibi
+[5487.36s - 5488.22s] teknolojiler var
+[5488.22s - 5489.08s] benim katıldığım
+[5489.08s - 5489.76s] bir bootcamp'ten
+[5489.76s - 5490.50s] biliyorum ben de
+[5490.50s - 5491.02s] Kafka
+[5491.64s - 5491.90s] doğru
+[5491.90s - 5493.16s] Kafka kullanıyorlardı
+[5493.16s - 5494.48s] evet
+[5494.48s - 5496.30s] ya hatta
+[5496.30s - 5497.02s] işte iyi bir
+[5497.02s - 5497.28s] solution
+[5497.28s - 5497.84s] arkitekte
+[5497.84s - 5498.42s] sormuştum
+[5498.42s - 5498.74s] o da
+[5498.74s - 5500.12s] Kafka ve Filling'in
+[5500.12s - 5501.32s] ilerleyen zamanlarda
+[5501.32s - 5502.10s] gerçekten önemli
+[5502.10s - 5503.28s] olacağından bahsetmişti
+[5503.28s - 5504.68s] burada kitap olarak
+[5504.68s - 5505.50s] şeye bakabilirsin ya
+[5505.50s - 5507.20s] data engineering fundamentals
+[5507.20s - 5508.70s] diye bir şey var
+[5508.70s - 5509.32s] kaynak var
+[5510.84s - 5512.18s] orası başlangıç için
+[5512.18s - 5512.86s] güzel olabilir
+[5516.26s - 5517.48s] şöyle bir şey var
+[5520.04s - 5521.54s] işler no coding'e doğru
+[5521.54s - 5522.10s] gidiyor mu?
+[5522.58s - 5523.60s] gerçekten genç kardeşlerimiz
+[5523.60s - 5524.28s] kod öğrenmeyi
+[5524.28s - 5525.26s] bıraksınlar mı sizce?
+[5529.06s - 5529.84s] yani
+[5529.84s - 5531.72s] no coding
+[5531.72s - 5533.22s] no coding'le kastımız
+[5533.22s - 5534.04s] el eleme
+[5534.04s - 5534.54s] işte
+[5534.54s - 5535.88s] herhangi bir araca
+[5535.88s - 5536.82s] verdim
+[5536.82s - 5538.16s] bana çıktığı verdiyse
+[5540.02s - 5540.80s] sanmıyorum
+[5540.80s - 5542.28s] yani olur
+[5542.28s - 5543.32s] o da olur
+[5543.32s - 5543.82s] büyük ihtimalle
+[5543.82s - 5544.40s] olur ama
+[5544.40s - 5546.26s] şu anki yakın gelecekte
+[5546.26s - 5547.24s] yeni başlar
+[5547.24s - 5548.00s] kodu öğrenmeyi
+[5548.00s - 5548.80s] bıraksınlar mı?
+[5549.88s - 5550.32s] yani bence
+[5550.32s - 5550.86s] gerek yok
+[5552.40s - 5554.34s] ben yakın zamanda
+[5554.34s - 5555.18s] gittiğimi düşünmüyorum
+[5555.18s - 5555.44s] ama
+[5555.44s - 5556.88s] ileride mutlaka olur
+[5556.88s - 5557.76s] mutlaka işte
+[5557.76s - 5559.08s] bu işte
+[5559.08s - 5559.58s] AGI
+[5559.58s - 5560.74s] vesaire
+[5560.74s - 5561.18s] bunlar
+[5561.18s - 5562.14s] çıkar
+[5562.14s - 5563.12s] bunlar gelişir
+[5563.12s - 5565.54s] işte daha farklı yöne evlidir
+[5565.54s - 5566.18s] mutlaka olur
+[5566.18s - 5567.14s] ama şu an için ben
+[5567.14s - 5568.18s] öyle olduğunu zannetmiyorum
+[5568.18s - 5569.98s] hani işte bölümü bırakayım
+[5569.98s - 5571.42s] işte bilgisayar okunmaz mı
+[5571.42s - 5571.82s] falan işte
+[5571.82s - 5572.48s] yapay zekası
+[5572.48s - 5573.20s] her şeyi bitirdi
+[5573.20s - 5573.48s] falan
+[5573.48s - 5575.10s] yani öyle bir şey
+[5575.10s - 5575.86s] yok
+[5575.86s - 5577.34s] yani öyle diyenler
+[5577.34s - 5578.00s] genelde
+[5578.00s - 5578.86s] işte bu çok
+[5578.86s - 5579.36s] mesela
+[5579.36s - 5581.06s] büyük projede çalışmamış
+[5581.06s - 5581.58s] kişiler oluyor
+[5581.58s - 5582.08s] genelde
+[5582.08s - 5583.12s] baktığımız zaman
+[5585.28s - 5586.04s] yani
+[5586.92s - 5587.86s] dur muyum
+[5587.86s - 5588.70s] ya hatta
+[5588.70s - 5589.92s] işin
+[5589.92s - 5591.26s] temelinin
+[5591.26s - 5591.90s] bilinmesi
+[5591.90s - 5592.74s] daha da önemli
+[5592.74s - 5593.32s] hale geldi
+[5593.32s - 5594.08s] diyebilir miyiz?
+[5594.24s - 5594.94s] yani herkes
+[5594.94s - 5595.60s] el elemle
+[5595.60s - 5596.56s] bir şey yapar
+[5596.56s - 5597.48s] ama aslında
+[5597.48s - 5598.84s] orada yapılacak şeyi
+[5598.84s - 5600.40s] ölçeklenebilir
+[5600.40s - 5601.82s] gerçekten düzgün
+[5601.82s - 5603.14s] çıkacak bir şekilde
+[5603.14s - 5605.16s] bunu tarif edebilmek için
+[5605.16s - 5605.98s] aslında işi
+[5605.98s - 5606.72s] daha da
+[5606.72s - 5607.98s] derinliği
+[5607.98s - 5609.06s] o computer science'ın
+[5609.06s - 5610.42s] arkasında bilmek gerekiyor
+[5610.42s - 5611.02s] sanki
+[5611.02s - 5612.44s] sen ne dersin bu konuda?
+[5613.20s - 5613.60s] evet çünkü
+[5613.60s - 5614.02s] yani
+[5614.02s - 5615.56s] kod yazılıyor
+[5615.56s - 5616.72s] mesela
+[5616.72s - 5618.66s] bir kod yazdı
+[5618.66s - 5619.42s] diyelim bu model
+[5619.42s - 5621.02s] 10 megabyte RAM
+[5621.02s - 5621.70s] kullanıyor mesela
+[5621.70s - 5622.48s] 10 megabyte
+[5622.48s - 5623.22s] kaynak kikleti
+[5623.22s - 5623.40s] şimdi
+[5623.40s - 5624.34s] bunu
+[5624.34s - 5625.50s] eğer temelli
+[5625.50s - 5626.74s] iyi bilinirse
+[5626.74s - 5628.06s] siz bu
+[5628.06s - 5628.88s] 10 megabyte'lık
+[5629.58s - 5630.22s] kullanımı
+[5630.22s - 5631.34s] belki 1 megabyte
+[5631.34s - 5631.96s] indirebilirsiniz
+[5631.96s - 5632.44s] yani bu
+[5632.44s - 5634.16s] küçük gibi görünse de
+[5634.16s - 5635.70s] aslında bu tarz şeyler
+[5635.70s - 5637.02s] üst üste eklendiği zaman
+[5637.02s - 5638.36s] gerçekten önemli
+[5638.36s - 5638.98s] hale geliyor
+[5638.98s - 5639.24s] hani
+[5640.16s - 5641.22s] mesela bir mobil
+[5641.22s - 5642.20s] uygulaması yaptınız
+[5642.20s - 5642.58s] diyelim
+[5642.58s - 5643.90s] bu modelleri
+[5643.90s - 5644.38s] kullanarak
+[5644.38s - 5645.60s] işte her mobil
+[5645.60s - 5645.90s] cihazın
+[5645.90s - 5647.02s] kendine bir RAM'e
+[5647.02s - 5647.32s] başlıyor
+[5647.32s - 5647.98s] 8 gigabyte
+[5647.98s - 5648.56s] 16 gigabyte
+[5648.56s - 5648.98s] neyse
+[5650.40s - 5651.78s] bu mobil
+[5651.78s - 5652.90s] uygulamasında
+[5652.90s - 5653.86s] sayfa geçişleri
+[5653.86s - 5654.16s] mesela
+[5654.16s - 5655.48s] sayfayı geçtikten sonra
+[5656.78s - 5658.14s] sayfayı kapatmıyor
+[5658.14s - 5659.16s] işte üstüne yazıyorsa
+[5659.16s - 5659.50s] mesela
+[5659.50s - 5660.16s] sallıyorum ben
+[5660.16s - 5661.22s] çok hakim değilim ama
+[5661.22s - 5662.70s] basit bir örnek vermeye çalışıyorum
+[5662.70s - 5663.40s] işte o
+[5663.40s - 5665.00s] sürekli bir sayfan üstüne
+[5665.00s - 5665.66s] böyle yazıyorsa
+[5665.66s - 5666.10s] yazıyorsa
+[5666.10s - 5666.78s] ne olacak
+[5666.78s - 5668.32s] kaynak tüketimi
+[5668.32s - 5669.14s] artacak mesela
+[5669.14s - 5669.88s] ne olacak
+[5669.88s - 5670.12s] RAM
+[5670.12s - 5671.62s] kullanımı yükselecek
+[5671.62s - 5671.90s] gibi
+[5671.90s - 5672.58s] hani bunu
+[5672.58s - 5674.44s] fark etmek aslında
+[5674.44s - 5674.80s] bir açıkçası
+[5674.80s - 5675.26s] mesele
+[5675.26s - 5676.52s] oluyor dediğin gibi
+[5677.72s - 5679.42s] evet teşekkürler
+[5679.42s - 5680.40s] bu arada
+[5680.40s - 5681.04s] soru varsa
+[5681.04s - 5682.08s] son soruları
+[5682.08s - 5683.22s] doğru alabiliriz
+[5683.22s - 5684.62s] yoksa artık
+[5684.62s - 5685.32s] yayınımızı da
+[5685.32s - 5686.20s] sonlandıracağız
+[5687.94s - 5689.52s] bir uçuk saatte
+[5689.52s - 5690.14s] konuşuyoruz
+[5691.18s - 5692.32s] bence çok
+[5692.32s - 5693.36s] doyurucu bir oturum oldu
+[5693.36s - 5693.62s] yani
+[5697.68s - 5699.30s] var mı soru
+[5699.30s - 5701.04s] var mı
+[5701.04s - 5701.78s] var mı
+[5712.32s - 5713.60s] teşekkürler diyor
+[5713.60s - 5715.18s] Onur
+[5715.18s - 5715.80s] yordum
+[5715.80s - 5717.16s] sizi ağzınıza sağlık
+[5718.50s - 5720.38s] biz teşekkür ederiz
+[5723.48s - 5724.52s] Onur
+[5724.52s - 5726.84s] o zaman dinlediğiniz için
+[5726.84s - 5728.20s] teşekkür ederiz
+[5728.20s - 5729.50s] Kaan geldiğin için
+[5729.50s - 5730.36s] çok teşekkür ederim
+[5730.36s - 5732.52s] gerçekten güzel bir yayındı
+[5737.50s - 5738.38s] umarım
+[5738.38s - 5738.86s] umarım
+[5738.86s - 5740.48s] Türkiye'ye geldiğinde de
+[5740.48s - 5741.10s] mutlaka
+[5741.10s - 5742.18s] onsite bir eventte
+[5742.18s - 5743.58s] görüşmek dileğiyle
+[5743.58s - 5743.84s] diyeyim
+[5743.84s - 5745.58s] buradan
+[5745.58s - 5746.32s] Selin'den de
+[5746.32s - 5747.16s] bir mesaj var
+[5747.16s - 5747.90s] eminize sağlık
+[5747.90s - 5748.62s] teşekkürler
+[5748.62s - 5749.86s] teşekkür ederiz
+[5749.86s - 5750.36s] arkadaşlar
+[5750.36s - 5750.90s] bu arada
+[5750.90s - 5751.46s] komitin
+[5751.46s - 5752.48s] hani ilk etkinliği
+[5752.48s - 5753.06s] data komitinin
+[5753.06s - 5753.84s] ilk yayını olmasına
+[5753.84s - 5754.36s] kaynaklı da
+[5754.36s - 5755.12s] çok değerliydi
+[5755.12s - 5756.50s] o açıdan da
+[5756.50s - 5757.12s] gerçekten
+[5757.12s - 5757.80s] münittar
+[5758.84s - 5759.90s] açılışı yapmış
+[5759.90s - 5760.22s] olduk
+[5760.22s - 5760.58s] değilim
+[5761.56s - 5762.68s] evet açılış
+[5762.68s - 5763.18s] sende oldu
+[5763.18s - 5763.74s] güzel oldu
+[5765.12s - 5766.20s] hayırlı akşamlar
+[5766.20s - 5766.86s] o zaman arkadaşlar
+[5766.86s - 5767.54s] görüşmek üzere
+[5767.54s - 5768.58s] görüşmek üzere
+[5768.58s - 5768.58s] 
+[5770.14s - 5771.54s] teşekkürchen
+[5771.80s - 5772.32s] Altyazı M.K.

@@ -1,0 +1,2082 @@
+[Speaker 2] [3.86s - 6.34s] selamlar herkese da da komitin altıncı
+[Speaker 2] [6.34s - 8.72s] yayını hoş geldiniz bu yayında Taner
+[Speaker 2] [8.72s - 11.32s] Sekmen ile birlikteyiz istersen Taner
+[Speaker 2] [11.32s - 13.78s] önceki hoş geldin hoş bulduk teşekkür
+[Speaker 2] [14.34s - 16.68s] ederim istersen seni tanımakla başlayalım
+[Speaker 2] [16.68s - 19.20s] bu alana nasıl yöneldin ilk başlangıcın
+[Speaker 2] [19.20s - 21.10s] şu anda çalıştığın şirket yaptığın iş
+[Speaker 2] [21.10s - 22.86s] neler yapıyorsun biraz bize bahsedebilir
+[Speaker 1] [22.86s - 25.90s] misiniz tabi şöyle Aslında bu alana yönelmen
+[Speaker 1] [25.90s - 27.82s] biraz daha abimin etkisiyle oldu benim
+[Speaker 1] [27.82s - 29.78s] abimediği istatistik dokuz Eylül istatistik
+[Speaker 1] [29.78s - 33.24s] mezunu ben Ege istatistik mezunuyum ve ilk
+[Speaker 1] [33.24s - 35.10s] adımı attırdı aslında bana biraz daha
+[Speaker 1] [35.10s - 38.34s] buradaki yaptığım işler genel itibariyle
+[Speaker 1] [38.34s - 41.26s] hani şu an rak yapıyoruz Beymen tarafında
+[Speaker 1] [41.26s - 44.32s] onun dışında birkaç raporlama iş yaptım
+[Speaker 1] [44.32s - 46.76s] hala hazırda daha ilk ayı bulması çok
+[Speaker 2] [47.74s - 50.64s] hızlı bir geçiş oldu bu arada hızlı yavaş
+[Speaker 1] [50.64s - 52.58s] hangi çaptım onun öncesinde zaten
+[Speaker 1] [52.58s - 54.34s] aslında getirde çalıştım iki buçuk yıl
+[Speaker 1] [54.34s - 57.62s] orada da da çalıştım orada hem iki
+[Speaker 1] [57.62s - 59.16s] iki ekip de çalışıyordum akıllı olarak bir
+[Speaker 1] [59.16s - 61.64s] kuru yırıla iti bir de en el piyla iti
+[Speaker 1] [61.64s - 63.06s] yaptım genel itibariyle
+[Speaker 1] [63.06s - 65.90s] klayıp beyselde yaptığım oldu yani
+[Speaker 1] [66.44s - 68.92s] buradaki işlerle biraz daha benzeştiği
+[Speaker 1] [68.92s - 71.36s] durumlar vardı genel atlarıyla bu şekilde
+[Speaker 2] [72.78s - 74.70s] teşekkürler ben bunların hepsini yavaş yavaş
+[Speaker 2] [74.70s - 76.68s] geleceğim aslında mesela ilk başlangıcın
+[Speaker 2] [76.68s - 82.06s] işaretçilik okuyorsun Ege'de mezun oldun ben de bu arada aynı bölümdenim daha mezun olmadım
+[Speaker 2] [83.34s - 88.54s] bizim tanışma hikayemiz de çok enteresandır bana çok yardım dokunmuştur hatta yani
+[Speaker 2] [88.54s - 94.52s] tanıdın gerçekten hatta şu an bir işte de çalışıyorsak o tarafa da çok katkısı olmuştur yani şekilin konusunda
+[Speaker 2] [95.56s - 96.30s] estağfurullah
+[Speaker 2] [96.30s - 98.88s] senin buraya başlangıcın aslında abinden olmuş
+[Speaker 1] [98.88s - 107.56s] aynen ya biraz daha yol haritasını o çıkardı diyebilirim yani ilk başlarken bir python dili var ona çalışabilirsin vesaire gibi bir öneride bulundu
+[Speaker 2] [107.56s - 111.94s] o zamanlar sene kaç yani veri bilimi kavramı Türkiye'de var mı?
+[Speaker 1] [111.94s - 125.98s] var ama çok gelişmiş değildi 2019 zamanıydı ben ilk başladığımda 2019'da başladım sonrasında işte o yazı pandeminin denk gelmesiyle beraber falan bir staj yaparak aslında geçirdim uzaktan yaptım bir stajını
+[Speaker 1] [125.98s - 139.18s] bir fintech şirketinde çalıştım portföy optimizasyonu yaptım genel itibariyle işte Yahoo Finance kullanarak işte framework olarak oradaki stok marketleri alıp içeride işte onları optimize edip portföyün dengesini ayarlamayı şey yapıyordum
+[Speaker 1] [139.18s - 141.92s] genel atlarıyla bu şekildeydi onun dışında zaten
+[Speaker 2] [141.92s - 144.64s] bu arada kaçın sınıftaydın bu stajı yaptığında?
+[Speaker 1] [144.98s - 146.08s] birinci sınıftaydım
+[Speaker 2] [146.08s - 146.68s] aynen
+[Speaker 2] [146.68s - 159.18s] muazzam muazzam bir örnek mesela şu anda birinci sınıfta olan işte yeni başlayacak bu işe heves veren gönül verenlere nasıl staj bulabilmeleri konusunda neler önerirsin veya sen o dönem nasıl bulmuştun?
+[Speaker 1] [159.98s - 168.70s] şöyle aslında ben o dönem 350 tane şirkete mail attım İzmir'de olanlara işte baktığım kısım şuydu biraz daha
+[Speaker 1] [168.70s - 174.32s] teknoparkların içerisindeki şirketleri buldum ve işte veri tarafında veriye dayalı işler yapanları buldum
+[Speaker 1] [174.32s - 183.92s] sonrasında tek tek onlara mesaj atmaya başladım işte hem oranın yöneticisine CEO'suna vesaire CTO'suna artık hangi title'da varsa C level'lardan onlara mesaj atıyordum
+[Speaker 1] [183.92s - 191.54s] onun dışında işte şirketin hani kariyer kısmından başvuru yapıyordum mail atıyordum vesaire sürekli böyle darlıyordum bir yandan
+[Speaker 1] [192.36s - 200.26s] öyle olunca yani birkaç tane dönüş almıştım sonrasında sadece bir tanesi kabul etti ve o şekilde başladım aslında ilk adımı öyle attım
+[Speaker 2] [200.26s - 206.34s] bu arada bu attığın maillerde mesela yazdığın şeyde bir doluluk olması gerekiyor değil mi?
+[Speaker 2] [206.42s - 210.76s] senin bir portfolyon bir projem bir şeyin vardı yani öyle atıyorsundur diye tahmin ediyorum
+[Speaker 2] [210.76s - 212.68s] şöyle aslında ben aslında
+[Speaker 2] [212.68s - 218.06s] sadece bir yazı yazıp atmıyorsundur herhalde bir işte gitabımdır bir projemdir yönlendirme yapıyor muydu?
+[Speaker 1] [218.06s - 227.60s] evet aynen ya öncelikle zaten benim takıldığım birkaç forum vardı oralarda web scrapping kişileri yapıyordum işte belli başlı sitelerden data çekip veriyordum vesaire
+[Speaker 1] [227.60s - 230.00s] onlara bir portföy oluşturmuştu ufaktan
+[Speaker 1] [230.00s - 238.82s] gitab hesabımı da doldurmaya başlamıştım aynı şekilde kegala da biraz saldırdım o sıralar ve orada hani birkaç proje yapıp yarışmalara vesaire katılma fırsatı buldum
+[Speaker 1] [238.82s - 241.78s] ondan sonra aslında biraz daha süreçle gelişti
+[Speaker 1] [241.78s - 247.60s] mail atarken de işte hani kısaca kendimi tanıtıp işte şirkete katılıp burada kendimi geliştirmek istediğimi
+[Speaker 1] [247.60s - 253.60s] o sırada değerde yaratacağımı vesaire belirtip yolluyordum bütün mesajları tek tek ve o şekilde ilerliyordum
+[Speaker 2] [253.60s - 257.64s] bu az buz da atmamışsın bu arada yani 300 küsü bir tane şey ediyorsaydım
+[Speaker 1] [257.64s - 264.30s] biraz küsüydüm ya biliyorsun bizim bölüm şeyi vermiyor yani staj için kolaylık sağlamıyor biraz daha hani kendini çabalaman gerekiyor
+[Speaker 1] [264.30s - 266.96s] o yüzden sigortanı karşılamıyor yani
+[Speaker 1] [266.96s - 270.84s] o yüzden biraz saldırmak ve işte onu arayıp bulmak gerekiyor
+[Speaker 2] [270.84s - 277.28s] yani şu anki sektörün durumunda daha da fazla inanılmaz bir rekabet var yani özellikle
+[Speaker 2] [277.28s - 283.34s] stajyerler arasında inanılmaz bir rekabet var yani saldırmak her zamankinden daha fazla gerekiyor galiba sanırım
+[Speaker 1] [283.34s - 287.60s] evet ya bir de benim ilk girdiğim zamanlar istatistik öğrencilere bir tık daha revaçtaydı
+[Speaker 1] [287.60s - 291.38s] hızlıca iş bulabiliyorlardı şu an hani bu tarafa bilgisayar mühendisleri
+[Speaker 1] [291.38s - 296.92s] yazılımcılar yazılım mühendisliği mezunları endüstriyciler vesaire hepsi şu an çok fazla yükleniyorlar
+[Speaker 1] [296.92s - 305.22s] ve burada bir yığılma oluyor ister istemez genellikle şunu görüyorum ben engineer yani kompüter engineerlar
+[Speaker 1] [305.22s - 310.12s] direkt hani biraz daha data engineer pozisyonlarına işte daha ML Ops vesaire ML engineer vesaire
+[Speaker 1] [310.12s - 315.92s] ML engineering taraflarına da daha kayıyorlar ve orada ilerletiyorlar kariyerlerine aslında benim gözlemlediğim buydu
+[Speaker 1] [315.92s - 321.50s] oldu bu birkaç tane böyle yapan arkadaşım da oldu sonrasında işte bekende vesaire geçiş yapabiliyorlar
+[Speaker 1] [321.50s - 325.98s] iki tane arkadaşım hatta direkt bunu yaptı yani önce getirdiği beraber çalıştık data tarafından sonra
+[Speaker 2] [325.98s - 333.96s] ikisi de bekend olarak devam ettiler Evet ya ya onu ben de gözlemliyorum hani gerçekten bilgisayar
+[Speaker 2] [333.96s - 338.54s] mühendisliği okuyan veya işte daha böyle kompütör tarafında bölümler okuyan onlar da data tarafına
+[Speaker 2] [338.54s - 344.42s] kaydı aslında birazdan yılmanın sebebi o biraz da işte yeni ilerleyen zamanlarda konuşuruz
+[Speaker 2] [344.42s - 351.32s] hani sektörün bir tıkta kanayan noktası işte bu fazlaca bu kenar eğitimleri birçok insanı
+[Speaker 2] [351.32s - 357.54s] bu alanı yönlendirdi yani o zaman senin bu stajın ne zaman bitti ne kadar sürdü bu çok uzun değil
+[Speaker 1] [357.54s - 363.28s] bir üç buçuk ay kadardı orada hani çok basit işler yapıyordum are sayı kullanıyordum metrik
+[Speaker 1] [363.28s - 369.08s] olarak hani finans tarafında bilgi olan arkadaşlar vardır belki işte buradaki göreceli hareketliyle bakıyordum
+[Speaker 1] [369.08s - 376.12s] 7 14 21 gibi işte bin dolar da bakıyordum hep bunlara ve işte orada ufak alsat yapan hali vardı bunu
+[Speaker 1] [376.12s - 380.62s] ilk başta asel san için yapmıştım kitabımda oluyor olması lazım ama hala duruyor mu ya da işte
+[Speaker 1] [380.62s - 387.44s] private çekti mi çok bilmiyorum bakarım muhtemelen sonrasında ama hani ilk başta o şekilde yapmıştım asel sanı biraz daha şey
+[Speaker 1] [387.44s - 390.80s] yapmıştım ve ilk aldığım hisse oydu benim de zaten 2019'da bir şirketler var
+[Speaker 2] [393.60s - 401.36s] sonrasında senin bir gene okurken hepsi burada sürecin var oraya girişin nasıl oldu oradaki süreç nasıl ilerledi
+[Speaker 1] [401.36s - 431.08s] şöyle o tarafta bir pozisyon açılmıştı işte bir talent programı vardı yani ben oraya başvurdum sonra işte genel yetenek İngilizce İK mülakatı en sonunda içeride menajerle görüşüp aslında hani benim bu tarafta bir pozisyon olduğunu ve işte bizimle çalışmak ister misin dediklerinde ben de okey dedim zaten o zaman yine pandemi dönemiydi ve orada da dört buçuk ay dört beş hayatta beş aylık bir çalışma sürecim oldu ve genel itibariyle biraz daha analiz pozisyonuna yakın çalıştım orada hani hem
+[Speaker 1] [431.08s - 460.40s] benim orada hepsi buradanın bir hani ismi vardı ve o tarafı yani içeride iyi projeler yaptım diyebilirim genellikle işte benim içeride hepsi burada tarafında alışveriş yaparken kadın reyonundaki bütün ürünlerin işte haftalık aylık yıllık cirolarının vesaire hesaplanması bunların raporlanması dashboard SAP üzerinde de birkaç tane işte sipariş takibi vesaire yapıyordum ama genel itibariyle daha analist olduğum için işte hani sayısından uzaktım SQL vesaire kullanıyordum Excel SQL
+[Speaker 2] [460.40s - 475.98s] SAP bunları kullanıyordum ya bu arada hepsi burada çalıştığın zamanlarda intern olduğun için ne kadar yetkin vardı bu tarz işlemleri yapmak için mesela proda falan yetki tarafında nasıl hepsi burada şöyle aslında hepsi burada ilk girdiğim zaman
+[Speaker 1] [475.98s - 491.48s] nasıl yani Nasdaq borsasına girmişti Amerika'daydı ve ilk girdiği ziyordu o zaman biraz daha katıydı o sebeple çok fazla yetki verilmiyordu ve ilgili sadece işte benim çalıştığım alandaki tabloya yetki vardı ve onun üzerinden aslında çalışıyordum ben belli başlı tablolar vardı
+[Speaker 1] [491.48s - 504.00s] onlara sadece kuyru atabiliyordum ve yani o kadardı sonrasında zaten raporluyordum ve işte içerideki belli başlı tuğlularla klikle vesaire bunların da işte raporlanmasını ve işte genel dashboard'unu vesaire yapıp iletiyordum
+[Speaker 2] [504.76s - 518.48s] kısıtlı işler ya birazcık da internet çok ala açılmıyor aslında evet özellikle bu tarafta öyle bir şey var yani ya ben şu an bankada olduğum için gerçi hani benim de çoğu böyle core tarafında hiçbir şey yetkim yok
+[Speaker 1] [519.12s - 528.64s] ya evet bir de işte ilk girdiğinde Amerika borsuna giren ilk Türk şirketi vesaire öyle olduğu için kısıtlar daha fazlaydı ve yani ister istemez ona denk geliyorsun yani
+[Speaker 2] [530.00s - 533.54s] oradaki süreç nasıl bitti orada ne kadar kaldın
+[Speaker 1] [534.14s - 544.24s] Ekim ayına kadar oradaydım ben aslında Science tarafında kaymak istediğimi söyledim o tarafta uygun bir pozisyon yoktu benim için ben de hani o zaman devam etmek istemedimi dile getirdim ve ayrıldım
+[Speaker 1] [544.24s - 550.14s] sonrasında aslında full Science tarafında iş aramaya başlamıştım hepsi burada tarafı da böyle bitti yani
+[Speaker 1] [550.14s - 556.56s] hani eniştireminin etmesi yoktu devam etmemi istediler aslında analist olarak ama ben o tarafta bir kariyer düşünmemiştim
+[Speaker 1] [556.56s - 561.90s] istemiyordum yani açıkçası o yüzden hani ayrılıp tekrar Science üzerine iş aramaya başlamıştım
+[Speaker 2] [561.90s - 565.60s] Bu arada bu hepsi burada olurken kaçıncı sınıftaydın?
+[Speaker 1] [566.42s - 570.44s] İkinci sınıftaydım o zaman da ikinci sınıfın işte yazıydı yani
+[Speaker 2] [571.60s - 576.00s] İkinci sınıfta bu arada iyi yani hepsi burada da stajarsın falan
+[Speaker 2] [576.00s - 580.38s] Ondan önce yapmışsın intern işte başka fintech de stajlar falan
+[Speaker 2] [580.38s - 582.74s] Yani şu anda herhalde herkes arıyor
+[Speaker 2] [582.74s - 585.44s] Ya yine birazcık bu rekabet şeyinden konuşursak
+[Speaker 2] [585.44s - 591.44s] hani mevcuttaki durumda bu kadar staj arayan insan nasıl bulabilir bu süreçleri geçebilir?
+[Speaker 2] [591.44s - 599.08s] Sen o zamanki dönemle şimdiki dönemi kıyasladığın zaman yapılması gereken şeylerde bir evretme bir değişim oldu mu?
+[Speaker 2] [599.24s - 600.40s] Ne dersin bu konular hakkında?
+[Speaker 1] [600.72s - 607.18s] Şöyle aslında benim zamanımda çok daha az rekabet vardı açık konuşmak gerekirse o zamanların şanslılarındanım ben de
+[Speaker 1] [607.18s - 612.58s] Bizim zamanımızda yani daha kolay dış bulmak staj bulmak vesaire
+[Speaker 1] [612.58s - 614.40s] Hani hızlıca içeriye atabiliyordum kendini
+[Speaker 1] [614.40s - 616.48s] Şu an çok fazla yetkinlik aranıyor
+[Speaker 1] [617.24s - 624.82s] Hani belki bir junior olarak çalışan ya da çalışacak olan yetkinliklerdeki kişiyi şu an üçüncü sınıfta falan bulmaya çalışıyorlar bu şekilde bir profili
+[Speaker 1] [624.82s - 626.94s] Ve bulunca da kapmak istiyorlar aslında
+[Speaker 1] [626.94s - 630.76s] Onun dışında hani iyi bir üniversiteden mezun olmak çok kritik burada
+[Speaker 1] [630.76s - 633.86s] Yani elemeleri bu şekilde yapıyorlar benim bildiğim kadarıyla
+[Speaker 1] [633.86s - 638.56s] Yani ya çok iyi bir profil olmanız gerekiyor gerçekten yetkinliklerinizde vesaire
+[Speaker 1] [638.56s - 640.84s] Ya da gerçekten iyi bir üniversiteden mezun olmanız gerekiyor
+[Speaker 1] [640.84s - 643.20s] Biraz daha beklentiler bu şekilde oluyor
+[Speaker 1] [643.20s - 648.18s] Çünkü benim gözlemlediğim de oydu konuştuğum birkaç İK'dan aldığım feedback de bu şekildeydi
+[Speaker 1] [648.98s - 652.34s] Burada hani ekstra GitHub'da birkaç proje yapmak
+[Speaker 1] [652.34s - 654.28s] Yani bunlar biraz da hani şey gibi değil
+[Speaker 1] [654.28s - 656.84s] Beginner seviyesinde değil bir tık daha üstte çıkarabilmek
+[Speaker 1] [656.84s - 658.80s] Bunu işte canlıya alabilmek vesaire
+[Speaker 1] [658.80s - 661.02s] Buradaki yetkinlikler biraz daha kritik oluyor
+[Speaker 1] [661.02s - 663.22s] Çünkü bir ilana mesela örnek veriyorum
+[Speaker 1] [663.22s - 665.54s] Data Scientist yani Data Science İnternet anılıyor
+[Speaker 1] [665.54s - 666.56s] Bin kişi başvuruyor
+[Speaker 1] [666.56s - 668.50s] Orada bir şekilde aradan sıyrılmamız gerekiyor
+[Speaker 1] [668.50s - 671.82s] Ve hani ilk eleme genellikle üniversite bölüm vesaire oluyor
+[Speaker 1] [671.82s - 674.00s] Sonrasında aslında biraz daha
+[Speaker 1] [674.00s - 677.20s] Yani ayrılmak için birkaç proje yapmak gerekiyor
+[Speaker 1] [677.20s - 679.70s] Ya da çok iyi bir profil olmak gerekiyor az önce de söylediğim gibi
+[Speaker 1] [680.76s - 682.50s] Sıyrılmanın yolları biraz daha bunlar
+[Speaker 1] [682.50s - 685.86s] Yani ufak bir çembere girebilmek gerekiyor orada bin kişinin içinde
+[Speaker 1] [685.86s - 687.92s] Bunları yaparak bence girebilirsiniz
+[Speaker 1] [687.92s - 689.32s] İşte GitHub'da bir proje gibi
+[Speaker 1] [689.32s - 691.06s] Kaggle'da bir yarışmada bir başarı gibi
+[Speaker 1] [691.80s - 693.48s] Yaptığınız işi hani diplo etme
+[Speaker 1] [693.48s - 694.96s] Buradaki o süreçleri bilme
+[Speaker 1] [694.96s - 696.30s] Pipeline nasıl oluşturuyor
+[Speaker 1] [696.30s - 697.22s] Oluşturuluyor
+[Speaker 1] [697.22s - 699.28s] Bir pipeline'ın işte adımları nasıl
+[Speaker 1] [699.28s - 701.56s] Neler bunları anlatabiliyor olmak karşı tarafa da
+[Speaker 1] [701.56s - 704.46s] Hani işi bildiğini kanıtlamanın farklı yolu aslında
+[Speaker 2] [705.22s - 706.94s] Ben de böyle düşünüyorum
+[Speaker 2] [706.94s - 707.56s] Kesinlikle
+[Speaker 2] [707.56s - 710.54s] Hatta görüyorum ve artırıyorum falan diye
+[Speaker 2] [711.46s - 715.22s] Bir şey hiç yani bir ML modelini deploy etmemiş kişi
+[Speaker 2] [715.22s - 717.20s] Aslında kendini hemen belli ediyor
+[Speaker 2] [717.20s - 719.50s] Yani bence deployment tarafı özellikle
+[Speaker 2] [719.50s - 721.22s] İyi bir turnusol diye düşünüyorum
+[Speaker 2] [721.22s - 722.36s] Yani science tarafında
+[Speaker 1] [723.02s - 723.68s] Hemfikir mi?
+[Speaker 2] [723.76s - 724.34s] Ya çünkü şöyle
+[Speaker 1] [724.34s - 726.64s] Lokalinde çalışan çok iyi bir sonuç veren modelin
+[Speaker 1] [726.64s - 728.52s] Hiçbir anlamı yok canlıya almadıktan sonra
+[Speaker 1] [728.52s - 730.42s] Yani bunu test etmedikten sonra vesaire
+[Speaker 1] [731.38s - 733.34s] Yani en basiti bu aslında
+[Speaker 1] [733.34s - 734.04s] En basiti bu
+[Speaker 1] [734.04s - 735.92s] Bunu bir şekilde yapabiliyor olmak gerekiyor
+[Speaker 1] [735.92s - 739.56s] Yani bunu yapınca birkaç insan eğiliyorsun
+[Speaker 1] [739.56s - 740.74s] Aradan farklılaşıyorsun
+[Speaker 1] [740.74s - 741.56s] Ve o şekilde aslında
+[Speaker 1] [741.56s - 743.32s] Staj için ufak bir adım atıyorsun
+[Speaker 1] [743.32s - 746.08s] Yani şu an çoğu şirket aslında küçülmeye gidiyor
+[Speaker 1] [746.08s - 749.30s] Ve hani ekonomik şartlar da bunu gerektiriyor
+[Speaker 1] [749.30s - 750.16s] Bunun farkındayım
+[Speaker 1] [750.16s - 753.60s] İnsanlar hani karamsarlığa kapılıyor olabilirler
+[Speaker 1] [753.60s - 754.60s] Haklılar da bence
+[Speaker 1] [754.60s - 758.20s] Yani ama çabalamaya devam etmek gerekiyor bir yerde
+[Speaker 1] [758.20s - 761.42s] Hani olana kadar saldırmak gerekiyor yani
+[Speaker 2] [761.42s - 762.68s] Kesinlikle
+[Speaker 2] [762.68s - 763.80s] Ya benim bir de mesela
+[Speaker 2] [763.80s - 765.44s] Bana da çok gelen sorulardan biri
+[Speaker 2] [765.44s - 766.84s] Ben de böyle bazı başka yerlerde
+[Speaker 2] [766.84s - 769.26s] Gönüllü mentorluklar falan yapmayı çalışıyorum
+[Speaker 2] [769.26s - 771.92s] Genel olarak bu deploy tarafı anlaşılamıyor
+[Speaker 2] [771.92s - 773.72s] Yani işte deploy etmek nedir
+[Speaker 2] [773.72s - 777.60s] Ve yaptığım modeli ben nasıl canlıya çıkaracağım da
+[Speaker 2] [777.60s - 779.26s] Bundan insanlar fayda sağlayacak
+[Speaker 2] [779.26s - 781.48s] Bir de iş deploymenta gelince
+[Speaker 2] [781.48s - 783.54s] Orada bir noktada cebinden sanki
+[Speaker 2] [783.54s - 785.76s] Hani bir para da vermen gerekiyormuş
+[Speaker 2] [785.76s - 788.66s] Buradaki servisler hani ücretliymiş gibi
+[Speaker 2] [788.66s - 790.48s] Hani özellikle cloud tarafı düşürülünce
+[Speaker 2] [791.02s - 793.92s] Bu tarz düşünceler de ortaya çıkıyor
+[Speaker 2] [793.92s - 796.80s] Yani sence bu tarafı en iyi nasıl kod alabilirler
+[Speaker 2] [796.80s - 798.52s] Ne yapmaları lazım
+[Speaker 1] [798.52s - 802.50s] Şöyle aslında doküman okumak fayda sağlayabilir
+[Speaker 1] [802.50s - 805.62s] Onun dışında işte hali hazırda kod yazan biri varsa
+[Speaker 1] [805.62s - 808.92s] Bu tarz bu tarafta yani diplomin tarafında kod yazan
+[Speaker 1] [808.92s - 810.94s] Ya da işte bunu anlatan vesaire
+[Speaker 1] [810.94s - 813.04s] Onları takip etmek bence kıymetli
+[Speaker 1] [813.04s - 815.86s] Yani bizim zamanımızda eskiden yani birkaç yıl önce
+[Speaker 1] [815.86s - 817.22s] Tam yılını hatırlamıyorum ama
+[Speaker 1] [817.22s - 819.82s] Üç yıl kadar önce olması lazım
+[Speaker 1] [819.82s - 823.78s] Heroku özel olarak freeydi yani bedava dağıtıyordu her şeyini
+[Speaker 1] [823.78s - 826.88s] Yani orada beş tane kadar deployment yapabiliyordum
+[Speaker 1] [826.88s - 829.00s] Ben ilk başta orada ufak ufak denemeye başlamıştım
+[Speaker 1] [829.00s - 831.36s] Yani hızlı hızlı modelleri canlıya çıkarmaya vesaire
+[Speaker 1] [832.10s - 833.32s] Onun dışında yani
+[Speaker 1] [833.92s - 836.68s] Yani umarım yanlış anlaşılmaz ama
+[Speaker 1] [836.68s - 838.90s] Hani diplomin tarafında para gerekiyorsa
+[Speaker 1] [838.90s - 840.40s] Çok büyük paralar olmadığı sürece
+[Speaker 1] [840.40s - 841.24s] İşte ufak bütçe
+[Speaker 1] [841.24s - 843.78s] Yani herkes yani öğrenciler için konuşuyorum
+[Speaker 1] [843.78s - 845.86s] Herkesin çok fazla bütçesi olmayabilir
+[Speaker 1] [845.86s - 846.80s] Hak veriyorum da
+[Speaker 1] [846.80s - 849.40s] Burada hani çok fazla bütçesini açmadan
+[Speaker 1] [849.40s - 852.64s] Ufak çaplı diplomin nasıl yapıldığını hani görebilmek için
+[Speaker 1] [852.64s - 854.38s] Birkaç deneme yapılabilir
+[Speaker 1] [854.38s - 856.16s] Bütçeyi aşmamakla beraber aynı şey
+[Speaker 2] [856.68s - 859.02s] Çünkü o biraz daha kritik şu an hani
+[Speaker 1] [859.02s - 861.60s] Yani krediler vesaire ne kadar bilmiyorum
+[Speaker 1] [861.60s - 864.90s] Ama zor şartların çok zor olduğunun farkındayım ben de
+[Speaker 2] [864.90s - 865.90s] Evet
+[Speaker 1] [865.90s - 868.98s] O yüzden hani burada o deployment yapmak çok kıymetli
+[Speaker 1] [868.98s - 870.66s] Hani onu tecrübe etmek çok kıymetli
+[Speaker 1] [870.66s - 874.56s] Onun içinde eğer hani ufak bütçelerle
+[Speaker 1] [874.56s - 876.56s] Deployment için bir source bulunuyorsa
+[Speaker 1] [876.56s - 878.80s] Kesinlikle kullanılması gerekiyor gibi düşünüyorum ben
+[Speaker 2] [878.80s - 881.12s] Ben de yüzde yüz katılıyorum
+[Speaker 2] [881.12s - 883.76s] Hatta ücretsiz aslında çok fazla
+[Speaker 2] [883.76s - 885.26s] Eskiden mesela Helioca demiştin ya
+[Speaker 2] [885.26s - 886.80s] Helioca şu an kapandı maalesef
+[Speaker 2] [886.80s - 888.54s] Ücretsiz tarafı gitti
+[Speaker 2] [888.54s - 890.14s] Tamamen kapandı mı bilmiyorum ama
+[Speaker 2] [890.14s - 891.50s] Ücretsiz plan tamamen gitti
+[Speaker 2] [892.64s - 894.74s] One Render gibi veya işte
+[Speaker 2] [894.74s - 898.26s] Plumber gibi bir takım deploy etme yerleri var
+[Speaker 2] [898.26s - 902.82s] Buralarda tamamen yani çok basit bir instansa
+[Speaker 2] [902.82s - 907.22s] İşte 2 GB RAM'i olan 0.5 CPU'su olan bir instansa
+[Speaker 2] [907.22s - 908.74s] Yani deploy edebiliyorsun
+[Speaker 1] [908.74s - 910.06s] Ücretsiz bir şekilde
+[Speaker 2] [910.06s - 911.98s] Ve neredeyse sonsuz gibi bir şey aslında
+[Speaker 1] [911.98s - 914.08s] Ya şöyle iş görüyor olacak
+[Speaker 1] [914.08s - 916.20s] Sen de finalde bunu tecrübe etmiş olacaksın
+[Speaker 1] [916.20s - 918.94s] Ve hani o mülakata girdiğinde birebir görüştüğünde
+[Speaker 1] [918.94s - 920.78s] İşte takım lideriyle yöneticiyle vesaire
+[Speaker 1] [920.78s - 923.50s] Bunu aktarıyor olabilmek bence kıymetli
+[Speaker 1] [923.50s - 925.30s] Ve kesinlikle seni ayırt edecek yani
+[Speaker 1] [925.30s - 926.24s] Bunda yüzde yüz
+[Speaker 1] [926.24s - 927.36s] Yani yüzde yüz diyorum
+[Speaker 1] [927.36s - 930.28s] Çünkü çok iyi yılın var gerçekten
+[Speaker 1] [930.28s - 931.96s] Ve işi bilip bilmemek
+[Speaker 1] [931.96s - 934.90s] Burada işte o karşıdaki kişiyi etkileyebilmek için
+[Speaker 1] [934.90s - 938.26s] Bunları bu elindeki bu yetenekler olması gerekiyor biraz da açıkçası
+[Speaker 2] [938.26s - 939.44s] Kesinlikle
+[Speaker 2] [939.44s - 945.18s] Hatta production kelimesi belki burada gün yüzüne çıkabilir
+[Speaker 2] [945.18s - 947.50s] Yani production'a çıkmak nedir
+[Speaker 2] [947.50s - 951.22s] Ve mesela normal her şeyi deploy edebilirsin
+[Speaker 2] [951.22s - 952.74s] Ama production'a çıkmak
+[Speaker 2] [953.26s - 955.18s] Oradaki kodun kalitesi
+[Speaker 2] [955.18s - 956.58s] Belki bunlar değişiyor
+[Speaker 2] [956.58s - 957.98s] Yani diğer branşlere göre
+[Speaker 2] [957.98s - 958.62s] İşte atıyorum
+[Speaker 2] [958.62s - 960.26s] Senin main branşi production olacaksa
+[Speaker 2] [960.92s - 962.24s] Oradaki kod diğer
+[Speaker 2] [962.24s - 966.14s] Oradaki deneme deploymentlarına göre birazcık daha farklaşması gerekiyor
+[Speaker 2] [966.14s - 969.44s] Yani sen burada mesela üç tane şirketi aslında deneyimlemişsin
+[Speaker 2] [969.44s - 971.10s] Bu kısım için ne söylersin?
+[Speaker 1] [971.58s - 973.54s] Şöyle aslında ben bunu
+[Speaker 1] [973.54s - 975.56s] Beymen'le daha yeni çalışmaya başladığım için
+[Speaker 1] [975.56s - 978.32s] Çok fazla hani bilgi vermem doğru olmayabilir belki
+[Speaker 1] [978.32s - 980.72s] Ama getirdiğiken yani çok fazla dokundum bu tarafa
+[Speaker 1] [980.72s - 983.56s] Testte bir şeyleri deneyip hani produtta patlamaması için
+[Speaker 1] [983.56s - 986.32s] Arka tarafta çok sağlam bir şekilde debug etmen gerekiyor onu
+[Speaker 1] [986.32s - 988.72s] Çünkü yani benim ilk girdiğim zamanlarda
+[Speaker 1] [988.72s - 990.88s] İlk başlarda çok büyük bir servisi patlatmıştım ben
+[Speaker 1] [990.88s - 992.64s] Ve onu hani debug etmek
+[Speaker 1] [992.64s - 995.20s] O zamanlar çok fazla debug etmemiştim yani
+[Speaker 1] [995.20s - 996.54s] Ve direk çıkmıştım proda
+[Speaker 1] [996.54s - 997.76s] Ve servis patladı yani
+[Speaker 1] [997.76s - 1000.68s] Bunu Türkiye'nin birçok yerinde kullanılan bir servisti
+[Speaker 1] [1001.20s - 1003.90s] Bir saat içerisinde onu fixledik açık konuşmak gerekirse
+[Speaker 1] [1003.90s - 1006.46s] Ama bir saat zaman verdik nerede hata vesaire falan gibi
+[Speaker 1] [1006.46s - 1008.80s] Orada ufak virgül hataları işte
+[Speaker 1] [1009.48s - 1013.44s] Yani o JSON yapısındaki formattaki veriyi verirken
+[Speaker 1] [1013.44s - 1014.48s] İçeri test ederken mesela
+[Speaker 1] [1014.48s - 1015.80s] Bunlara çok dikkat etmek gerekiyor
+[Speaker 1] [1015.80s - 1017.36s] Yani bahsettiğim gibi aslında
+[Speaker 1] [1017.36s - 1020.28s] Test ortamında yaptığın şeylerin prodteki karşılığını görmek
+[Speaker 1] [1020.28s - 1022.00s] Onu canlıda işte uygulamasını görmek
+[Speaker 1] [1022.00s - 1023.90s] Uygulama içerisindeki karşılığını bilmek falan
+[Speaker 1] [1023.90s - 1027.56s] Kıymetli şeyler ama bunu her şirkette kolay kolay bulamayabiliyorsun
+[Speaker 1] [1027.56s - 1030.24s] Yani bunu biraz daha
+[Speaker 1] [1030.24s - 1031.62s] Yani yola çıktığında aslında
+[Speaker 1] [1031.62s - 1033.00s] Kervanyol'da düzgür mantığıyla
+[Speaker 1] [1033.00s - 1034.76s] Biraz daha işte içeri girdikten sonra
+[Speaker 1] [1034.76s - 1035.68s] Öğreniyor olacaksın
+[Speaker 1] [1036.28s - 1037.32s] Oluyorsun daha doğrusu
+[Speaker 1] [1037.32s - 1038.54s] Benim için öyle oldu açıkçası
+[Speaker 1] [1039.30s - 1041.52s] Ama hani bu da çok büyük bir tecrübe
+[Speaker 1] [1041.52s - 1044.16s] Ve hani o servisin ne kadar büyük olduğunu
+[Speaker 1] [1044.16s - 1045.84s] O zaman patlayınca öğrenmiştim ben
+[Speaker 1] [1045.84s - 1048.76s] O zamanlar daha esnektim rahattım falan
+[Speaker 1] [1048.76s - 1051.92s] Sonrasında işte anlık bir kol gelince
+[Speaker 1] [1051.92s - 1053.38s] Silek üzerinden
+[Speaker 1] [1053.38s - 1054.48s] Direkt anlıyor
+[Speaker 2] [1054.48s - 1056.02s] Adam böyle bir tenleme geliyor
+[Speaker 2] [1056.02s - 1056.88s] Aşağıdın aşağıdın aşağıdın
+[Speaker 1] [1056.88s - 1057.94s] Nasıl oldu falan diye
+[Speaker 1] [1059.28s - 1059.96s] Evet
+[Speaker 1] [1059.96s - 1062.22s] İyiydi yani iyi bir tecrübeydi bence kesinlikle
+[Speaker 1] [1062.22s - 1064.56s] Bunu umarım hani işe girecek olan
+[Speaker 1] [1064.56s - 1066.26s] İşte data scientist olarak çalışan
+[Speaker 1] [1066.26s - 1067.18s] ML engineer vs.
+[Speaker 1] [1067.40s - 1068.92s] Hani bu tarafta çalışan insanlar umarım
+[Speaker 1] [1068.92s - 1070.72s] Hani tecrübe edebilir
+[Speaker 1] [1070.72s - 1072.20s] Çok kıymetli şeyler bunlar
+[Speaker 1] [1072.20s - 1074.76s] Ve level atlatıyor yani insana
+[Speaker 2] [1074.76s - 1076.00s] Kesinlikle
+[Speaker 2] [1076.00s - 1078.46s] Ya bu proletta patlama hikayelerine ben bayılıyorum
+[Speaker 2] [1079.40s - 1080.80s] Proletta patladı abi
+[Speaker 2] [1080.80s - 1081.70s] Telefon geliyor
+[Speaker 2] [1083.66s - 1084.40s] Aynen
+[Speaker 2] [1085.38s - 1086.12s] Aynen
+[Speaker 1] [1086.12s - 1087.32s] Kötü bir deneyim
+[Speaker 1] [1087.32s - 1088.74s] Yani ilk başta kötü gibi oluyor
+[Speaker 1] [1088.74s - 1092.02s] Ama sonra tecrübeyi kazanıp devam edince inanılmaz oluyor gerçekten
+[Speaker 1] [1092.02s - 1095.16s] Sonraki servislerde daha gönüllü bir şekilde yapmaya çalışıyorsun falan
+[Speaker 1] [1095.16s - 1097.02s] Ve güzel oluyor yani
+[Speaker 2] [1097.02s - 1099.22s] Çizdik devamı
+[Speaker 2] [1099.22s - 1102.10s] Peki bu şey zamanını da geçirdin
+[Speaker 2] [1102.10s - 1103.58s] Hepsi burada vaktine
+[Speaker 2] [1103.58s - 1104.94s] Ondan sonra hepsi burada vaktine
+[Speaker 2] [1104.94s - 1105.52s] Ayrıldın
+[Speaker 2] [1105.52s - 1107.48s] Bakın hani saniyinde pozisyon yokmuş
+[Speaker 2] [1107.48s - 1109.28s] O zaman bir iş arama sürecin oldu
+[Speaker 2] [1109.28s - 1112.06s] O arada portfolyonu doldurmak için neler yapmıştın
+[Speaker 2] [1112.06s - 1113.48s] Nasıl bir kasma işlemi yaptın
+[Speaker 2] [1113.48s - 1114.96s] O getire girişin nasıl oldu
+[Speaker 1] [1115.56s - 1117.82s] Şöyle aslında ben az önce de bahsettiğim gibi
+[Speaker 2] [1117.82s - 1119.30s] Şunu da eklemek istiyorum
+[Speaker 2] [1119.30s - 1120.54s] Hala öğrenci
+[Speaker 2] [1120.54s - 1121.76s] Yani mesela getire de giriyor
+[Speaker 2] [1121.76s - 1123.00s] Şu an 3. şirkete geliyor
+[Speaker 2] [1123.00s - 1124.38s] Aslında öğrencilik vaktinde
+[Speaker 2] [1124.38s - 1126.24s] Hala öğrenciliği devam ediyor
+[Speaker 2] [1126.24s - 1127.34s] Ve lisans bu daha
+[Speaker 2] [1127.34s - 1128.82s] Ya şöyle
+[Speaker 1] [1129.34s - 1130.50s] Ben aslında o zamanlar
+[Speaker 1] [1130.50s - 1131.94s] GitHub'ı biraz daha aktif kullanıyordum
+[Speaker 1] [1131.94s - 1134.16s] Open source projelere katkı sağlamaya çalışıyordum
+[Speaker 2] [1134.16s - 1134.50s] Ve hani
+[Speaker 1] [1135.40s - 1138.00s] Yani Kegel'de de yarışmalara katılıyordum
+[Speaker 1] [1138.00s - 1139.12s] İşte bloglarda vesaire
+[Speaker 1] [1139.12s - 1140.36s] Yani disk aşınları okuyordum sürekli
+[Speaker 1] [1140.36s - 1141.74s] Çok fazla hani komit atmıyordum
+[Speaker 1] [1141.74s - 1143.50s] Ama genel olarak hani okuyordum
+[Speaker 1] [1143.50s - 1144.80s] Millet ne yapıyor vesaire diye
+[Speaker 1] [1145.52s - 1147.10s] Sonrasında işte getirden bana
+[Speaker 1] [1147.10s - 1148.84s] Bir İK aracılığıyla teklif geldi
+[Speaker 1] [1148.84s - 1150.50s] Böyle bir pozisyonumuz var diye
+[Speaker 1] [1150.50s - 1152.28s] Sonrasında ben süreci ilerlettim
+[Speaker 1] [1152.28s - 1154.96s] Ve son seviyeye geldiğimde aslında
+[Speaker 1] [1154.96s - 1156.58s] Direkt menajerimle görüştüm
+[Speaker 1] [1156.58s - 1157.72s] O zamanki menajerimle
+[Speaker 1] [1157.72s - 1158.50s] Ve hani şeydi
+[Speaker 1] [1158.50s - 1159.58s] Ekranı açıp
+[Speaker 1] [1159.58s - 1161.04s] Açık bir şekilde kod yazıyordum
+[Speaker 1] [1161.04s - 1161.60s] Ve hani
+[Speaker 2] [1162.28s - 1163.16s] Live coding yaptınız
+[Speaker 1] [1163.16s - 1165.18s] Aynen live coding yaptık aslında biraz daha
+[Speaker 1] [1165.18s - 1167.34s] Ve bana sürekli şeyden falan sorular sordu
+[Speaker 1] [1167.34s - 1169.46s] İşte GitHub'taki hesabım hakkında sorular soruyordu
+[Speaker 1] [1169.46s - 1171.38s] İşte kontribütörü yaptın ama ne yaptın
+[Speaker 1] [1171.38s - 1172.08s] Nasıl yaptın
+[Speaker 1] [1172.08s - 1173.70s] İşte oradaki komiti nasıl yaptın
+[Speaker 1] [1173.70s - 1174.84s] Hangi CLI'ı kullandın
+[Speaker 1] [1174.84s - 1175.66s] Vesaire gibi böyle
+[Speaker 1] [1175.66s - 1177.38s] Daha detaylı sorular sorarak
+[Speaker 1] [1177.38s - 1179.64s] Aslında oradaki yetkinliğimi gerçekten sınamıştı
+[Speaker 1] [1179.64s - 1182.04s] Sonrasında live coding tarafında da işte
+[Speaker 1] [1182.04s - 1184.66s] Biraz daha hani binary tarafını kodlamamı istedi
+[Speaker 1] [1184.66s - 1185.60s] Hala hazırda
+[Speaker 2] [1186.44s - 1187.96s] Keyiz'i tam olarak hatırlamıyorum
+[Speaker 1] [1187.96s - 1191.84s] Ama işte genelde sorting algoritmalarıyla alakalı birkaç soru sormuştu
+[Speaker 1] [1191.84s - 1193.18s] Ve hani ekran paylaşıp
+[Speaker 1] [1193.18s - 1195.38s] Orada tak tak tak kodu yazman gerekiyor belki bir yerde
+[Speaker 1] [1196.58s - 1197.62s] Onu yazdım
+[Speaker 1] [1197.62s - 1199.36s] Sonrasında işte hayırlı olsun dedi
+[Speaker 1] [1199.36s - 1200.28s] Ve içerdeydim yani
+[Speaker 2] [1202.06s - 1202.98s] Bayağı iyi oldu
+[Speaker 2] [1202.98s - 1205.48s] Keyiz mesela sorting tarafından gelmiş
+[Speaker 2] [1205.48s - 1206.72s] Ve live coding yapıyorsun
+[Speaker 2] [1206.72s - 1208.26s] Ve aslında istatistik okuyorsun
+[Speaker 2] [1208.26s - 1210.84s] Yani burada yapılan şey aslında bakarsan
+[Speaker 2] [1210.84s - 1211.90s] Computer science yani
+[Speaker 2] [1211.90s - 1213.70s] Oradaki sorting algoritmaları bunlar
+[Speaker 2] [1213.70s - 1215.04s] Bu işin temelleri
+[Speaker 2] [1215.04s - 1216.02s] Yani aslında
+[Speaker 2] [1216.02s - 1216.96s] Science'ın
+[Speaker 2] [1216.96s - 1218.32s] Data science'ın temelleri
+[Speaker 2] [1218.32s - 1219.92s] Hem istatistik hem computer science
+[Speaker 2] [1219.92s - 1221.70s] Ciddi derecede böyle harmanlı
+[Speaker 2] [1221.70s - 1223.02s] Ve iş mülakatında
+[Speaker 2] [1223.02s - 1224.92s] Hatta istatistikten çok daha çok
+[Speaker 2] [1224.92s - 1226.24s] Computer tarafı mı soruldu?
+[Speaker 2] [1226.64s - 1227.44s] Ya şöyle
+[Speaker 1] [1227.44s - 1229.64s] Aslında orada benim yetkinliğimi anlamaya çalıştı
+[Speaker 1] [1229.64s - 1230.96s] O zamanki menajerim
+[Speaker 1] [1230.96s - 1232.06s] Çalıştı menajerim yani
+[Speaker 1] [1232.06s - 1235.40s] Hem de işte ekibi nasıl uyum sağlayacaksın
+[Speaker 1] [1235.40s - 1236.52s] Hangi tarafa vereceğiz seni
+[Speaker 1] [1236.52s - 1238.44s] Veser gibi bir konuşma geçmişti öncesinde
+[Speaker 1] [1238.44s - 1240.56s] Sonrasında aslında bu soru bir soruldu
+[Speaker 2] [1240.56s - 1242.14s] Ve yani önce bir böyle direkt
+[Speaker 1] [1242.14s - 1243.88s] Sözel şekilde ilerlemiştik
+[Speaker 1] [1243.88s - 1245.44s] Sonrasında hani ekranını paylaşır mısın?
+[Speaker 1] [1245.76s - 1247.32s] İşte visual studio kodu açar mısın?
+[Speaker 1] [1247.44s - 1248.78s] Veser deyip sonra direkt
+[Speaker 2] [1248.78s - 1251.18s] Abone var mıydı live coding yapacağınızda?
+[Speaker 1] [1251.32s - 1251.82s] Yoktu
+[Speaker 1] [1251.82s - 1253.48s] O yüzden şok oldum biraz
+[Speaker 1] [1253.48s - 1254.26s] Ekranımı açtım
+[Speaker 1] [1254.26s - 1255.92s] Ve hani direkt onu dinledim
+[Speaker 1] [1255.92s - 1257.66s] Yani onun komutlarını bekledim
+[Speaker 1] [1257.66s - 1258.98s] Çünkü çok heyecanlıydım
+[Speaker 1] [1258.98s - 1260.90s] Yani ilk defa o zaman yapmıştım live coding'i
+[Speaker 1] [1260.90s - 1263.10s] Eee ve iyi geçti benim için
+[Speaker 1] [1263.10s - 1265.76s] Öncesinde zaten hani şeyleri yapmaya çalışıyordum sık sık
+[Speaker 1] [1265.76s - 1268.20s] İşte algoritma yapıları nasıl çalışıyor
+[Speaker 1] [1268.20s - 1269.76s] İşte nasıl yazabilirim
+[Speaker 1] [1269.76s - 1272.26s] Hani Python kullanıyordum ben o günde yani o zamanlarda da
+[Speaker 1] [1272.26s - 1273.92s] Python tarafında bunu nasıl yazabilirim
+[Speaker 1] [1273.92s - 1275.30s] Nasıl optimize edebilirim vesaire
+[Speaker 1] [1275.30s - 1276.84s] Sürekli bunlara çalışıyordum
+[Speaker 1] [1276.84s - 1278.90s] O zamanlar yani algoritmaya çok fazla saldırıyordum
+[Speaker 1] [1279.60s - 1281.66s] Denk yani denk geldi gerçekten
+[Speaker 1] [1281.66s - 1283.66s] Ve o zaman açıp yazdım yani
+[Speaker 2] [1284.94s - 1287.44s] Bence de iş ararken veya staj ararken
+[Speaker 2] [1287.44s - 1289.90s] Hatta yani senin tavsiyendi ben de aradığım vakitlerde
+[Speaker 2] [1290.76s - 1292.36s] Hacker renk has demiştin
+[Speaker 2] [1292.36s - 1294.94s] Ben de o dönem yani gece gündüz
+[Speaker 2] [1294.94s - 1296.38s] Hacker renk hasıyordum gerçekten
+[Speaker 2] [1296.38s - 1299.56s] Ve internetten falan araştırmadan yani
+[Speaker 2] [1299.56s - 1301.34s] Sadece durup çözmeye çalışıyordum
+[Speaker 2] [1301.34s - 1304.00s] Kendi kafamdan böyle abuk subuk birleştirmeler
+[Speaker 2] [1304.00s - 1307.12s] Değişik değişik oradan buradan bir şeyler çıkartıp koymalar falan
+[Speaker 1] [1307.12s - 1310.16s] Yani o taraf beni de çok geliştirmişti
+[Speaker 2] [1310.16s - 1313.26s] Hatta bana da iş keyisi hacker renkten geldi
+[Speaker 2] [1313.26s - 1317.38s] Algoritma tarafındaki o eleme adımlarından biriydi
+[Speaker 2] [1317.38s - 1320.26s] Yani aktif hacker renk çözmüyor olsam çözemezdim
+[Speaker 2] [1320.78s - 1322.24s] Yani kopyada çekemiyorsun böyle
+[Speaker 2] [1322.24s - 1323.48s] Sistem yapmışlar
+[Speaker 2] [1323.48s - 1324.74s] Kopyalanmıyor
+[Speaker 1] [1324.74s - 1326.76s] Sayfa eklemiyorsun falan
+[Speaker 1] [1327.58s - 1328.18s] Evet
+[Speaker 1] [1328.18s - 1329.68s] Ya bence kıymetli
+[Speaker 1] [1329.68s - 1330.90s] Ya tabi ki de live coding
+[Speaker 1] [1331.56s - 1333.66s] O an stresli oluyor kesinlikle
+[Speaker 1] [1333.66s - 1335.94s] Ama hani hangi ekibe dahil olacaksın
+[Speaker 1] [1335.94s - 1338.04s] Hangi ekip seni daha iyi temsil
+[Speaker 1] [1338.04s - 1342.08s] Yani senin temsil edilen ekipte nasıl bir pozisyonda olacaksın
+[Speaker 1] [1342.08s - 1343.88s] Oraya nasıl bir değer katacaksın vesaire
+[Speaker 1] [1343.88s - 1345.90s] Bunlar aslında menajerin kafasında olan şeyler
+[Speaker 1] [1345.90s - 1347.16s] Çünkü tamam intern olacak
+[Speaker 1] [1347.16s - 1348.46s] Bir tane stajlar girecek içeri
+[Speaker 1] [1348.46s - 1350.52s] Ama üç tane ekip vardı bizim o zaman içeride
+[Speaker 1] [1350.52s - 1351.46s] Üç takım var
+[Speaker 1] [1351.46s - 1352.86s] Ve hangi takıma verecek seni
+[Speaker 1] [1352.86s - 1354.44s] Orada hani yapılan işler farklı
+[Speaker 1] [1354.44s - 1357.18s] Senin oradaki yetkinliğin hangisine uyuyor vesaire
+[Speaker 1] [1357.18s - 1359.44s] Bunları biraz daha anlayabilmesi gerekiyor
+[Speaker 1] [1359.44s - 1361.28s] Senin de bunu karşı tarafa ifade etmen gerekiyor
+[Speaker 1] [1361.28s - 1363.20s] Ki uygun ekibe dahil olup aslında
+[Speaker 1] [1363.20s - 1365.68s] Sonrasında içeride kalmanı istiyorlardı
+[Speaker 1] [1365.68s - 1368.02s] Hani getirde çalıştığım zamanlar öyle bir yapı vardı
+[Speaker 1] [1368.02s - 1368.92s] İntern geliyorsun
+[Speaker 1] [1368.92s - 1370.06s] Ve hani içeride kalıyorsun
+[Speaker 1] [1370.06s - 1372.08s] Çok bırakmıyorlardı
+[Speaker 1] [1372.08s - 1373.92s] Sözleşme şekilinde ilerliyordu
+[Speaker 1] [1373.92s - 1375.76s] Ve hani her ay devam ediyordu bu
+[Speaker 1] [1376.52s - 1377.76s] Öyle bir yapıları vardı
+[Speaker 1] [1377.76s - 1381.68s] Ve işte hani ilk düzgün bir şekilde seni sınıflandırabilmeli ki
+[Speaker 1] [1381.68s - 1382.70s] Uygun şey atsın
+[Speaker 1] [1382.70s - 1383.62s] Uygun ekibi atsın
+[Speaker 1] [1383.62s - 1386.80s] O yüzden hani bunun önemli olduğunu düşünüyorum ben de aslında
+[Speaker 2] [1388.02s - 1388.66s] Kesinlikle
+[Speaker 2] [1388.66s - 1390.24s] Ya peki getire girdin
+[Speaker 2] [1390.24s - 1391.26s] Hala öğrencisin
+[Speaker 2] [1391.26s - 1392.86s] Getire girdiğinde kaçıncı sınıftaydın?
+[Speaker 2] [1393.22s - 1393.44s] Üç
+[Speaker 1] [1393.44s - 1394.30s] Üçüncü sınıftaydın
+[Speaker 2] [1394.30s - 1396.62s] Üçüncü sınıfta intern olarak girdin
+[Speaker 2] [1396.62s - 1400.62s] Ve yani mezun olduktan iki sene sonra daha devam ettin
+[Speaker 2] [1400.62s - 1403.02s] Nereden baksın iki buçuk yıl falan şeydın
+[Speaker 2] [1403.02s - 1404.20s] Getirde çalıştın
+[Speaker 1] [1404.20s - 1405.18s] Evet aynen
+[Speaker 1] [1405.18s - 1407.42s] Ya getirdeki sürecim uzundu gerçekten
+[Speaker 1] [1407.42s - 1409.82s] Hani bana da çok şey kattı açıkçası
+[Speaker 1] [1409.82s - 1412.84s] Orada işte az önce bahsettiğim gibi iki ekipte çalıştım ve
+[Speaker 1] [1412.84s - 1415.28s] İki ekipten farklı case'lar alıyordum
+[Speaker 1] [1415.28s - 1417.96s] Hatta son 7 aylık kısmı
+[Speaker 1] [1417.96s - 1419.22s] 7-8 aylık kısmı
+[Speaker 1] [1419.22s - 1420.72s] İki ekipten full task olarak
+[Speaker 1] [1420.72s - 1423.54s] İşte Jira taskında bir oraya geçiyorum bir oraya geçiyorum
+[Speaker 1] [1423.54s - 1425.26s] O şekilde ilerliyordu
+[Speaker 1] [1425.26s - 1427.06s] Ama inanılmaz şeyler kattı bana
+[Speaker 1] [1427.06s - 1428.62s] Hani kendimi çok geliştirdim gerçekten
+[Speaker 1] [1430.02s - 1431.90s] Düşünüyorum yani geliştirdim düşünüyorum
+[Speaker 1] [1431.90s - 1433.44s] Şimdi burada da şey gibi olmasın biraz
+[Speaker 1] [1434.68s - 1438.90s] Yani bunu da mümkün mertebe işte hani daha da ilerletmeye çalışıyorum
+[Speaker 1] [1438.90s - 1441.02s] Bu tarafta da yani şu an Beymen'de de açıkçası
+[Speaker 1] [1441.02s - 1444.82s] Yaptığım işleri iyileştirmek ve işte bunları geliştirmeye çalışıyorum
+[Speaker 2] [1444.82s - 1445.90s] Bu şekilde
+[Speaker 2] [1445.90s - 1449.78s] Benim mesela bu girişten özellikle hani GT tarafındaki internlük sürecinden
+[Speaker 2] [1449.78s - 1451.58s] Şu an ben de intern olarak çalıştığım için
+[Speaker 2] [1451.58s - 1455.22s] Burada özellikle ekibinde başka internler var mıydı?
+[Speaker 2] [1455.32s - 1456.76s] Onlarla iletişim nasıldı?
+[Speaker 2] [1457.06s - 1461.04s] Ve bir intern aslında girdiği vakit kalıcı olmayı nasıl başarır sence?
+[Speaker 1] [1461.64s - 1465.24s] Şöyle 3 farklı takım vardı benim girdiğim zaman tek menajere bağlı
+[Speaker 1] [1465.24s - 1469.50s] 3 farklı takımda da her bir takımda birer tane intern vardı
+[Speaker 1] [1469.50s - 1471.60s] Benden sonra 3 kişi daha girdi
+[Speaker 1] [1472.80s - 1474.46s] En son bir kişi daha girmişti
+[Speaker 1] [1474.46s - 1475.92s] Ben ayrılmadan birkaç ay önce
+[Speaker 1] [1476.64s - 1479.66s] Orada aslında şöyle ekipte kalabilmek için bence bir farkındalığı
+[Speaker 1] [1479.66s - 1480.94s] Ya bir farklılığın olması gerekiyor
+[Speaker 1] [1480.94s - 1484.64s] Ya da işte o projeye gerçekten kendini devralabilecek potansiyelde işte
+[Speaker 1] [1484.64s - 1486.30s] Ya da işte yetkinlikte olman gerekiyor
+[Speaker 1] [1486.30s - 1487.88s] Ki o projeyi sana devretsin
+[Speaker 1] [1487.88s - 1490.04s] Menajerin güvensinliği işte ya da değilin
+[Speaker 1] [1490.04s - 1492.64s] Güvensin ve o sen projeyi tek başına götürebil
+[Speaker 1] [1492.64s - 1495.84s] Benim için ilk başta yani ilk 3 aylık kısım biraz daha şeydi
+[Speaker 1] [1496.50s - 1499.28s] Ekip arkadaşıma yardımcı olacağım şekilde ilerlemişti
+[Speaker 1] [1499.28s - 1502.16s] O zaman bir clustering projesi yapıyorduk biz
+[Speaker 1] [1502.16s - 1505.20s] Ve hani sürekli oraya ben işte SQL'den veri çekiyorum
+[Speaker 1] [1505.20s - 1506.28s] Ona aktarıyorum vesaire
+[Speaker 1] [1506.28s - 1507.76s] SQL kodunu ona veriyorum
+[Speaker 1] [1507.76s - 1509.90s] O içeride işte Python'ı da çağırıyor
+[Speaker 1] [1509.90s - 1512.34s] Ve içerideki süreçleri kendi ilerletiyordu vesaire
+[Speaker 1] [1512.34s - 1514.88s] İlk 3 aylık bu şekilde geçti söylediğim gibi
+[Speaker 1] [1514.88s - 1517.74s] Sonrasında aslında ben hani biraz da takım liderime baskı yaparak
+[Speaker 2] [1517.74s - 1518.78s] Bir proje aldım
+[Speaker 1] [1518.78s - 1521.46s] Ve hani o proje gerçekten benim için dönü noktasıydı
+[Speaker 1] [1521.46s - 1524.54s] Ve inanılmaz bir şekilde ivme kazandırdı bana
+[Speaker 1] [1524.54s - 1529.36s] Sonrasında zaten hani iki ekip de görev alacak şekilde kadar
+[Speaker 1] [1529.36s - 1531.08s] O proje beni taşıdı ve ilerletti
+[Speaker 1] [1531.08s - 1532.40s] Ben de hala hazırda zaten
+[Speaker 1] [1532.40s - 1537.68s] İki takımdan işte task alıp bunları yürütebileceğim şekilde bir yetkinliğe sahip olmuştum
+[Speaker 2] [1538.32s - 1538.88s] Evet
+[Speaker 2] [1539.60s - 1543.74s] Ya görüyorum mesela uzun dönem staj olarak
+[Speaker 2] [1543.74s - 1545.16s] Bu arada bir şey geldi
+[Speaker 2] [1545.68s - 1547.14s] Teacher Babur'dan
+[Speaker 2] [1547.68s - 1549.88s] Kaydedilecek yayın evet daha sonrasında izleyebilirsin
+[Speaker 2] [1552.90s - 1554.30s] Uzun dönem stajda
+[Speaker 2] [1554.30s - 1556.98s] Seninki mesela kaç ay kaç ay yenileniyordu
+[Speaker 2] [1557.56s - 1559.10s] Şöyle ben ilk ay girdim
+[Speaker 1] [1559.10s - 1562.46s] Sonra işte 3. ayın sonunda bana o zamanki takım liderim dedi ki
+[Speaker 1] [1562.46s - 1564.08s] Devam etmek istiyor musun? Evet dedim
+[Speaker 1] [1564.08s - 1566.12s] Sonra bir daha hiç sorulmadı bu soru
+[Speaker 1] [1568.66s - 1572.56s] Aynen sürekli devam etti yani içeride hani bir daha sorulmamıştı bana o soru
+[Speaker 1] [1572.56s - 1574.78s] Mezun olana kadar hatta mezun olduktan sonra da
+[Speaker 1] [1574.78s - 1576.32s] Hani zaten full time'a geçmiştim daha
+[Speaker 1] [1576.32s - 1577.76s] Mezun olmadan birkaç zaman önce
+[Speaker 1] [1579.02s - 1582.06s] Sonrasında yani devam ettim sonra kendimi ayarlıyorum aslında yani
+[Speaker 1] [1582.06s - 1583.92s] Şu an beğendim zaten
+[Speaker 1] [1583.92s - 1586.26s] Ve burada da gerçekten güzel bir ekipten yani
+[Speaker 1] [1586.26s - 1587.34s] Öyle olduğunu düşünüyorum
+[Speaker 1] [1587.34s - 1589.28s] Sen de biliyorsun zaten aslında
+[Speaker 2] [1590.88s - 1593.90s] Ben şimdi getir tarafında senin içeride bir dönüşümün var
+[Speaker 2] [1593.90s - 1596.30s] Birazdan ondan bahsedebiliriz
+[Speaker 2] [1596.30s - 1599.30s] Hatta burada da bu dönüşümü sağlarken ki aslında orada yaptığın
+[Speaker 2] [1599.30s - 1601.42s] Belki hani trikler onlardan da
+[Speaker 2] [1601.42s - 1604.88s] Önceki yayınlarda da çünkü bu tarz bir sorular gelmişti
+[Speaker 2] [1604.88s - 1607.44s] İşte ben içeride çalışıyorum kurumsaldayım
+[Speaker 2] [1607.44s - 1610.06s] Başka bir departmana geçmek istiyorum
+[Speaker 2] [1610.06s - 1614.46s] Ama işte nasıl geçeceğim veya şu alanda çalışmak istiyorum nasıl çalışacağım
+[Speaker 2] [1614.46s - 1618.60s] Sen kurye tarafında işte kümelleme işleriyle uğraşıyordun ve
+[Speaker 2] [1618.60s - 1621.68s] NLP tarafına aslında içeride kaydın diye biliyorum
+[Speaker 2] [1621.68s - 1623.50s] Bunu sen nasıl başardın?
+[Speaker 2] [1623.74s - 1625.32s] Burada izlediğin yol neydi?
+[Speaker 2] [1625.80s - 1626.46s] Biraz anlatabilir misin?
+[Speaker 1] [1626.46s - 1631.92s] Tabii ya şöyle aslında ben o az önce bahsettiğim gibi 3 aylık ilk bir intern sürecinden sonra
+[Speaker 1] [1631.92s - 1636.96s] Aslında hani biraz kendim dümele geçmek istedim ve projeyi almak istedim yani
+[Speaker 1] [1636.96s - 1640.40s] Sonra işte benim hayatımı değiştiren client pin projesi vardı
+[Speaker 1] [1640.40s - 1643.54s] Müşterilerin pinlerinin optimize edilmesiyle alakalı o haritada
+[Speaker 1] [1643.54s - 1645.46s] Birçoğunuz kullanmıştır yani getiri
+[Speaker 1] [1645.62s - 1648.32s] Hani deneyimlemiştir ya da görmüştür
+[Speaker 1] [1648.32s - 1651.98s] O haritada yani haritada girdiğimiz pinin her zaman doğru olmayabiliyor
+[Speaker 1] [1651.98s - 1654.26s] Ya da işte belli başlı sitelerde büyük sitelerde vesaire
+[Speaker 1] [1654.26s - 1655.68s] Sorunlar yaratabiliyor
+[Speaker 1] [1655.68s - 1659.98s] Ben bunları tamamen aslında optimize edecek bir algoritma çalıştım arka tarafta
+[Speaker 1] [1659.98s - 1661.44s] Bir klastering modeli çalışmıştık
+[Speaker 1] [1661.44s - 1664.78s] AB testi vesaire böyle arka tarafta analizlerin yapıldığı
+[Speaker 1] [1664.78s - 1667.80s] Sonrasında aslında o projenin katkısı çok büyük oldu
+[Speaker 1] [1667.80s - 1671.12s] Yıllık impacti 500 bin dolardı getire
+[Speaker 1] [1671.12s - 1675.04s] Ve şeydi yani hani Türkiye'de, US'de, UK'de
+[Speaker 1] [1675.80s - 1678.10s] Avrupa'da genel çalışan bir projeydi o zamanlar
+[Speaker 1] [1678.10s - 1679.78s] Açıktı yani sadece Türkiye yoktu
+[Speaker 1] [1680.52s - 1683.94s] Bunun karşılığı olarak aslında ben hani bu faz 1'de bunu çıktım
+[Speaker 1] [1683.94s - 1685.26s] Ve çok iyi performans gösterdik
+[Speaker 1] [1685.26s - 1686.86s] Kuryelerden çok iyi feedbackler alıyoruz
+[Speaker 1] [1686.86s - 1689.30s] İşte oradaki costu azalttık vesaire
+[Speaker 1] [1689.30s - 1692.90s] Sonrasında ben hani hem takım liderime hem de menajırıma biraz baskı yaptım
+[Speaker 1] [1692.90s - 1694.66s] Hani NLP tarafında proje almak istiyorum
+[Speaker 1] [1694.66s - 1696.68s] Burada kendimi ilerletmek istiyorum vesaire gibi
+[Speaker 1] [1696.68s - 1699.94s] Çünkü hala hazırda Hacking Face içerisindeki işte blog tarafında
+[Speaker 1] [1699.94s - 1702.82s] Yani yazılan yazıları vesaire takip ediyordum
+[Speaker 1] [1702.82s - 1706.06s] Açılan konulu başlıklarını, çalışılan projeleri vesaire
+[Speaker 1] [1706.06s - 1707.38s] GitHub üzerinde de aynı şekilde
+[Speaker 1] [1708.84s - 1711.88s] Sonrasında bana bu tarafta bir imkan sağlandı
+[Speaker 1] [1711.88s - 1714.18s] O zamanki takım yedim Dorukhan yani sen de biliyorsun
+[Speaker 1] [1714.18s - 1718.44s] Dorukhan'la beraber konuşup işte bu tarafta bir iş yapmak istediğimi söyledim
+[Speaker 1] [1718.44s - 1719.78s] Ve bana direkt bir proje verdi
+[Speaker 1] [1719.78s - 1722.00s] Ve buna yani bam gün giriş dedi
+[Speaker 1] [1722.00s - 1723.16s] Yani her şeyini sana bıraktım
+[Speaker 1] [1723.16s - 1726.38s] Bir arada bana haftadan haftaya toplanıyorduk birbirimize işte
+[Speaker 1] [1726.38s - 1727.84s] Ben ona update veriyordum
+[Speaker 1] [1727.84s - 1732.98s] O bana belli başlı key word'ler verip üzerine araştırıp işte sonrasında tekrardan proje ilerletiyorum vesaire
+[Speaker 1] [1733.86s - 1735.58s] Buradaki işim de aslında iş ilanları
+[Speaker 1] [1735.58s - 1737.04s] Getiri kullananlar varsa eğer
+[Speaker 1] [1737.04s - 1738.82s] Getiriş diye bir dikey var getirde
+[Speaker 1] [1738.82s - 1741.16s] Oradaki iş ilanlarına filtrelenmesi üzerineydi
+[Speaker 1] [1741.16s - 1743.76s] İşte bizim için yayınlanabilir ilan
+[Speaker 1] [1743.76s - 1745.16s] İşte yasaklı kelime vesaire gibi
+[Speaker 1] [1745.16s - 1747.50s] Arka tarafta onu filtreleyecek şekilde bir çalışma vardı
+[Speaker 1] [1747.50s - 1749.86s] Yine burada Berti kullanmıştım aslında
+[Speaker 1] [1749.86s - 1752.72s] Sonrasında da işte kuriör feedback ile beraber
+[Speaker 1] [1752.72s - 1754.54s] Yine tekst bir projesi yapmıştım
+[Speaker 1] [1754.54s - 1757.88s] Sonrasında işte kuriye de yine aktif olarak tasklar geliyordu bana
+[Speaker 1] [1757.88s - 1761.96s] Yani kuriyelerin feedback'lerinin haricinde
+[Speaker 1] [1761.96s - 1764.88s] İşte onların şikayetlerinin yine alındığı bir yapı vardı
+[Speaker 1] [1764.88s - 1767.60s] Arka tarafta onların girdiği open text alanları fiksliyordum
+[Speaker 1] [1767.60s - 1771.60s] Ve bunları işte kriz yönetimine vesaire raporluyordum
+[Speaker 1] [1772.56s - 1776.70s] Ve onların hani safety diye bizim işte eğitim verdiğimiz alanlar vesaire vardı
+[Speaker 1] [1776.70s - 1781.48s] Onlardan hani genel olarak bir servis vesaire yazıp kendi tarafımıza basıyordum
+[Speaker 1] [1781.48s - 1782.22s] Değil mi yani
+[Speaker 1] [1782.22s - 1784.28s] Bu şekildeydi yani
+[Speaker 2] [1784.28s - 1787.40s] Yani benim bu anlatımdan aslında yakaladığım birkaç nokta var
+[Speaker 2] [1787.40s - 1791.28s] Mesela ilki senin yaptığın bu client bin projesi neticesinde
+[Speaker 2] [1791.28s - 1793.68s] Yani senin demeyeyim yani ekipçe yapmışsınızdır muhtemelen
+[Speaker 2] [1793.68s - 1796.90s] Yani ekibin ve seninle birlikte yapılan bu proje neticesinde
+[Speaker 2] [1796.90s - 1801.32s] Getir ciddi derecede bir aslında maliyet azaltımı sağlamış
+[Speaker 2] [1801.32s - 1803.96s] Ve bunu sen sayısal olarak gösterebiliyorsun
+[Speaker 2] [1803.96s - 1806.90s] Bu sayıyı portfolyoyu ekleyebilmek
+[Speaker 2] [1807.50s - 1809.10s] Veya işte CV'ye yazabilmek
+[Speaker 2] [1809.80s - 1813.68s] Özellikle Daron yöndeminde bir CV inceleme şeyi vardı serisi vardı
+[Speaker 2] [1813.68s - 1815.02s] Orada da bahsediyordu
+[Speaker 2] [1815.02s - 1818.04s] Yani gerçekten inanılmaz bir metrik bu değil mi?
+[Speaker 2] [1818.26s - 1819.80s] CV'yi otomatikten atıyor
+[Speaker 1] [1819.80s - 1821.74s] Aynen ya çünkü bir proje yapıyorsun
+[Speaker 1] [1821.74s - 1823.30s] Bu proje yapıyorsun ama neden?
+[Speaker 1] [1823.58s - 1825.60s] Ve hani karşılığında nasıl bir gelir sağladın?
+[Speaker 1] [1825.60s - 1827.26s] Ya da işte bu proje yapma amacın neydi?
+[Speaker 1] [1827.52s - 1829.74s] Çünkü hani örnek veriyorum çok iyi ekip üsresi olan
+[Speaker 1] [1829.74s - 1831.42s] Ya da işte çok iyi skorlar olan
+[Speaker 1] [1831.42s - 1833.28s] Precision efmanı olan bir proje yaptın
+[Speaker 1] [1833.28s - 1835.34s] Ama karşılığı çok fazla
+[Speaker 1] [1835.34s - 1839.74s] Yani o beklenti işte o produn production'da gelen maliyeti
+[Speaker 1] [1839.74s - 1841.84s] Ya da işte karlılığı vesaire
+[Speaker 1] [1841.84s - 1843.48s] Seni çok fazla tatmin etmiyorsa
+[Speaker 1] [1843.48s - 1845.22s] Ve maliyet çok fazlaysa orada
+[Speaker 1] [1845.22s - 1846.62s] Bir anlamı kalmıyor
+[Speaker 1] [1846.62s - 1850.58s] Ve hani orada aslında senin yaptığın işin sayısal bir karşılığı olması gerekiyor
+[Speaker 1] [1850.58s - 1851.68s] Aslında senin de söylediğin gibi
+[Speaker 1] [1851.68s - 1853.60s] Bunu da gösterebilmen lazım
+[Speaker 1] [1853.60s - 1857.84s] Bizim işte burada baktığımız metrikler işte kuryenin çalışma saatinin maliyeti
+[Speaker 1] [1857.84s - 1861.46s] İşte müşteri hizmetlerinin çalışma saatinin maliyeti vesaire gibi
+[Speaker 1] [1861.46s - 1864.32s] Bunlar aslında hesaplayarak oluşturduğumuz bir çıktıydı
+[Speaker 1] [1864.32s - 1867.64s] Ve bizim taraf da büyük bir şey aldı
+[Speaker 1] [1867.64s - 1868.32s] Hype aldı
+[Speaker 1] [1868.32s - 1870.00s] Biz bunu iki kişi geliştirdik bu arada
+[Speaker 1] [1870.00s - 1870.70s] Ben ve Esra
+[Speaker 1] [1870.70s - 1872.12s] O zaman biz ikimizle interndük
+[Speaker 1] [1872.12s - 1875.60s] Ve bayağı saldırarak yapmıştık yani
+[Speaker 1] [1875.60s - 1876.78s] Ve inanılmaz keyifliydi
+[Speaker 1] [1877.32s - 1878.42s] Bize çok şey kattı
+[Speaker 1] [1879.24s - 1882.56s] Kullandığımız metrikler de çok bizim için kıymetliydi
+[Speaker 1] [1882.56s - 1884.08s] Folyum framework'unu kullandım ben
+[Speaker 1] [1884.08s - 1885.38s] O da biraz daha harita üzerinde
+[Speaker 1] [1885.38s - 1887.22s] Belki bilen arkadaşlar vardır
+[Speaker 1] [1887.22s - 1888.84s] CS tarafında vesaire çalışan
+[Speaker 1] [1888.84s - 1890.08s] Ya da işte bu tarafa ilgisi olan
+[Speaker 1] [1890.08s - 1891.66s] Direkt hani harita üzerinde
+[Speaker 1] [1891.66s - 1894.98s] O müşterilerin pinlerini, kuryelerin beyanlarını vesaire takip ettiğimiz aslında
+[Speaker 1] [1894.98s - 1898.08s] Sonra da onu clusterlayıp çalıştığımız bir metottu
+[Speaker 1] [1898.08s - 1900.28s] Ve karşılığını çok iyi aldık yani
+[Speaker 2] [1901.18s - 1903.30s] Özellikle bunu sayısallaştırıp
+[Speaker 2] [1903.30s - 1905.84s] CV'ye gösterebilmek, yazabilmek inanılmaz bir şey
+[Speaker 2] [1906.92s - 1908.56s] İkinci yakaladım Dorkan abi
+[Speaker 2] [1908.56s - 1910.62s] Buradan Dorkan abiye de selam olsun
+[Speaker 2] [1912.54s - 1914.10s] Üçüncü yakaladın da BERT
+[Speaker 2] [1914.10s - 1917.56s] Abi NLP deyince BERT illa böyle bir işin içine giriyor
+[Speaker 2] [1917.56s - 1919.46s] Şu anda bir Gen Aya hype'ı var ya
+[Speaker 2] [1919.46s - 1924.04s] Aslında yani insanlar ciddi derecede Gen Aya ile bir şeyler üretmek istiyor
+[Speaker 2] [1924.04s - 1925.52s] Veya bir şeyler yapıyor deniyor falan
+[Speaker 2] [1925.52s - 1928.52s] NLP sanki böyle atıl kalmış gibi hissediliyor
+[Speaker 2] [1929.04s - 1930.82s] Biraz bu hype'dan kaynaklı olarak
+[Speaker 2] [1930.82s - 1935.14s] Sence hala BERT'in rolü, BERT'in kullanımı nasıl
+[Speaker 2] [1935.14s - 1937.56s] NLP'ye yeni başlayacak olsaydın
+[Speaker 2] [1937.56s - 1939.04s] Neler yapardın?
+[Speaker 2] [1939.14s - 1941.48s] Ben şu anda senin kariyerin birazcık daha tamamen aslında
+[Speaker 2] [1941.48s - 1944.48s] NLP'ye evirttiğini biliyorum
+[Speaker 2] [1944.48s - 1946.88s] Biraz tabülerden çıktın diyebiliriz
+[Speaker 2] [1946.88s - 1948.90s] Bu taraf için neler söylersin?
+[Speaker 1] [1949.48s - 1952.52s] Ya şöyle aslında proje bazlı biraz daha ilerliyor
+[Speaker 1] [1952.52s - 1954.96s] Benim gördüğüm en azından sektördeki karşılığı bu
+[Speaker 1] [1954.96s - 1958.20s] Yani şirketlerin içerisindeki çalışma yapılarını da görüyorum
+[Speaker 1] [1958.20s - 1960.12s] Ve hani konuştuğum arkadaşlarım da var aynı şekilde
+[Speaker 1] [1960.12s - 1962.14s] Gelen işle bağlantılı biraz daha
+[Speaker 1] [1962.14s - 1963.96s] İşte text classification yapılıyorsa
+[Speaker 1] [1963.96s - 1965.06s] Bizim tarafta en azından
+[Speaker 1] [1965.06s - 1967.24s] Hani ilk başta getir tarafındakinde
+[Speaker 1] [1967.24s - 1969.00s] Biz genellikle BERT'e gidiyorduk
+[Speaker 1] [1969.00s - 1971.48s] İşte elimizdeki textlar çok büyüktü vesaire
+[Speaker 1] [1971.48s - 1972.74s] Ya da işte DISTILBERT kullanıyorduk
+[Speaker 1] [1972.74s - 1974.42s] Çok büyük bir modelle çalışmayacaksak
+[Speaker 1] [1974.42s - 1976.20s] İşte oradaki maliyeti düşünüyorsak vesaire
+[Speaker 1] [1977.06s - 1980.56s] Ve hani yani burada biraz daha proje bazlı ilerliyor gerçekten
+[Speaker 1] [1980.56s - 1981.62s] Nerede ne kullanacağım
+[Speaker 1] [1981.62s - 1982.70s] Mesela bir RAC yapıyoruz
+[Speaker 1] [1982.70s - 1984.74s] Şu an biz içeride, Beymen'de
+[Speaker 1] [1984.74s - 1986.38s] Bunu nasıl yapacağız
+[Speaker 1] [1986.38s - 1987.72s] Nerede ne kullanacağız vesaire
+[Speaker 1] [1987.72s - 1989.14s] Biraz da kullandığın environmentla
+[Speaker 1] [1989.14s - 1990.94s] Yani senin şirketin sağladığı
+[Speaker 1] [1991.56s - 1993.58s] Ya da işte içinde bulunduğu yapı neyse
+[Speaker 1] [1993.58s - 1996.40s] Biz mesela getirdiyken Amazon base işler yapıyordum ben
+[Speaker 1] [1996.40s - 1997.46s] O tarafı kullanıyorduk aktif
+[Speaker 1] [1997.46s - 1999.86s] Burada mesela Google tarafında daha çok iş yapıyorum
+[Speaker 1] [1999.86s - 2000.98s] Ve onu kullanıyoruz
+[Speaker 1] [2000.98s - 2002.32s] Yani Google teknolojilerini kullanıyoruz
+[Speaker 1] [2003.54s - 2004.82s] Ekosisteme bağlı biraz da
+[Speaker 1] [2004.82s - 2007.32s] Hem de elinde ne var ürün olarak onlara bakıyorsun
+[Speaker 1] [2008.20s - 2009.74s] Dediğim gibi yani burada aslında
+[Speaker 1] [2009.74s - 2011.86s] Uğraştığım projeyle bağlı olarak
+[Speaker 1] [2011.86s - 2013.06s] Bağlantılı olarak aslında
+[Speaker 1] [2013.06s - 2015.14s] Geliştireceğin yapıyı biraz daha kafanda kuruyorsun
+[Speaker 1] [2015.14s - 2016.70s] Ya da işte öncesinde bir araştırma yapıyorsun
+[Speaker 1] [2016.70s - 2018.82s] Bu tarafta insanlar neler yapmış
+[Speaker 1] [2018.82s - 2020.14s] Ya da işte sen neler yapabilirsin
+[Speaker 1] [2020.14s - 2023.30s] Senin tarafındaki kullandığın işte ekosisteme hangi proje uygun
+[Speaker 1] [2023.30s - 2025.12s] Ya da işte hangi model uygun
+[Speaker 1] [2025.12s - 2026.80s] Hangi embedding modeller uygun vesaire
+[Speaker 1] [2026.80s - 2029.70s] Bunları biraz daha işte aramayla buluyorsun yani
+[Speaker 1] [2030.36s - 2032.36s] NLP'nin hype'ının yani şöyle aslında
+[Speaker 1] [2032.36s - 2033.92s] Ben hani bir çatı gibi düşünüyorum
+[Speaker 1] [2033.92s - 2036.34s] Biraz daha NLP'yi ve içerisinde ayrılıyor
+[Speaker 1] [2036.34s - 2037.40s] Belli başlı işler işte
+[Speaker 1] [2037.40s - 2040.04s] Generative AI şu an inanılmaz gerçekten popüler
+[Speaker 1] [2040.04s - 2041.02s] Hem fikirim seninle
+[Speaker 1] [2041.02s - 2042.84s] Ve bu tarafta çok fazla
+[Speaker 1] [2042.84s - 2044.28s] Yani Türkiye tarafında en azından
+[Speaker 1] [2044.28s - 2046.38s] İlanları yeni yeni görmeye başlıyorum
+[Speaker 1] [2046.38s - 2048.68s] Ama Avrupa'da da daha fazla tabii ki de
+[Speaker 1] [2048.68s - 2050.64s] Yani onun dışında
+[Speaker 1] [2050.64s - 2052.04s] Yani buradaki o yetkinlikler
+[Speaker 1] [2052.04s - 2053.66s] İlan başlıklarındaki içerikler
+[Speaker 1] [2053.66s - 2055.44s] Yani description tarafındaki içeriklere bakıyorsun
+[Speaker 1] [2055.44s - 2057.06s] Yani yapılan yazılan şeylere bakıyorsun
+[Speaker 1] [2057.82s - 2061.26s] Yani çok bazen bazı şirketler için çok manalı olmayabiliyor
+[Speaker 1] [2061.26s - 2062.84s] Ama hani bu durumda
+[Speaker 1] [2062.84s - 2064.94s] Yani burada çok iyi işler yapan şirketler de var
+[Speaker 1] [2066.02s - 2067.84s] Yani bu aslında biraz daha dediğim gibi
+[Speaker 1] [2067.84s - 2070.76s] Ben çalıştığım şirketle de bağlantılı yani yaptığım projeyle vesaire
+[Speaker 1] [2070.76s - 2073.84s] Günün sonunda hani çalışacağın şeyi
+[Speaker 1] [2073.84s - 2076.00s] Dil modelini kendi seçiyorsun biraz daha
+[Speaker 1] [2076.00s - 2079.50s] İşte text to text'e işte orada T5 var bir sürü model var
+[Speaker 1] [2079.50s - 2081.88s] Onun dışında işte text classification'ı vesaire farklı
+[Speaker 1] [2081.88s - 2085.02s] Yani bunu direkt hani hugging face'in hub'ından da bakabilirsin
+[Speaker 1] [2085.02s - 2087.58s] Yani direkt içerisindeki olan dilleri de vesaire
+[Speaker 1] [2087.58s - 2089.24s] Yani dil modellerine de bakabilirsin
+[Speaker 1] [2089.24s - 2090.98s] Ve buradan ilerliyorsun
+[Speaker 2] [2090.98s - 2092.50s] Yani genel geldi mertlik bozuldu
+[Speaker 2] [2093.88s - 2098.20s] Yani şimdi her şeyi sanki genel ile çözsek daha iyiymiş
+[Speaker 2] [2098.20s - 2101.70s] Veya işte bir tane görsel vardı ya bu zamanında deep learning için vardı
+[Speaker 2] [2101.70s - 2105.26s] Adam işte pastayı kocaman bir böyle kılıçla kesmeye çalışıyor
+[Speaker 2] [2105.26s - 2108.36s] Şu anda da o genel'e dönmüş gibi aslında yani gerçekten
+[Speaker 1] [2108.36s - 2111.50s] Ya şöyle bazı şirketler için konuşuyorum
+[Speaker 1] [2111.50s - 2113.72s] Oradaki karşılığı mesela bana ne katacak
+[Speaker 1] [2113.72s - 2117.78s] Günün sonunda bu soruyu cevaplıyor olmak gerekiyor biraz daha
+[Speaker 1] [2117.78s - 2122.20s] Bizim hani içeride de mesela şu an yaptığımız şeyin bir karşılığı var
+[Speaker 1] [2122.20s - 2127.88s] Bize işte oradaki eforumuzu farklı şeylere yöneltebilmek için aslında yaptığımız bir ak sistemi var
+[Speaker 1] [2128.60s - 2131.02s] Hani bunu bize bir katkısı var ama örnek veriyorum
+[Speaker 1] [2131.02s - 2133.74s] Çok katkısı olmayan bir işe buradaki maliyeti de düşünerek
+[Speaker 1] [2133.74s - 2137.28s] Düşünerek ilerletip yaptığında bir karşılığı da olmayınca hani
+[Speaker 1] [2137.28s - 2141.46s] Yani oradaki bir kar arttırımı ya da işte zarar düşünen
+[Speaker 1] [2141.46s - 2143.34s] Cost reduction vesaire bunlar olmadığında
+[Speaker 1] [2143.34s - 2146.88s] Hani bir manası olmuyor sen sadece bu proje yapmış oluyorsun
+[Speaker 1] [2146.88s - 2150.76s] Biraz daha şirketin beklentisine göre de hareket etmek gerekiyor açıkçası
+[Speaker 1] [2150.76s - 2154.60s] Çünkü hani günün sonunda hepimiz tabii ki de hani bir şey geliştiriyoruz
+[Speaker 1] [2154.60s - 2156.08s] Ve onun bir katkısı olması gerekiyor
+[Speaker 1] [2156.08s - 2158.56s] Ya bir cost reduction ya da işte kar impromantı
+[Speaker 1] [2158.56s - 2161.14s] Bu tamamen işte çalıştığın proje
+[Speaker 1] [2161.14s - 2162.90s] Şirketin beklentilerine bağlı aslında
+[Speaker 2] [2163.52s - 2164.68s] Biraz daha böyle
+[Speaker 2] [2164.68s - 2165.68s] AI yaptım
+[Speaker 2] [2166.74s - 2167.82s] Öyle bir şey var
+[Speaker 2] [2167.82s - 2170.34s] Yani ben AI yaptım demek için yapılan projeler
+[Speaker 1] [2170.34s - 2172.18s] Yani evet var
+[Speaker 1] [2172.18s - 2174.52s] Bootcamp'ler içerisinde de görüyorum ben bunu sık sık
+[Speaker 1] [2174.52s - 2177.60s] Ama hani yani böyle bir haftada bir ayda vesaire
+[Speaker 1] [2177.60s - 2181.24s] Hani hızlı bir şekilde çözülecek işler değil bunlar arkadaşlar bence
+[Speaker 1] [2181.24s - 2183.38s] Kendi fikrim bu yönde açıkçası
+[Speaker 1] [2184.12s - 2187.80s] Ve hani bunlara çok fazla güvenmemenizi tavsiye ediyorum
+[Speaker 1] [2187.80s - 2193.74s] Hani bootcamp'ler çünkü öyle her zaman bekleneni veren bir yapı değil
+[Speaker 1] [2193.74s - 2195.28s] Bunu unutmayın lütfen
+[Speaker 2] [2195.28s - 2198.36s] Bu arada ücretsiz bootcamp'lerden bahsediyorsun değil mi?
+[Speaker 2] [2198.64s - 2201.70s] Aslında yani ücretsizse bir şey
+[Speaker 2] [2201.70s - 2204.22s] Yani oradaki bootcamp teki çok önemli değil
+[Speaker 2] [2204.22s - 2206.26s] En nihayetinde ücretsiz bir şey
+[Speaker 2] [2206.26s - 2208.42s] Yani gidip ondan faydalanmakta bir sorun yok
+[Speaker 2] [2208.42s - 2215.54s] Ama inanılmaz fahiş fiyatlara sanki size dünyaları veriyormuşçasına satılan işler var
+[Speaker 1] [2215.54s - 2219.22s] Aynen onları yani umarım kimse parasını kaptırmamıştır
+[Speaker 1] [2219.22s - 2224.84s] Yani çok fazla sizi ileriye sürükleyecek işler değil diye düşünüyorum arkadaşlar
+[Speaker 1] [2225.42s - 2228.44s] Ve bu konuda dikkatli olmanızı öneriyorum açıkçası
+[Speaker 2] [2228.44s - 2229.36s] Kesinlikle
+[Speaker 2] [2229.36s - 2232.70s] Bir de yani ücretsiz olarak şimdi yani Kaggle'a bile gitsen
+[Speaker 2] [2232.70s - 2235.08s] Kaggle'da bir sürü kurs var ücretsiz olarak
+[Speaker 2] [2235.08s - 2235.54s] Evet
+[Speaker 2] [2235.54s - 2238.16s] Onları bile alsan daha kafidir yani bilmiyorum
+[Speaker 2] [2238.16s - 2240.38s] Yani sana mesaj atsın tamam mı?
+[Speaker 2] [2240.50s - 2242.52s] Sana mesaj atsın adam takıldığı yerde
+[Speaker 2] [2242.52s - 2244.12s] Sen zaten yardımcı olursun
+[Speaker 1] [2244.12s - 2247.40s] Elimden geldiğince gerçekten yardımcı olmaya çalışırım herkese
+[Speaker 1] [2247.40s - 2250.00s] Onun dışında kesinlikle şuna katılıyorum yani
+[Speaker 1] [2250.00s - 2253.60s] Hani açık kaynaklı işlerin dokümanını okumak vesaire
+[Speaker 1] [2253.60s - 2255.96s] İşte orada yapılan projeyi incelemek
+[Speaker 1] [2255.96s - 2259.50s] GitHub üzerinde çok fazla gerçekten kendinizi geliştirebileceğiniz alanlar var
+[Speaker 1] [2259.50s - 2260.74s] Projeler var, repolar var
+[Speaker 1] [2260.74s - 2263.06s] Bunları kesinlikle incelemenizi öneriyorum
+[Speaker 1] [2263.06s - 2267.34s] Onun dışında YouTube'da da yine ekstra çok fazla iyi içeriklerin olduğunu düşünüyorum
+[Speaker 1] [2267.34s - 2268.64s] LinkedIn'de keza aynı şekilde
+[Speaker 1] [2268.64s - 2273.04s] Güzel içeriklerin işte yani medium tarafına yönlendirilmiş linkleri oluyor
+[Speaker 1] [2273.04s - 2275.98s] Ben de genellikle bu taraflardaki insanları takip edip
+[Speaker 1] [2275.98s - 2277.88s] İşte bu alandaki insanları takip edip
+[Speaker 1] [2277.88s - 2280.30s] Paylaştıkları yazıları vesaire okumaya çalışıyorum
+[Speaker 1] [2281.38s - 2284.36s] Bu bence kıymetli ve para kaptırmadan
+[Speaker 1] [2284.36s - 2286.52s] Çok fazla boşa para harcamadan
+[Speaker 1] [2286.52s - 2290.52s] Kendinizi geliştirebileceğiniz yöntemler bunlar gibi düşünüyorum ben de açıkçası
+[Speaker 2] [2291.36s - 2292.34s] Kesinlikle yani
+[Speaker 2] [2292.34s - 2295.02s] Saatçı YouTube bile inanılmaz derya deniz bir kaynak
+[Speaker 2] [2295.02s - 2297.00s] Yani gidip de bootcamp'lere
+[Speaker 2] [2297.00s - 2299.14s] Ücretli bootcamp'lere bel bağlayıp
+[Speaker 2] [2299.14s - 2302.58s] Gerçekten yüksek meblalarda paralarınızı çarşur etmeyin
+[Speaker 1] [2303.14s - 2304.56s] Evet ya orada da beklenti yani
+[Speaker 1] [2305.14s - 2307.50s] Beklentinizle beraber verdiğiniz para uyuşmayınca
+[Speaker 1] [2307.50s - 2310.46s] Bu sefer hani gerçekten elde çok bir şey kalmıyor olacak
+[Speaker 1] [2311.14s - 2313.08s] Bu da sizi mutlu etmeyecek yani
+[Speaker 1] [2313.08s - 2314.98s] O zaman pişmanlık duyabilirsiniz
+[Speaker 1] [2314.98s - 2318.06s] Şimdi ben umarım hani bir tavsiye gibi düşündüm
+[Speaker 2] [2318.06s - 2318.48s] Herhalde.
+[Speaker 2] [2319.96s - 2323.64s] Bu yayının şu anda bu anına denk gelen kişiler için
+[Speaker 1] [2323.64s - 2325.06s] Otobotlara bir çağrı
+[Speaker 2] [2327.32s - 2332.62s] Şimdi o zaman senin full şu ana kadarki aslına baktın okurken çalışıyorsun
+[Speaker 2] [2332.62s - 2336.86s] Biraz benden şu an benzer durumlarda okurken çalışmak biraz zor
+[Speaker 2] [2337.48s - 2341.40s] Bu okurken çalışma işini nasıl handle ettin ya nasıl yönettin
+[Speaker 2] [2341.40s - 2343.62s] Burada karşılaştığın zorluklar neydi
+[Speaker 2] [2343.62s - 2347.28s] Bu tarz bir durumun içinde olacak kişilere ne gibi tavsiyelerin olur
+[Speaker 1] [2347.28s - 2351.28s] Şöyle aslında benim çalıştığım uzun süreler hep pandemiydi
+[Speaker 1] [2351.82s - 2353.52s] Ve uzaktan çalışıyordum zaten full
+[Speaker 1] [2353.52s - 2356.20s] O yüzden inanılmaz rahattım
+[Speaker 1] [2356.20s - 2358.90s] Okullara işte okulla beraber kaydoluyordu zaten dersler
+[Speaker 1] [2358.90s - 2359.90s] Sonrasında takip ediyordum
+[Speaker 1] [2359.90s - 2362.66s] Onun dışında hocalarımla da konuşuyordum ben zaten
+[Speaker 1] [2362.66s - 2364.14s] Son yılım aslında getirdim
+[Speaker 1] [2364.14s - 2366.04s] Okuldaki son yılımda
+[Speaker 1] [2366.04s - 2368.70s] Hocalarımla biliyorlardı zaten getirde çalıştığımı
+[Speaker 1] [2368.70s - 2371.06s] Ve olabildiğince bana kolaylık sağlıyorlardı
+[Speaker 1] [2371.06s - 2374.40s] Derslere hani daha esnek yaklaşıyordum
+[Speaker 1] [2374.40s - 2375.28s] Ve hani hocalar da buna okeylerdi
+[Speaker 1] [2375.62s - 2378.16s] Yani çok problem çıkarmıyorlardı sağ olsunlar hepsi
+[Speaker 1] [2378.16s - 2381.96s] Ve ben hani işe daha çok yüklendim
+[Speaker 2] [2381.96s - 2383.20s] O yüzden okulum uzadı benim aslında
+[Speaker 1] [2383.20s - 2385.80s] Ben 2024 Temmuz mezunuyum açıkçası
+[Speaker 1] [2386.78s - 2388.86s] Normalde 2023 mezunu olmam gerekiyordu
+[Speaker 1] [2388.86s - 2389.90s] Okulumu bir yıl uzattım
+[Speaker 1] [2389.90s - 2391.14s] Ama pişman değilim
+[Speaker 1] [2391.14s - 2393.40s] Doğrusunun bu olduğunu düşünüyorum açıkçası
+[Speaker 1] [2393.40s - 2397.00s] Yani benim için bana katkı sağlayan tarafta olduğum için
+[Speaker 1] [2398.06s - 2399.76s] Ya ortalamam da fena bitmiyor
+[Speaker 1] [2399.76s - 2400.86s] Yani Ganon fena değildi
+[Speaker 1] [2400.86s - 2403.62s] Ama yine de hani okulumuzu boş vermeyin
+[Speaker 1] [2403.62s - 2407.16s] Kesinlikle bu hani okulu boşveren anlamına gelmiyor
+[Speaker 2] [2407.16s - 2410.32s] Yani enteresan bir trade-off yani aslında
+[Speaker 2] [2410.32s - 2413.18s] Yani sektöre girdiğin zaman okuldan mecburen uzaklaşıyorsun
+[Speaker 2] [2413.18s - 2417.02s] Ve kalabiliyor yani dersler mecburen kalabiliyor
+[Speaker 2] [2417.02s - 2419.48s] Çünkü hem çalış hem okula git
+[Speaker 2] [2419.48s - 2422.14s] Yani sadece aradaki yol maliyeti bile çok ciddi bir şey
+[Speaker 1] [2422.14s - 2423.52s] Ya evet aynen
+[Speaker 1] [2423.52s - 2426.20s] Bir de benim tarafımda mesela ben haftada 5 gün çalışıyordum full time
+[Speaker 1] [2426.20s - 2430.18s] Yani okulla beraber sürdürebilmek bunu çok mümkün değildi
+[Speaker 1] [2430.18s - 2434.06s] Ve onları hani notları vesaire arkadaşlarımdan alıp aslında ilerletiyordum
+[Speaker 1] [2434.06s - 2435.88s] Biraz daha hepsinden
+[Speaker 2] [2435.88s - 2438.48s] Bu arada istatistik bölümü zor bir bölüm
+[Speaker 2] [2438.48s - 2441.22s] Yani onu da söyleyeyim yani istatistik okuyacaklar varsa
+[Speaker 2] [2441.22s - 2442.88s] Bir tık zor bir bölüm açıkçası
+[Speaker 1] [2442.88s - 2445.68s] Hazır olsunlar yani bir çay açı bence kesinlikle
+[Speaker 1] [2446.20s - 2447.72s] Buna hazır olmak gerekiyor
+[Speaker 1] [2447.72s - 2452.38s] Hani öncesinde bunu anlatan işte bununla alakalı bilgi veren insanları
+[Speaker 1] [2452.38s - 2455.90s] İşte dinleyip nerelerde ne şekilde kendini geliştirmen gerekiyor vesaire
+[Speaker 1] [2455.90s - 2458.02s] Yani bunları da dinleyip gidersen hazır bir şekilde
+[Speaker 1] [2458.02s - 2459.64s] Baya kolaylık sağlayacak
+[Speaker 1] [2459.64s - 2461.96s] Benim yani benim çok büyük şansım vardı
+[Speaker 1] [2461.96s - 2463.58s] Abim istatistik mezunuydu
+[Speaker 1] [2463.58s - 2466.06s] Beni inanılmaz rahatlattı yani her anlamıyla
+[Speaker 2] [2466.06s - 2470.72s] Bu yayınla birlikte artık senden sonraki nesiller de bu yayından
+[Speaker 1] [2472.04s - 2474.40s] Umarım yardımcı olur gerçekten herkese
+[Speaker 2] [2474.40s - 2476.12s] Oluyor oluyor
+[Speaker 2] [2476.90s - 2479.78s] Peki artık son sınıfta bir tez yaptın
+[Speaker 2] [2479.78s - 2480.78s] Yaptığın tez neydi?
+[Speaker 1] [2481.46s - 2485.76s] E şöyle aslında ben Twitter'da sentiment analizi yaptım Twitter'daki verileri kullanarak
+[Speaker 1] [2485.76s - 2487.34s] Uzaktan eğitimle alakalı
+[Speaker 1] [2487.34s - 2490.64s] Benim zamanımız zamanında tabi o zaman Elon Musk yoktu
+[Speaker 1] [2490.64s - 2493.08s] Ve yani daha yeni gelmişti daha doğrusu
+[Speaker 1] [2493.08s - 2496.04s] Ve developer tarafındaki işte o şeyi arka taraftaki
+[Speaker 1] [2496.04s - 2498.18s] Datayı çekmeyi açıktı
+[Speaker 1] [2498.18s - 2499.88s] Aynen API tarafı açıktı
+[Speaker 1] [2499.88s - 2503.56s] Ve ben onu kullandım yani onu kullanan son şanslı lesillerden biri
+[Speaker 1] [2503.56s - 2506.38s] Yani o inanılmaz kolaylık sağladı bana
+[Speaker 1] [2506.38s - 2511.30s] Ben oradaki verileri çekip aslında uzaktan eğitimle alakalı alıp arka tarafta onu sentiment analizli çalışıp
+[Speaker 1] [2511.30s - 2514.40s] Sonrasında aslında bunu bir konferansta sundum
+[Speaker 1] [2514.40s - 2516.62s] Birkaç farklı üniversitenin olduğu
+[Speaker 1] [2517.44s - 2519.84s] Yani çok büyük kolaylıklı benim için
+[Speaker 1] [2519.84s - 2524.58s] Şu an bildiğim kadarıyla bu paralı ya da işte şu an free sunulmuyor
+[Speaker 1] [2524.58s - 2526.54s] Ben hani free kullanmıştım onu o zaman
+[Speaker 1] [2527.94s - 2530.70s] Sonrasında aslında hani tamamen bunu 3 kişi olarak giriştik
+[Speaker 1] [2530.70s - 2534.16s] Ve bizi geliştirdi yani bu projede kesinlikle
+[Speaker 1] [2534.16s - 2536.06s] Diploimant'ını vesaire o zaman da yapmıştım
+[Speaker 1] [2536.06s - 2539.74s] Python'ı New Year'li aslında kullanmıştım burada da
+[Speaker 2] [2539.74s - 2542.50s] Yani şu an Python New Year mi dedin
+[Speaker 2] [2542.50s - 2543.72s] Orası hala aktif mi mesela?
+[Speaker 1] [2544.78s - 2549.08s] Sanırım aktif ama yani şey tarafı ücretli olabilir
+[Speaker 1] [2549.08s - 2552.54s] Çok emin değilim ama ücretli olabilir yani hatırlamıyorum
+[Speaker 1] [2552.80s - 2557.56s] Şu an için nasıl bir durumda bilmiyorum o yüzden yanlış yönlemlemek istemiyorum kimseyi
+[Speaker 1] [2558.64s - 2561.32s] Ama Diploimant için kolaylık sağlıyorlar yani
+[Speaker 1] [2561.32s - 2565.56s] Hani arayüzü vesaire işte arka taraftaki kodu puşlayabileceğin alan baya kolay
+[Speaker 2] [2568.56s - 2572.04s] Peki şimdi artık mezun da oldun artık geçti
+[Speaker 2] [2572.94s - 2574.50s] Tabula da göçtün
+[Speaker 2] [2574.50s - 2576.82s] Öyle bir durumların oldu
+[Speaker 2] [2576.82s - 2578.44s] Bir keşken var mı?
+[Speaker 2] [2578.78s - 2579.80s] Bir zamanda yolculuk yapsaydın
+[Speaker 2] [2580.14s - 2582.12s] Şu ana kadar ki işte bu serüveninden
+[Speaker 2] [2582.12s - 2583.24s] Data Science serüveninden
+[Speaker 2] [2583.24s - 2585.22s] Değiştirmek istediğim bir şey olur muydu?
+[Speaker 1] [2585.94s - 2588.58s] Ya şöyle aslında istatistik okuduğum için pişman değilim
+[Speaker 1] [2588.58s - 2592.60s] Ama keşke mühendislik tarafında yani bilgisayar mühendisliği
+[Speaker 1] [2592.60s - 2594.40s] Daha çok çalışıp gerçekten daha iyi puanlanıp
+[Speaker 1] [2594.40s - 2598.72s] Bilgisayar mühendisliği tarafında ya da işte yazılım mühendisliği tarafında bir alay
+[Speaker 1] [2598.72s - 2602.56s] Bir üniversitede bu bölümü kazanıp aslında ilerlemeyi daha çok isterdim
+[Speaker 1] [2602.56s - 2606.18s] Çünkü hani istatistik bir tık daha az önce söylediğin gibi ağır
+[Speaker 1] [2606.18s - 2609.02s] Ve full fokus şey odaklanamıyorsun
+[Speaker 1] [2609.02s - 2611.82s] Yani full fokus işte ben sabah kalkayım kod yazayım vesaire
+[Speaker 1] [2611.82s - 2614.06s] Ya da bilgisayar dışlı olayım tarafında değilsin
+[Speaker 1] [2614.92s - 2618.84s] Yani computer engineering tarafında işte ya da işte yazılımda
+[Speaker 1] [2618.84s - 2623.34s] Biraz daha bu tarafta olduğun için artıları eksileri kesinlikle vardır ama
+[Speaker 1] [2623.34s - 2625.74s] Daha konforlu hissediyor olacaktım ben günün sonunda
+[Speaker 1] [2625.74s - 2628.36s] Tek keşken bu aslında geçmişi şu an için
+[Speaker 2] [2630.98s - 2636.28s] Ya ben de orada biraz böyle kendi tecrübenden bir şey söyleyebilirim
+[Speaker 2] [2636.28s - 2639.38s] Böyle istatistik tarafına ilk ağlar biraz şey bakıyor
+[Speaker 2] [2639.38s - 2640.94s] Hani daha böyle analitik bakıyor
+[Speaker 2] [2640.94s - 2644.72s] Çok anlamıyorlar mesela IT departmanına çok yaklaştırmak istemiyorlar istatistik tarafını
+[Speaker 2] [2644.72s - 2646.46s] Daha böyle analitik taraflara
+[Speaker 2] [2646.46s - 2649.92s] Daha böyle işte data analiz belki işte taraflarına
+[Speaker 2] [2649.92s - 2652.10s] Böyle science deyince sanki birazcık daha böyle kod yazıyorsun
+[Speaker 2] [2652.10s - 2654.26s] Daha böyle şey machine learning engineer falan
+[Speaker 2] [2654.26s - 2657.56s] O tarafta biraz hani ilk ağanın şey diyelim
+[Speaker 2] [2658.42s - 2660.82s] Geri bakışı mı diyeyim tam şeyi demeyeyim de
+[Speaker 2] [2661.80s - 2664.48s] Gerçekten hani istatistik tarafında fazla kağıttasın
+[Speaker 2] [2664.48s - 2665.50s] Fazla teoridesin
+[Speaker 2] [2665.50s - 2669.60s] Kod tarafı sektörle çok bağdaşmıyor ya aldığın derslerin
+[Speaker 1] [2669.60s - 2672.10s] Yani evet ders bakımından dediğin gibi aslında
+[Speaker 1] [2672.10s - 2675.68s] Yani sen de biliyorsun bizim tarafta mesela regresyonu gerçekten elle çözüyorsun
+[Speaker 1] [2675.68s - 2679.62s] Ya da işte o kodu gerçekten hani kağıt kalem alıp elinde yazıyorsun yani
+[Speaker 1] [2679.62s - 2682.36s] Bunlar biraz daha hani gün
+[Speaker 1] [2682.36s - 2685.22s] Tabii ki de güncel değil buna yani yadırgamıyorum
+[Speaker 1] [2685.22s - 2688.60s] Bunu bilerek zaten aslında ben hani o dersleri de seçtiğimde ona göre seçmiştim
+[Speaker 1] [2688.60s - 2690.66s] Ama hani kesinlikle
+[Speaker 1] [2690.66s - 2693.10s] İK tarafında belli başlı insanlar için
+[Speaker 1] [2693.10s - 2695.34s] Science tarafındaki karşılığını biliyorlar
+[Speaker 1] [2695.34s - 2697.50s] Benim denk geldiğim insanlar en azından biliyorlardı
+[Speaker 1] [2697.50s - 2700.30s] Ama bilmeyenler ya da işte bu tarafta çok fazla
+[Speaker 1] [2701.50s - 2704.66s] Çok fazla demeyeyim de çok daha uzak olan insanlar da vardı
+[Speaker 1] [2705.50s - 2707.58s] Bu hani biraz daha kişiden kişiye değişiyor
+[Speaker 1] [2707.58s - 2709.14s] Yani genel bir yargı gibi olmasın
+[Speaker 1] [2709.14s - 2711.50s] Ama hani denk geldiğim insanlar vardı benim ya
+[Speaker 2] [2711.60s - 2712.96s] Evet
+[Speaker 2] [2713.60s - 2713.66s] Evet
+[Speaker 2] [2716.48s - 2719.62s] Şimdi şey atacağım da repon adresine baktım da onu anlayayım
+[Speaker 2] [2719.62s - 2720.20s] Arada
+[Speaker 2] [2722.06s - 2726.50s] Şimdi bir gönüllü deneyimlerin birazcık da gönüllü taraftan konuşabiliriz
+[Speaker 2] [2726.50s - 2731.64s] Özellikle sen deprem zamanında oradaki açık yazılım anında ciddi destek verdiğini ben biliyorum
+[Speaker 2] [2731.64s - 2735.46s] Başka başka bir sürü organizasyonda gönüllü deneyimin var
+[Speaker 2] [2735.46s - 2739.66s] Bunların etkisi nasıl oldu? Bunları niçin yapıyorsun veya?
+[Speaker 1] [2740.46s - 2743.54s] Şöyle aslında yani ben şuna inanıyorum biraz da
+[Speaker 1] [2743.54s - 2745.70s] O bilgiyi vermeden alamazsın
+[Speaker 1] [2745.70s - 2747.74s] Yani bir şekilde bir insana yani
+[Speaker 1] [2747.74s - 2752.70s] Senden daha az bilgisi olan insana kendinde fazlaysa eğer bunu aktarman gerekiyor ki
+[Speaker 1] [2752.70s - 2754.42s] Başkasından sen de alabilirsin
+[Speaker 1] [2754.42s - 2756.30s] Bunun hani bir denge olduğunu düşünüyorum ben
+[Speaker 1] [2756.30s - 2759.96s] O yüzden hani buna kıymet veriyorum ve yapılması gerektiğini düşünüyorum
+[Speaker 1] [2759.96s - 2761.76s] Yani şöyle ben zaten ahbabım
+[Speaker 1] [2761.76s - 2765.12s] Hani bunu bilen direkt profilime girdiğinizde görebilirsiniz bunu
+[Speaker 1] [2766.00s - 2768.98s] Yani ahbabı bilmeyenler için Haluk Levent'in bir oluşumu
+[Speaker 1] [2768.98s - 2771.22s] Tamamen hani gönüllülük esaslı bir yapı
+[Speaker 1] [2771.22s - 2774.28s] Burada aslında ilk başta girişim biraz daha şeydi
+[Speaker 1] [2774.28s - 2777.40s] Hani kız arkadaşımın da biraz kuşlaması olmuştu
+[Speaker 1] [2777.40s - 2781.06s] Ve hani ben de sonrasında kendim bir şeyler yapmak istemiştim
+[Speaker 1] [2782.06s - 2786.22s] Ve hani buraya girdikten sonra aslında daha çok gönüllü projelerde olmaya çalıştım
+[Speaker 1] [2786.22s - 2788.46s] Ayada da işte açık yazılım anında da
+[Speaker 1] [2788.46s - 2790.26s] O zaman hani Discord'da çok aktifti
+[Speaker 1] [2790.26s - 2792.84s] Birçok insan oradaydı gerçekten yazılım sektöründe çalışan
+[Speaker 1] [2793.46s - 2795.02s] Bunları hani ben de farkındayım
+[Speaker 1] [2795.02s - 2797.56s] Ve insanlara kesinlikle herkese çok teşekkür ediyorum
+[Speaker 1] [2797.56s - 2799.14s] Ben Aslen Malatyalıyım bu arada
+[Speaker 1] [2799.14s - 2802.24s] O yüzden hani depremin bir kısmında etkilenen tanıdıklarım da var
+[Speaker 1] [2802.24s - 2807.46s] Bunu da göz önüne alınca yani bir şekilde bir hani yaptığın yetkinliğin faydalı olması gerekiyor
+[Speaker 1] [2807.46s - 2808.84s] Benim düşüncem bu yani
+[Speaker 1] [2808.84s - 2812.26s] İnsanlığa bir faydalı olması gerekiyor işte yaşadığın topluma vesaire
+[Speaker 1] [2812.26s - 2816.22s] Bunu düşünerek aslında ben tamamen burada giriştim işin içine
+[Speaker 1] [2816.22s - 2818.56s] Yani ahbap olduğumda bu şekildeydi
+[Speaker 1] [2818.56s - 2821.52s] Açık yazılma anda da yine aynı şekilde bu şekildeydi
+[Speaker 1] [2821.52s - 2825.18s] İlk gördüğümde yani direkt katılıp orada işte aktif olarak çalıştık
+[Speaker 1] [2825.18s - 2826.48s] Birçok insan da oradaydı
+[Speaker 1] [2826.48s - 2833.08s] Ve hani burada yapılan işlerin tamamen gerçekten vicdanen yapılması gerektiğine inanıyorum ben
+[Speaker 1] [2833.08s - 2837.06s] Herkesi de bu konuda teşvik etmeye çalışıyorum mümkün mertebi çevremdeki insanlara da
+[Speaker 1] [2837.70s - 2840.60s] Bu şekilde yani vicdanen yapılması gerektiğine inanıyorum
+[Speaker 2] [2841.44s - 2843.76s] Umarım bir daha öyle bir dönem gelmez yani
+[Speaker 2] [2846.40s - 2848.48s] Peki kendini nasıl geçtiriyorsun?
+[Speaker 2] [2848.88s - 2851.56s] Kendini güncel kalmak için neleri takip ediyorsun?
+[Speaker 2] [2851.74s - 2853.38s] Şimdi burada bir ufak bir parantez açıp
+[Speaker 2] [2853.38s - 2857.04s] Bizim developer multi-grup olarak yaptığımız bir EFSM repo var
+[Speaker 2] [2857.04s - 2864.36s] Özellikle data tarafında çalışanlar için çeşitli kaynakları burada topladığımız ve başlık başlık böldüğümüz aslında
+[Speaker 2] [2864.36s - 2867.40s] Hatta çtt linkini attım ekranı da vereyim
+[Speaker 2] [2867.40s - 2871.36s] Bu link üzerinden repoyu aktif gelişimini takip edebilirsiniz
+[Speaker 2] [2871.36s - 2873.14s] Şu anda içerisinde birçok kaynak var
+[Speaker 2] [2873.14s - 2878.54s] Taner'den hatta bu yayın sonrasında oraya birçok kaynak ekleyeceğini konuşmuştuk
+[Speaker 2] [2878.54s - 2880.62s] Onu da önerileceği birçok şey var
+[Speaker 2] [2880.62s - 2883.76s] Peki abi sen kendini nasıl geliştiriyorsun?
+[Speaker 2] [2883.90s - 2885.28s] Güncel kalmak için neler yapıyorsun?
+[Speaker 1] [2886.56s - 2890.28s] Şöyle ben LinkedIn'de aslında bizim tarafta çalışan insanlarla çok fazla iletişimliyim
+[Speaker 1] [2891.12s - 2893.62s] Eski şirketindeki insanlarla da çok sık görüşüyorum
+[Speaker 1] [2893.62s - 2896.28s] Onlardan aldığım belli başlı linkler vardı
+[Speaker 1] [2896.28s - 2897.18s] Onları takip ediyorum
+[Speaker 1] [2897.18s - 2901.82s] İşte takip ettiğim yine aynı şekilde LinkedIn'deki belli başlı insanlar var
+[Speaker 1] [2901.82s - 2903.70s] Onlar da hani genel yazıları paylaşıyorlar
+[Speaker 1] [2903.70s - 2905.68s] Yani yurt dışındaki birkaç insan var
+[Speaker 1] [2905.68s - 2906.96s] Onları daha sık takip ediyorum
+[Speaker 1] [2906.96s - 2908.64s] Onun dışında işte
+[Speaker 1] [2908.64s - 2910.40s] Kim mesela bunlar?
+[Speaker 2] [2910.40s - 2913.40s] Yani şöyle bir tanesi Dimitrius
+[Speaker 1] [2914.32s - 2915.44s] Belki biliyorsunuzdur
+[Speaker 2] [2916.30s - 2918.14s] Onu çok sık aslında takip ediyorum
+[Speaker 1] [2918.14s - 2920.60s] Şu an tabi bu iş bilgisayarı olduğu için LinkedIn açık değil
+[Speaker 1] [2920.60s - 2922.56s] Ama hani şey ekliyor olacağım
+[Speaker 1] [2922.56s - 2923.86s] Bu repo ekliyor olacağım ben
+[Speaker 1] [2923.86s - 2925.38s] Bu repo'yu takip edebilirsiniz
+[Speaker 1] [2925.38s - 2929.60s] Onun dışında aslında LinkedIn'deki birkaç tane dokümana vesaire
+[Speaker 1] [2929.60s - 2931.38s] Yani Medium yazısına vesaire ulaşabiliyorum
+[Speaker 1] [2931.38s - 2933.18s] Dokümanları sık sık okuyorum
+[Speaker 1] [2933.18s - 2935.28s] Hugging Face'de biraz daha aktifim
+[Speaker 1] [2935.28s - 2937.42s] Blog tarafında yani çok fazla yazmıyorum ama
+[Speaker 1] [2937.42s - 2939.26s] Daha çok okuyan taraftayım
+[Speaker 1] [2939.26s - 2940.14s] Hani kim ne yapıyor?
+[Speaker 1] [2940.28s - 2941.06s] Neler geliştiriyor?
+[Speaker 1] [2941.16s - 2942.94s] Nelerle karşılaşıyor sorun olarak vesaire
+[Speaker 1] [2942.94s - 2945.48s] Yani burada da biraz daha şey oluyor aslında
+[Speaker 1] [2946.18s - 2948.16s] Karşılaştığın sorun üzerinden ilerleyip
+[Speaker 1] [2948.16s - 2950.20s] İşte bunu nasıl çözelim gibi bir yaklaşım oluyor
+[Speaker 1] [2950.20s - 2951.92s] Bu da mesela örnek veriyorum
+[Speaker 1] [2951.92s - 2952.98s] Şu an işte içeride
+[Speaker 1] [2952.98s - 2955.78s] Yani biz Google'ın ekosistemindeyiz
+[Speaker 1] [2955.78s - 2958.72s] Burada işte yapacağımız rug'ı nasıl yapacağız?
+[Speaker 1] [2958.92s - 2959.92s] Ben hani Vector tarafta
+[Speaker 1] [2959.92s - 2961.08s] VectorDB tarafında mesela
+[Speaker 1] [2961.08s - 2961.94s] Pinecon'u vesaire
+[Speaker 1] [2961.94s - 2963.56s] Yani kullanarak tecrübe sahibi oldum
+[Speaker 1] [2963.56s - 2964.92s] Pinecon'u az çok biliyorum
+[Speaker 1] [2964.92s - 2966.52s] Ama Google tarafındaki karşılığı ne?
+[Speaker 1] [2966.60s - 2967.20s] Bunu bilmiyordum
+[Speaker 1] [2967.20s - 2969.04s] Biraz daha işte bunu araştırarak
+[Speaker 1] [2969.04s - 2971.58s] Direkt hani bulduktan sonra işte
+[Speaker 1] [2971.58s - 2972.50s] İşte dokümanını okuyarak
+[Speaker 2] [2973.58s - 2973.94s] Yapısı nasıl?
+[Speaker 1] [2974.26s - 2975.24s] Ben buraya içeriye işte
+[Speaker 1] [2975.24s - 2976.84s] Şey dokümanı nasıl vereceğim?
+[Speaker 1] [2977.04s - 2978.72s] Kendim burada içeride retrivedeceğim
+[Speaker 1] [2978.72s - 2979.88s] Yapıyı nasıl kuracağım vesaire
+[Speaker 1] [2979.88s - 2981.74s] Bunları aslında biraz daha araştırıp
+[Speaker 1] [2981.74s - 2983.82s] Yani gün içerisinde karşılaştığım sorunla
+[Speaker 1] [2983.82s - 2986.64s] Nasıl bunu fixlerim üzerine çalışıp ilerletiyorum
+[Speaker 1] [2986.64s - 2990.90s] Onun dışında işte yine GitHub'ta belli başlı takip ettiğim insanlar var
+[Speaker 1] [2990.90s - 2992.88s] FK bunlardan biri Dorukhan
+[Speaker 1] [2992.88s - 2993.66s] Şükrü mesela
+[Speaker 1] [2993.66s - 2995.92s] Şükrü kesinlikle söyleyebilirim Şükrü Bezem
+[Speaker 1] [2995.92s - 2998.00s] Benim için çok kıymetli birisi
+[Speaker 1] [2998.00s - 3001.56s] Yani NLP tarafına kayışımdaki en büyük etkenler
+[Speaker 1] [3001.56s - 3002.52s] Birisidir kendisi
+[Speaker 1] [3002.52s - 3005.16s] Ve hani çok kıymetli gerçekten onun için
+[Speaker 1] [3005.16s - 3007.04s] Onu takip edebilirsiniz
+[Speaker 1] [3007.04s - 3008.96s] Ben de hani ondan bir şeyler öğrenmeye çalışıyorum
+[Speaker 1] [3008.96s - 3009.46s] Aktif olarak
+[Speaker 1] [3009.46s - 3012.04s] Kendi sitesinde de hani bir şeyler yazıyor
+[Speaker 1] [3012.04s - 3014.16s] LinkedIn üzerinden ulaşabilirsiniz bu iletişimde
+[Speaker 1] [3014.16s - 3016.30s] İletişim bilgilerinde yazıyordur diye düşünüyorum
+[Speaker 1] [3016.30s - 3019.00s] Ya da hani direkt onunla konuşabilirsiniz
+[Speaker 1] [3019.00s - 3020.00s] İletişime geçebilirsiniz
+[Speaker 2] [3020.00s - 3021.26s] Bu şekilde
+[Speaker 2] [3023.18s - 3023.26s] Teşekkürler
+[Speaker 2] [3023.98s - 3026.54s] Peki senin açık kaynağı yaptığın katkılar var
+[Speaker 2] [3026.54s - 3028.50s] Yani özellikle GitHub tarafında
+[Speaker 2] [3028.50s - 3031.74s] Baya popüler repolara yaptığın işte çeviriler var
+[Speaker 2] [3031.74s - 3033.08s] Yaptığın çeşitli katkılar var
+[Speaker 2] [3033.08s - 3034.90s] Dokumentasyonlara yaptığın katkılar var
+[Speaker 2] [3034.90s - 3038.78s] Özellikle dair AI tarafında ben biliyorum
+[Speaker 2] [3038.78s - 3044.58s] Hatta Prompt Engineering Guide'ın ilk taraflarını senin Türkçe'ye çevirdiğini biliyorum
+[Speaker 2] [3044.58s - 3045.64s] O baya popüler çünkü
+[Speaker 1] [3045.64s - 3046.48s] Evet
+[Speaker 1] [3046.48s - 3047.54s] Aynen
+[Speaker 1] [3047.54s - 3050.08s] Ya orada biraz da aslında şu şekilde ilerledi
+[Speaker 1] [3050.08s - 3051.90s] Ben hangi problemle karşılaşıyorum
+[Speaker 1] [3051.90s - 3052.90s] Girip dokümanını okuyorum
+[Speaker 1] [3052.90s - 3054.26s] Dokümanda mesela örnek veriyorum
+[Speaker 1] [3054.26s - 3054.90s] Güncel değil
+[Speaker 1] [3054.90s - 3057.92s] Onu güncellemek için aslında biraz kolları sıvayıp
+[Speaker 1] [3057.92s - 3059.94s] İşte ben direkt repolarına girip
+[Speaker 1] [3059.94s - 3063.24s] İşte burada bir şey açıyorum PR açıyorum
+[Speaker 1] [3063.24s - 3065.24s] Ve işte sonrasında işte o ilgili kişiyle
+[Speaker 1] [3065.24s - 3067.24s] Oranın yöneticisiyle yani repo yöneticisiyle
+[Speaker 1] [3067.24s - 3068.64s] Konuşarak ilerletiyorum
+[Speaker 1] [3068.64s - 3069.64s] Ya da işte sonrasında
+[Speaker 1] [3069.64s - 3072.56s] Deir AI tarafı tamamen rastgele gelişmişti
+[Speaker 1] [3072.56s - 3076.02s] O zaman işte biraz da Prompt Engineering'in çok yani meşhurdu
+[Speaker 1] [3076.02s - 3078.60s] Ben de ilk başlarda onu araştırırken aslında gördüm
+[Speaker 1] [3078.60s - 3080.68s] Sonrasında bunun hani Türkçe karşılaştığında
+[Speaker 1] [3080.68s - 3083.34s] Yani Türkçe tarafındaki ekosistem her zaman çok büyük olmuyor
+[Speaker 1] [3083.34s - 3086.58s] Ve herkes çok fazla dokümanı okuyabilecek
+[Speaker 1] [3086.58s - 3087.76s] Hani İngilizcesi de olmayabiliyor
+[Speaker 1] [3087.76s - 3088.84s] Bunu yadırgamıyorum yani
+[Speaker 1] [3088.84s - 3090.82s] O yüzden ben de elimden geldiğince
+[Speaker 1] [3090.82s - 3091.82s] Yani bunu Türkçe'ye çevirip
+[Speaker 1] [3091.82s - 3093.86s] İnsanlara yardımcı olabilmeye çalışıyorum
+[Speaker 1] [3094.58s - 3095.98s] Hani bu şekilde ilerliyor
+[Speaker 1] [3095.98s - 3098.08s] Ben hani direkt doküman okuyorum az önce de söyledim
+[Speaker 1] [3098.08s - 3099.72s] Bir dokümanda karşılaştığım sorunları
+[Speaker 1] [3099.72s - 3103.38s] Tek tek gidip işte open source bir şeyse bu
+[Speaker 1] [3103.38s - 3105.70s] Yani repo'da işte GitHub'da bir reposu varsa
+[Speaker 1] [3105.70s - 3107.46s] Oraya direkt hani PR açıp
+[Speaker 1] [3107.46s - 3108.74s] O şekilde ilerletiyorum
+[Speaker 1] [3108.74s - 3109.84s] Ya da discussion'da işte
+[Speaker 1] [3109.84s - 3112.54s] Yani issue tarafında bununla alakalı bir konu açıp
+[Speaker 1] [3112.54s - 3113.94s] O şekilde ilerletiyorum
+[Speaker 2] [3115.48s - 3116.16s] Kesinlikle
+[Speaker 2] [3117.44s - 3118.74s] Büyük katkı bunlar
+[Speaker 2] [3118.74s - 3120.34s] Yani özellikle Türkçe literatüre
+[Speaker 2] [3121.30s - 3124.58s] HagingFest tarafında da bir yeri çevirdiğini biliyorum ben genel tarafta
+[Speaker 2] [3124.58s - 3128.68s] Ben de hatta bu tarafa katkı vermek istiyorum bir çeviri taraflarında
+[Speaker 2] [3128.68s - 3130.26s] Ya umarım hani vakit buluruz da
+[Speaker 2] [3130.26s - 3132.96s] Özellikle HagingFest'deki klasik bloglar olsun
+[Speaker 2] [3132.96s - 3135.00s] Gene bu daireye repoları olsun
+[Speaker 2] [3135.00s - 3137.10s] Ya bu tarz kaynaklar çok değerli
+[Speaker 2] [3137.88s - 3141.80s] Gerçekten hani native ana dili Türkçe olan birinin bunlara Türkçe'ye çevirip
+[Speaker 2] [3141.80s - 3143.46s] Aslında sektörü
+[Speaker 2] [3143.46s - 3147.62s] İşte özellikle bu tarz işleri yeni başlayacak işlere böyle katkılar vermesi
+[Speaker 2] [3147.62s - 3149.22s] Çok çok kıymetli ya
+[Speaker 2] [3149.80s - 3154.54s] Ya bu durumların peki senin işte işe girme taraflarında falan bir etkisi oluyor mu?
+[Speaker 2] [3154.82s - 3159.96s] İK'lar veya işte menajerler bu tarz açık kaynağı yaptığın katkılara dikkat ediyorlar mı?
+[Speaker 2] [3160.40s - 3162.50s] Ya hatta Twitter'da şöyle bir tartışma vardı ya
+[Speaker 2] [3162.50s - 3165.04s] Yani GitHub önemli mi önemsiz mi?
+[Speaker 2] [3165.10s - 3168.20s] Sürekli yapan tartışma da yani sürekli bir gün yüzüne çıkıyor
+[Speaker 1] [3168.20s - 3170.04s] Biri diyor ki önemsiz mi yok kardeşim
+[Speaker 2] [3170.04s - 3172.26s] Ben GitHub kasmıyorum 20 yıldır sektördeyim
+[Speaker 2] [3173.32s - 3176.28s] Ben GitHub olmayan adama kız vermem falan yani
+[Speaker 2] [3176.28s - 3177.86s] Acayip acayip şeyler
+[Speaker 1] [3177.86s - 3180.24s] Evet ya şöyle ben biraz daha sanırım
+[Speaker 1] [3180.24s - 3182.00s] İlk başlayanlar için özellikle hani
+[Speaker 1] [3182.00s - 3184.06s] Junior mid seviyesine kadar kendim de yani
+[Speaker 1] [3184.06s - 3186.26s] Keza senior olmadığımı asla düşünüyorum bu arada
+[Speaker 1] [3186.26s - 3188.06s] Senior seviyesine kadar
+[Speaker 1] [3189.12s - 3191.46s] Bence bu tarafta işler yapılması gerektiğini
+[Speaker 1] [3192.30s - 3193.74s] Girektiğini düşünüyorum açıkçası
+[Speaker 1] [3193.74s - 3197.12s] Çünkü hani yaptığın işi bir şekilde gösterebilmen lazım karşıya
+[Speaker 1] [3197.12s - 3198.80s] Hani seni işe alıyor okey ama
+[Speaker 1] [3198.80s - 3201.02s] Sadece bunu sözler ya da işte case geldi
+[Speaker 1] [3201.02s - 3202.74s] Case yaptım şekliyle ilerlerken
+[Speaker 1] [3202.74s - 3204.72s] Bile bazen yani şu an tabii ki de hani
+[Speaker 1] [3204.72s - 3206.86s] GPT, Cloud'i inanılmaz şeyler yapıyor
+[Speaker 1] [3206.86s - 3210.08s] Ve hani bizzat sen o yetkinliklerde olmasan bile
+[Speaker 1] [3210.08s - 3212.24s] O kodu yazdırabiliyorsun promptu yazarak
+[Speaker 1] [3213.04s - 3216.02s] Buradaki arka planda işte senin yaptığın işin karşılığı ne
+[Speaker 1] [3216.02s - 3218.84s] Ya da işte bunu yaparken ki
+[Speaker 1] [3218.84s - 3220.66s] Arka plandaki mantığı biliyor musun?
+[Speaker 1] [3220.88s - 3224.04s] Bunları hani case de belki anlatamayabiliyorsun
+[Speaker 1] [3224.04s - 3226.32s] Tabii kitapta da bu belki şey olmayabiliyor
+[Speaker 1] [3226.32s - 3228.50s] Ama o yaptığın katkının bir karşılığı
+[Speaker 1] [3228.50s - 3230.18s] Ya da işte senin kendi yazdığın kodun
+[Speaker 1] [3230.18s - 3231.64s] Çok belli olabiliyor yani
+[Speaker 1] [3231.64s - 3234.24s] Ben biraz fark edebiliyorum aslında yeni yeni
+[Speaker 1] [3234.24s - 3236.54s] Şu an anlamaya çalışıyor anlayabiliyorum daha doğrusu
+[Speaker 1] [3236.54s - 3239.34s] Kimin gerçekten orada hani yetkinliğin olup olmadığını
+[Speaker 1] [3239.34s - 3241.92s] Yaptığı geçmiş tecrübesine de dayanarak tabii ki de
+[Speaker 1] [3241.92s - 3245.28s] Burada hani open source katkıları bana soruldu
+[Speaker 1] [3245.28s - 3248.68s] Yani ben getirek girdiğimde tabii ki de o zaman söylediğim gibi az önce de
+[Speaker 1] [3248.68s - 3251.50s] Şey soruluyor yani bana sorulmuştu
+[Speaker 1] [3252.34s - 3253.76s] Beymen tarafında da öyleydi
+[Speaker 1] [3253.76s - 3256.44s] Biraz hani bahsetmiştim ve Ceren'le hani şu anki menajerim ben
+[Speaker 1] [3256.44s - 3259.52s] Konuşmuştuk neler yaptım nasıl yaptım bunları işte
+[Speaker 1] [3260.24s - 3265.00s] Yaptığım işler neler ve hangi repolara bu katkıları yaptım vesaire
+[Speaker 1] [3265.00s - 3268.00s] Bunlar soruluyor ve bana soruldu yani açıkçası
+[Speaker 1] [3268.00s - 3269.90s] Ben de hani ilerleyen sürede eğer
+[Speaker 1] [3269.90s - 3272.48s] Level attıkça yani yükseldikçe bunu
+[Speaker 1] [3272.48s - 3274.48s] Görüştüğüm insanlar olduğunda soruyor olacağım
+[Speaker 2] [3275.00s - 3277.00s] Evet, çok güzel
+[Speaker 2] [3278.20s - 3279.70s] Şimdiden haberini veriyorum
+[Speaker 1] [3279.70s - 3280.54s] Aynen öyle
+[Speaker 2] [3280.54s - 3283.40s] Ya bu arada hani kod katkısı yapmak
+[Speaker 2] [3283.40s - 3285.74s] Yeni bir feature eklemek veya işte
+[Speaker 2] [3285.74s - 3289.58s] Bir class eklemek falan mevcut bir repodaki yapıya
+[Speaker 2] [3289.58s - 3290.86s] Gerçekten zor işler ya
+[Speaker 2] [3290.86s - 3294.78s] Tüm repoyu, bağlantıları, neyinlerden geldiğini böyle bir anlamam
+[Speaker 2] [3294.78s - 3298.80s] İşte sonrasında düşünüp gerekli testleriyle birlikte yazmak falan
+[Speaker 1] [3298.80s - 3300.04s] Onları projes etmek
+[Speaker 2] [3300.04s - 3303.56s] Yani bunlar zaten bunu yapan adam da iş bulur yani
+[Speaker 1] [3304.28s - 3307.28s] Şöyle bir tarafında bazı şirketler
+[Speaker 1] [3307.28s - 3310.56s] Bazı open source projelerde şey istiyor gerçekten
+[Speaker 1] [3310.56s - 3313.22s] Hani neyi nasıl yaptın testin ne yaptın mı
+[Speaker 1] [3313.22s - 3315.86s] Ya da işte sonuçlar neler karşılığı ne vesaire
+[Speaker 1] [3315.86s - 3316.96s] Bunları bekleyebiliyorlar
+[Speaker 1] [3316.96s - 3319.32s] Bence de yani en azından orada şey de görüyorsun
+[Speaker 1] [3319.32s - 3322.00s] Hani bir CLI açıp işte GitHub'taki klon
+[Speaker 1] [3322.00s - 3324.20s] Yani yapıyı işte repoyu çekiyorsun içeriye
+[Speaker 1] [3324.20s - 3325.44s] İçerideki repo çok büyük
+[Speaker 1] [3326.00s - 3328.16s] Bunları işte bir şekilde aktarman lazım
+[Speaker 1] [3328.16s - 3329.62s] Onu nasıl aktarabileceksin işte
+[Speaker 1] [3330.46s - 3332.26s] Sonrasında bu komite nasıl atacaksın
+[Speaker 1] [3332.26s - 3335.18s] Eğer denk geliyorsa konflikti nasıl çözeceksin vesaire
+[Speaker 1] [3335.18s - 3337.98s] Hani bunları biliyor olmak bunları deneyimlemek kıymetli
+[Speaker 1] [3337.98s - 3343.10s] Yani gittiğin şirkette çalıştığın şirkette işte Bitbucket ya da GitHub vesaire kullanılıyorsa
+[Speaker 1] [3343.10s - 3344.86s] Buraya içeriye tabii ki de komite atıyor olacaksın
+[Speaker 1] [3344.86s - 3348.88s] Az önce de bahsettiğimiz gibi yani bir proda çıkarken vesaire attığın komitler
+[Speaker 1] [3348.88s - 3351.68s] Oradaki bağlantılar konflikti çözmek vesaire
+[Speaker 1] [3351.68s - 3354.56s] Bunlar seni geliştiren şeyler olacak gün sonunda
+[Speaker 1] [3354.56s - 3357.84s] Bence önemli yani ben önemli olduğunu düşünüyorum açıkçası
+[Speaker 2] [3357.84s - 3362.84s] Evet yani ben kişinin ben önce bir adama bakarım adam mı diye
+[Speaker 2] [3362.84s - 3365.74s] Ondan sonra komit mesajına bakarım
+[Speaker 1] [3367.66s - 3371.64s] Bazen zorlanabiliyorsun yani ben mesela bazen gerçekten zorlanabiliyordum
+[Speaker 1] [3373.08s - 3376.54s] Hani update yazıp geçmek bazen çok anlamlı olmayabiliyor
+[Speaker 1] [3376.54s - 3380.60s] Orada mesela gerçekten GPT'ye sorduğum zamanlar olmuştu
+[Speaker 1] [3380.60s - 3382.48s] Hani şöyle şöyle bir değişiklik yaptım
+[Speaker 2] [3382.48s - 3385.82s] Ben ben GPT bu konularda falan iyi ya
+[Speaker 2] [3385.82s - 3389.70s] Komit mesajına ne yazayım işte şurada ne yapalım bir şeyler öner falan
+[Speaker 2] [3389.70s - 3391.96s] Yani bu tarz şeylerde destek almakta sorun yok
+[Speaker 2] [3391.96s - 3395.56s] Ama mesela machine learning tarafında ya bak bu konu gerçekten güzel bir konu
+[Speaker 2] [3395.56s - 3397.92s] El eleme kod yazdırmak olsun tamam mı
+[Speaker 2] [3397.92s - 3401.22s] Özellikle şimdi sektörde çalışan bilimde soruyorum
+[Speaker 2] [3401.22s - 3403.04s] Sen mesela el eleme kod yazdırıyor musun
+[Speaker 2] [3403.04s - 3405.52s] Veya hangi tarz kodlar yazdırıyorsun
+[Speaker 1] [3406.30s - 3408.42s] Şöyle yani ben açıkçası kullanıyorum
+[Speaker 1] [3408.42s - 3410.08s] Yani yalan yok
+[Speaker 1] [3410.08s - 3412.76s] Kullanıyorum ve hani orada mümkün mertebe
+[Speaker 1] [3412.76s - 3415.66s] Hani key varsa içeride işte vereceğim kod içerisinde
+[Speaker 1] [3415.66s - 3418.78s] Bir key varsa bunu hani direkt environment variable olarak tanımlayıp
+[Speaker 1] [3418.78s - 3420.58s] Sonrasında aslında ilerletmeye çalışıyorum
+[Speaker 1] [3421.44s - 3425.48s] Yani onun dışında şöyle bir diğer taktiğim de şu
+[Speaker 1] [3425.48s - 3428.24s] Oraya kapatıyorum ya da oraya hiç göstermiyorum
+[Speaker 2] [3428.24s - 3429.50s] Şunu şunu geliştireceğim
+[Speaker 1] [3429.50s - 3432.52s] Şurada bir kata kıldım ya da işte şu kodu yazarken şurada bir problem yaşıyorum
+[Speaker 1] [3432.52s - 3436.06s] Bunu nasıl çözerim gibi belli başta işte sorgular yapıyorum
+[Speaker 1] [3436.06s - 3438.72s] Genellikle Cloud'u kullanıyorum ben açık konuşmak gerekirse
+[Speaker 1] [3438.72s - 3442.54s] Ve o taraftaki hani Cloud'un performansında çok daha iyi olduğunu gözlemledim
+[Speaker 1] [3442.54s - 3444.98s] Hani bunu bir ölçütü nasıl
+[Speaker 1] [3444.98s - 3447.54s] Yani ben gerçekten bunun daha iyi çalıştığım
+[Speaker 1] [3447.54s - 3448.88s] Hani hem kendi kodumdayken
+[Speaker 1] [3448.88s - 3451.08s] Ya hem de insanların yazdıklarında vesaire
+[Speaker 1] [3451.08s - 3452.30s] Gördüm bunu açıkçası
+[Speaker 1] [3452.30s - 3454.86s] Kendim de kullanıyorum sık sık
+[Speaker 1] [3454.86s - 3456.54s] Yani gün içerisinde kullanıyorum
+[Speaker 1] [3457.06s - 3459.10s] Onun dışında hani cursor falan kullananlar var
+[Speaker 1] [3459.10s - 3461.44s] Ben hani henüz cursor kullanmadım
+[Speaker 1] [3461.44s - 3462.22s] IDE tarafında
+[Speaker 1] [3462.22s - 3465.04s] Yani kendi bilgisayarımda evet ama iş tarafında hayır
+[Speaker 1] [3466.30s - 3467.40s] Bu şekilde
+[Speaker 2] [3467.40s - 3471.30s] Mesela machine learning tarafında kod yazdırmak için ne dersin
+[Speaker 2] [3471.30s - 3473.80s] Yani özellikle bir model yazdırmak
+[Speaker 2] [3473.80s - 3476.68s] Veya işte oradaki pipeline'ı el eleme yazdırmak
+[Speaker 2] [3476.68s - 3479.00s] Mantıklı bir şey mi yazabiliyor mu veya sence
+[Speaker 1] [3479.00s - 3483.10s] Ya şöyle bence tam olarak karşılığını vermiyor
+[Speaker 1] [3483.10s - 3486.68s] Yani eğer bir case ile uğraşıyorsan ya da iş yerindeki bir projeyle uğraşıyorsan
+[Speaker 1] [3486.68s - 3488.16s] Kesinlikle karşılığını vermiyor olacak
+[Speaker 1] [3488.16s - 3489.98s] Çünkü elindeki şeyi bilmiyor yani işte
+[Speaker 1] [3489.98s - 3491.12s] Uğraştığın datayı bilmiyor
+[Speaker 1] [3491.12s - 3492.02s] Datanın değil type
+[Speaker 2] [3492.02s - 3494.10s] Datayı nasıl vereceğim bir de yani mesela
+[Speaker 1] [3494.10s - 3494.62s] Aynen
+[Speaker 1] [3494.62s - 3497.22s] Bir de işte oradaki privacy gerçekten gizlilik önemli
+[Speaker 1] [3497.22s - 3500.70s] Yani müşterinin elisini vermemen gerekiyor asla
+[Speaker 1] [3500.70s - 3502.06s] Ben hani o taraftayım biraz daha
+[Speaker 1] [3502.06s - 3503.68s] Vermemesi gerekilen taraftayım
+[Speaker 1] [3503.68s - 3505.96s] Hani tamam kolonlara verdin
+[Speaker 1] [3505.96s - 3507.04s] Kolon isimlerini verdin
+[Speaker 1] [3507.04s - 3508.88s] Onun içerisindeki type'ı verdin vesaire
+[Speaker 2] [3508.88s - 3512.02s] Okey bir şey yok ama sonrasında hani
+[Speaker 1] [3512.02s - 3515.76s] Bunu karşı tarafa aktarabiliyor olmak
+[Speaker 1] [3515.76s - 3517.58s] Text ile biraz bence zor
+[Speaker 1] [3517.58s - 3520.76s] Yani tam olarak senin istediğin işte beklentini
+[Speaker 1] [3520.76s - 3522.58s] Yani senden beklenen projeyi
+[Speaker 1] [3523.10s - 3524.78s] El eleme yazdırmak biraz daha zor
+[Speaker 1] [3524.78s - 3526.98s] Gerçekten promptunu iyi yazman gerekiyor sanırım
+[Speaker 1] [3526.98s - 3529.40s] Hani benim tahmin ettiğim şey bu şekilde
+[Speaker 1] [3529.40s - 3530.72s] Yani promptu gerçekten iyi verirsen
+[Speaker 1] [3530.72s - 3531.78s] Çok detaylı anlatırsan
+[Speaker 1] [3531.78s - 3534.00s] İşte bunu uzun sürede yaptırırsan vesaire
+[Speaker 1] [3534.00s - 3537.30s] Hani çünkü her çalıştığın ekosistemde farklı şeyler oluyor
+[Speaker 1] [3537.30s - 3539.40s] Yani AWS tarafında farklı çalışıyorsun
+[Speaker 1] [3539.40s - 3541.66s] Ya da Google'da farklı çalışıyorsun
+[Speaker 1] [3541.66s - 3543.74s] Bunu işte şeye aktarabilme olmam
+[Speaker 1] [3543.74s - 3546.68s] İşte el eleme ya da GPT'ye ya da işte Cloud'u aktarabilme olmam
+[Speaker 2] [3546.68s - 3548.66s] Hala şöyle bir dünya yok yani
+[Speaker 2] [3548.66s - 3550.52s] El eleme promptu verdim
+[Speaker 2] [3550.52s - 3551.86s] Arkaya yaslandım
+[Speaker 2] [3551.86s - 3553.32s] Bana bütün modeli yazsın
+[Speaker 2] [3553.32s - 3554.42s] Veya bir şey yazsın
+[Speaker 2] [3554.42s - 3556.76s] Yani böyle bir şey yok ya imkansız
+[Speaker 2] [3556.76s - 3558.10s] Zaten yazdığı şey de
+[Speaker 2] [3558.10s - 3559.34s] Lead dolu
+[Speaker 2] [3559.34s - 3561.74s] Abuk sabuk bir şey çıkıyor çoğu zaman
+[Speaker 1] [3561.74s - 3564.12s] Öyle günün sonunda bir de direktörüne ya da işte
+[Speaker 1] [3564.12s - 3566.34s] Hani en sonunda proje yaptın sunman gerekiyor
+[Speaker 1] [3566.34s - 3567.76s] Hani soru geldiğinde buna
+[Speaker 1] [3567.76s - 3569.36s] Ama iyi cevap verebiliyor olman lazım
+[Speaker 1] [3569.36s - 3571.50s] Çünkü hani yaptım projeye canlıya çıktım
+[Speaker 2] [3571.50s - 3572.16s] Bitti bu şekilde
+[Speaker 1] [3572.16s - 3573.26s] Proda çıktım bu şekilde
+[Speaker 1] [3573.26s - 3574.16s] Bitmiyor açıkçası
+[Speaker 1] [3574.16s - 3577.38s] Bunu işte değerlendirmeler oluyor mesela iş yerlerinde
+[Speaker 1] [3577.38s - 3578.60s] Bilmeyen arkadaşlar için
+[Speaker 1] [3578.60s - 3582.10s] Hani bu değerlendirmelerde soru geldiğinde projeyle alakalı
+[Speaker 1] [3582.10s - 3583.14s] Bunun karşı tarafa
+[Speaker 1] [3583.14s - 3584.74s] Hani ben el eleme yazdırdım bunu
+[Speaker 1] [3584.74s - 3586.84s] Ya da işte şu buradaki sorunun cevabını bilmiyorum demek
+[Speaker 1] [3586.84s - 3589.16s] Orada çok kötü gözüküyorsunuz
+[Speaker 1] [3589.16s - 3590.26s] Yani gözüküyor oluyorsun
+[Speaker 1] [3590.92s - 3593.86s] O yüzden hani buradaki o arka planı kendim biliyor olmak
+[Speaker 1] [3593.86s - 3595.64s] Tabii ki de GPT'den yardım almayın demiyorum
+[Speaker 1] [3595.64s - 3596.96s] Bence kesinlikle alınmalı da
+[Speaker 1] [3596.96s - 3597.82s] Geri geldiğinde
+[Speaker 1] [3597.82s - 3600.00s] Belli başlı amelasyon işleri yaptırıyorum ben de
+[Speaker 1] [3600.66s - 3602.84s] Ama onun dışında hani gerçekten
+[Speaker 1] [3602.84s - 3604.94s] Bütün pipeline'ı ona yaptırıp
+[Speaker 1] [3604.94s - 3607.56s] Sonrasında canlıya çıkacak kodu ondan alıyor şekliyle
+[Speaker 1] [3607.56s - 3608.36s] Hiç çalışmadım ben
+[Speaker 1] [3608.36s - 3609.58s] Bunu da tavsiye etmiyorum
+[Speaker 2] [3611.00s - 3614.14s] Zaten öyle bir şey de çok yapabileceğini zannetmiyorum ya
+[Speaker 1] [3615.00s - 3616.62s] Yani belki yapıyordur ama
+[Speaker 1] [3616.62s - 3619.08s] Ojenin boyutuyla bağlantılıdır muhtemelen o da
+[Speaker 2] [3619.08s - 3620.16s] Evet
+[Speaker 2] [3620.16s - 3623.26s] Ya o eskiden gelen bir code base de var ya aslında
+[Speaker 2] [3623.26s - 3625.86s] O code base de bu sefer GPT'ye vermen gerekir
+[Speaker 2] [3625.86s - 3627.24s] Onu da yapamayacağın için
+[Speaker 2] [3627.24s - 3631.88s] Mecburen orada oturup senin bir şeyleri anlaman gerekiyor sonuç olarak
+[Speaker 2] [3631.88s - 3634.82s] Sonuç olarak yardımcı olarak iyi
+[Speaker 2] [3634.82s - 3638.68s] Fakat uçtan uca bir şeyler yazabilecek seviyede
+[Speaker 2] [3638.68s - 3640.28s] Veya işte yazdığı şeyleri direkt
+[Speaker 2] [3640.28s - 3643.82s] Ne bileyim kullanılabilecek seviyede olmadığını söyleyebilir miyiz?
+[Speaker 1] [3644.08s - 3647.60s] Aynen yüzde yüzünü yani yazdığı her şeyin bütününü alıp
+[Speaker 1] [3647.60s - 3649.60s] Kendi tarafına bence gömmemek gerekiyor
+[Speaker 1] [3649.60s - 3651.26s] Biraz onu süzmek gerekiyor
+[Speaker 1] [3651.26s - 3655.62s] Çünkü hani gerçekten birkaç tane büyük hata yapabilir
+[Speaker 1] [3655.62s - 3657.86s] Ve hani orada sizi zor duruma sokabilir
+[Speaker 1] [3657.86s - 3659.24s] Maliyeti arttırabilir vesaire
+[Speaker 1] [3659.24s - 3661.78s] Kesinlikle key vermemek gerekiyor bence
+[Speaker 1] [3661.78s - 3663.92s] Yani işte Google API key'dir
+[Speaker 1] [3663.92s - 3666.14s] İşte OpenAI'in sahip olduğunuz
+[Speaker 1] [3666.14s - 3667.54s] Eğer key varsa o key'i
+[Speaker 1] [3667.54s - 3669.38s] Ya da işte atıyorum Pinecon'un vesaire
+[Speaker 1] [3669.38s - 3671.98s] Bunların en key'lerini kesinlikle vermemek gerekiyor
+[Speaker 1] [3671.98s - 3674.74s] Çünkü bunların bir maliyeti var arkadaşlar
+[Speaker 1] [3674.74s - 3677.80s] Ve sonu kötü oluyor yani açıkçası
+[Speaker 2] [3677.80s - 3678.26s] Evet
+[Speaker 2] [3678.26s - 3679.98s] Yani o güvenlik tarafı yani
+[Speaker 2] [3679.98s - 3682.00s] O güvenlik tarafı da ayrı bir şey yani gerçekten
+[Speaker 2] [3682.00s - 3684.94s] Senin oraya girdiğin belki yani şirketin know-how ile alakalı
+[Speaker 2] [3684.94s - 3687.00s] Verdiğin bilgiler de içeride kullanılacak
+[Speaker 2] [3687.00s - 3690.20s] Bu sefer bir bakmışsın senin tarafın gidiyor yani
+[Speaker 1] [3690.20s - 3692.92s] Evet aynen çok daha kötü sonuçlanabilir
+[Speaker 2] [3692.92s - 3694.86s] Evet kesinlikle
+[Speaker 2] [3694.86s - 3701.10s] Şimdi o zaman biraz yeni başlayanlara bir tık önerilerden konuşalım
+[Speaker 2] [3701.10s - 3705.08s] Sence senin alanında yeni başlayanların yaptığı
+[Speaker 2] [3705.08s - 3707.76s] Doğru zannettiği ama aslında yanlış olan
+[Speaker 2] [3707.76s - 3709.28s] Neler var?
+[Speaker 2] [3709.78s - 3711.00s] Paralı bulduk ya fakat
+[Speaker 2] [3711.00s - 3714.50s] Bir oyun içinde de konuşmuştuk
+[Speaker 1] [3714.50s - 3716.46s] O yüzden hani böyle bir şey yapayım dedim
+[Speaker 1] [3716.46s - 3717.86s] Gönderme yapayım dedim ufaktan
+[Speaker 2] [3717.86s - 3718.36s] Ya şöyle
+[Speaker 1] [3719.16s - 3723.28s] Yani lokalde çalışan her proje çok kıymetli olmuyor arkadaşlar
+[Speaker 1] [3723.28s - 3725.42s] Bunu kesinlikle yani dikkat edin
+[Speaker 2] [3726.28s - 3728.34s] Mümkün mertebe canlıya çıkarmaya bakın
+[Speaker 1] [3728.34s - 3729.64s] Elinizdeki yaptığınız işi
+[Speaker 2] [3729.64s - 3731.02s] Lokalde kalmayın
+[Speaker 1] [3731.64s - 3733.50s] Bu çok büyük bir hata
+[Speaker 1] [3733.50s - 3738.18s] Hani yani ekürisi %99 çıktı vesaire gibi bir karşılığı var okey
+[Speaker 1] [3738.18s - 3741.00s] Ama hani bu günün sonunda çok iyi olmuyor yani
+[Speaker 1] [3741.00s - 3744.62s] Bir ekürisi %99 çıktıysa kesinlikle şüpheyle yaklaşılmalı
+[Speaker 2] [3744.62s - 3746.16s] Değil mi?
+[Speaker 2] [3746.34s - 3749.14s] Yani çakıldı öyle şeyler var ya adam başlıyor
+[Speaker 2] [3749.14s - 3751.32s] Ekürisi %99
+[Speaker 2] [3751.32s - 3754.50s] Ekürisi %100 tıvır hata yapmış
+[Speaker 2] [3754.50s - 3755.86s] Korgulama yok
+[Speaker 1] [3755.86s - 3759.26s] Yani öyle olmuyor arkadaşlar günün sonunda
+[Speaker 1] [3759.26s - 3762.82s] Açıkçası bu şekilde de gelen bir şeyiniz varsa
+[Speaker 1] [3762.82s - 3766.58s] Yapınız varsa işte modeliniz vesaire varsa tekrar bir kontrol edin derim
+[Speaker 1] [3767.64s - 3770.46s] Çünkü emin olun bir yerde bir problem vardır
+[Speaker 1] [3771.38s - 3773.54s] %99 gelmez ekürisi kesinlikle
+[Speaker 1] [3773.54s - 3775.46s] Bunu net olarak söyleyebilirim
+[Speaker 2] [3775.46s - 3778.78s] Ya büyük bir dengesizlik ya da büyük bir link olabilir
+[Speaker 1] [3778.78s - 3780.98s] Evet aynen yani kesinlikle
+[Speaker 1] [3780.98s - 3782.16s] Bir yerde bir sorun vardır
+[Speaker 1] [3782.16s - 3783.90s] Bir tekrar gözden geçirin derim
+[Speaker 1] [3784.72s - 3785.84s] Onun dışında
+[Speaker 2] [3786.50s - 3787.68s] Yani bence
+[Speaker 1] [3787.68s - 3789.76s] Kaggle'lı bir şeyler yapmaya çalışın
+[Speaker 1] [3789.76s - 3792.18s] Ben şu an tabii ki de Kaggle'ı biraz boşladım açıkçası
+[Speaker 1] [3793.24s - 3795.44s] Biraz daha git at taktik olmaya çalışıyorum
+[Speaker 2] [3795.44s - 3796.36s] Böyle de bir şey var
+[Speaker 2] [3797.44s - 3800.38s] Belli seviyeye gelen insanlar içerik üretmeyi bırakıyor
+[Speaker 2] [3800.38s - 3802.04s] Yani mesela şey var ya
+[Speaker 2] [3802.04s - 3803.58s] Mesela bir işinden ayrıldı
+[Speaker 2] [3803.58s - 3805.74s] İş arama sürecinde böyle deli gibi
+[Speaker 2] [3805.74s - 3806.90s] blog yazıyor
+[Speaker 2] [3806.90s - 3808.46s] Ne bileyim proje yapıyor
+[Speaker 2] [3808.46s - 3809.96s] Pat işe girdi bırakıyor abi
+[Speaker 2] [3809.96s - 3812.62s] Yani biraz da işte öğrendiğini mi var be
+[Speaker 2] [3812.62s - 3813.96s] Yani niye hemen bırakıyorsun
+[Speaker 1] [3813.96s - 3817.02s] Evet bir istikrar olması gerekiyor bence kesinlikle
+[Speaker 1] [3817.02s - 3818.76s] Ben de bu konudayım fikirim
+[Speaker 1] [3818.76s - 3820.94s] Ben de mesela belli başlı şeyleri yapmaya çalışıyorum ama
+[Speaker 1] [3820.94s - 3824.82s] Hani yine hayatımdan ötürü de yani yaşadığım belli başlı durumlardan ötürü de
+[Speaker 1] [3824.82s - 3830.64s] Hani yine bu içerikleri üretememek durumum da oluyor yani ister istemez hayatımla bağlantılı olarak
+[Speaker 1] [3830.64s - 3832.54s] Onun dışında mesela hani şey
+[Speaker 1] [3832.54s - 3836.50s] Mümkün mertebe bu tarafta insanların işler yapması gerektiğine inanıyorum ben
+[Speaker 1] [3836.50s - 3840.40s] Yani alttan gelen yeni insanlara bir şeyler aktarabiliyor olmak kıymetli
+[Speaker 1] [3841.14s - 3843.38s] Ve seninle de en fikirim yani ben açıkçası
+[Speaker 1] [3843.38s - 3845.16s] Bu konuda hani çok
+[Speaker 2] [3845.16s - 3849.04s] Bir parantez YouTube kanalı var yani Taner'in YouTube kanalı var
+[Speaker 2] [3849.04s - 3852.64s] Ve oraya video at diyoruz atmıyor
+[Speaker 2] [3854.18s - 3856.22s] Bekliyoruz gerçekten o tarafa video
+[Speaker 2] [3856.22s - 3859.72s] Bir baskı olursa güzel olur sizin taraftan da
+[Speaker 2] [3859.72s - 3863.52s] Türkçe özellikle hani CNI tarafında güzel içerikleri var
+[Speaker 2] [3863.52s - 3865.78s] NLP CNI tarafında
+[Speaker 2] [3865.78s - 3867.72s] Umarım içeriklerin sayısı artar
+[Speaker 2] [3867.72s - 3872.38s] Ve hani Türkçe tarafta da bu tarz insanlar bu tarz içeriklerden faydalanıp
+[Speaker 2] [3872.38s - 3873.96s] Bir çeşitli projeler inşa edebilirim
+[Speaker 1] [3874.74s - 3877.64s] Şöyle aslında ya biz seninle konuşuyoruz zaten sık sık bunu
+[Speaker 1] [3877.64s - 3881.90s] İstanbul'a taşındığım için biraz buradaki işler işte evi dizmek
+[Speaker 1] [3881.90s - 3884.46s] İşte sonrasında buradaki işe adapte olmak vesaire
+[Speaker 1] [3884.46s - 3887.48s] Bunlar hani biraz yoğun işlerdi benim için
+[Speaker 1] [3887.48s - 3892.12s] O yüzden hani orayı biraz aksattım ama sonrasında tabi ki de takip edip devam ediyor olacağım
+[Speaker 1] [3892.82s - 3895.86s] Yani buraya bir şeyler yapmaya devam edeceğim yani açıkçası
+[Speaker 1] [3895.86s - 3901.54s] Seri olarak bir şeyler yapıp işte insanlara da katkı sağlayacak işler yapmaya kıymet veriyorum yani değer veriyorum gerçekten
+[Speaker 2] [3902.48s - 3904.92s] Kesinlikle yani güzel güzel videolar var
+[Speaker 2] [3906.96s - 3910.00s] O taraftan insanların da çok faydası alacağına eminim
+[Speaker 2] [3910.00s - 3911.90s] Şimdi bir saati devirdik artık
+[Speaker 2] [3911.90s - 3915.74s] Aslında hani senin veribiliğin tarafını da hani büyük bir tarafını konuştuk
+[Speaker 2] [3915.74s - 3917.30s] Bayağı bir şey de konuştuk hatta
+[Speaker 2] [3917.30s - 3923.02s] Ben biraz bundan sonra sektör bazlı birkaç aklımdaki aslında soruyu sormak istiyorum
+[Speaker 2] [3923.02s - 3925.34s] Yani chatten de soru gelirse onları da alırız
+[Speaker 2] [3925.34s - 3927.66s] Şimdi öncelikle mesela iş görüşmeleri
+[Speaker 2] [3927.66s - 3932.62s] Şimdiye kadar mesela senin deneyimlediğin iş görüşmelerinde gelen keyzler ne gibiydi
+[Speaker 2] [3932.62s - 3935.68s] Burada yaşadığın acayip hikayelerin var mı
+[Speaker 2] [3935.68s - 3938.02s] Ya şöyle aslında
+[Speaker 1] [3938.02s - 3943.64s] Her şirketin kendi domeni var ister istemez o domenilerden geliyordu genellikle keyzler
+[Speaker 1] [3943.64s - 3946.98s] Hani keyz vermeden direkt sözlü mülakat şeklinde de ilerleyebiliyor
+[Speaker 2] [3946.98s - 3950.60s] Bu arada tarafını bölüp şunu sormak istiyorum arada
+[Speaker 2] [3950.60s - 3955.86s] Başka live coding yaptığın bir mülakatın hiç oldu mu getir dışında
+[Speaker 1] [3956.60s - 3958.12s] Başka olmadı açıkçası yani
+[Speaker 2] [3959.22s - 3962.58s] Live coding bitti ya niye bitti anlamadım falan diye
+[Speaker 1] [3963.30s - 3966.00s] Keyz veriliyor genelde hani keyz review gibi oluyor
+[Speaker 1] [3966.00s - 3970.36s] Ve hani keyz review'da anlatıyorsun ama hani direkt ekranı aç kod yaz şeklinde ilerlemiyor
+[Speaker 1] [3970.36s - 3973.72s] En azından benim tarafta ilerlemedi yani görüştüğüm şirketlerde ilerlemedi
+[Speaker 1] [3974.48s - 3979.34s] Yani onun dışında işte buradaki karşılaştığım keyzler genellikle işte NLP işleri yapıyorsam
+[Speaker 1] [3979.34s - 3981.46s] Burada işte text classification çok fazla geliyordu
+[Speaker 1] [3981.46s - 3985.36s] Ya da işte şu sorunla karşılaştık buna sen nasıl bir çözüm bulursun gibi
+[Speaker 1] [3985.36s - 3989.34s] Belli başta işte o mülakat sırasındayken keyz sunuyordu
+[Speaker 1] [3989.34s - 3990.42s] Yani keyz sorusu geliyordu
+[Speaker 1] [3991.52s - 3997.88s] Tabular tarafta da gelen belli başlı keyzler oldu ama hani tabular tarafındaki açık konuşmak gerekirse çok fazla etkinliğim yoktu benim
+[Speaker 1] [3997.88s - 3999.88s] Ve oradan iyi işler çıkaramadım
+[Speaker 1] [4001.00s - 4003.88s] Ve hani oradaki gelen keyzler daha çok işte
+[Speaker 1] [4003.88s - 4007.18s] Domeyn içerisinde işte karşılaşılan sorunu bulmak
+[Speaker 1] [4007.18s - 4009.58s] Ve onu işte fix dediğinde nasıl fix dedin
+[Speaker 1] [4009.58s - 4011.14s] Bunun şirketi olan katkısı nasıl
+[Speaker 1] [4011.14s - 4012.88s] Bunu nasıl hesapladım vesaire gibi
+[Speaker 1] [4012.88s - 4016.08s] Hani keyz review'larında da sık sık geliyordu bu sorular
+[Speaker 1] [4017.10s - 4020.92s] Yani ama sık sık şu geliyordu yani işte sen kendini nasıl geliştiriyorsun
+[Speaker 1] [4020.92s - 4023.80s] Ve işte bizim karşılaştığımız sorunlar şunlar
+[Speaker 1] [4023.80s - 4025.86s] Sen buraya nasıl bir bakış açısıyla bakarsın
+[Speaker 1] [4025.86s - 4027.46s] Hangi tool'ları kullanırsın
+[Speaker 1] [4028.08s - 4030.04s] Yaklaşımın ne hangi framework ile ne yaparsın
+[Speaker 1] [4030.04s - 4031.84s] Vesaire gibi geliyordu genelde
+[Speaker 1] [4031.84s - 4033.76s] Yani geldi daha doğrusu
+[Speaker 1] [4033.76s - 4038.00s] Hani ben de burada bilgim dahilinde mümkün mertebe sorulara cevap veriyordum
+[Speaker 1] [4039.10s - 4041.60s] Ve hani sonrasında aslında şey
+[Speaker 1] [4041.60s - 4044.26s] Biraz daha o menajere bağlı
+[Speaker 1] [4044.26s - 4046.28s] Ya da işte görüştüğün direktöre vesaire bağlı
+[Speaker 1] [4046.28s - 4048.66s] Daha çok sözel ilerlemişti benim tarafımda
+[Speaker 2] [4050.82s - 4052.10s] Buradaki şeyleri
+[Speaker 2] [4052.10s - 4053.72s] Keyzleri paylaşabiliyor musun?
+[Speaker 2] [4053.88s - 4055.60s] Normalde hani bu keyzleri paylaşmanda
+[Speaker 2] [4055.60s - 4057.56s] Git hatta açık olarak falan bir engel oluyor mu?
+[Speaker 2] [4057.66s - 4059.02s] Bu tarz mülakatlarda
+[Speaker 2] [4059.02s - 4061.38s] Ben bunu merak ettim soruyorum bu arada
+[Speaker 1] [4061.38s - 4063.08s] Evet aynen ya oluyor
+[Speaker 1] [4063.08s - 4065.78s] Zaten hani istekler o doğrultuda olabiliyor
+[Speaker 1] [4065.78s - 4067.72s] İşte bir tane sana repo açılıyor
+[Speaker 1] [4067.72s - 4070.22s] Mesela o repo içerisinde puşluyorsun
+[Speaker 1] [4070.22s - 4071.78s] Ve sadece şey yapmıyorsun
+[Speaker 1] [4071.78s - 4074.82s] İşte initial commit ve işte last commit gibi olmuyor
+[Speaker 1] [4074.82s - 4079.04s] Orada işte commit atarken yazdığın işte commitleri yazıyorsun
+[Speaker 1] [4079.04s - 4081.74s] Ne geliştirdiysen vesaire o commiti yazman gerekiyor
+[Speaker 1] [4081.74s - 4083.08s] Karşı tarafta bunu bekliyor
+[Speaker 1] [4083.08s - 4084.84s] Ki işte sen oradaki historia
+[Speaker 1] [4084.84s - 4086.06s] Yani şeye bakabiliyor musun?
+[Speaker 1] [4086.64s - 4089.74s] Kodun historisine bakıp oradaki git commitden
+[Speaker 1] [4089.74s - 4091.44s] İşte neler yazmışsın vesaire
+[Speaker 1] [4091.44s - 4093.16s] Bunları inceleyip takip edip
+[Speaker 1] [4093.16s - 4094.64s] İşte nerede ne geliştirme yaptın
+[Speaker 1] [4094.64s - 4097.18s] O geliştirmeye karşılık gelen komik gerçekten bu mu vesaire
+[Speaker 1] [4097.18s - 4098.38s] Onları inceleyebiliyorlar
+[Speaker 1] [4098.38s - 4100.96s] Hani genellikle private oluyor açıkçası
+[Speaker 2] [4100.96s - 4102.34s] Evet
+[Speaker 2] [4102.34s - 4104.32s] Yani şey düşünüyorum
+[Speaker 2] [4104.32s - 4106.54s] Herkes işe girdiği keyizi paylaşsa
+[Speaker 2] [4106.54s - 4109.84s] Ortada keyiz kalmaz demiş sorun kalmaz demiş
+[Speaker 2] [4109.84s - 4111.66s] Meseleleri mesele etmezsek
+[Speaker 1] [4112.94s - 4115.60s] Ya şöyle oluyor genelde yani açıkçası
+[Speaker 1] [4115.60s - 4118.72s] Hala çözülmüş bir projeyi sen nasıl çözerdin?
+[Speaker 1] [4119.14s - 4120.40s] Böyle bir yaklaşımda bakıyorsun
+[Speaker 2] [4120.40s - 4120.66s] Aynen
+[Speaker 2] [4120.66s - 4121.54s] Değerli olabiliyor
+[Speaker 2] [4121.54s - 4122.86s] Doğru doğru
+[Speaker 2] [4122.86s - 4125.56s] Ya bir şey muhabbetleri de oluyor ya mesela
+[Speaker 2] [4125.56s - 4126.84s] Linkedin'de falan görüyorum
+[Speaker 2] [4126.84s - 4129.36s] Sıfırdan böyle keyiz veriyor sana
+[Speaker 2] [4129.36s - 4132.42s] Adam sürekli iş ilanı açıp
+[Speaker 2] [4132.42s - 4133.80s] Birilerine böyle keyiz atıyor
+[Speaker 2] [4133.80s - 4134.26s] Evet
+[Speaker 2] [4135.08s - 4137.60s] Şirketin işini aslında yaptırıyor gibi bir durum var
+[Speaker 2] [4137.60s - 4139.66s] O tarz şeyler de gördüm
+[Speaker 2] [4139.66s - 4143.60s] Birkaç tane start upta böyle bu tarz durumları yaşadığını paylaşan insanlar vardı
+[Speaker 2] [4143.60s - 4146.14s] Ya o taraflarda ne dersin sektör tarafından?
+[Speaker 1] [4146.44s - 4147.96s] Şöyle ben açık konuşmak gerekirse
+[Speaker 1] [4147.96s - 4149.38s] Önce benimle birebir konuşmadan
+[Speaker 1] [4149.38s - 4152.66s] Direkt keyiz atan şirketlerin keyizini yapmamaya çalışıyorum mümkün vertene
+[Speaker 1] [4152.66s - 4155.20s] Çünkü ilk başta bir görüşmek istiyorum
+[Speaker 1] [4155.20s - 4157.24s] Yani HR ise HR ya da işte
+[Speaker 1] [4157.24s - 4162.26s] Data tarafında senior data scientist ya da lead ya da manager vesaire kimse
+[Speaker 1] [4162.26s - 4164.14s] Önce bir onunla görüşmek istiyorum
+[Speaker 1] [4164.14s - 4166.04s] Sonrasında aslında keyiz geleceğini
+[Speaker 1] [4166.04s - 4167.52s] Zaten belirtiliyor
+[Speaker 1] [4167.52s - 4169.46s] Keyiz yapıyorum sonrasında
+[Speaker 1] [4169.46s - 4170.12s] Keyiz yapıyorum
+[Speaker 1] [4170.66s - 4171.90s] Ama direkt keyiz geliyorsa
+[Speaker 1] [4171.90s - 4173.02s] Herhangi bir görüşme olmadan
+[Speaker 1] [4173.02s - 4175.98s] Şu keyiz verildi sana bir hafta süre vesaire onu yapmıyorum
+[Speaker 1] [4176.68s - 4178.24s] Bunu açık söyleyeyim yani
+[Speaker 2] [4178.24s - 4180.44s] O kendini belli ediyor gibi
+[Speaker 2] [4181.64s - 4183.44s] Tabii ki de belki kendi işini yaptırmıyordur
+[Speaker 1] [4184.36s - 4186.80s] Buna kimseyi yargılamak istemiyorum ama
+[Speaker 1] [4186.80s - 4188.32s] Direkt benimle görüşülmeden
+[Speaker 1] [4188.32s - 4189.44s] Birebir o konuşmayı vermeden
+[Speaker 1] [4190.02s - 4192.02s] Hani CV'den eleyip insanlara
+[Speaker 1] [4192.02s - 4192.76s] Tabii ki de belli bir
+[Speaker 1] [4192.76s - 4194.74s] Örnek veriyorum yine 1000 kişi başvurdu
+[Speaker 1] [4194.74s - 4197.30s] İçeride atıyorum 250 kişilik bir kısım seçildi
+[Speaker 1] [4197.30s - 4199.50s] Bunlarla bir görüşülüp hızlıca işte
+[Speaker 1] [4199.50s - 4204.02s] Yani o çok değil yani 15-20 dakikalık ya da yarım saattir bir görüşme sonrasında
+[Speaker 1] [4204.02s - 4207.22s] Hızlıca keyizler yollanılmalı gibi düşünüyorum
+[Speaker 1] [4207.22s - 4211.02s] Benim hani ilerlettiğim işler genelde bu şekilde oluyor
+[Speaker 1] [4211.02s - 4212.38s] Direkt keyiz geliyorsa yapmıyorum
+[Speaker 2] [4213.26s - 4216.84s] Yani bir de senin birkaç tane de reddettiğin aslında iş vardı
+[Speaker 2] [4216.84s - 4219.00s] Birazdan onlardan da belki bahsederiz
+[Speaker 2] [4219.00s - 4220.54s] Ama chatten çok güzel bir soru geldi
+[Speaker 2] [4220.54s - 4222.02s] Hikmet Çatak'tan
+[Speaker 2] [4222.02s - 4224.42s] Bu aralar Rag ile ilgileniyorum
+[Speaker 2] [4224.42s - 4226.56s] Birçok yöntem ve birçok model var
+[Speaker 2] [4226.56s - 4229.02s] İş dünyasında en çok hangi metot kullanılıyor
+[Speaker 2] [4229.02s - 4230.14s] Nasıl bir yol izlemeliyiz
+[Speaker 1] [4230.14s - 4234.10s] Şöyle ben bizim tarafta yaptığımız işi aslında hızlıca bahsedeyim
+[Speaker 1] [4234.10s - 4238.54s] Biz bu tarafta TextOSQL yapmaya çalışıyoruz biraz daha
+[Speaker 1] [4239.26s - 4243.30s] Ve orada aslında biz Google yani Google'ın ekosisteminde olduğumuz için
+[Speaker 1] [4243.30s - 4245.46s] Burada Gemini'yi ilerletiyoruz
+[Speaker 1] [4245.46s - 4247.28s] Gemini'yi kullanıyoruz
+[Speaker 1] [4247.28s - 4250.28s] İşte TextMaring'in içerisinde olan şeyinden alıyoruz
+[Speaker 1] [4250.28s - 4252.04s] Garden'dan alıyoruz Google Garden'ı
+[Speaker 1] [4252.04s - 4255.22s] Sonrasında işte Google'ın key var
+[Speaker 1] [4255.22s - 4256.70s] Key üzerinden tamamen ilerletiyoruz
+[Speaker 1] [4256.70s - 4259.32s] Ve işte içerideki bizim VectorDB'mize yazıp
+[Speaker 1] [4259.32s - 4262.44s] Sonrasında işte onu retrieve edecek şekilde çalışıyoruz
+[Speaker 1] [4262.44s - 4265.42s] Burada hani bence başlangıçta
+[Speaker 1] [4265.42s - 4266.64s] Opranay'ın
+[Speaker 1] [4266.64s - 4268.60s] Genellikle ben şunu kullanıyordum
+[Speaker 1] [4268.60s - 4271.10s] 3.5 turbosu çok uygun oluyor maliyeti olarak
+[Speaker 1] [4271.10s - 4273.44s] Yani içeriye çok ufak bir bütçe attığınızda
+[Speaker 1] [4274.00s - 4276.44s] Onu kullanarak hızlıca işte bir template yaratabiliyorsunuz
+[Speaker 1] [4277.14s - 4279.62s] Ve işte eğer hani kullanmak isterseniz
+[Speaker 1] [4279.62s - 4281.44s] Streamy'de çok hızlı bir arayüz yapıp
+[Speaker 1] [4281.44s - 4284.14s] Sonrasında işte bunu kendiniz de test ediyor olursunuz
+[Speaker 1] [4284.14s - 4287.08s] İçeriye işte belli bir doküman veriyor olmanız gerekiyor vesaire
+[Speaker 1] [4288.24s - 4290.40s] Sonrasında aslında bunu canlıya çıkıyorsunuz
+[Speaker 1] [4290.40s - 4292.52s] Ve sonra bunu işte ihtiyaç dahilinde
+[Speaker 1] [4292.52s - 4294.14s] İhtiyacınız neyse örnek veriyorum işte
+[Speaker 1] [4294.14s - 4297.92s] Ya TextOSQL olabilir ya da işte şirketin işte örnek veriyorum
+[Speaker 1] [4297.92s - 4299.96s] İnsan kaynakları tarafındaki bir dokümanı vardır
+[Speaker 1] [4299.96s - 4301.62s] Onu ilerletiyorsunuzdur
+[Speaker 1] [4301.62s - 4303.58s] Ya da işte pazarlama ekibinin bir dokümanı vardır
+[Speaker 1] [4303.58s - 4305.56s] İşte orada sıkça sorulanlar vardır
+[Speaker 1] [4305.56s - 4306.96s] Yeni işe girecekler için işte
+[Speaker 1] [4306.96s - 4309.42s] Senin arka tarafta sürekli yazdığın
+[Speaker 1] [4309.42s - 4310.64s] Jira içerisinde olan
+[Speaker 1] [4311.26s - 4312.80s] Confluence'da yani dokümanlar vardır
+[Speaker 1] [4312.80s - 4314.70s] Bunun hızlıca işte işe girdiğim
+[Speaker 2] [4314.70s - 4315.66s] Hangi tarafta
+[Speaker 1] [4315.66s - 4316.76s] Örnek veriyorum
+[Speaker 1] [4316.76s - 4319.08s] User ID'lerin olduğu DB'ler hangisi dediğinde
+[Speaker 1] [4319.08s - 4320.54s] Direkt sana cevap dönecek şekilde
+[Speaker 1] [4321.08s - 4321.70s] Bir yapı oluyor
+[Speaker 1] [4321.70s - 4323.06s] O PDF ya da işte bir
+[Speaker 1] [4323.06s - 4324.58s] Text dosyası ile veriliyor genelde
+[Speaker 1] [4324.58s - 4325.36s] Bizim tarafta öyle
+[Speaker 1] [4326.50s - 4328.50s] Sonrasında biz öyle yapıyoruz ilerletiyoruz
+[Speaker 1] [4328.50s - 4330.08s] Sonrasında aslında hani
+[Speaker 1] [4330.08s - 4332.20s] Burada biraz daha işte şey
+[Speaker 1] [4332.20s - 4334.08s] Soru cevap şeklinde ilerliyor diyebilirim
+[Speaker 2] [4334.13s - 4335.25s] Aynen
+[Speaker 1] [4335.25s - 4336.51s] Bu cevap olmuştur
+[Speaker 2] [4337.27s - 4338.35s] Mesela şey demiş
+[Speaker 2] [4338.35s - 4340.53s] Birçok yöntem ve birçok model var demiş ya
+[Speaker 2] [4340.53s - 4342.93s] Mesela iş dünyasında en çok hangi metot kullanılıyor
+[Speaker 2] [4342.93s - 4344.71s] Benim gördüğüm de aslında iş dünyasında
+[Speaker 2] [4344.71s - 4346.51s] Biraz böyle güvenlik ön planda oluyor
+[Speaker 2] [4346.51s - 4347.49s] Bir noktada
+[Speaker 2] [4347.49s - 4350.13s] Orada da zaten Cloud kullanılıyor
+[Speaker 2] [4350.13s - 4353.31s] Mesela işte AWS içerisinde God Reels diye bir servis var mesela
+[Speaker 2] [4353.31s - 4356.31s] O tarz durumlardan onlar kullanılıyor
+[Speaker 2] [4356.31s - 4359.11s] Veya işte Azure içerisinde çeşitli servisler var
+[Speaker 2] [4359.11s - 4362.71s] Azure'a gittiğin zaman bu arada bir tane en benim modeli veriyor sana
+[Speaker 2] [4362.71s - 4365.25s] Hani ve bir tane GPT kullanabiliyorsun
+[Speaker 2] [4365.25s - 4367.11s] Orada sadece GPT var yanlışım yoksa
+[Speaker 2] [4368.93s - 4371.49s] Burada olabildiğince şey denemek sana kalmış ya
+[Speaker 2] [4371.49s - 4373.19s] Bence her şeyi dene deneyebildiğin kadar
+[Speaker 2] [4373.19s - 4374.85s] Bütün vektor storları dene
+[Speaker 2] [4374.85s - 4377.83s] Bütün modellerden 3-5 dolar atıp
+[Speaker 2] [4377.83s - 4379.73s] Bir key al arka planda hepsinde farklı
+[Speaker 2] [4379.73s - 4381.91s] RAK sistemlerini implemente edebilirsin
+[Speaker 2] [4381.91s - 4386.09s] Harbiden çok fazla RAK yöntemi çıkmadı mı
+[Speaker 2] [4386.09s - 4389.01s] Yani işte Agentic RAK, Context Based RAK
+[Speaker 2] [4390.17s - 4392.19s] Bilmem bin tane RAK çeşidi var
+[Speaker 2] [4392.19s - 4393.47s] Şu an aklıma iki tanesi geldi ama
+[Speaker 1] [4393.47s - 4396.01s] Ya şöyle biraz daha aslında o yaptığın
+[Speaker 1] [4396.01s - 4397.01s] Az önce de bahsettiğim gibi
+[Speaker 1] [4397.01s - 4399.69s] İş doğrultusunda hani iş ihtiyacı neyse onu ilerletiyorsun
+[Speaker 1] [4399.69s - 4403.17s] Ve günün sonunda sana bir katkı sağlıyor olması bekleniyor açıkçası şirketlerden
+[Speaker 1] [4403.17s - 4404.51s] Bizden de bu bekleniyor yani
+[Speaker 1] [4404.51s - 4406.45s] Yaptın ama bunu neden yaptın
+[Speaker 1] [4406.45s - 4408.09s] Yani bizim taraftaki karşılığı ne
+[Speaker 1] [4408.09s - 4409.57s] Bize ne katıyor olacak vesaire
+[Speaker 1] [4409.57s - 4410.69s] Bu soruluyor
+[Speaker 1] [4410.69s - 4413.81s] Ama hani RAK için iş dünyasında en çok hangi yöntem kullanılıyorsa
+[Speaker 1] [4413.81s - 4414.95s] Oysa şunu söyleyebilirim
+[Speaker 1] [4414.95s - 4417.31s] Çalıştığın ekosistemle bağlantılı biraz daha
+[Speaker 1] [4417.95s - 4419.61s] Yani örnek veriyorum Google environment için
+[Speaker 1] [4419.61s - 4421.05s] Envarmatında çalışıyorsan
+[Speaker 1] [4421.05s - 4421.97s] Bu taraftaki işlere
+[Speaker 1] [4421.97s - 4424.05s] Bu taraftaki yapılara biraz daha adapte oluyorsun
+[Speaker 1] [4424.05s - 4425.89s] Ya da işte örnek veriyorum
+[Speaker 1] [4425.89s - 4427.11s] Azure-sazur
+[Speaker 1] [4427.11s - 4429.33s] İşte EWS-EWS tarafında
+[Speaker 1] [4429.33s - 4431.75s] Hani tamamen hani çalıştığın yapıyla
+[Speaker 1] [4431.75s - 4434.49s] Şirketin sağlamış olduğu tool'lar üzerinden ilerliyor
+[Speaker 1] [4434.49s - 4436.95s] Spesifik olarak şu çok kullanılıyor demek
+[Speaker 1] [4436.95s - 4438.03s] Çok doğru olmayabilir
+[Speaker 2] [4439.11s - 4441.33s] Ben orada belki şey diyebilirim
+[Speaker 2] [4441.33s - 4444.37s] En basit en az karmaşık olan kullanılıyor
+[Speaker 2] [4444.37s - 4449.65s] Mevcut şey ise en az karmaşıkla ve hedeflenen başarıyla çözen kullanılıyor
+[Speaker 1] [4449.65s - 4451.29s] Ya aynen biraz daha hani
+[Speaker 2] [4451.29s - 4452.23s] Ya şöyle
+[Speaker 1] [4452.23s - 4453.93s] Öğrenmek için bence kesinlikle
+[Speaker 2] [4453.93s - 4454.89s] Denenmek gerekiyor
+[Speaker 2] [4454.89s - 4455.37s] Denemek gerekebiliyor
+[Speaker 1] [4456.15s - 4459.53s] Bence eğer hani ufak bir bütçe atabilirsen
+[Speaker 1] [4459.53s - 4461.69s] Deneme şansın olursa bence denemelisin
+[Speaker 1] [4461.69s - 4464.23s] Biraz daha hani o kaputun altını açıp bakmak gerekiyor
+[Speaker 1] [4464.23s - 4465.09s] Nereden var
+[Speaker 2] [4465.09s - 4468.37s] Bu arada Google Gemini'den key alırsa
+[Speaker 2] [4468.37s - 4470.79s] Hani o tarafta para da vermesine gerekmiyor aslında
+[Speaker 2] [4470.79s - 4472.01s] Apikeyi direkt alabiliyor
+[Speaker 2] [4472.01s - 4473.17s] Gemini tarafından
+[Speaker 1] [4473.17s - 4476.83s] Olabilir ben direkt şirketin sağlamış olduğumu kullanıyorum açıkçası
+[Speaker 2] [4476.83s - 4481.23s] Yani normal Gemini'den direkt apikeyi alıp kullanabiliyorsun
+[Speaker 2] [4481.23s - 4484.09s] O tarafta bir ücret ödemene gerek de yok
+[Speaker 2] [4484.09s - 4484.61s] Hatta
+[Speaker 2] [4485.23s - 4488.23s] Ama ben de biraz Gemini'nin çok iyi çalışmadığını düşünenlerden
+[Speaker 1] [4488.79s - 4490.19s] Evet en fikrim yani
+[Speaker 1] [4490.19s - 4491.35s] GPT'nin oradaki yani
+[Speaker 1] [4491.35s - 4495.51s] OpenA'nın tarafındaki şeyler keylerden aldığımdan
+[Speaker 1] [4495.51s - 4498.23s] Sonrasında çalıştığım işlerde daha iyi performans görüyorum ben
+[Speaker 1] [4498.23s - 4499.99s] Daha iyi cevaplar gelebiliyor
+[Speaker 1] [4501.15s - 4502.91s] Yani açık konuşmak gerekirse
+[Speaker 1] [4502.91s - 4504.75s] OpenA'ya tavsiye ederim önce
+[Speaker 2] [4504.75s - 4505.65s] Onun gibi
+[Speaker 1] [4505.65s - 4507.97s] Hem de daha maliyet olarak da çok daha iyi
+[Speaker 1] [4507.97s - 4508.83s] 1 milyon token'a
+[Speaker 1] [4508.83s - 4510.65s] Inputta da outputta da sanırım
+[Speaker 1] [4510.65s - 4513.53s] 0.0025 gibi bir şey olması gerekiyor
+[Speaker 1] [4513.53s - 4514.99s] Yanlış olabilirim
+[Speaker 1] [4515.67s - 4516.83s] Yanlış olabilirim
+[Speaker 1] [4516.83s - 4517.91s] Yani şeyden bakarsan
+[Speaker 2] [4517.91s - 4519.11s] Doküman içerisinde bakarsan
+[Speaker 1] [4519.11s - 4520.49s] Hatta ben de hızlıca olabiliyorsam
+[Speaker 2] [4520.49s - 4522.53s] Hatta bu 4.0 mini modeli var ya
+[Speaker 2] [4522.53s - 4524.99s] Yani neredeyse götürmüyor gibi bir şey var
+[Speaker 2] [4524.99s - 4526.35s] O tarafta
+[Speaker 2] [4526.35s - 4527.29s] Aynen
+[Speaker 2] [4527.29s - 4528.13s] Yani şöyle
+[Speaker 1] [4528.13s - 4529.87s] 1000 tane de sanırım
+[Speaker 1] [4529.87s - 4531.91s] Şöyle bir bakıyorum
+[Speaker 1] [4531.91s - 4534.53s] 1000 tane de 0.0015
+[Speaker 1] [4535.13s - 4535.87s] Inputta
+[Speaker 1] [4535.87s - 4536.63s] Şeyde de
+[Speaker 1] [4536.63s - 4537.77s] Outputta da sanırım
+[Speaker 1] [4537.77s - 4539.69s] 1000 tane de 0.002 dolar
+[Speaker 2] [4539.69s - 4540.69s] Çok fazla hani
+[Speaker 1] [4540.69s - 4544.23s] 1 milyonda 0.002 olacak muhtemelen
+[Speaker 1] [4545.11s - 4547.33s] Yani bence test etmek gerekiyor
+[Speaker 1] [4547.33s - 4548.29s] Kullanmak gerekiyor
+[Speaker 1] [4549.13s - 4550.13s] Yani bu tarafta iş yapıyorsan
+[Speaker 1] [4550.65s - 4551.43s] Günün sonunda
+[Speaker 1] [4552.13s - 4554.25s] Çok fazla bütçeyi almayacak senden
+[Speaker 1] [4554.25s - 4556.29s] Sen o kadar token da kullanmıyor olacaksın zaten
+[Speaker 1] [4556.29s - 4556.71s] Yani o kadar
+[Speaker 1] [4556.71s - 4559.61s] Word veriyor olmayacaksın kelime vermeyeceksin içeri muhtemelen
+[Speaker 1] [4560.39s - 4562.55s] Hani o yüzden bence denemek gerekiyor
+[Speaker 1] [4563.29s - 4565.87s] Umarım hani denersin ve sonrasında sonucunu görebilirsin
+[Speaker 2] [4565.87s - 4568.79s] Ya bu arada hani iş dünyasında şey diyor ya ya
+[Speaker 2] [4568.79s - 4571.21s] Bu arada şöyle başlıyor benim gördüğüm
+[Speaker 2] [4571.21s - 4572.05s] Dümdüz
+[Speaker 2] [4572.05s - 4573.53s] Embedding model alındı
+[Speaker 2] [4574.61s - 4576.91s] Verildi mesela uygulama proda çıktı
+[Speaker 2] [4576.91s - 4578.87s] İlgili atıyorum
+[Speaker 2] [4578.87s - 4580.73s] Yapılan case test ediliyor
+[Speaker 2] [4580.73s - 4582.53s] Proda çıktı dedim yani içeride prod
+[Speaker 2] [4582.53s - 4584.27s] Son kullanıcıya çıkmadı
+[Speaker 2] [4584.91s - 4586.27s] Baktı metrikler yakalanmıyor
+[Speaker 2] [4586.27s - 4588.59s] Veya işte soruların sorulara düzgün cevap dönmüyor
+[Speaker 2] [4588.59s - 4591.05s] Bundan sonra rag yöntemi değişebilir
+[Speaker 2] [4591.05s - 4593.01s] Yani işte belki kontekst base'e gidilir
+[Speaker 2] [4593.01s - 4594.91s] Belki react içerisine bir şeyler koyulur
+[Speaker 2] [4596.15s - 4598.35s] Birazdan o tarafta da öyle bir yapı var yani
+[Speaker 2] [4598.35s - 4599.69s] En basitinden başlanıyor
+[Speaker 2] [4599.69s - 4601.83s] Aslında fazla fazla yapıdan bahsetmiştin ya
+[Speaker 2] [4603.05s - 4603.65s] Aynen
+[Speaker 1] [4603.65s - 4605.01s] Bizim taraf da öyle açıkcası
+[Speaker 1] [4605.01s - 4606.69s] Yani bizde belli başlı fazlar var
+[Speaker 1] [4606.69s - 4608.13s] Şimdi o kadar detay vermeyeyim
+[Speaker 1] [4609.31s - 4612.29s] Ama hani ilk başta çok daha basic bir halde
+[Speaker 1] [4612.29s - 4615.07s] Sonrasında daha implement olacak şekilde diyebilirim
+[Speaker 2] [4615.69s - 4616.07s] Aynen
+[Speaker 2] [4616.69s - 4619.47s] Cemine bir konuda çok iyi tüm projiler Cemine ile yapıyorum
+[Speaker 2] [4619.47s - 4621.05s] Valla haklısın
+[Speaker 1] [4622.97s - 4625.43s] Süper yani eğer hani bu tarafta işler yapıyorsam
+[Speaker 1] [4625.43s - 4626.69s] Ve hani bunu kullanıyorsam bence kıymetli
+[Speaker 1] [4626.97s - 4631.09s] Google ekosistemini kullanan Türkiye'de çok fazla şirket olduğunu düşünüyorum
+[Speaker 1] [4631.09s - 4633.35s] Yani şirketlerin sayısının fazla olduğunu düşünüyorum
+[Speaker 1] [4634.59s - 4636.67s] Hani EWS tarafında kullanan var
+[Speaker 1] [4636.67s - 4637.89s] Azur tarafında kullanan var
+[Speaker 1] [4638.97s - 4642.77s] Yani görece bunları tabii ki de hani yüzde 40-30-30 gibi düşünebilirsin
+[Speaker 1] [4643.97s - 4646.85s] Tahminim bu da yani aslında görüştüğüm insanlardan aldığım feedbackler de bu şekilde
+[Speaker 1] [4647.83s - 4652.65s] Ve hani şey denemek gerekiyor Cemine'yi kullanıyorsan süper mükemmel sevindir sevindir
+[Speaker 2] [4652.65s - 4656.27s] Bu arada arkada kullanılan modelin başarısı
+[Speaker 2] [4656.27s - 4658.77s] Rag'ın başarısını da artırıp azaltılabiliyor mu?
+[Speaker 1] [4660.37s - 4663.01s] Yani şöyle embeddingler biraz daha orada aslında etki ediyor
+[Speaker 1] [4663.65s - 4665.71s] Kullandığın embedding tabii ki de şeyde modelin de etkisi var
+[Speaker 1] [4665.71s - 4669.53s] Çünkü hani yani mesela Omni şey tarafındaki
+[Speaker 1] [4669.53s - 4671.89s] CPT tarafındaki Omni çok daha iyi sonuç veriyor
+[Speaker 2] [4671.89s - 4672.95s] Ama maliyeti çok fazla
+[Speaker 1] [4673.83s - 4676.75s] Yani 3.5'a göre 3'e göre çok daha zeki
+[Speaker 1] [4676.75s - 4678.37s] Yani çok daha iyi cevaplar dönebiliyor
+[Speaker 1] [4678.37s - 4681.11s] Ama hani orada bir maliyet kısıtı var aslında
+[Speaker 1] [4681.75s - 4685.29s] Bir yerde hani az önce konuştuğumuz belli başlı durumlarda trade-off'lar oluyor
+[Speaker 1] [4685.29s - 4687.49s] Burada da öyle yani maliyeti çok verirsen
+[Speaker 1] [4687.49s - 4692.77s] İyi cevaplar oluyorsun ama işte hani oradaki maliyet kıstasıyla alacağın cevabın bir şeyi var
+[Speaker 1] [4693.91s - 4694.71s] Dengesi var
+[Speaker 1] [4694.71s - 4697.37s] O dengeyi ben mesela CPT tarafında 3.5 turbo ile
+[Speaker 1] [4698.07s - 4701.93s] Denemek için aslında kullandığımda bayağı iyi çalışıyordu yani açık konuşmak için
+[Speaker 1] [4702.77s - 4705.35s] Gemini'den, Gemini'yi de kullanıyorum şu an
+[Speaker 1] [4705.35s - 4708.21s] Yani yaklaşık 2.5-3 haftadır falan kullanıyorum
+[Speaker 1] [4708.77s - 4711.69s] Hani performansı kötü değil ama çok iyi de değil
+[Speaker 1] [4711.69s - 4714.05s] Ortalama benim gözlemlediğim o
+[Speaker 1] [4714.05s - 4716.43s] Ya da benim işte ilgilendiğim çalıştığım projede o şekilde
+[Speaker 1] [4717.31s - 4719.07s] Yani arttırmaya çalışıyorum ben de
+[Speaker 1] [4719.07s - 4721.01s] Arkada işte biraz daha dokümanı ayarlıyorum
+[Speaker 1] [4721.01s - 4723.95s] Chunk size'ını, chunk overlap'ını vesaire işte bakıp
+[Speaker 1] [4723.95s - 4726.39s] Sonrasında işte yakınlıklara vesaire bakıyorum
+[Speaker 1] [4726.39s - 4729.93s] Ki doğru cevabı karşıdaki işte istenen cevabı verebilsin diye
+[Speaker 1] [4731.07s - 4731.79s] Genelde bu şekilde
+[Speaker 2] [4731.79s - 4736.15s] Biz de son 2 projedir Cloud 3.5 Sonet kullandık
+[Speaker 2] [4736.15s - 4739.67s] Bence hem GPT'den hem Cem'inay'dan daha başarılı
+[Speaker 1] [4739.67s - 4741.99s] Ya bence de ben de bu konudayım fikirim
+[Speaker 2] [4741.99s - 4742.67s] Ama pahalı
+[Speaker 1] [4742.67s - 4744.73s] Evet çok inanılmaz pahalı
+[Speaker 1] [4744.73s - 4745.65s] Yani o maliyet
+[Speaker 1] [4746.67s - 4748.95s] Hani şirketlerin çok düşündüğü şeyler bunlar
+[Speaker 1] [4749.67s - 4750.93s] Bize maliyetin ne olacak?
+[Speaker 1] [4751.13s - 4752.39s] İlk soru bu oluyor genellikle
+[Speaker 1] [4752.39s - 4755.57s] Onu hesapladıktan sonra aslında seçiyorsun
+[Speaker 1] [4755.57s - 4757.17s] Biraz daha ilerleyeceğin yöntemi
+[Speaker 2] [4757.17s - 4759.89s] Sadece test ederken 3 dolar gitti mesela
+[Speaker 2] [4759.89s - 4762.25s] Yani hobi projesinde durduk yere yani
+[Speaker 2] [4762.25s - 4763.91s] Bir günde pıt böyle
+[Speaker 2] [4765.23s - 4767.15s] Kuyarı uzadıkça 10 sen
+[Speaker 1] [4767.15s - 4768.11s] 10 sen gidiyor
+[Speaker 2] [4768.11s - 4769.01s] Evet aynen
+[Speaker 1] [4769.01s - 4770.87s] Maalesef böyle bir durum var yani gerçekten
+[Speaker 1] [4770.87s - 4773.11s] O yüzden hani mümkün mertebe maliyetin
+[Speaker 1] [4773.99s - 4776.25s] Daha böyle uygun olduğu
+[Speaker 1] [4777.11s - 4779.61s] İyi bir sonuç alabileceğin yapılara gitmeyi tercih ediyorum ben
+[Speaker 2] [4779.61s - 4780.67s] Aynen
+[Speaker 2] [4781.89s - 4783.49s] Peki ABS TV
+[Speaker 2] [4784.11s - 4786.51s] Sence iyi bir CV nasıl olmalı?
+[Speaker 2] [4786.83s - 4793.25s] İşte burada İK'ya elden CV uzatma veya işte başvurma stratejileri konusunda neler dersin?
+[Speaker 1] [4793.25s - 4798.89s] Ya şöyle ben aslında kendi CV'imi hazırlarken bir tane İK yöneticisiyle hazırladım
+[Speaker 1] [4798.89s - 4802.83s] Hani mülakat taktikleri vesaire inanılmaz taktikler vermişti
+[Speaker 1] [4802.83s - 4807.81s] Ve ilk işe girerken de kullandığım CV ile birebir benziyor yani şu anki formatları
+[Speaker 1] [4807.81s - 4812.59s] Sadece update ediyorum tecrübemle beraber işte içerideki belli başka şeyleri değiştiriyorum, kaldırıyorum vesaire
+[Speaker 1] [4812.59s - 4816.23s] Burada kesinlikle fotoğraf konusuna gelecek olursak
+[Speaker 1] [4816.23s - 4820.39s] Ben fotoğraf koymak gerekenlerdenin, koyması gerekenlerdenin Türkiye içerisinde
+[Speaker 1] [4821.17s - 4823.43s] Beyaz gömmelik olması gerektiğini düşünüyorum
+[Speaker 1] [4823.43s - 4827.23s] Yani İK'dan aldığım feedbackler bunlar kesinlikle bunların yapılması gerektiğini inanıyorum
+[Speaker 1] [4827.23s - 4828.71s] Ve yani dönüş oranları artıyor
+[Speaker 1] [4829.59s - 4830.27s] Buna hani şey
+[Speaker 1] [4830.27s - 4832.59s] Bir vakit ayırmanız gerekiyor belki CV oluştururken
+[Speaker 1] [4833.17s - 4835.29s] Ama hani şey, buna bir tabii yatırım var
+[Speaker 1] [4835.29s - 4836.81s] Return of Investment gibi düşünün
+[Speaker 1] [4836.81s - 4839.47s] Sonrasında alacağınız karşılığı kesinlikle yürüyor olacaksınız
+[Speaker 1] [4840.33s - 4845.33s] Yani içeride mümkün mertebe yaptığınız işlerin sayısal karşılıklarını verebiliyorsanız
+[Speaker 1] [4845.33s - 4846.67s] Vermeniz gerektiğini düşünüyorum
+[Speaker 1] [4846.67s - 4848.69s] Çünkü o ayırt edici bir metrik
+[Speaker 1] [4848.69s - 4851.17s] Yani yaptın proje ama ne oldu
+[Speaker 1] [4851.17s - 4855.59s] Yani yaptın işte buradaki yaptığın karlılığı etkiledi mi işte atıyorum
+[Speaker 1] [4856.47s - 4857.85s] Maliyeti azalttı mı vesaire
+[Speaker 1] [4857.85s - 4860.61s] Buradaki o karşılığı karşı tarafa da aktarabiliyor olmak gerekiyor
+[Speaker 1] [4861.47s - 4866.21s] Onun dışında işte yani yaptığınız projelerin yani çalıştığınız şeyler varsa
+[Speaker 1] [4866.21s - 4871.17s] Kitap gibi, Kegel gibi, içerik üretiyorsunuz YouTube gibi, Medium gibi vesaire
+[Speaker 1] [4871.17s - 4872.45s] Bunların linkini verebilirsiniz
+[Speaker 1] [4873.23s - 4875.11s] Genel aktörle bu şekilde diyebilirim
+[Speaker 2] [4875.85s - 4881.05s] Ya ben de böyle işte o mentorluk süreçlerinden falan böyle insanlar CV'sini atıyor görüyorum
+[Speaker 2] [4881.05s - 4884.89s] Çok acayip, yani şimdi bana akşam kesmek düşmez de
+[Speaker 2] [4884.89s - 4886.61s] Yani çok bariz yani
+[Speaker 2] [4886.61s - 4890.41s] Yani öyle şeyler var ki sadece iş deneyiminin ismini yazıyor
+[Speaker 2] [4890.41s - 4892.05s] Bir şey intern diyor mesela
+[Speaker 2] [4892.05s - 4893.65s] Hani bu kadar, hiçbir detay yok
+[Speaker 2] [4893.65s - 4895.35s] Orada ne yaptın, ne ettin
+[Speaker 2] [4895.35s - 4897.55s] Yani bariz bir şekilde
+[Speaker 2] [4897.55s - 4900.87s] Hani hiçbir detay vermemişsin CV'de
+[Speaker 2] [4901.61s - 4902.99s] Elenirsin yani gayet elenmiyor
+[Speaker 1] [4903.61s - 4906.57s] Orada biraz daha detaylı bahsetmek gerekiyor kesinlikle bunda en fikrim
+[Speaker 1] [4907.41s - 4910.23s] Çünkü hani karşı tarafta tamam işe yani şöyle düşünün
+[Speaker 1] [4910.23s - 4912.95s] Birini işe alacaksınız ve sadece kendinizi
+[Speaker 1] [4913.57s - 4914.69s] Oradaki ilk aya da işte atıyorum
+[Speaker 1] [4914.69s - 4918.29s] Data Lead'i ya da Data Science Manager vesaire olarak düşünün
+[Speaker 1] [4918.29s - 4921.39s] Kendi CV'nize baktığınızda siz kendi CV'nize işe alır mısınız?
+[Speaker 1] [4921.53s - 4924.77s] Bu CV'de çalışan birini yetkinlikleri iyi dahi olsa
+[Speaker 1] [4924.77s - 4927.29s] İlk baktığınızda sonuçta bir CV görüyor olacaksınız
+[Speaker 1] [4927.29s - 4929.17s] Ve o CV'de kendinizi işe alır mıydınız?
+[Speaker 1] [4929.45s - 4930.67s] Kendinize bu soruyu sorun
+[Speaker 1] [4930.67s - 4932.25s] Eğer okeyse bence devam edin
+[Speaker 1] [4932.25s - 4934.71s] Değilse bir şey değiştirmenin vakti gelmiştir
+[Speaker 1] [4934.71s - 4936.47s] Ve o değişiklikleri yapın yani bence
+[Speaker 2] [4937.35s - 4939.21s] Daha önce şahsız görüştüm
+[Speaker 2] [4939.21s - 4941.05s] Şey yazıyor CV başlığında
+[Speaker 2] [4941.05s - 4941.65s] Student
+[Speaker 2] [4942.45s - 4945.23s] İşte adı soyadı altında şey
+[Speaker 2] [4946.25s - 4946.71s] Pozisyon Student
+[Speaker 2] [4946.71s - 4948.47s] Yani o da çok komiktir bence
+[Speaker 1] [4948.47s - 4950.67s] Ya evet Student yazmamak gerekiyor bence
+[Speaker 1] [4950.67s - 4953.29s] Ne üzerine iş arıyorsanız
+[Speaker 1] [4953.29s - 4955.67s] O pozisyonun title'ını vermeniz gerekiyor
+[Speaker 2] [4955.67s - 4956.69s] Şahsi görüşüm bu
+[Speaker 1] [4956.69s - 4959.35s] Ben kendi CV'mi o şekilde yerleştirdim
+[Speaker 1] [4959.35s - 4960.91s] Hep ilk başından beri öyleydi
+[Speaker 1] [4962.25s - 4964.41s] Onun dışında yani yetkinliklerinizi vesaire
+[Speaker 1] [4965.25s - 4966.47s] Yazdığınız dışında aynı şeyleri falan
+[Speaker 1] [4966.47s - 4969.43s] Person attribute gibi şeyleri yazmanız lazım işte
+[Speaker 1] [4970.25s - 4972.63s] Self motivated ya da işte courage
+[Speaker 1] [4973.25s - 4974.99s] Bunları belirttiğinizde de
+[Speaker 1] [4974.99s - 4977.21s] 5 tanesini belirtin mesela örnek veriyorum
+[Speaker 1] [4977.21s - 4981.75s] 5 tanesini belirttiğinizde de mülakat sırasında bunlara değinmeniz bence kritik
+[Speaker 1] [4981.75s - 4983.91s] Çünkü İK buna karşılık yani şöyle
+[Speaker 1] [4983.91s - 4986.13s] Örnek veriyorum self motivated diyor
+[Speaker 1] [4986.13s - 4990.37s] Ben işte ya da işte atıyorum kendini geliştirebilecek şekilde bir şey koydunuz
+[Speaker 1] [4990.37s - 4991.59s] Attribüt koydunuz
+[Speaker 1] [4991.59s - 4993.97s] Konuşurken kendini geliştirmek için ne yapıyorsun
+[Speaker 1] [4993.97s - 4995.13s] İşte kendini geliştirmiyorum
+[Speaker 1] [4995.13s - 4996.97s] Ya da işte oradaki yazdığınız kelimelerle
+[Speaker 1] [4997.91s - 5000.21s] Team player ya da işte bu şekilde
+[Speaker 1] [5000.21s - 5003.51s] Takım öncüsü olduğunuzda ben takımla çalışmaya uygun değilim
+[Speaker 1] [5003.51s - 5007.17s] Ya da işte bunu yapamıyorum ortamda çalışamıyorum çok fazla ses varsa
+[Speaker 1] [5007.17s - 5009.77s] Çok kalabalık ortamda çalışamıyorum vesaire dediğinizde
+[Speaker 1] [5009.77s - 5011.01s] Burada bir çelişki oluyor
+[Speaker 1] [5011.01s - 5013.83s] Bu çelişki mümkün mertebe vermemek gerekiyor karşı tarafa
+[Speaker 1] [5013.83s - 5017.61s] Ve hani mülakatlarda çok fazla olumsuz cümle kurmamak gerekiyor
+[Speaker 1] [5017.61s - 5020.83s] Karşı tarafa da bu bilinçaltına ister istemez etki ediyor
+[Speaker 1] [5021.77s - 5025.49s] Bunlara dikkat ederseniz hani ben en azından kendim yola çıkarak bunu söylüyorum
+[Speaker 1] [5025.49s - 5027.23s] Ben dikkat ettim yani bunları yapıyorum
+[Speaker 1] [5027.77s - 5028.89s] Size de tavsiye ederim
+[Speaker 2] [5029.99s - 5030.95s] Kesinlikle abi
+[Speaker 2] [5030.95s - 5033.53s] Gene Hikmet Çatak'tan bir soru var
+[Speaker 2] [5033.53s - 5038.17s] Sevide projelerimiz kısmında açıklamasını yaparken nelerden bahsetmeliyiz?
+[Speaker 1] [5038.17s - 5040.37s] Ya kullandığım framework olabilir
+[Speaker 1] [5040.37s - 5042.31s] Yani NumPy Pandas vesaire değil
+[Speaker 1] [5042.31s - 5043.97s] Daha böyle işte atıyorum
+[Speaker 1] [5045.21s - 5046.67s] Transformers varsa işte
+[Speaker 1] [5046.67s - 5047.79s] Transformer'dan ya da işte
+[Speaker 1] [5047.79s - 5051.49s] Spesifik olarak yaptığım projenin detayından bahsedebilirsin
+[Speaker 1] [5051.49s - 5053.49s] İşte bu projeyi yaptım çünkü şundan ötürü
+[Speaker 1] [5054.17s - 5055.59s] Örnek veriyorum bir RAK yaptım
+[Speaker 1] [5055.59s - 5057.45s] RAK tarafındaki yapma sebebim işte
+[Speaker 1] [5058.17s - 5059.17s] İşe girecek olduğum şirketteki
+[Speaker 1] [5060.31s - 5061.21s] İyileştirmek için
+[Speaker 1] [5061.21s - 5062.95s] Ya bu biraz daha şeyle bağlantılı
+[Speaker 1] [5062.95s - 5066.33s] İşe gireceğiniz şirketlere özel de hazırlayabilirsiniz bu CV
+[Speaker 1] [5066.33s - 5067.59s] Ben bunu öneriyorum bu arada
+[Speaker 1] [5068.17s - 5070.09s] Ufak değişiklikler yapılabilir içeride
+[Speaker 1] [5070.09s - 5071.47s] Mesela örnek veriyorum
+[Speaker 2] [5072.17s - 5073.61s] Görüşleyen şirket retail şirketi
+[Speaker 1] [5073.61s - 5074.79s] Yani retail üzerine çalışıyor
+[Speaker 1] [5074.79s - 5076.17s] Ve işte
+[Speaker 1] [5076.91s - 5079.79s] Arayüze girdiğinde bir tane RAK yaptım örnek veriyorum
+[Speaker 1] [5079.79s - 5081.19s] Buradaki RAK yapma sebebi şuydu
+[Speaker 1] [5081.19s - 5083.17s] İşte retail üzerine çalışan şirket içerisinde
+[Speaker 1] [5083.95s - 5085.41s] Kullanıcıdan gelen soruları
+[Speaker 1] [5085.41s - 5086.79s] İşte FAQ gibi hani
+[Speaker 1] [5087.71s - 5090.23s] Buradaki sorulara karşılık cevap verecek yapıda
+[Speaker 1] [5090.23s - 5091.49s] Bir RAK oluşturdum vesaire
+[Speaker 1] [5091.49s - 5092.91s] Bunu hani İngilizce olarak yazmanız
+[Speaker 1] [5092.91s - 5094.67s] Kesinlikle İngilizce yazmanızı tavsiye ediyorum
+[Speaker 2] [5094.67s - 5095.27s] Bu arada CV
+[Speaker 1] [5096.27s - 5098.81s] Mümkün mertebe Türkçe hazırlamamaya çalışın
+[Speaker 1] [5099.87s - 5101.89s] Yani İngilizceniz çok yoğun masa da
+[Speaker 1] [5101.89s - 5103.85s] Bence bunu İngilizce yapmanız gerekiyor
+[Speaker 1] [5104.49s - 5105.71s] Bu şekilde diyebilirim
+[Speaker 2] [5105.71s - 5107.49s] Buradaki dil nasıl olması lazım
+[Speaker 2] [5107.49s - 5109.61s] Mesela işte adam projesinden bahsediyor
+[Speaker 2] [5109.61s - 5110.75s] Projesinden bahsederken
+[Speaker 2] [5110.75s - 5112.13s] Yaptım ettim gibi mi
+[Speaker 2] [5112.13s - 5113.63s] İşte yoksa deneyimledi
+[Speaker 2] [5113.63s - 5114.73s] İşte bunu gördüm
+[Speaker 1] [5114.73s - 5117.91s] Biraz daha hani edilgen bir dil kullanmak gerekiyor
+[Speaker 1] [5117.91s - 5118.75s] Bence etkin değil
+[Speaker 1] [5118.75s - 5120.31s] Yani edilgen dil kullanılarak
+[Speaker 1] [5120.31s - 5122.01s] Yapıldığında daha kıymetli oluyor
+[Speaker 2] [5122.01s - 5122.93s] Ben mesela bunu hem
+[Speaker 1] [5122.93s - 5125.37s] İşte kendi sahip olduğum sitede de
+[Speaker 1] [5125.37s - 5126.77s] İşte aldığım domeninde de yapıyorum
+[Speaker 1] [5126.77s - 5128.31s] Hem de işte CV içerisinde yapıyorum
+[Speaker 1] [5128.31s - 5129.75s] Mümkün mertebe bunlara dikkat ediyorum
+[Speaker 1] [5129.75s - 5131.65s] Bunlara bakılıyor arkadaşlar
+[Speaker 1] [5132.37s - 5135.77s] Ve hani elemede de biraz bakıldığını biliyorum
+[Speaker 1] [5135.77s - 5136.73s] Yani şöyle
+[Speaker 1] [5136.73s - 5139.53s] Benim danışmanlık aldığım ilk adam da
+[Speaker 1] [5139.53s - 5140.89s] Böyle bir feedback aldım ben
+[Speaker 2] [5141.73s - 5142.13s] Evet
+[Speaker 2] [5142.13s - 5145.71s] Hatta orada şeyi de sorabilirim
+[Speaker 2] [5145.71s - 5147.53s] Portfolio sitesinden bahsettin sen
+[Speaker 2] [5147.53s - 5148.63s] Senin domeninin var
+[Speaker 2] [5148.63s - 5150.71s] İşte tanersekmen.com'a gittiğin zaman
+[Speaker 2] [5150.71s - 5153.83s] Aslında senin yaptığın oradaki tüm icraatlar
+[Speaker 2] [5154.73s - 5155.21s] Gözükebiliyor
+[Speaker 2] [5155.21s - 5157.57s] Yani işte verdiğin katkılar
+[Speaker 2] [5157.57s - 5159.21s] Yaptığın projeler
+[Speaker 2] [5159.21s - 5161.19s] Bir tane portfolio sitesi olması gerekiyor
+[Speaker 1] [5161.73s - 5164.81s] Yani ben öyle olduğunun olması gerektiğine inananlardanım
+[Speaker 1] [5164.81s - 5165.87s] Açıkçası
+[Speaker 1] [5165.87s - 5170.07s] Ve yani buradaki yaptığınız işlerin açıklanması
+[Speaker 1] [5170.07s - 5172.35s] İşte eğer open source bir projeye katkı sağladıysanız
+[Speaker 1] [5172.35s - 5173.83s] E-bout kısmına kesinlikle değinin
+[Speaker 1] [5173.83s - 5175.11s] Onun linkini verin
+[Speaker 1] [5175.11s - 5180.05s] Yani şey arka tarafta o linki verebileceğiniz yapıdaki şeylere bakabilirsiniz
+[Speaker 1] [5180.05s - 5181.93s] İşte parantez aç kapat
+[Speaker 1] [5181.93s - 5183.91s] Ben index html içerisine gömdüm bunu
+[Speaker 1] [5183.91s - 5186.63s] Ve buradan aslında alıyorum ipi
+[Speaker 2] [5187.93s - 5189.07s] Ve bunun hani şöyle
+[Speaker 1] [5189.93s - 5191.87s] İşe girerken cv'niz tabiki de o
+[Speaker 1] [5191.87s - 5193.51s] Cv'niz içerisinde de yazılmalı bence
+[Speaker 1] [5193.51s - 5194.69s] Burada tabiki de şey de var
+[Speaker 1] [5194.69s - 5196.53s] Yani örnek veriyorum
+[Speaker 1] [5196.53s - 5198.77s] Sen kendi yaptığın işleri cv'de yazdın
+[Speaker 1] [5198.77s - 5199.81s] Ya da işte yeterli değil
+[Speaker 1] [5199.81s - 5200.93s] Ya da örnek veriyorum aldığın başarıları
+[Speaker 1] [5202.61s - 5205.69s] Ondan sonra katıldığın bir grup varsa topluluk varsa vesaire
+[Speaker 1] [5205.69s - 5207.47s] Bunlara cv değer vermek dışında direkt
+[Speaker 1] [5207.47s - 5209.75s] Hala hazırda domenim varsa oraya gömüp
+[Speaker 1] [5209.75s - 5211.29s] Orada direkt gösterebiliyor olursun
+[Speaker 1] [5211.29s - 5214.15s] Ben biraz daha bunun gerekli olduğuna inan anlardım
+[Speaker 1] [5214.69s - 5215.73s] Umarım linçlenmem
+[Speaker 1] [5216.69s - 5218.59s] Ama ben kendim buna dikkat ediyorum yani
+[Speaker 1] [5219.69s - 5220.73s] Önlik olması için bu arada
+[Speaker 2] [5220.73s - 5222.63s] Senin şeyi attım chat'e
+[Speaker 2] [5222.63s - 5224.73s] Portfolü sitesine aslında
+[Speaker 2] [5226.19s - 5228.07s] Oradan da şeye bağlayabiliriz aslında
+[Speaker 2] [5228.07s - 5229.29s] Hikmet'in diğer dediğine
+[Speaker 2] [5229.29s - 5231.35s] Hani dedin ya toplulukları aslında
+[Speaker 2] [5231.35s - 5232.93s] O siteye koyabilirsin
+[Speaker 2] [5232.93s - 5234.73s] Çok daha cv şişirmemek için
+[Speaker 2] [5234.73s - 5235.93s] Bir sayfa olayı
+[Speaker 2] [5235.93s - 5236.83s] Bir sayfaya
+[Speaker 2] [5236.83s - 5240.55s] Yani ben bir sayfa yapılması gerekenlerdenim
+[Speaker 2] [5240.55s - 5241.93s] Çok fazla tecrübem varsa
+[Speaker 1] [5241.93s - 5243.09s] Yani örnek veriyorum
+[Speaker 2] [5243.09s - 5246.59s] 10 farklı şirkette 2'şer yıl çalıştıysam
+[Speaker 1] [5246.59s - 5247.87s] Bu tabiki de fark edebilir ama
+[Speaker 1] [5247.87s - 5250.11s] Mümkün mertebe en son tecrübeleri koyup
+[Speaker 1] [5250.11s - 5251.37s] İşte güncel olan neyse
+[Speaker 1] [5251.37s - 5253.47s] Onu vermek gerektiğinden inanıyorum ben
+[Speaker 1] [5253.47s - 5256.67s] Tek sayfa olursa çok daha kolay oluyor
+[Speaker 1] [5257.55s - 5260.17s] Spesifik olarak yani iş eylemlerine başvurduğunuzda da
+[Speaker 1] [5260.17s - 5262.95s] İlk ağların cv'ye bakma süreleri çok kısa arkadaşlar
+[Speaker 1] [5262.95s - 5265.01s] Yani girip hepsini tek tek incelemiyorlar
+[Speaker 1] [5265.01s - 5266.71s] Direkt böyle geriden bakıldığında
+[Speaker 1] [5266.71s - 5268.49s] Bir formatta olması gerekiyor
+[Speaker 1] [5269.37s - 5271.95s] Yani benim öğrendiğim şekliyle buydu
+[Speaker 1] [5271.95s - 5274.05s] Hani İK'da olduğum işte
+[Speaker 1] [5274.05s - 5275.83s] O İK menajerinin söylediği şey şuydu
+[Speaker 1] [5275.83s - 5277.65s] Bir İK cv'ye 6 saniye bakıyor
+[Speaker 1] [5277.65s - 5280.01s] 6 saniyede geriden baktığında
+[Speaker 1] [5280.01s - 5283.51s] cv'nin belli başlı oran orantı düzgün şekilde olmalı
+[Speaker 1] [5283.51s - 5285.49s] Yani mümkünse eğer bir sayfa olursa
+[Speaker 1] [5285.49s - 5287.27s] Çok daha kıymetli ve iyi oluyor
+[Speaker 2] [5289.07s - 5290.57s] Benim gördüğüm şey de
+[Speaker 2] [5291.27s - 5292.91s] Orantıya pek dikkat edilmiyor
+[Speaker 2] [5292.91s - 5295.49s] Ya mesela yazı fontu bir yerde büyük bir yerde küçük
+[Speaker 2] [5295.49s - 5299.59s] İşte bir yerde sağdan başlamış bir yerde daha böyle solda eşit durmuyor
+[Speaker 2] [5299.59s - 5301.61s] Bunlar bence baya önemli şeyler
+[Speaker 2] [5301.61s - 5303.75s] Bu otomatikmen senin karakterini
+[Speaker 2] [5303.75s - 5305.61s] İşte o işe verdiğin önemi gösteriyor
+[Speaker 1] [5306.13s - 5306.67s] Aynen
+[Speaker 1] [5306.67s - 5309.63s] Finalde de aslında evet buna bakıyorlar yani biraz da
+[Speaker 1] [5309.63s - 5311.71s] Benim aldığım feedback de bu şekilde yani
+[Speaker 1] [5311.71s - 5314.67s] Baktığı şey yani sen onu karşı tarafa
+[Speaker 1] [5314.67s - 5316.59s] Örnek veriyorum ki her zaman söylediğim şey
+[Speaker 1] [5316.59s - 5318.31s] Kendine böyle bir CV geldi
+[Speaker 1] [5318.31s - 5319.95s] Sen bu CV'yi işe alır mıydın?
+[Speaker 1] [5320.31s - 5322.71s] Yani çok dağınık bir CV her yer her yerde
+[Speaker 1] [5322.71s - 5324.03s] Fontlar birbirine karışmış
+[Speaker 1] [5324.03s - 5327.09s] Ya da işte yazı stilleri çok farklı vesaire
+[Speaker 1] [5327.09s - 5329.59s] Bu CV çok iyi bir imaj vermiyor
+[Speaker 1] [5329.59s - 5332.29s] Yani disiplinden de uzak gibi gözüküyor
+[Speaker 1] [5333.03s - 5335.41s] Bunu göz önünde bulundurmanızı tavsiye ediyorum yani
+[Speaker 2] [5336.03s - 5336.81s] Kesinlikle
+[Speaker 2] [5336.81s - 5340.39s] Peki ama artık biraz da sonlara doğru yaklaşırken
+[Speaker 2] [5341.03s - 5342.71s] Seni en çok geliştiren proje neydi?
+[Speaker 2] [5343.97s - 5346.53s] Ya ilk başta bahsettiğim aslında getirdiği o
+[Speaker 1] [5346.53s - 5347.65s] Clipin Correction'du
+[Speaker 1] [5347.65s - 5349.07s] İnanılmaz geliştirdi beni
+[Speaker 1] [5349.07s - 5351.07s] Birçok şeye değindim, dokundum
+[Speaker 1] [5351.07s - 5353.35s] Ve benim önümü çok açtı
+[Speaker 1] [5354.35s - 5355.77s] Katkısı da çok büyüktü
+[Speaker 1] [5355.77s - 5359.03s] Yani ben bu kadar büyük bir proje geliştirmedim aslında onun dışında
+[Speaker 1] [5359.75s - 5360.87s] Etkisi çok büyüktü yani
+[Speaker 1] [5360.87s - 5363.75s] Impact'i çok büyüktü ki dolayısıyla bana da çok kapı açtı
+[Speaker 1] [5364.85s - 5367.07s] Hani BME'ne girmemde de etki etti açıkçası
+[Speaker 1] [5367.07s - 5371.41s] Çünkü CV'nin de yıllık 500 bin dolar impact olan bir iş yap varsa
+[Speaker 1] [5371.99s - 5373.67s] Herkesin gözünde çarpıyor bir noktada
+[Speaker 1] [5373.67s - 5377.39s] Görüşmek istiyorlar, nasıl yaptın, ne yaptın, neleri kullandın vesaire diye
+[Speaker 1] [5378.07s - 5379.55s] Beni de geliştiren proje bu oldu yani
+[Speaker 1] [5379.55s - 5381.23s] Ünümü açan, beni geliştiren
+[Speaker 2] [5382.07s - 5383.31s] Kesinlikle kesinlikle
+[Speaker 2] [5383.31s - 5385.55s] Yani öyle bir şeyi kovalıyoruz biz de
+[Speaker 2] [5386.37s - 5387.13s] Yapabilirsek
+[Speaker 2] [5387.13s - 5389.19s] CV'ye 500 bin dolar
+[Speaker 1] [5390.33s - 5391.09s] Gerçekten
+[Speaker 1] [5392.55s - 5394.55s] Muazzam bir metrik kesinti
+[Speaker 2] [5395.71s - 5397.31s] Valla ağzına sağlık
+[Speaker 2] [5398.55s - 5399.33s] Çok güzel bir yayında
+[Speaker 2] [5399.33s - 5401.31s] Çok teşekkür ederim geldiğin için
+[Speaker 1] [5401.31s - 5403.07s] Gerçekten davet edildi
+[Speaker 2] [5403.07s - 5405.17s] Rica ederim ne demek
+[Speaker 2] [5406.31s - 5408.47s] O zaman arkadaşlar bizden bugünlük bu kadar
+[Speaker 2] [5409.35s - 5410.73s] Görüşmek üzere diyelim
+[Speaker 2] [5411.31s - 5412.01s] Görüşürüz
+[Speaker 2] [5412.01s - 5414.47s] Çok teşekkür ederim
+[Speaker 2] [5414.47s - 5414.91s] Bir sonraki videoda görüşmek üzere

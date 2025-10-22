@@ -1,0 +1,6195 @@
+
+[Speaker 1]:
+selamlar herkese herkese hoşgeldi datacomitin 7. yayını ile Murat Şahin ile birlikteyiz kısa bir ara vermiştik yılbaşından kaynaklı şimdi geri döndük abi öncelikle hoşgeldin hoşbulduk selamlar selamlar tekrardan hemen o zaman konuya girip başlayabiliriz biraz kendinden bahsedebilir misin alana nasıl başladın şu anda çalıştığın şirket mezuniyetin Murat ben bandırmalıyım İzmir'de yaşıyorum biraz daha böyle belki basic bilgilerle başlamak iyi olabilir alana nasıl başladım ya şey aslında ilk biraz daha böyle öncesinden almak istiyorum benim çalışmaya simit satarak başladım o kadar mı öncesinde başladı böyle o zaman simit 250 bindi eee enflasyonla sen tahmin et işte 35 kuruş oldu sonra 350 bin oldu o benim dünyama vurulmuş en büyük darbeydi çünkü 250 bin kuartırlardan dolayı kolay hesaplanıyordu ama 350 bini çevirmek üstünü saymak çok daha zordu benim için 3-4 simit falan filan çok karışıyordu ilk matematikle mücadelem öyle başladı okul hayatım boyunca ilkokul ortaokul lise matematiğim gerçekten çok kötüydü oldu ben liseden sonra ancak aslında eee matematiğimi düzeltip de biraz daha barışıp da problem çözmeyle ilgili olmaya başlayabildim aslında algoritma kurma yeteneği hani işimiz günün sonunda problem çözmek ya ben bir yazılım mühendisiyim o yüzden eee matematiği matematikle birlikte aslında eee liseden sonra ilk mücadelem öyle başladı ve daha sonrasında eee Celal Bey'e bilimlerine giriş yaptım yazılım mühendisliği bölümüne girdim orada yazılım mühendisliği
+
+[Speaker 2]:
+kapsamında zaten sevdiğim bir bölüm zaten lisedeyken de bilişim ve teknolojileri bölümüydü
+
+[Speaker 1]:
+benim hep ilgim vardı çünkü eee bilgisayar bilimlerine özellikle böyle problem çözmeye karşı ilgim vardı ufak bir araya gitmesi yazılım mühendisliği tercih etmişsin ya orada bilgisayar mühendisliği çok popüler ve sürekli de soruluyor yazılım mühendisliği bilgisayar mühendisliği arasındaki fark yani senin buradaki yazılımı tercih etmekteki amacın neydi bilinçli bir tercih miydi abi o matematiği çözdüm ama fiziği çözemedim yani bana göre değil fizik yani ben dedim bilgisayar mühendisliği falan hayatta yıbı ya ben bir
+
+[Speaker 2]:
+ders bile böyle mikroçip bir şey böyle bir fizik göreceğim bir şeye girmek istemedim
+
+[Speaker 1]:
+yazılım zaten ya mühendislik ama hani adı mühendislik ama bir an da soyutta bir mühendislik baktığında hani problem çözüyorsun falan bu benim çok ilgimi çekmişti o zaten sürekli ilgim de vardı kesinlikle bu yüzden yazılım mühendisliğini seçtim çünkü zaten bir alanda uzman olmak yani bilgisayar hani devasa bir domeyin zaten hani ve Türkiye'de de bilgisayar
+
+[Speaker 2]:
+mühendisliği yani bir donanım üzerine bir teknolojinin aslında gideri olmadığı için
+
+[Speaker 1]:
+ben de oradan yazılım mühendisliğini seçtim hani çünkü zaten bilgisayar mühendisleri de yazılım mühendisliği yapıyordu ben neden o zaman gidip de sanki işte intel bir şey işlemci varmış sanki öyle bir Türkiye'de öyle bir istihdam varmış gibi bir şeye gireyim ki bana çok mantıklı geldi hala da aynı şekilde düşünüyorum yaklaşık bir 4-5 sene oldu ben mezun olalı tabi korona ile birlikte mezun oldum aslında bu arada onu da söylemiş olayım 2020 yılı itibariyle ben mezun olmuş oldum ve bu sebeple yazılım mühendisliğini seçtim çok mantıklı değil mi yani gereksiz bir ders görmek istemedim bir de yine vardı yazılım mühendisliğinde de fizik vardı yine ilk sınıfta falan onlar da kötüydü bayağı kötüydü ama bir şekilde geçti gitti devamında sen bir yüksek lisans durumu var bir de aslında birlikte data science'a kayıyorsun diye biliyorum ben oradaki kayış lisansta mı buraya keşfediş oldu yoksa yüksek lisanslı mı buraya kaydın Aslında ben lisansın yani Ceren Bey üniversitesindeyken staj yeri bulamadım yani 3. sınıftayız işte 3. sınıfa geldik artık herkes 2. sınıfta soru muydu ilk staj yeri buluyor 3. sınıfın şey miydi ortası mıydı emin değil 3. sınıfın sömestri olabilir belki neyse staj yeri bulamadık yani gittik aradım taradım soruşturdu ben aslında o zamanlar veri bilimine meraklıydım ve zaten staj yeri bulamamın sebebi de veri bilimiydi bir bakıma Bu arada sene kaç o zaman? Veri bilimi işte abi 90 sene 2018 tabii 2020'den mezun olduysam 2018'den 2019'dan bahsediyorum aynen şu anda Öyle bir dedin ki sene kaç diye yani bir şey sorguladım yani Ya o zaman veri bilimi olgunlaşmamıştı yani veri bilimiymiş yapay zeka yok bir şey yok o zamanlar işte hani yudemi de böyle doğru düzgün veri bilimi kursu bile yoktu yani daha böyle çok daha yeni yeni ateşlenmeye başladığı süreçte hiçbir şekilde demlenmemişti bu olan bilinmiyordu ve ben de öyle bir arayışa girmiştim sağ olsun hocalarımın kapısını çaldığında da benle ilgilendiler vesaire ama olmadı yani staj yeri bulamadım neyse naylon bir şeyler yaptık Ben o yaz tatilini hatırlıyorum mesela üniversitede geçirmiştim bayağı bir çalışmıştım çoğu istatistik konularına vesaire çalışarak geçirmiştim veri ile ilgili konulara bayağı bir kurslar tüketmiştim Aslında bir yerde başlasam da muhtemelen benim için o kadar verimli olabilirdi kendi kendime öyle bir kapatıp çalışma sürecim olmuştu yani ben 3. sınıfada daha gelmeden veri bilimi tarafında çalışacağım kararını vermiştim aslında o taraflarla ilgiliydim ama okulun getirdiği bazı zorunlu dersler vardı bazı bağımlı olduğum durumlar vardı ve onları da yürütüyordum diyebilirim 4. sınıf geldi yine ben doğru düzgün bir staj yeri bulamadım yani bayağı bir yerle araştırdık konuştuk falan ama uzun dönem stajım var ortada yine çok böyle doğru düzgün bir staj yeri bulamadım sonra Deniz Hoca ile birlikte Deniz Kılıç ile birlikte çalışmaya başladık ve onun onun yanında birlikte böyle danışmanlıklar yaptım işte ya da mesela üniversitedeydik o sırada bazı dersleri vesaire asist ediyordum benim için çok verimli çok güzel süreçlerdi Bakırçı Üniversitesi'nde de o şekilde bazı dersleri asiste etme şansım oldu diyebilirim ondan sonra zaten kendi şirketimizi kurmaya doğru gidiyor ama sen ne kadar ilerlememiş diyorsan ben oralardan gideyim senin sorularına bağımlı kalayım bir kere anlatmayayım burada ikinci sınıfta hani data science'a karar vermek ve kendini o tarafa yöneltmek bence inanılmaz bir bilinç yani gerçekten o herkesin şu anda olmaya çalıştığı böyle herkesin kafasına karışık olduğu nokta ne yapacağım hangi alana yöneleceğim falan Zafir'in alakalı paralel bir sorusu var O da demiş ki Zafer abici bilgisayar mühendisi son sınıf öğrencisiyim ve veri analistliği bootcamp'ini tamamladım İngilizcemi de geliştiriyorum iş hayatına nasıl başlamalıyım Evet İngilizcesini de geliştiriyor yok bir okuyayım dedim yine de sanki gelmemiş gibi iş hayatına nasıl başlamalıyım şimdi maalesef hani burada kimsenin motivasyonunu vesaire bozmak istemiyorum ama bir genel bir durgunluk var özellikle şu süreçte mesela bu sene itibariyle özellikle geçen senede gördüğümüz gibi bir durgunluk var piyasada daha çok bilgisayar mühendisliği öğrencileri Yani aslında her bölüm hemen hemen böyle bir karamsarlığa başladı sürekli stajyeri arıyorlar iş başlamak için bir yer arıyorlar ya da ne dal olursa olsun başlayanın kafasını alır aslında Çünkü sektör onlara o kadar öyle bir seçenek sunmuyor biliyorsun sen de zaten çok benzer aslında hani birlikte seninle benzer süreçlerden de geçtik ister istemez zor bir süreç Şimdi arkadaş bilgisayar mühendisliği öğrencisi yani onun bir en azından hani bir alet kutusu var yani bir problem çözmek için orada bilgisayar mühendisliği dersleri almış bu arkadaş Veri analizliği bootcamp'i güzel bir başlangıç olabilir eğer ki veri bilimi tarafında çalışmak istiyorsa yani gerçekten o veri analizliği bootcamp'i ona bir şeyler onu heyecanlandırdıysa biraz içinde bir şeyler kıpırdaşmasına sebep oluyorsa şayet doğrudan veri bilimi tarafından kariyerine başlayabilir Hani burada veri ile ilgili yani veri mühendisliği de olabilir belki farklı farklı alanlarda dallarda da başlayabilir bir bakıma ama biraz daha keşfetmesini öneririm şimdi daha zaten son sınıf öğrencisi bir bootcamp'i tamamladığını söylüyor biraz daha farklı farklı alanlarda belki büyük veri olabilir hani tamamen farklı teknolojilerle çalışıp da şöyle bir her şeyin tadına bakabilir neyi beğendiğini anlayabilmek için aslında o çok önemli bir de iş hayatına başlamak şu an hani biraz lüks gibi bir şey Bir şeye de dönüştüğü için ister istemez hani gerçekçi olacağı için bunu söylüyorum o yüzden nereden başlanırsa başlansın bir yerlerden başlamakta fayda var en azından bir çalışma kültürünü bir şirket kültürünü bir ekiple çalışmanın nasıl bir şey olduğunu anlamak için de çok orada da böyle seçici olamayabiliyoruz maalesef İngilizcesini geliştiriyormuş zaten yani daha da geliştirmek ya orada şu anda dediğim gibi TR tarafında bir tık durgunluk var ya özellikle bence middouble ve senior ilanlar Çok çıkarken hani ben ilanları güncel olarak sürekli takip ediyorum Junior tarafta neredeyse hiç ilan çıkmıyor gibi bir şey ya böyle staj programıyla gireceksin staj programları var yetenek programları oluyor bunlar yani toplu alım yapıyorlar ben de keza öyle girmiştim şu anki bulunduğum yere ya da işte Junior ilanı yok gibi bir şey gerçekten de staj programına girip içeride Junior oluyorsun şu an yeni mezun bir kişi de mecbur staj programına şey oluyor Doğru çok doğru çok doğru mesela bizim şirketimizde de benzer durumlar olabiliyor şöyle ki uzun dönem staj diye bir kavram var biliyorsundur belki 5 ay 5 ay boyunca mesela böyle son senenin 5 ayını bu staja ayırıyor bunu teknoloji fakülteleri yapıyor belki bazı mühendislik fakülteleri de yapıyordur emin değilim daha son geçen tanıştığım bir arkadaşım mühendislik fakültesinden o da buna benzer şeyler söyledi Evet öyle olmalı Celal Beyer'den bir arkadaş iki arkadaş tanıyorum hatta aynen öyle olmalı onlar da bilgisayar mühendisliği öğrencileri bu çok avantajlı bir şey çünkü firmalara şunu şunu sunuyor sen birlikte çalışan insanı geliştirebilirsin 5 ay boyunca ona bir sürü şey katarsın onu yani bayağı aslında 5 ayını verimli geçen birisi verimli geçiren birisi tabii ki de kendisini donatır bir sürü teknolojiyle donatır orada ve o firmaya uyumlu mı değil mi onu da anlaması için çok çok yeterli bir süre 5 ay ve bu durumda sigortası da karşılanıyor hani müthiş bir win win modeline dönüşüyor aslında hani hem şirket içinde hem o öğrenci içinde hem de aynı zamanda tahsili olan bir hani mühendis bir öğrenciyi de istihdam ediyor şirket kendisince şeyde değil hani yani alaylı da olabilir mesela ama orada o şey devletin de getirdiği katkıyla birlikte sigortayla da birlikte çok güzel gayet ucuza bir kaynak istihdam etmiş oluyor ve o arkadaşı da yetiştirmiş oluyor bu yüzden çok mantıklı bir şey baktığında eee çünkü o arkadaşı eğer onu yapmazsa üniversiteden çıktıktan sonra maalesef ödevi dışında da çok kendisini geliştirmemiş de biriyse abi ne oluyor aslında deneyimsiz tamamen deneyimsiz yani sıfır olan ve işe girişi çok zor olan bir insana dönüşüyor çünkü hiç kimse onu istihdam etmek istemiyor senin de dediğin gibi bu değişir yani bizim junior tarafta da mesela genel olarak hani ihtiyaçlar hep sürüyor çünkü eee medyor ya da işte senior dediğin insanların da bir maliyetleri var ya da onlar genelde tek başına da çalışmıyor hep bir junior'a bir şekilde bir insana ihtiyaç duyabiliyor eee orada yani değişir şirketin kültürüne göre değişir hani genelde çok böyle deneyimli insanları istihdam eden şirketler de var ya da eee aralarda böyle hani junior'ları istihdam eden junior yoğunluklu startuplar da var çok değişir oradaki stratejiye göre ama Türkiye'de biraz dediğin gibi belki birkaç trik şey verebiliriz eee nasıl öne çıkabilir yani özellikle şu anda winter eğer ücretmen platform gibi bir yerinde sitiosu olarak yani burada bir işe alın platformu yapmışsın aslına bakarsan ve bu platform belli şeylere göre eğer yanlış mı yoksa kişileri evleyip en nihayetinde bir değerlendirme yapıyor eee buradaki durumda bu kişi zafer nasıl öne çıkabilir CV'sini nasıl donatabilir yani aslında CV donatmaktan ziyade şey diyelim CV bir şimdi onun yan ürünü hani sen bir şeyler yapıyorsun onun sonuçta sonucu olarak CV'ne de yazmış oluyorsun bir şekilde dolayısıyla aslında CV'den ziyade ne yaptığı zaferin ne yapacakları önemli biraz zafer kovalamalı tam şu an kovalacağı yaşta hani eee muhtemelen eee yaşı da genç bir arkadaş yani normal şartlarda bilgisayar mühendisliği son sınıf öğrencisi de yaşı da bayağı genç bir arkadaş biraz koşturacak konferanslara böyle işte networking'i geliştirmek için seminerlere katılacak bir yerde işte sunumlar var kongreler var bunlara gidebilir akademiyi görebilir bir şekilde orada hocalarla tanışacak belki zafer muhtemelen eee okulundaki hocalarla da arası iyidir bir şekilde eee çünkü okulun üniversitenizde katlı yegane şeylerden birisi zaten o hocalarla tanışmak yoksa yani siz bugün tabi ki de Coursera'dan Udemy'den Udacity'den bir sürü yerden zaten bir sürü kurs alarak dan neredeyse bedava ya da işte YouTube'dan bile hani eee siz işte Stanford'un yine aynı şekilde kurslarını dinleyerekten de zaten her şeyi öğrenebilirsiniz hemen hemen her şeyi okulun üniversitenin kattığı şey size hocalarla tanıştırmak ise eğer en önemli etkenlerinden bir tanesi en azından zaferin orada hocalarla da arasındığı olduğunu düşünerek hani daha da iyileştirebilir eee yani kendisi bireysel çalışmalar yapabilir ya da işte ödevlerini biraz daha geliştirerek böyle LinkedIn'de paylaşabilir özellikle bunu medium yazılarına dökebilir eee yaptıklarını gösterebilir biraz çünkü şimdi kimse sizi keşfetme sizin biraz daha tabiri caizse yırtık olup hani kendinizi göstermeniz belirtmeniz gerekiyor ortaya çıkmanız gerekiyor insanları biraz darlamanız gerekiyor şu siz kimse sizi keşfetmiyor lafı bence motto yani al duvara koy yani size seni kendini göstermen yapmam gerekiyor ya ben de eskiden hep böyle yapıp yapıp böyle hala da öyledir yani çoğu projeyi kitapta mesela işte paylaşmam gitaba koyarım LinkedIn'de orada burada paylaşmam böyle inanılmaz projeler de var yani orada yaptığımız arka planda yaptığım böyle güzel teknolojik projeleri var işte gene kitabıma koyuyorum bunları ama ama satamıyorsun satamıyorsun ya satamıyorum yani o da ayrı bir beceri yani satmak başka bir şey şimdi algı yoktan bir şey var da gibi gösterebilirsin sen de zaten var var olan olduğu gibi göstereceksin ama onu da yapamıyorsun o biraz işte abi karakter biraz şey meselesi yani kötü anlamda söylemiyorum eee ben de neyse onu söylerim mülakatlarda falan hani çok abartmam yani o şey bana göre değil hani eee o yüzden ama biraz satanlar kazanıyor diyebiliriz kesinlikle ben Winter'dan da bahsederim ya ilerleyen süreçte hani nasıl bir süreç işletiyoruz bahsederim soru da geldi Winter'la alakalı yavaş yavaş ilerleyelim hani birazcık daha özellikle hani Onur Hocam'dan destek geldi çok teşekkür ediyoruz bu arada sorular da gelmeye devam ediyor birazcık hani senin akademik kariyerinle alakalı birkaç sorularla birlikte ben durumu yavaş yavaş Winter'a doğru getireceğim iyi yayınlar diyenler var bu arada çok teşekkürler selamlar teşekkürler şimdi lisansla tez yapmış mıydın tezde aynen üretken yapay zeka birkaç üzerine çalışmıştım biraz daha hayır hayır özür dilerim lisans da lisans da yaptım Evet ama o şeydi gen ekspresyon verileri vardı enes orta gen ekspresyon verileriyle ilgili böyle makine öğrenmesi modellerini falan eğitmiştim ama lisans da o zamanlar akademi bilinci yok bir şey yok hani o zaman mesela çok güzel çalışma yapmıştım hocam da sağ olsun şey demişti Murat sen bunları çıkarsan hani birkaç tane en az makaryo olur bir sürü yere yayın yaparız falan demişti ama bende o bilinç de yoktu o zamanlar yani tam olarak şeyinde farkında da değildim güzel bir şey çıktığını düşünüyorum ortaya Çünkü o gen ekspresyon verilerine kanser tespiti yapıyorum orada ar kullanmıştım arın orada biyomedikal tarafında çok güzel veri tabanları vardı güzel bir derleme olmuştu aslında ama tabii bir yerde böyle bir yayınlanmadı bir şey olmadı biraz daha içeride kaldı üstü orada veri bilimi üzerine çalışacağım belliydi zaten o zaman diyebilirim şimdi yüksek lisans tarafı var şeyden sonra lisansdan sonra direkt ara vermiyorsun bildiğim kadarı değil hani yüksek verdim verdim ara verdim ama ne kadar bir ara çok ara bir yıl bir yıl falan ara verdim diye hatırlıyorum vermişim Evet verdim tabi zaten korona vardı çünkü şey bitti iki bir hatta bizim stajımız bile yandı biliyor musun yani staj yaptım ben yaptım Neyse ki ben çok güzel bir staj süreci geçirdim işte sağ olsun Deniz hocamla birlikte orada tavla çalıştık kariyer netle çok güzel işler yaptık otomatik ilan generate etme şey yapma falan filan tavla işte flight delay prediction yaptık mesela bunların bazıları bir yayına da dönüştü yine onların da bir parçası oldu ortada oradan ben de şey yapan yani aslında data scientist rolündeki arkadaştım birkaç arkadaştan biriydim genelde işte eldorla farklı farklı çalışmalarımız oldu çok güzel çalışmalar oldu aslında o kapsamda ama stajımız bile yandı çünkü koronadan dolayı artık dediler stajını siz yaptınız ya da yapmadınız zaman biz sizi mezun ediyoruz tarzına bir şeye dönüşmüştü ben o süreçte zaten işte şey yapmadım yani bir sene bekledim boşluk verdim daha sonra Bakırçı Üniversitesi yüksek lisansa başladım orada Adil Alp Koçak Adil hocamla birlikte çalıştık orada işte biraz daha veri üretme sentetik veriler tabular veri üretme üzerine falan çalışmıştık orada işte onları mukayese etme evolayet etme gibi durumlarla ilgili de çalışmıştık bu algoritmaları işte GAN modellerini ya da varyasyonel otaenkodurlar üzerine falan diyebilirim o şekilde bir yüksek lisans süreci geçirdim şimdi önemli soru yüksek lisansı yapmalı mıyız sen neden yaptın ve senin hani yüksek lisansın sonra doktoraya da devam ediyorsun orada çok acayip Çünkü sektörle o kadar içiçesin ki neden hala akademide bu kadar devam ediyorsun Aslında akademide devam ediyorsun şimdi mesela doktor ünvanı alınca o tüm dünyada kredibilitesi olan bir artıştan doktorsun demek bu ve bu sadece Türkiye'de işte işte hani sarı çizmeli Mehmet Ağa Üniversitesi'nden falan ziyade artık tüm dünyada senin bir böyle bir title oluyor bu değerli bir şey önemli bir şey bir bakım dünyanın tanıdığı bir şey ben böyle düşünüyorum ben doktoranın elde edilebilecek en büyük ünvan olduğunu düşünün ne kadar ordinar bir şey olursa doktoranın orada çok ayrı farklı bir rolü var bence orası biraz kırılım noktası hani dolayısıyla şu anda şirketiminde bana sağladı bazı imtiyazlar var on yani kesinlikle şirketinin hakkını yiyemem Çünkü bunlar hani sadece bu benimle doktora benimle okul arasında olan bir şey değil benim sonuçta çalışmakta olduğum bir düzenim var ve o
+
+[Speaker 2]:
+kişilerinde buna müsaade ediyor olması lazım ben de böyle bir iklimde böyle bir ortamda olduğum için
+
+[Speaker 1]:
+ve vizyoner insanlarla birlikte olduğum için bana hani yol gösteren aynı zamanda benim daha iyi yerlere gelmem için bana katkı veren insanlarla olduğum için zaten her şey böyle başlıyor doğru zamanla doğru insanlarla tanışmakla başlıyor zaten dolayısıyla doktora sürecinde çok kolaylaştırıcı bir hal aldı aslında doktora sürecim Çünkü zaten şirket tarih yapıyorsun da zaten ister istemez start up'lar çıkar çıkarmaya çalışıyorsun ve bu çıkardığın start up'lardan birisi senin doktora test konumda olabiliyor Hani çok güzel bir bin bin model zaten bunu yapıyorsun o zaman oradan da git Hani bir yandan o süreç değiştirirsin Ben şimdi de udayım benim bir günüm mesela ortalama de u da geçiyor bu da şey demek Hani de u da benim şirketim de de u da orada genelde de bulabiliyoruz şu anda de u derken var 9 Eylül Üniversitesi İzmir'de Buca'da dolayısıyla kampüs de Tınastepe kampüsünde olduğu için hani okuldu orada benim için aslında çok da bir şey değişmiyor mesela bu çok o büyük bir avantaj benim için büyük bir olanak benim için ya benim aklımdaki şey şu hep akademiyle sektör hem son anlamında işte kodlama anlamında biraz böyle çok farklılaşıyor gibi hissettiriyor bana özellikle mesela istatistik tarafını düşündüğümüz vakit akademi tamamen kağıtlara matematik yapmaktan ibaretken sektör tarafı sürekli ürün çıkarma işte kod yazma çeşitli ekipler arası iletişimden böyle bir şeyler çıkarma bir şeyler yaratmayken akademide sürekli kağıtta formül çözüyorsun gibi hissettiriyor bana yani yani formül çözmenin benim iş hayatıma bir faydası olacağını şu anda ben biraz düşünmeyen taraftayım Aslında yaramıyor da zaten yani yüzde 99 yaramıyor çok ekstrem durumlarda eğer ki sen işte deyip might ile çalışıyorsan evet evet formülü falan baksan iyi olur biraz daha hani ama onun dışında yani yok tabii ki de işte nerede çalışırsan çalış aslında yine Türkiye'de bir yerde bunu küçümsemek için de söylemiyorum çünkü zaten o kadar büyük bir arge seviyesine ulaşmıyoruz ulaşmamıza gerek kalmıyor o kadar yüksek katma değerli şeyler üretmiyoruz belki maalesef bunu hani şey olarak söylemiyorum çünkü ister istemez buna ayrılan bütçe belli buna ayrılan kaynaklar ve sorslar vesaire hepsi belli ve dolayısıyla günün sonunda o kadar adanmışlıkla o kadar büyük ekiplerle ve yatırımlarla da şeyler olmuyor baktığında sen yine Türkiye'nin koşullarında benzer işler yapıyorsun yani kağıtta formül çözmek şey aslında birçok akademisyen arkadaş da var böyle danışmanlık veren hani yani akademidekileri sadece akademide olarak da düşünmemek lazım her zaman gerçekten sektöre inen sektörle el sıkışmaya çalışan işte böyle hatlarda çalışan vesaire arkadaşlar da olabiliyor çünkü akademisyenler de danışmanlık çok büyük bir gelir kaynağı da olabiliyor akademisyenler için hani orada bilgilerini satma vesaire işi onun dışında akademi körelmek için de çok bence uygun bir yer bir bakıma çünkü ister istemez bir memursun yani ve günün sonunda birileri seni kamçılamıyor yani başında hani bir senin direktör olup da hadi bakalım canlıya çıkacağız hadi bakalım şu deadline var ya tamam tabii ki de onların da kendilerine göre süreçleri var işte bir makale yazıyorlar bir şeyler yapıyorlar falan ama nasıl diyeyim aynı değil sen de söylemek istediğimi anlamışsındır
+
+[Speaker 2]:
+arkadaşlara aktarabilmişimdir tam olarak aynı değil dolayısıyla o bakımdan da tehlikeli bir yer
+
+[Speaker 1]:
+mesela çünkü artık o kadar da kendini strese sokman gerekmeyebiliyor ve o stres zararlı gibi bize görünen stres aynı zamanda bizi geliştiren de bir unsur ya hani doktora zamanı mesela yapılan çalışmalar çok değerli oluyor çünkü çok büyük bir stres altında en verimli çalışmalarını o zaman gerçekleştirebiliyor insanlar o kadar çok hani uğraştıkları için bu alanda böyle diyebilirim burada tezlere geleceğim hem yüksek lisans tezleri hem şu an doktora da bir teyze uğraşıyor musun onları soracağım ama en iyi uğraşmıyorum kısaca çete bakarsak bu nereden bakıyorsunuz çet şuan açık değil mi gördüm gördüm tamam private chat varmış bende tamam gördüm yok en üstte koment yazan yerde direk şey gelen yorumları görebilirsiniz ben bir çerbi bizim kendi aramızdaki çet gördüm gördüm gördüm sorun yok Zafer'in sorusunun devamında tekrardan ona bir yorum yaparsak LinkedIn'de aktif olmaya paylaşmaya çalışıyorum bütün stres programlarını da başvuru yapıyorum ama onay alamadım halen hiçbirinden yaptığım küçük bir hata olduğunda düşünmeye başladım sabır işimi sabır işim net sabır iş yani tamam LinkedIn'de aktif olarak paylaşmaya çalışıyorsun yani şey Zafer bir kendine bir aslında güzel bir portföyü hazırlarsan eğer hani en azından o zaman şansın biraz daha artmaya başlayacaktır farklı farklı projeler mesela ilgi çekici yani bilmiyorum veri bilim alanında çalışıyorsan atıyorum kendin yaptığı bir projeyi depolay etmeyi ve insanlara bir video çekerek bunu sunmayı düşünebilirsin LinkedIn'de çok ilgi çeker yani şov haber seninle röportaj bile yapabilir yani o kadar algı meselesi abi her şey algı mı yani işaret dilinde bir şey yaptım şov haber geliyor işte bakın şuna liseli bir arkadaş böyle bir şey yapmış falan hani GitHub'tan bir kodunu çekebileceğiniz bir şey yapabileceğiniz şeyler basit yer ama algı meselesi Çünkü sokaktaki insan bunu hiç bilemeye biliyor yani uzaylı görmüş gibi tepki de verebiliyor burada işte sen ne yapacaksın Zafer de çok girişken olacaksın bir sürü şeyleri araştıracaksın implementasyon yeteneğin gelişecek kitapla çok haşır neşir olacaksın vesaire insanların kodlarını inceleyeceksin kod reviv yapacaksın biraz böyle deneyimli insanların medyum yazılarını okuyacaksın çok tüketeceksin sürekli tüketeceksin tüketeceksin bir yerden sonra üretmeye de başlayacaksın elbette bu ürettiklerini de biraz olsun iyi satabilirsen insanlara böyle eee pekala bilinir bir hale gelirsin ve şansını arttırır yoksa şu anda zaten yani sabır etmekten başka bir şey yok yani onu yapıp o çalışmaları yapıp tevekkül etmeyi ya bir de ya ben de şimdi gönüllü olarak başka platformlarda böyle mentorluklar falan yapıyorum orada gördüğüm ııı arkadaşlar yaptığı işlerde falan genelde mesela bir bootcamp oluyor atıyorum ücretsiz bir bootcamp bu ve bin kişi katılmış bin kişi proje yapıyor bin kişi de aynı şeyi yapıyor sonuçta proje template'i aynı burada o bin kişiden biri oluyorsun ve yapılan iş diploğu falan da edilmiyor yani direkt bir notebook yapıyorsun ve paylaşıyorsun ya aslına bakarsan bunun hiçbir değeri yok Evet öğrenmek açısından güzel ama çözdüğüm problem ünit değil hayata dokunan bir şey de olmuyor oradaki problem bunun diyor ama insan bunu kullanamıyor Evet ama şimdi daha dur Bismillah yani yeni başladı insanlar şu anda hiçbir şey bilmiyorlar düşün bilmeyen birisi ilk kez daha denize atılacaksın hani orada tabii ki böyle basit şeylerle önemli olan o basiti bile sindirmek aslında biliyor musun Sen orada ne yaptığını gerçekten yüzde yüz farkında ol Bence o bile çok güzel bir şey bunu şeysin demiyorum ben de ücretsiz bootcamp veriyorum işte herkese bin kişi aynı şey yaptırıyorum diye demiyorum öyle bir olayım yok ama o bile değerli değil mi yani girdin abi ilk kez anlıyorsun ilk kez görüyorsun anlamaya çalışıyorsun tamamen hakkını verebilmek bence o yüzden büyük bir yetenek ya orada o yüzden şeyi küçümsemiyorum yani bugün eminim çoğu insana bir şey Katar o bu alanda böyle yüz bir bilgisi olan insanlara bile o büyük kezler bir şeyler katabilir ama işte oradan da çıkabilmek mesele ya orasını orasını çeşitli bile yapıyor ya artık hani herkes biliyorsun bir çalış içerisinde ya şu anda bizim için mesela orada değilmiş olayım artık çeşitli diye bir şey var bu tuğdu artık kullanmak zorundayız nasıl bir işte mühendissiniz analizsiniz fark etmez hani istatistikçiyiz hiç fark etmez bunu bu tuğdu kendimiz bir şekilde çantamıza katabilmemiz gerekiyor ya bunu bunu ehlileştirmemiz gereken bir varlık olarak düşünün şey gibi oldu bir anlamda zaten insanlar böyle işte korku filmi bilim kurgu izleyerekten kendilerini kuruyor bunu ehlileştirmemiz gereken bir varlık olarak düşünün ve ona hükmedin yoksa o gelişmelerle birlikte aslında bizim çok daha zeki çok daha onlardan akıllı olmamız gerekiyor ki sonuçta hani bir öne çıkabilelim şu anda çiftinin de değiştirdiği dengeler var içeride artık iyi kötü yeni başlamış sektörü yeni başlamış bir insanın yapabileceği pekala çoğu şeyi yapıyor ama hala yapamadıkları var bu ne kadar hızla kapanacak ne kadar hızla eee kimlerin ne kadar yerini alabilecek konusunda bizim sürekli kendimizi geliştirmemiz gerekiyor evet kesinlikle eee ama ben gene de o bin kişiden sıyrılmak için bir noktada yaptığım bir şeyin diploini hep araştırılması gerektiğini düşünen ee diploide bir yetenek şimdi adam ilk kez mesela hani formülasyonu lineer regresyonu biliyor mesela onu diploide sen o belki diploide haberdar bir belki alan dışından geldi hani sonuçta evet ya şey tek olay diploide değil o lineer regresyona multiple mesela lineer regresyon desen onu sen ama hani yani çok değişkenli bir eee regresyona soksan atıyorum tamamen ya da gitsen o gün regresyonun kuzenlerini araştırsan atıyorum tamamen evet katma değer vermekten bahsediyorsun diploide erken onun tek yolu diploide değil yani her şekilde orada sıyrılabilirsin aslında bir katma bir katma değer yaratabilirsin mesela ya da işte no izi atarsın belki bir şeyler yaparsın ve günün sonunda ya da yaptığın şeyin formülasyonunu açarsın onu bir fonksiyona dökersin atıyorum çok basit bir örnek üzerinden söylüyorum bir yandan da burada şeyi düşünüyorum aslında diploide tarafını düşünürken ilk katmanda Aslında bu kişi eliniyor ya ve ilk katmanı geçmesi lazım ilk katmanı o katmanı o kodlardan anlamıyor o anca önüne bir ekran geldiği zaman oraya birkaç bir şeyleri sürüklediği zaman belki anlayabilir bir video gördüğü zaman anlayabilir bu çocuk bunu yapıyor diyebilir doğru kod verdiğin zaman anlamayacak tabii Evet yani yok gitapta Aslında parlak bir gitap profili
+
+[Speaker 2]:
+bile bence çok değerli ama buna müsait olan arkadaşlar için değerli şimdi yani özel sektörde
+
+[Speaker 1]:
+çalışan arkadaşların öyle git attı Tabii ki de bir şey paylaşma durumları şansları yok baktığında dolayısıyla parlak bir gitap profili önemli ama ilk a bundan ne kadar anlar bilmiyorum ya da işte
+
+[Speaker 2]:
+böyle sürekli üretken olmak ya üretken olmak iyidir hani YouTube'a video kaydedebilirsiniz
+
+[Speaker 1]:
+medyuma yazılar yazabilirsiniz bir şey yapabilirsiniz iyi ya da kötü bu sizin gayretinizi gösterir bu alanda gayretli ve niyetli olduğunuzu en azından o başladığınızı gösterir ki üzerine bunu devam edebiliyorsanız ne ala yani o yüzden mantıklı böyle bir donatmak gerekiyor biraz ııı sıyrılabilmek için bir de belki Hekaton ve Datatonlar oralarda bootcamp'ten ziyade aslında daha challenge'ın olduğu yerler bakılabilir mi Evet ben ben bayağı da Hekaton'a Dataton'a vesaire hiçbir şeye katılmıyorum en son herhalde üniversitedeyken zorunlu bir şeylerimiz vardı ona katıldım uykumdan felaket etmiyorum gece uykusu alınması gereken bir şey belki hani çok profesyonel bir cevap değil ama uyku önemli bence öyle şey sevmiyorum biraz düzen insanıyım üniversitede ikide falan fark ettim ben böyle kalkülüs falan bir şeyler verip verirken böyle sabahlarken falan dedim bir şey yanlış yapıyorum bu böyle olmaz o saatten sonra ben o günden sonra çok çok iyi hatırlıyorum yani hiç öyle hiçbir şey için sabahlamamaya çalıştım gerçekten de hep böyle düzen insanı olmaya çalıştım sabahları falan iyi değerlendirmeye çalışıyordum günü iyi değerlendirmeye çalışıyordum çünkü günün saatlerini değiştiremiyorsunuz uyku borcunuzu da bir yere kadar şey yapabilirsiniz benim için düzen önemli ama eminim çoğu insan için faydalı oluyordur bu Hekaton türe bir şeyler özellikle eğer ki mentorlar varsa orada ve size mentorlar dokunabiliyorsa hani çok çok iyi olacaktır ya da sizi böyle stres bir şeyler hani kamçılıyorsa bir şeyleri kendinizi geliştirmeye o gece gerçekten hani bir topluluk halinde bir şey yapmak sizi gerçekten motive edecek ve o competition şeyini yaşamaya yaşamak istiyorsanız eğer o ruh da yani sizi geliştirecekse pekala iyi olabilir mantıklı yani sinpli ben de biraz böyle Hekaton Dataton şeyim fanboy gibi bir şeyim sürekli katılmaya çalışıyorum onlara
+
+[Speaker 2]:
+Bunlar hep sabahlamalı oluyor değil mi ya hep öyle oluyor değil mi ben
+
+[Speaker 1]:
+Hep nasıl oluyor dedim tabi
+
+[Speaker 2]:
+Hep sabahlamalı mı oluyor
+
+[Speaker 1]:
+Ya en son mesela Fibo Banka'nın kendi internal Hekaton'u online'dı yüz yüze olanlar sabahlamalı oluyor orada iki gün uyumadık yani gerçekten de ama şu an işte Coder Space'in falan yaptığı Hekaton'lar var Türkiye geneli onlar birazcık daha böyle online başlayıp finali yüz yüze oluyor ya o kadar da sabahlamana gerek yok aslında bakarsan var yani şu an hele Dataton'larda falan hiç gerek yok çünkü iki hafta falan süresi oluyor onların Bir de Kadir'in sorusuna bakabiliriz Hocam büyük şirketlere girme hedefi olanların hangi yetkinlikte gelişmesini önerirsiniz teknoloji de olabilir demiş Kadir yani büyük şirketlerden kastı biraz daha herhalde kurumsal olan şirketlerden bahsediyor ve veri bilimi alanında bir şey muhtemelen kastediyor diye düşünüyorum Şimdi öyle bir soru var yani Kadir hangi okuldan okuduğu ne oldu hiçbir şey bilmeden konuşacağım Bir mühendislikten vesaire mezunsa ya da böyle bir akademik geçmişi varsa büyük şirketler için bir artı avantaj olabilir Ama daha çok büyük şirketler yani İngilizce üzerine belki ya her zaman her yerde herkesin işine yarar ama hani Kadir'in de orada İngilizce tarafına yatırım yapmasını öneririm yetkinlik bakımından Çünkü öyle fırsatlar gelebiliyor ki önünüze reddetmek zorunda kalırsınız yani eğer ki o trade'i tamamlamamışsınız o İngilizce yetenek setini koymamışsanız çantanıza onu reddetmek zorunda kalırsınız bu da iyi olmaz Okul tarafında eğer mümkün olduğu kadar hani bilmiyorum kurumsal şirketler biraz takılıyor yani bir kere okula takılıyorlar Türkiye'deki kurumsal şirketlerden bahsediyorum bu arada Kadir'in sorusu o kadar büyük şirketler yani Dünyada olduğunu anlıyorum sadece o şirketleri çok Metaya nasıl gireriz diyoruz ama onu mu diyor yoksa işte Türkiye'de atıyorum şimdi isim vermeyeyim hani çok güzel bir kurumsal şirketlerdi onu da anlamadım o yüzden şey yapıyorum Evet yani bence öyledir Türkiye'deki bilinlik kurumsal şirketlerden bahsediyordur yani o tarafta
+
+[Speaker 2]:
+Kadir yardımcı ol bize biraz
+
+[Speaker 1]:
+Buradaysan İsim ver şirket Belki ya mesela EWS'e girmek atıyorum mesela Eren'le de konuştun sen geçen baktığında İngilizce bir kere şart çok şart Okul çok iyi olursa güzel olur artık atar size okulun çok iyi bir okuldan mezun olmanız hani böyle işte İsim vermeyeyim şimdi ama güzel bir okulun bilgisayar mühendisinden mezun olmanız çok iyi olur Varsa şansınız varsa akademik bir şekilde bir şeyler yapmış olmanız çok iyi olur bunun için akademisyen olmanıza gerek yok bu arada Kendiniz çalışmanızı yaparsınız ve yayınlarsınız yani akademi böyle bir şey bunu yüksek lisans yapmanıza doktor yapmanıza gerek yok Siz bireysel olarak evinizde oturup da yine makale yazıp istediğiniz dergede yollayabiliyorsunuz diye istediğiniz derge konuşulmuyor ama yani bunu yapabiliyorsunuz O kadar şimdi şey yapmayayım şimdi beni düzeltirler bireysel olarak da sonuçta çalışma yapabilirsiniz akademiye gönül vermiş birisi olarak O kısımda yani faydası olabilir ama daha daha önemlisi en önemlisi onu sonra sakladım Yani bu tarz şirketler aslında mülakat esnasında biraz kasarlar Kasmaktan kastım işte siz bir hadi bir arama ağacında bir şey arayalım Hadi işte bir hani teknik algoritmik olarak sizin becerinizi ölçerler Hacker renk soruları gibi düşünün oralarda oralarda iyi olmak gerekiyor Bunun için baya böyle işte şeye çalışır gibi şimdi sınavların adları nasıl değişti bilmiyorum LYS mi? YKS falan YKS mi artık nasıl değişti bilmiyorum o yeni sınavlar Biraz böyle sınava çalışır gibi çalışmanız gerekebiliyor o tarzda yetkinliklerinize Çünkü İngilizce bir şekilde online mülakatlarda onlar biraz sizin için sorgulanıyor diyebilirim
+
+[Speaker 2]:
+Ya da verilen case'leri bitirmek için zaten deneyim edilmeniz gerekiyor ama
+
+[Speaker 1]:
+Bu ayrı bir şey söylediğim yani o soru çözme veri yapıları sorusu mesela Bu da işte bilgisayar mühendisliği gibi bir alandan alabileceğiniz dersler Ya da sonradan tamamlayabileceğiniz dersler Günün sonunda Türkiye'deki büyük şirketler bu şekilde Yurt dışındaki büyük şirketler üzerine de zaten orada ilgili arkadaşlar cevaplamıştır Yine benzer şekilde süreçler işliyor
+
+[Speaker 2]:
+Orada çok belki okulda takılmıyorlar o kadar
+
+[Speaker 1]:
+O kadar çok bölüme sizin mesleğinizi title'ınıza belki o kadar çok takılmıyor Yurt dışındaki şirketlerde ama günün sonunda sizin o iş için yetkin olup olmadığınıza dair Bayağı didik didik ediyorlar diyebilirim İyi yayınlar demiş Semre selamlar teşekkürler Onur hocamdan bir cevap Teşekkür ederiz biz teşekkür ederiz Nuriye Dezcan da teşekkürler demiş Teşekkürler Nuriye o zaman test konusuna gelebilirim Şu anda mevcutta yüksek lisans tezinde ne yapmıştın? Şu an doktora tarafında bir şeyler düşünüyor musun tez için?
+
+[Speaker 2]:
+Evet
+
+[Speaker 1]:
+Aslında yüksek lisans tarafında üretken yapay zekanın
+
+[Speaker 2]:
+Biraz daha işte bu sentetik tabular veri üretme üzerine çalışmıştım
+
+[Speaker 1]:
+O zamanki konjonktürde böyle bir start up girişimi vardı aslında Hala daha söz konusu tabi Tabular veri üretmekte orada kişimiz Biliyorsun mahremiyet çok büyük bir sorun Yani şirketler departmanlar arası bile veri paylaşamıyor Bu kapsamda biz de öyle bir geliştirmeler yapmıştık orada İşte farklı farklı gun modelleri üzerine Bunların işte mukayese edilmesi tarafında vs. Ya da bir sentetik tabular datanın evoluid edilmesi için bir framework geliştirme taraflarında Benim de çalışmalarım oldu diyebilirim Şu anda 9 Eylül'de yapmakta olduğum doktora henüz o aşamaya gelmedi Ama tabi ki kafamda bir şeyler var ama çok netleşmeden de bir şey söylemek istemiyorum Çünkü şu an çok değişiyor Bir anda agentik AI çıktı
+
+[Speaker 2]:
+Hani burada kartları yeniden dağıtıyor
+
+[Speaker 1]:
+Başka bir şeyler oluyor falan Bugün hani çok yaşa dediğimiz 2 gün sonra gidiyor ölüyor gidiyor bir bakıma Biz de çok önceden de belirlememiz gerekiyor bu arada Doktora tezini vs. 4 sene öncesinden bir şey söylemen gerekiyor onlara Yani baktığında saçma tabi İlk sene doktora girdiğin sene bir konu veriyorsun ve o konuyu çok değiştiremiyorsun da böyle işte
+
+[Speaker 2]:
+Yine üretken belki agentik taraflarda bir şeyler yapacak olduğum belli şu anda
+
+[Speaker 1]:
+Ama tam olarak kesin değil diyebilirim Şu anda derslerimi vermeye çalışıyorum
+
+[Speaker 2]:
+Derslerimi tamamlamak üzereyim
+
+[Speaker 1]:
+O da bir challenge yani Hem doktora da büyük bir şey yani gerçekten 4 sene Belli dersler devam ediyorsun falan filan Bir yandan da yani inanılmaz bir iş yoğunluğu hem danışmanlık tarafım var diye biliyorum Hem de şu an çok söylemiyoruz onları çok söylemiyoruz Taze CTO oldun yani o da var yani o da inanılmaz Hepsini birlikte hobilerini de düşününce Tabi hobilerine daha detaylı geliriz ama zaman yönetimi nasıl yapıyorsun? Bunları nasıl bir arada götürüyorsun?
+
+[Speaker 2]:
+Her şey zaman yönetiminden ibaret Yani şu ajanda mesela şöyle bir ajandan olacak Ve bu ajandaya ne varsa yazacaksın
+
+[Speaker 1]:
+Sana birisi bir şey söyledi yol üstünde Şirkette biri görürken koridorda biri bir şey söylüyor
+
+[Speaker 2]:
+Bir şey söylüyor Toplantıda bir şeyler oluyor falan
+
+[Speaker 1]:
+Her şeyi aklıma gelen hemen hemen her şeyi sürekli yazmaya çalışıyorum Yazmadığından unuttun gitti uçtu zaten o bilgi yok artık yani Unuttun o kişi bir daha geldiğinde neden olmadı diye o zaman hatırlıyorsun falan hani baktığında O yüzden hemen hemen her şeyi not alarak ilerlemeye çalışmak lazım bence O bizim RAM gibi bir şey yani bilgisayarın RAM nasıl olmazsa Bir ajandasız bir to do listiz de bir insan olmaz savruluyordur yani Uzay boşluğunda savrulmaktadır o insan Öyle çalışan birisi Hafta sonlarını buffer olarak kullanıyorum genelde Belki bu kötü bir şey Hani çünkü Hafta içi yetmiyor bir bakıma Hafta sonlarına taşıyor işler Bazen Gerçekçi olayım yani o çok iş hayatı Özel hayat dengesini çok kurabiliyor değilim şu anda Çünkü başka beklentilerim var benim de hayattan vaktim
+
+[Speaker 2]:
+Onlar daha öncelikli geliyor
+
+[Speaker 1]:
+O yüzden daha çok çalışmayı tercih ediyorum şu anda
+
+[Speaker 2]:
+Belki bu yayın 5-10 sene sonra böyle olmaz yani
+
+[Speaker 1]:
+Şu an olanı söylüyorum ben değişecektir elbette Düşüncelerim, görüşlerim vesaire Kaç saat çalışıyorsun bu arada?
+
+[Speaker 2]:
+Ya öyle değil hani o kadar böyle işte günde 10 saat, 12 saat falan değil aslında Verimli çalışabileceğin zaten belirli bir süreç var
+
+[Speaker 1]:
+Önemli olan o günü boş geçmemek, pas geçmemek Aslında bu yüzden biraz da hafta sonu vesaire Hani davasını ekliyorum oraya Çünkü Pazar günü otursam da ben 16 saat çalışamıyorum zaten Bir yerden sonra bitiyor, sıkılıyor artık Hani insan kusacağa geliyor bir şekilde Tamam yetiştirmen gereken, vermen gereken teslimatlar oluyor Ama bir yerden sonra sıkılıyorsun O yüzden cumartesi 8 saat, pazar günü 8 saat falan çalışmak gerekiyor Hani böyle dengelemek gerekiyor Yoksa o kadar kendime çok yüklenmek istemiyorum Yüklenmekten sonra da bir süre şeye düşebiliyorum Yani artık motivasyonsuz ya da burn alta yakalanma gibi durumunda var Dolayısıyla çok şaşırmadan her gün böyle azar azar bir şekilde de olsa Mesafe kat etmek gerekli Bilmiyorum kendimle orada böyle beynimle biraz oyunlar oynuyorum
+
+[Speaker 2]:
+Bazen zor işleri sona bırakıyorum
+
+[Speaker 1]:
+Kolay işlerden hızlıca dopamin elde ediyorum Mesela sabah kalktım ya kolay böyle ufak işleri yapıyorum ki işte Hani bir ivime kazansı yani Hani en azından bir marşa basayım Bir birinci vitese bir kalkış vitesine falan çevireyim kendimi
+
+[Speaker 2]:
+Bazen böyle oyunlar yapıyorum
+
+[Speaker 1]:
+Bazen kendime telkinler yoluyorum Hafta sonu bunu çalışmam lazım Hafta sonu bu işi yapacaksın Murat
+
+[Speaker 2]:
+Hani onu birkaç kez hatırlatıyorum kendime Beynimi böyle formatlıyorum bazen
+
+[Speaker 1]:
+Onları bitirmem lazım diye Tabii bunları yapıyorum ya
+
+[Speaker 2]:
+Atomu parçalamıyorum günün sonunda Teslimatlarımı yapmaya çalışıyorum Hani bir insan olarak bir şeylere yetişip
+
+[Speaker 1]:
+Kimseye yüzümü kızartmadan Evet ben bu isterleri yapabildim Çözüyorum bu ödevleri teslim ettim atıyorum Ya da işte bunu yolladım Yazdım çizdim bitti falan Bunu demek günün sonunda yaptığım şey Yoksa hani uzaya roket falan da fırlatmıyorum günün sonunda Ama sadece birden fazla işi aynı anda yapma konusunda Ayrıca bir zaman yönetimi gerekiyor Siz öyle zamanı çarçur ettiğim zaman Gitti yani
+
+[Speaker 2]:
+Hani bir kere de ipin ucunu kaçırmamam da gerekiyor
+
+[Speaker 1]:
+Mesela şu anda dönemin sonlarına geliyoruz artık mesela Baktığında Artık yüzlük yüzlük kuyruğuna geldik Hani buradan da derslerimi tamamlamış bir şekilde Çıkabilmeyi umuyorum Onun için Şey yani
+
+[Speaker 2]:
+Belki yazın falan biraz daha kendime karşı
+
+[Speaker 1]:
+Toleranslı olabilirim ama
+
+[Speaker 2]:
+Şu an öyle bir dönem değil Okul dönemi olduğu için
+
+[Speaker 1]:
+Diyebilirim Ya peki gene Benim de çok merak ettiğim bir şey özellikle de Yeni CTO olmanla birlikte belki Leadken daha fazla yapıyorsunuz bunu ama Günün ne kadar saatinde koda bakıyorsun? Çok değişiyor Baya değişiyor Mesela
+
+[Speaker 2]:
+Özellikle
+
+[Speaker 1]:
+Ya koda bakmak değil Aslında şöyle söyleyeyim Hani CTO'luk CTO ne yapar koda bakar falan CTO tarafında Daha çok teknolojik gelişmeleri
+
+[Speaker 2]:
+Takip etmek
+
+[Speaker 1]:
+Bunu siz şirketine entegre etmek
+
+[Speaker 2]:
+Ekibi bu konuda bilgilendirmek Ekibe gerekli işte eğitimleri
+
+[Speaker 1]:
+Düzenlemeleri sunmak Ekibe işte hani Teknolojik kapsamında Aslında çok daha üst düzey bir şekilde Yönlendirmek söz konusu Hani CTO'na var kod reviv yapar Falan gibi de değil aslında Yapabilir bu arada
+
+[Speaker 2]:
+Yapar Ben de yapıyorum
+
+[Speaker 1]:
+Çünkü farklı farklı işlerim doluyor ama Şey değil yani
+
+[Speaker 2]:
+Burada
+
+[Speaker 1]:
+Nasıl diyeyim sana
+
+[Speaker 2]:
+Belki böyle senin arayışın
+
+[Speaker 1]:
+Şu an sorguladığı şey
+
+[Speaker 2]:
+Biraz daha technical guru gibi
+
+[Speaker 1]:
+Hani gerçekten
+
+[Speaker 2]:
+Falan ama
+
+[Speaker 1]:
+Öyle değil biliyor musun? Daha çok soft skill Yani belki buradan
+
+[Speaker 2]:
+Konuyu oraya da bağlayabiliriz Hani
+
+[Speaker 1]:
+Yani muazzam ben teknoloji Muazzam işte
+
+[Speaker 2]:
+Kodlama tarafında yeteneklerim var Şöyle modeller geliştiriyorum Böyle modeller eğitiyorum
+
+[Speaker 1]:
+İşte alıyorum Çarpıyorum
+
+[Speaker 2]:
+Bölüyorum işte 1500 layer'lı
+
+[Speaker 1]:
+İşte 70 milyar parametreli
+
+[Speaker 2]:
+Modeller eğitirim Falan filan
+
+[Speaker 1]:
+Ziyade aslında Biraz daha Daha soft böyle Yeteneklerin olması gerekiyor İnsanları idare edebilmek Hani insanları yönetebilmek
+
+[Speaker 2]:
+Eki bir motive tutabilmek
+
+[Speaker 1]:
+Eki bir derdini anlayabilmek Gerekli teknolojik Eee
+
+[Speaker 2]:
+Eee
+
+[Speaker 1]:
+Eee Çalışma arkadaşlarım
+
+[Speaker 2]:
+Yani çalışma arkadaşlarım daha doğrusu
+
+[Speaker 1]:
+Hani personel deyince daha böyle şey oldu
+
+[Speaker 2]:
+Eee
+
+[Speaker 1]:
+Sorunları olabilir Yani ekip içi sorunlar olabilir Aslında çok böyle Karmıştık
+
+[Speaker 2]:
+Karmışık ve Sınıflandırılamaz bir konu Etiketlendirilemez bir konu Diyebilirim
+
+[Speaker 1]:
+Mesela daha çok makale de bakabilirsin Hani işte atıyorum İşte Forbes ne yayınlamış
+
+[Speaker 2]:
+Teknoloji şirketleri nereye gidiyor
+
+[Speaker 1]:
+Çok daha böyle üst düzeyde Bakabilirsin olaya
+
+[Speaker 2]:
+Hani yapay zekada en son
+
+[Speaker 1]:
+Nvidia'nın işte Liste fiyatlarından tutta işte OpenA'nın son stratejilerine kadar Hani bunların hepsi sonuçta
+
+[Speaker 2]:
+Senin ilgi alanına giriyor
+
+[Speaker 1]:
+O yüzden
+
+[Speaker 2]:
+Eee
+
+[Speaker 1]:
+Karışık diyebilirim Eee Ya burada evet Birazcık Ben daha teknik bir şeyler
+
+[Speaker 2]:
+Bekliyorum
+
+[Speaker 1]:
+Çünkü hani CTO deyince Yani açılımına baktığın zaman Aslında teknolojiyle alakalı bir şey
+
+[Speaker 2]:
+Doğru
+
+[Speaker 1]:
+Evet Her şeyden sorumlu böyle Tüm tekste ki bilen Her şeyi yönlendiren böyle bir şeymiş gibi Böyle akılda canlanıyor ama Daha böyle soft skiller diyorsun Evet Kesinlikle
+
+[Speaker 2]:
+Kesinlikle öyle Eee Ben de öyle insanlarla çalışmayı tercih ederim mesela Hani
+
+[Speaker 1]:
+Yani Kendisini technical guru gibi gören
+
+[Speaker 2]:
+Ve technical taraftan böyle
+
+[Speaker 1]:
+Donatmış vesaire İnsanlar Güzeldir
+
+[Speaker 2]:
+İyidir Hani
+
+[Speaker 1]:
+Ama soft skilleri yoksa Onlarla çalışmak istemem mesela
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Mesela kriz kaldıramıyorsa Eğer ki bir şeyleri yönetemiyorsa Eee
+
+[Speaker 2]:
+Ya da
+
+[Speaker 1]:
+Çok çabuk sinirleniyorsa Asebi ise Mesela Böyle Nevrotiklik varsa üzerinde Nasıl diyeyim
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Sürekli yılma Şikayet etme isteği
+
+[Speaker 2]:
+Hani bir
+
+[Speaker 1]:
+Demotive etme
+
+[Speaker 2]:
+Demoralize etme gibi durumlar
+
+[Speaker 1]:
+Mesela böyle insanlar olur her yerde Sen de karşılaşmışsındır belki Mesela bunları Değişmem yani
+
+[Speaker 2]:
+Baktığında
+
+[Speaker 1]:
+Soft skill önemlidir Hani
+
+[Speaker 2]:
+Eee
+
+[Speaker 1]:
+Şöyle ki O pozisyon için Diyelim ki
+
+[Speaker 2]:
+Diyelim ki
+
+[Speaker 1]:
+Enes Data scientist pozisyonu için Gidip
+
+[Speaker 2]:
+O bankanın
+
+[Speaker 1]:
+İlgili kişileri İK'sı artık Neyse Organizasyon yöneticileri Bir Silsile oluşturuyor Diyor ki Sen mesela bir adaysın şimdi
+
+[Speaker 2]:
+Ben de istihdam edecek olan Bir
+
+[Speaker 1]:
+İK görevlisiyim
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Organizasyonda Senin için Daha doğrusu Data scientist pozisyonu için Bir şablon oluşturmam lazım Öncelikle diyorum Enes'in
+
+[Speaker 2]:
+Eee
+
+[Speaker 1]:
+Deneyimine bakayım Mesela Sen bir CV'ni yüklüyorsun
+
+[Speaker 2]:
+Platforma
+
+[Speaker 1]:
+Biz o CV'den
+
+[Speaker 2]:
+Deneyimini senin
+
+[Speaker 1]:
+Pars ediyoruz Mesela
+
+[Speaker 2]:
+Ne kadar
+
+[Speaker 1]:
+Kaç yıllık bir öğrencisin
+
+[Speaker 2]:
+Ya da hangi bölümden
+
+[Speaker 1]:
+Mezunsun Hangi okuldan mezunsun Sen ne kadar Nerelerde çalıştın
+
+[Speaker 2]:
+Deneyim yılına bakıyoruz
+
+[Speaker 1]:
+Mesela Belki de çünkü Senin bizim bankamızın Beklentisi 3 yıl deneyimli olmak
+
+[Speaker 2]:
+Atıyorum
+
+[Speaker 1]:
+Biz CV'ni aldık senin Pars ettik
+
+[Speaker 2]:
+Buna göre Belki de seni Otomasyona bile Yani pipeline'e bile
+
+[Speaker 1]:
+Sokamadık Belki Ya da sen zaten
+
+[Speaker 2]:
+2-3 yıl deneyimli birisiydin
+
+[Speaker 1]:
+Tamamen farazi konuşuyorum Sürece girdin Başvuru yaptın Dolayısıyla sürece de Giriş yapmış oldun Aslında Winter platformuna Ne oluyor İK'nın belirlediği Aşamalardan geçiyorsun Mesela teknik Teknik bir aşama Şimdi data scientist olan
+
+[Speaker 2]:
+Birine ne sorarsın
+
+[Speaker 1]:
+Python sorarsın R sorarsın belki SQL sorarsın Ya da işte ne yaparsın İstatistik sorarsın Böyle şeyler sorarsın Matematik sorarsın
+
+[Speaker 2]:
+Atıyorum
+
+[Speaker 1]:
+Bu bir teknik step Senin bu teknik stepi Geçmen gerekiyor Teknik stepi Nasıl geçiyorsun peki Abi baya Sana sorular soruluyor Ve sen video esnasında
+
+[Speaker 2]:
+Video kaydederek
+
+[Speaker 1]:
+O sırada Hani sistem aracılığıyla Ya da doğrudan Klavyeni kullanarak bir şekilde Hani bazı sorularda Açık uçlu sorular Metin olarak da yazabiliyorsun Ya da sesli de cevap verebiliyorsun Videoda da cevap verebiliyorsun Doğrudan
+
+[Speaker 2]:
+Cevaplıyorsun soruları
+
+[Speaker 1]:
+İşte atıyorum Mesela Bayas Varyans Tradeoff'u nedir
+
+[Speaker 2]:
+Mesela atıyorum
+
+[Speaker 1]:
+Hani baktığında Böyle bir soru geldiğini düşün Sen de bunun için Başladın
+
+[Speaker 2]:
+Anlatma
+
+[Speaker 1]:
+İşte şöyle diyorsun Şu tradeoff
+
+[Speaker 2]:
+Böyledir Böyledir
+
+[Speaker 1]:
+Şöyle olur
+
+[Speaker 2]:
+Falan diye
+
+[Speaker 1]:
+Anlatıyorsun Biz daha sonra
+
+[Speaker 2]:
+Senin bu anlattıklarını
+
+[Speaker 1]:
+Transkripte döküyoruz
+
+[Speaker 2]:
+Aslında bir anlamlandırıyoruz Yani videoya baktığında
+
+[Speaker 1]:
+O sesi Ve bu soruya
+
+[Speaker 2]:
+Bu cevap Nasıl değerlendirilebilir
+
+[Speaker 1]:
+Tarzında
+
+[Speaker 2]:
+Bizim orada geliştirme Yaptığımız
+
+[Speaker 1]:
+Sistemler var Burada tabii ki
+
+[Speaker 2]:
+Etik kuruluyla da
+
+[Speaker 1]:
+Akademisyen Kadroyla da çok çalıştık
+
+[Speaker 2]:
+Hani değerlendirmek için
+
+[Speaker 1]:
+İnsanları hakkaniyetli bir şekilde
+
+[Speaker 2]:
+Alan uzmanlarıyla da
+
+[Speaker 1]:
+Çok çalıştık Her domeyne özgü
+
+[Speaker 2]:
+Sorularımız var
+
+[Speaker 1]:
+Ve senin yolladığın
+
+[Speaker 2]:
+Cevapların O sorularla ne kadar
+
+[Speaker 1]:
+Örtüşüp örtüşmediğine Dahi aslında Eşsiz bir algoritmeyle Oylama yapıyoruz Puanlama yapıyoruz Eşsiz bir algoritme Kritikti
+
+[Speaker 2]:
+Bu arada ben
+
+[Speaker 1]:
+Algoritmaya soracaktım Tam nasıl bir şey Kullanıyorsunuz Hemen yazıyorum
+
+[Speaker 2]:
+Aslında Göründüğünden
+
+[Speaker 1]:
+Çok daha kompleks Çünkü
+
+[Speaker 2]:
+Baktığında Yani
+
+[Speaker 1]:
+Data Scientist için Python bileceksin
+
+[Speaker 2]:
+İşte atıyorum
+
+[Speaker 1]:
+SQL bileceksin
+
+[Speaker 2]:
+Buna göre sorular var Buna göre bir
+
+[Speaker 1]:
+Sistem yürütüyoruz orada Ama şimdi diyelim ki
+
+[Speaker 2]:
+Teknikten çıktık
+
+[Speaker 1]:
+Tamam biz sana
+
+[Speaker 2]:
+Teknikte 10 tane soru sorduk
+
+[Speaker 1]:
+Sen bu sorulara
+
+[Speaker 2]:
+Videolu cevaplar yazdın
+
+[Speaker 1]:
+Çektin Klavyenle yazdın
+
+[Speaker 2]:
+Bir şekilde Çoktan seçmelileri İşaretledin falan
+
+[Speaker 1]:
+Sen bu teknik testinden Çıktın abi Senin bir skorun Oluşuyor artık Ve o skorun Enes ve işte
+
+[Speaker 2]:
+Ayşe, Fatma Ahmet, Mehmet Neyse artık
+
+[Speaker 1]:
+Sen o grubun içerisine Artık bir sıralamadasın Yani şeffaf bir şekilde
+
+[Speaker 2]:
+Süreç takip edilebiliyor orada
+
+[Speaker 1]:
+Senin teknikte
+
+[Speaker 2]:
+Senin bir derecen var
+
+[Speaker 1]:
+Sonra neye giriyorsun
+
+[Speaker 2]:
+Yetkinliğe
+
+[Speaker 1]:
+Sen Girişken biri misin Sen iletişimi Düzgün biri misin Sen Dışa dönük biri misin İçe kapalı biri misin Yani atıyorum Liderlik yeteneğin var mı senin Bu soruları soruyoruz
+
+[Speaker 2]:
+Tabi bu soruları Böyle sormuyoruz
+
+[Speaker 1]:
+Biz sana bu sorular soruyoruz
+
+[Speaker 2]:
+Ve senin verdiğin cevaplardan
+
+[Speaker 1]:
+Biz senin Nasıl yetkinliklere Sahip olduğunu çıkarıyoruz Aslında Ve bu da yapay zeka destekleri Burada kamera bazlı bir şey Yapıyor musunuz
+
+[Speaker 2]:
+Yoksa
+
+[Speaker 1]:
+Yapıyoruz
+
+[Speaker 2]:
+Şöyle ki
+
+[Speaker 1]:
+Senin facial expression'larını da
+
+[Speaker 2]:
+Alıyoruz biz
+
+[Speaker 1]:
+Aslında baktığında
+
+[Speaker 2]:
+Ne kadar tedirgin hissediyorsun Üzgün mü hissediyorsun
+
+[Speaker 1]:
+Şaşırmış mı hissediyorsun
+
+[Speaker 2]:
+Mutlu mu hissediyorsun Sorularda
+
+[Speaker 1]:
+Hani bu bilgiyi alıyoruz
+
+[Speaker 2]:
+Ama bu bilgiyi değerlendirmeye Tabi tutmuyoruz Aslında bu bilgi
+
+[Speaker 1]:
+Sadece bizim orada Yani HR
+
+[Speaker 2]:
+Organizasyon admininin de
+
+[Speaker 1]:
+Elini güçlendirmek için
+
+[Speaker 2]:
+Verdiğimiz bir bilgi
+
+[Speaker 1]:
+Sorularda Enes'in mutlu olması Ya da tedirgin hissetmesi Korkmuş hissetmesi Şaşırmış hissetmesi
+
+[Speaker 2]:
+Atıyorum tamam
+
+[Speaker 1]:
+Üzgün hissetmesi Bunların hepsi Birer orada Sunduğumuz bazı yardımcı bilgiler
+
+[Speaker 2]:
+Ama değerlendirmeye
+
+[Speaker 1]:
+Tabi tutulmaz Biz sana sorduğumuzda Bayas Varyans
+
+[Speaker 2]:
+Tradeoff'u ile ilgili Sen ne cevap verdiysen
+
+[Speaker 1]:
+Senin ırkını Dilini
+
+[Speaker 2]:
+Cinsiyetini Dinini
+
+[Speaker 1]:
+Hiçbir şeyini
+
+[Speaker 2]:
+Yani tipini
+
+[Speaker 1]:
+Yani şeklini Falan hiçbir şeyini Gözetmeden aslında
+
+[Speaker 2]:
+Yaşını
+
+[Speaker 1]:
+Cinsiyetini Hiçbir şeyi gözetmeden Biz sadece
+
+[Speaker 2]:
+Bu cevabın Tutarlılığına bakıyoruz Bu pozisyon için
+
+[Speaker 1]:
+Böyle bir pozisyon için Data scientist pozisyonu Belki junior Belki senior Bu pozisyona göre Böyle bir soru sorulduğunda
+
+[Speaker 2]:
+Bu cevap geldiği takdirde
+
+[Speaker 1]:
+Hani nasıl yorumluyoruz bunu
+
+[Speaker 2]:
+Puanlandırıyoruz Ve puanlandırmamızın
+
+[Speaker 1]:
+Sebebini de açıklıyoruz Aslında Diyoruz ki Enes Bayas ne bilmiyor Varyans'ı
+
+[Speaker 2]:
+Bilas biliyor Aradaki tradeoff'u Açıklamaya çalışmışken Ama bilmiyor Atıyorum tamamen Şu an Böyle bir değerlendirme de sunuyoruz
+
+[Speaker 1]:
+Hani sen dedin ya İK nasıl bilebilir diye
+
+[Speaker 2]:
+Az önce ona benzer bir şey Yapın
+
+[Speaker 1]:
+İşte Winter'la bilebiliyor Çünkü İK'ya da biz tamamen
+
+[Speaker 2]:
+Açıklanabilir bir rapor sunuyoruz Ve puanlandırma sunuyoruz
+
+[Speaker 1]:
+Bunu sadece teknik için değil Yetkinlik için de yapıyoruz Çünkü
+
+[Speaker 2]:
+Ben nereden bileyim
+
+[Speaker 1]:
+Benim şirketime uyumlu bir misin sen Belki de senin liderlik becerin yok
+
+[Speaker 2]:
+Ben lider olarak
+
+[Speaker 1]:
+Seni düşündüm Pozisyon almak istedim
+
+[Speaker 2]:
+Dolayısıyla benim yetkinlik sorularım
+
+[Speaker 1]:
+Liderlik temasında dönüyor Bunu da çözmüş oluyorum Bunu da ben anlamış oluyorum seni Seninle birlikte 500 kişiyi Otomasyonla
+
+[Speaker 2]:
+Bunu AI ile birlikte yapmış oluyorum
+
+[Speaker 1]:
+Aslında hiçbir insan eforu yok burada Ya da süreç tamamen ölçeklenebilir Aynı anda binlerce kişi de girebilir senin pozisyonuna Hiçbir sıkıntısı yok Ve sen hepsini şeffafça izleyebilirsin Ya bir istihdam süreci O kadar kaotik ki Yani bir insan alınacak
+
+[Speaker 2]:
+Eyvah yani
+
+[Speaker 1]:
+Daha büyük bir kaos yok
+
+[Speaker 2]:
+Hani kim nereden
+
+[Speaker 1]:
+CV'ye nasıl baktı
+
+[Speaker 2]:
+Nasıl değerlendirdi Kimler nasıl
+
+[Speaker 1]:
+CV'leri eledi Bir sorun CV'leri aldın Gerisi bir sorun
+
+[Speaker 2]:
+İK'cı girdi
+
+[Speaker 1]:
+Sabah mı girdi
+
+[Speaker 2]:
+Akşam mı girdi mülakata
+
+[Speaker 1]:
+Hani Ne anlattı
+
+[Speaker 2]:
+Ne anladı Morali nasıldı
+
+[Speaker 1]:
+Kaşını
+
+[Speaker 2]:
+Gözünü beğendi mi
+
+[Speaker 1]:
+Belki sen onun eski sevgilisine benziyorsundur Otomatik önyargılı geldi sana
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Bunların hepsi çok mümkün şeyler Yani insanlık olarak zaten Önyargısızız diyebilir miyiz Yani duygusal varlıklarız bu vaktinde Dolayısıyla
+
+[Speaker 2]:
+Winter Tüm bu sorunların hepsini bertaraf etmeye yarıyor
+
+[Speaker 1]:
+Ya peki Aklıma gelen soru Hani gerçekten
+
+[Speaker 2]:
+Hani ben Winter'ı bilmiyorum
+
+[Speaker 1]:
+Hiç kullanmadım Tabi ki Ama B2C'yi de aynı zamanda destekliyor olacağız
+
+[Speaker 2]:
+O öyle de geliştirmemiz var Bahsederim Şu an B2B bir ürün Evet
+
+[Speaker 1]:
+Tamamdır İlk gelen soru şu Beni İK Winter'la değerlendiriyor Winter beni değerlendiriyor Belki Winter'ın içerisinde kullanılan algoritmada bir bias olduğunu Veya olmadığını nereden bileceğim Ona nasıl güvenebilirim Buradaki güvenilirliği nasıl veriyorsunuz Bizim bir Grand Tour database'imiz var Bu Grand Tour database
+
+[Speaker 2]:
+Etik kurulundan geçmiş onaylanmış bir database aslında Ve alanın uzmanlarıyla
+
+[Speaker 1]:
+Bizim yani doçent hocalarımızla birlikte çalıştığımız bir Sistem disiplin diyebilirim Şöyle ki Enes bizim Python tarafında yüzlerce sorumuz var Ve bu yüzlerce soru için tekabül eden
+
+[Speaker 2]:
+Yüzlerce farklı farklı Zayıf güçlü Orta
+
+[Speaker 1]:
+Saçma
+
+[Speaker 2]:
+Mantıklı Akıllıca Türlü türlü cevaplarımız var
+
+[Speaker 1]:
+Ve her bir soru cevap çifti içinde beklediğimiz bir puan var Bunu ben belirlemiyorum
+
+[Speaker 2]:
+Bunu alan uzmanları belirliyor
+
+[Speaker 1]:
+Bunu akademik kurul belirliyor Yani diyor ki bu soru bu cevap 60 olmalı Jüriye gidiyor bu Ben 60 diyorum
+
+[Speaker 2]:
+Sen ben hepimiz jüri deyiz 60 65 70 75 60
+
+[Speaker 1]:
+65 Ortalamasına 64.8 Tamam Bu sorunun hakkı 64.8'dir Bizim algoritmamızın son modeli Bu Grand Tour database'i geldiğinde kaç verdi 68 Sapmamız ne İşte 4.3 atıyorum Ne oldu kabul edilebilir mi
+
+[Speaker 2]:
+Evet kabul edilebilir diyoruz
+
+[Speaker 1]:
+Diyoruz ki işte %90 şu kadar Eccuracy ile birlikte bu sistem yüzlerce soruda her bir sistemde denenmiş Ve okeydir Hani uygundur tarzında Bunu Grand Tour'un database'e dayanarak söylüyoruz aslında Yoksa dediğin gibi bunu nasıl valide edeceğiz ki Hani belki de bias var
+
+[Speaker 2]:
+İşte bias olmadığını böyle anlıyoruz
+
+[Speaker 1]:
+Ayrıca Bias'tan kastın ne bilmiyorum ama
+
+[Speaker 2]:
+Hani nasıl bias Demografik bias var
+
+[Speaker 1]:
+Bias'ın çok çeşitleri var Bizim algoritmalarımız bu biaslama metriklerinden de geçiyor Hani facial expression için diyorum İşte içeride siyahi var mıydı mesela atıyorum
+
+[Speaker 2]:
+Ben face detect ediyorum
+
+[Speaker 1]:
+Tabii ki de bizim algoritmalarımız bir sürü bias metriklerinden de geçmiş bir vaziyette
+
+[Speaker 2]:
+Kabul gördü
+
+[Speaker 1]:
+Bias'tan kastını orada bilmemekle birlikte Değerlendirdiğimiz tek şey Soru Cevabı Ve senin pozisyona başvurduğun title
+
+[Speaker 2]:
+Neyse artık
+
+[Speaker 1]:
+Bunlardan ibaret
+
+[Speaker 2]:
+Yani onun dışında
+
+[Speaker 1]:
+Seninle ilgili hiçbir detay bilmiyoruz Kişisel bir biasımız zaten olamaz Ya mesela ilk Ben böyle bir şey yapacak olsaydım Bakman şey geldi Basitçe bir şey yapmak istiyorum Ve transkrip var elimde Kişi bir cevap veriyor
+
+[Speaker 2]:
+Ve cevaplar var
+
+[Speaker 1]:
+Herhalde bir similarity score çıkartırdım Basitçe Bunlar ne kadar örtüşüyor Diyelim ki Ama Yani
+
+[Speaker 2]:
+Bir soru sordun bana
+
+[Speaker 1]:
+Ben o soruyu sana 500 farklı şekilde
+
+[Speaker 2]:
+Mükemmel bir formda da yanıtlayabilirim 500 farklı şekilde çok kötü bir formda da yanıtlayabilirim
+
+[Speaker 1]:
+Her birisinin similarityleri çok farklı olur
+
+[Speaker 2]:
+Ama günün sonunda
+
+[Speaker 1]:
+Hani
+
+[Speaker 2]:
+Ya hikaye anlatıyorsun Mesela şey diyorum ben sana
+
+[Speaker 1]:
+Bana şirkette yaşadığın çok kötü bir durumu Ve onunla nasıl başa çıktığını anlat Mesela iletişim konusunda yaşadığın çok büyük bir sıkıntıyı Bir ekip arkadaşınla Ve bunu nasıl çözümlediğini anlat diyorum Şimdi Sen kimsin?
+
+[Speaker 2]:
+Şirketin kim?
+
+[Speaker 1]:
+Düşünsene
+
+[Speaker 2]:
+Herkesten milyon tane farklı hikaye çıkıyor
+
+[Speaker 1]:
+Buna zaten bir cevap da yok Yani bunu nasıl ölçeceksin?
+
+[Speaker 2]:
+Heh Heh
+
+[Speaker 1]:
+İşte evet
+
+[Speaker 2]:
+Oraya getirmeye çalışıyorum Hani
+
+[Speaker 1]:
+Sen şey gibi sanki
+
+[Speaker 2]:
+Ben sanki 81'in kara kökünü sordum da
+
+[Speaker 1]:
+Sen de şey dedin hani
+
+[Speaker 2]:
+9 dedim oradan similarity falan
+
+[Speaker 1]:
+Yani yok Çok farklı hikayeler çıkıyor Ve bu hikayelerin hiçbirisi yanlış değil Hiçbirisi Baktığında
+
+[Speaker 2]:
+Beklenen hikaye ya da beklenmeyen hikaye diye bir durum yok
+
+[Speaker 1]:
+Günün sonunda Bu çok zor
+
+[Speaker 2]:
+Karmaşık bir problem
+
+[Speaker 1]:
+Similarity'ye indirgenebilecek bir problem Bunu işte merak ediyorum ben de Yani ben basit bir şeyden hani bahsedeyim orada Hani bunu Bununla bile Basitçe modelleyemezsek Modelleyemezken bile İşte mesela teknik sorularda düşünelim Bunun cevabı bellidir Aslında yöntemde Bir milyar kere değişmez Yani baktığın zaman Teknik tarafta bir Algoritma sorsun cevabı Aşağı yukarı Aynı şekilde herkes düşünür ve çözer Çok zaten Mülakat anında uzatmak istemezsin Oradaki cevabı Aklına ilk gelen Basic bir şeyi çözmeye çalışırsın Süre kısıtında olduğu için Ya bunu düşününce Similarity belki mantıklı olabilirdi Ama bu tarz böyle Ucu açık sorularda Hiçbir mantığı Alakası yok Yani düşündüğün vakit O zaman burada Algoritmada bir CNA desteği var mı? Tabii ki de Tabii ki de
+
+[Speaker 2]:
+CNA Biz her seferinde Sana çalıştırsak Her seferinde
+
+[Speaker 1]:
+65 65 65
+
+[Speaker 2]:
+Vermiyor Ya da her seferinde Aynı açıklamayı yapmıyor Kesinlikle CNA
+
+[Speaker 1]:
+Büyük dil modelleri kullanıyoruz İşte mesela Bayas'da gelmeye çalıştığım yerde Biraz orasıydı Arkada kullanılan LLM'in bir Bayası olabilir mi?
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Bu LLM'in Tam böyle doğru Değerlendirdiğini Sapıtmadığını Gene sen bunu Test ettik diyorsun Hani böyle bir Base'imiz vardı
+
+[Speaker 2]:
+Bunu şey yaptık Ground truth database'imize bakarak Bunu anlayabilirim
+
+[Speaker 1]:
+Ben sana şey deseydim
+
+[Speaker 2]:
+Biz bunu hiç test etmedik deseydim Bayas konusunda ne diyebilirdim ki? Elimde ne olabilirdik ki? Ama ben sana şunu diyorum
+
+[Speaker 1]:
+Bak şu kadar 100x atıyorum Hani soru ve 100x cevap Soru cevap setleri
+
+[Speaker 2]:
+Kombinasyonlar için Ben bunu denediğimde
+
+[Speaker 1]:
+Bu şekilde
+
+[Speaker 2]:
+Ground truth Labellarıma Bu kadar yaklaştım Diyorum
+
+[Speaker 1]:
+Bunun dışında
+
+[Speaker 2]:
+Nasıl bayası ölçümleyebilirim ki zaten? Rule best bir çözüm gibidir
+
+[Speaker 1]:
+Bana da rule best sanki çözer gibi geldi
+
+[Speaker 2]:
+Bilemiyorum
+
+[Speaker 1]:
+If the Nels Şirkette yaşadığın kötü bir hikaye anlat işte
+
+[Speaker 2]:
+Şeyse hani
+
+[Speaker 1]:
+İşte Biri varmış biri yokmuşla başlıyorsa
+
+[Speaker 2]:
+If the Nels Onaylama
+
+[Speaker 1]:
+0 ver Ama işte Kurumsal bir şirket adıyla başlıyorsa
+
+[Speaker 2]:
+100 ver falan Yok tabi
+
+[Speaker 1]:
+Muhtemelen o da şaka yapıyor
+
+[Speaker 2]:
+AI herhalde marketing vesaire diyerek
+
+[Speaker 1]:
+Bunu rule best çözmüyoruz mümkün değil zaten
+
+[Speaker 2]:
+Mümkün değil Yani senin verdiğin bir cevabı
+
+[Speaker 1]:
+Şimdi burada hani İş iyice reklam kokutmamak için de
+
+[Speaker 2]:
+Bir açıp demo vesaire gösteremem Ama
+
+[Speaker 1]:
+Kişiler isterse
+
+[Speaker 2]:
+Youtube'dan vesaire de bakabilirler Winter
+
+[Speaker 1]:
+Recruitment Şekilde Hani araştırabilirler
+
+[Speaker 2]:
+Ya da platforma girebilirler doğrudan Ya da benden Demoda talep edebilirler
+
+[Speaker 1]:
+Baktığınızda Özellikle şirketler şu anda B2B hedefimiz olduğu için Bir rule best bir şey söz konusu değil
+
+[Speaker 2]:
+Kesinlikle
+
+[Speaker 1]:
+Zaten mümkün de değil Hiçbir şekilde Çıkar yolu da yok Burada doğrudan
+
+[Speaker 2]:
+AI
+
+[Speaker 1]:
+Aslında uçtan uca
+
+[Speaker 2]:
+Winter bir
+
+[Speaker 1]:
+AI based bir üründür Aksi de zaten iddia edilemez Bayaz konusunda da
+
+[Speaker 2]:
+Grand Truth Data'ya ve Etik kurula Akademisyen Kadroya güveniyoruz Diyebilirim orada Akademik boardumuz da var zaten
+
+[Speaker 1]:
+Yani dil uzmanlarıyla
+
+[Speaker 2]:
+Çalışıyoruz atıyorum
+
+[Speaker 1]:
+Bilissel Alanda kapasite ölçmek için
+
+[Speaker 2]:
+O uzmanlarla çalışıyoruz
+
+[Speaker 1]:
+İngilizce tarafında
+
+[Speaker 2]:
+Apayrı uzmanlarla
+
+[Speaker 1]:
+Çalışıyoruz zaten Yani Yine bilissel tarafta Matematik tarafında
+
+[Speaker 2]:
+Doçent hocalarımızla
+
+[Speaker 1]:
+Çalışıyoruz Bu şekilde diyebilirim Evet yani Bu arada Link galiba
+
+[Speaker 2]:
+Winter nokta
+
+[Speaker 1]:
+Mi şeklinde Doğrudur evet
+
+[Speaker 2]:
+Landing page'e Winter nokta Mi'ye yazarak Ulaşabilirsiniz Evet doğru
+
+[Speaker 1]:
+Ben chatten de atayım Bakmak isteyenler Bakabilir Fiyatforma Süper olur
+
+[Speaker 2]:
+Aynı zamanda LinkedIn'den de
+
+[Speaker 1]:
+Takip edebilirler Zaten paylaşmışsındır
+
+[Speaker 2]:
+Sen linkleri orada
+
+[Speaker 1]:
+Tabii ki Burada hemen Emine'nin bir sorusu var Çete dönersek Merhabalar Ben istatistik bölümü Öğrencisiyim Ve veri bilimi alanında Yüksek lisans yapmayı Düşünüyorum Şu anda kendimi Ekstra hangi konularda Geliştirmedim Ya Emine
+
+[Speaker 2]:
+Öncelikle istatistik bölümü Hala öğrencisi
+
+[Speaker 1]:
+Kaşıncı sınıf
+
+[Speaker 2]:
+Bilmiyorum ama Veri bilimi alanında
+
+[Speaker 1]:
+Yüksek lisans yapabilirsin
+
+[Speaker 2]:
+Böyle bir Tamamlamaya Gidebilirsin
+
+[Speaker 1]:
+Ya genelde İstatistik tarafı
+
+[Speaker 2]:
+Ve veri bilimi tarafı
+
+[Speaker 1]:
+Uyumlu oluyor
+
+[Speaker 2]:
+Hani bazı bölümler oluyor
+
+[Speaker 1]:
+Yüksek lisansa
+
+[Speaker 2]:
+Müsaade etmiyor Mesela senin
+
+[Speaker 1]:
+Çıkış bölümüne göre Değişiyor Orada yaparsın
+
+[Speaker 2]:
+Sorun olmaz ki
+
+[Speaker 1]:
+Zaten istatistik Yani dün istatistik Bugün baktığında
+
+[Speaker 2]:
+Veri bilimi olarak
+
+[Speaker 1]:
+Geçiyor çoğu kavramda Eğer ki Yani veri bilimi tarafına
+
+[Speaker 2]:
+Kendini geliştirmek istiyorsan
+
+[Speaker 1]:
+Kesinlikle yüksek lisansı
+
+[Speaker 2]:
+Falan bekleme
+
+[Speaker 1]:
+Zaten başla
+
+[Speaker 2]:
+Yani en iyi gün Başlayabileceğin gün
+
+[Speaker 1]:
+Bugün şu anda Yani YouTube'da şu anda
+
+[Speaker 2]:
+Elde edemeyeceğin
+
+[Speaker 1]:
+Hiçbir kaynak yok
+
+[Speaker 2]:
+Baktığında
+
+[Speaker 1]:
+Maalesef Yüksek lisansı
+
+[Speaker 2]:
+Ya da
+
+[Speaker 1]:
+Tırnak için
+
+[Speaker 2]:
+Doktorya Hani çok böyle Gözünüzde büyütmeyin Yani eğer ki bir
+
+[Speaker 1]:
+Öz disiplininiz varsa
+
+[Speaker 2]:
+Evde gerçekten Kendinizle kararlı bir şekilde
+
+[Speaker 1]:
+Hani dedikasyon Sağlayabilecekseniz Yani yine çok Daha fazlasını da
+
+[Speaker 2]:
+Elde edebilirsiniz
+
+[Speaker 1]:
+Orada edineceğiniz kaynaklardan Benim sevdiğim bir hoca var Enes Bir gün bana şey dedi Böyle dersteyi hiç unutmuyorum Ya Murat dedi
+
+[Speaker 2]:
+Kaç hafta var bir dönemde dedi Baktı 14 hafta mı var
+
+[Speaker 1]:
+Ya dedi
+
+[Speaker 2]:
+2 hafta net ben hasta olurum oğlum dedi
+
+[Speaker 1]:
+2 hafta ben hastayım Geç dedi 2 hafta da sen hasta olursun dedi 1 hafta memlekete gitmez misin dedi
+
+[Speaker 2]:
+Hocam dedim 2 hafta bile giderim Git dedi
+
+[Speaker 1]:
+Bizim 1 hafta sınav oluyor
+
+[Speaker 2]:
+Ama kafa tatili de oluyor dedi Olmuyor mu Oluyor hocam dedim
+
+[Speaker 1]:
+1 hafta sınav olursa
+
+[Speaker 2]:
+1 hafta kafa tatili oluyor Öyle bir
+
+[Speaker 1]:
+Okul kültürüne göre değişiyor Abi üniversite şimdi
+
+[Speaker 2]:
+Kimi üniversiteler daha farklı
+
+[Speaker 1]:
+Eee hocam dedim Şimdi adam sayıyor
+
+[Speaker 2]:
+Ne kalacak elimde Ona bakacak
+
+[Speaker 1]:
+Bana şey anlatacak
+
+[Speaker 2]:
+Ona göre
+
+[Speaker 1]:
+Yanlış olmasın
+
+[Speaker 2]:
+Görüntü işleme falan diye ders
+
+[Speaker 1]:
+Öyle şeyler anlatıyordu hocam O sırada Çok sevdiğim bir hoca
+
+[Speaker 2]:
+1 hafta da öyle memlekete gittik Hani 1 hafta kafa tatili oldu zaten sınavdan sonra Ya dedi Hepi topu benim sana anlatabileceğim burada dedi
+
+[Speaker 1]:
+Hani kar yağsa bir şey olsa falan
+
+[Speaker 2]:
+Ben dedi
+
+[Speaker 1]:
+En fazla fazla dedi
+
+[Speaker 2]:
+4-5 hafta var dedi Ben bu 4-5 haftada
+
+[Speaker 1]:
+2 saat maksimum sana bir şeyler anlatsana Ne anlayacaksın dedi Yani 4-5 hafta düşün 2 saat düşün Sen bugün bir Udemy kursuna Bir şey atıyorum tamam
+
+[Speaker 2]:
+Udemy örnek olarak
+
+[Speaker 1]:
+Reklam olmasın
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Yani bilgi yarışım ne kadar ucuz Değil mi şu anda Hani Al gidiyorsun
+
+[Speaker 2]:
+50 lira veriyorsun
+
+[Speaker 1]:
+Bir kurs alıyorsun 18 saat
+
+[Speaker 2]:
+Ya sen o kursu bir hakkını ver Gerçekten anla Hani o eğitmenin gerçekten
+
+[Speaker 1]:
+Hani anlatmaya çalıştığı şeyi
+
+[Speaker 2]:
+O zene bezene çektiği şeyi
+
+[Speaker 1]:
+Gerçekten yarısını bile anlasan O dersten sana çok daha fazla katkısı bile olabilir Bu yüzden Kendi kendinize yapacağınız şeyi küçümsemeyin
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Yani yüksek lisans
+
+[Speaker 2]:
+Evet güzel mi güzel
+
+[Speaker 1]:
+Yüksek mühendis oluyorsun Bir şey oluyor Hani yüksek yapmış oluyorsun
+
+[Speaker 2]:
+Belki doktoraya hazırlık oluyor Bir basamak olarak oluyor Falan
+
+[Speaker 1]:
+Askerliğin varsa onu engelliyor
+
+[Speaker 2]:
+Öteliyor Falan bir şeyler
+
+[Speaker 1]:
+Ya evet İyi tarafları var ama
+
+[Speaker 2]:
+Kendi kendinize
+
+[Speaker 1]:
+Geliştireceğiniz Olan kısmı Küçümsemeyin Azımsamayın
+
+[Speaker 2]:
+Kesinlikle orada
+
+[Speaker 1]:
+Potansiyelinizi Fark ederseniz Daha iyi şeyler çıkarabilirsiniz Tamamen limitleri kendiniz kafanızda belirliyorsunuz Aslında biraz daha Ya da etiketleri
+
+[Speaker 2]:
+Hani göz alıcı Çok parlak olan o
+
+[Speaker 1]:
+Erişilmez gibi düşündüğünüz şeyleri de Biraz daha insan olarak Kendimiz belirliyoruz aslında Ama öyle değil Evet kesinlikle
+
+[Speaker 2]:
+Bu arada ben de bir
+
+[Speaker 1]:
+İstetistik öğrencisiyim Ve son sınıftayım şu anda Bir yandan da Çalışmaya çalışıyorum İşte bir yandan da Komünite işleri var
+
+[Speaker 2]:
+Sen son sınıftan Ben seni mezun sanıyorum
+
+[Speaker 1]:
+Yok ben son sınıftayım
+
+[Speaker 2]:
+Doğru ya Çok pardon
+
+[Speaker 1]:
+Çok pardon
+
+[Speaker 2]:
+Tamam
+
+[Speaker 1]:
+Tamam Umarım Uzatma Uzatma
+
+[Speaker 2]:
+Uzatma
+
+[Speaker 1]:
+Tadında bırak
+
+[Speaker 2]:
+Uzatma
+
+[Speaker 1]:
+Evet evet Yani şu anlık Bir sorun yok gibi ama
+
+[Speaker 2]:
+Umarım
+
+[Speaker 1]:
+Finallerde bir sorun yaşamam Okul uzamaz yani Çok korktum
+
+[Speaker 2]:
+İnşallah
+
+[Speaker 1]:
+Ya ben de saldıran taraftayım Biraz hani gerçekten Sürekli saldırıyorum Ve günün büyük bir çoğunluğu Research ile geçiyor Yani sürekli Yeni çıkan şeyleri İşte takip ettiğim bültenler var
+
+[Speaker 2]:
+Ne bileyim
+
+[Speaker 1]:
+Takip ettiğim Çikiler var Youtube'da Böyle sürekli Research edip Bir şeyler öğrenmeye çalışıyorum Yani burada Hatta yani Okul birazcık Gerçekten ayak bağı oluyor
+
+[Speaker 2]:
+Gibi bir durum var
+
+[Speaker 1]:
+Yani okuldan çıksam Mezun olsam Şu an çok çok çok Daha hızlı ilerler Herhalde bu tarafta Daha üretken olurum Ama öğrencilik
+
+[Speaker 2]:
+Ayak bağı gibi oluyor değil mi Çünkü senin yapmak zorunda Olduğun bir şeyler var O hoşuna giden ders Ya da değil yani Kimse ilgilenmiyor Kusura bakma diyor Ben de mesela
+
+[Speaker 1]:
+Mesela Şey ders alıyordum Sevmiyordum hiç onu Şimdi adını Çok denk etmiyorum Soa Soa
+
+[Speaker 2]:
+Servis oryantıda Architecture falan ders alıyordum Mesela
+
+[Speaker 1]:
+Servis
+
+[Speaker 2]:
+Tabanlı Mimar
+
+[Speaker 1]:
+Aslında çok güzel bir şey
+
+[Speaker 2]:
+Şu anda da mesela
+
+[Speaker 1]:
+Çok işime yarayacak O dersi dinleseydim O an dünyanın en kötü şeyiydi Benim için o dersi vermek
+
+[Speaker 2]:
+Ama vermek zorundaydım
+
+[Speaker 1]:
+Yani bir şekilde Hani böyle Verdim gitti Sonradan da anlayabiliyorsun Kıymetini ister istemez Ama okul
+
+[Speaker 2]:
+Zorunluluk olduğu için
+
+[Speaker 1]:
+Kötü geliyor Senin şu anda
+
+[Speaker 2]:
+Çok da aslında Potansiyelini Ateşleyebileceğin Bir alan var burada Geliştirebileceğin Bir alan var İlgi duyuyorsun O alana
+
+[Speaker 1]:
+Bu yüzden kaldıraç etkisi
+
+[Speaker 2]:
+Yaratıyor
+
+[Speaker 1]:
+İlgi duyduğun bir alanda
+
+[Speaker 2]:
+Çalışmak Tabii ki de Zorunda olduğun Yükümlülüklere göre
+
+[Speaker 1]:
+Hani çok daha Farklı hissettirir sana Diğerlerine göre
+
+[Speaker 2]:
+Çok da az da ilerlersin
+
+[Speaker 1]:
+Ama yapacak bir şey yok abi Çekeceksin o süreci Evet yani Ben şu anda Yüksek lisans düşünmüyorum Özellikle okuldan mezun olursam En az bir sene Ara vermek gibi Düşüncem var Ki yani kasayım Akıldaki projeleri bitireyim Gerçekten Yarım kalmış Zigarınlık böyle projeler var Onları halledeyim Temizliyorum Kafa rahatlasın Bir sürü Daha yapacağım iş var Yani öyle bir liste var ki
+
+[Speaker 2]:
+Bende de
+
+[Speaker 1]:
+Gittikçe gider yani Var Şimdi O zaman Birazcık da senin Hobilerinden bahsedersek Bir gün nasıl geçiyor
+
+[Speaker 2]:
+Ve
+
+[Speaker 1]:
+Günü bitirdikten sonra
+
+[Speaker 2]:
+Artık hani
+
+[Speaker 1]:
+Kapatıyor musun bilgisayarı
+
+[Speaker 2]:
+Ne yapıyorsun biliyor musun
+
+[Speaker 1]:
+Şu ekranı şöyle İndirdikten sonra Nelerle uğraşıyorsun Tamam şimdi
+
+[Speaker 2]:
+Bir gün nasıl geçiyor Genelde
+
+[Speaker 1]:
+Sağ ol Emine Rica ederiz
+
+[Speaker 2]:
+Bir gün
+
+[Speaker 1]:
+Genelde
+
+[Speaker 2]:
+Ya okulda oluyorum
+
+[Speaker 1]:
+Ya işte Şirkette oluyorum
+
+[Speaker 2]:
+Ya da evde Ya da kafede oluyorum Bunlardan bir yerdeyim
+
+[Speaker 1]:
+Aslında
+
+[Speaker 2]:
+Çünkü o gün
+
+[Speaker 1]:
+Ya şirket günü oluyor Ya normal bir
+
+[Speaker 2]:
+Remote günü oluyor Baktığında Genelde bir yerlere gitmek istiyorum
+
+[Speaker 1]:
+Evde çok çalışamıyorum Dışarı çıkmam gerekiyor Ya okulda kütüphaneye gidiyorum İşte
+
+[Speaker 2]:
+Ya da
+
+[Speaker 1]:
+Şirketimde oluyorum Zaten yakın olduğu için Ya da Dışarıda bir kafede oluyorum Aslında Bu üçü
+
+[Speaker 2]:
+Genelde Yani %90 ihtimalle Beni ararsanız
+
+[Speaker 1]:
+Bu üçünden bir yerde olacağım Genelde dışarıda bir kafede
+
+[Speaker 2]:
+Falan oluyorum Diyebilirim
+
+[Speaker 1]:
+Öyle daha çok
+
+[Speaker 2]:
+Çalışabiliyorum Kendim evde durmayı
+
+[Speaker 1]:
+Çok sevmiyorum
+
+[Speaker 2]:
+Genelde günüm Aslında bahsettiğim gibi Böyle yeni teknolojileri Araştırmakla
+
+[Speaker 1]:
+Ya da işte onları nasıl
+
+[Speaker 2]:
+Entegre edeceğimizle falan
+
+[Speaker 1]:
+Aslında benzer şekilde geçiyor
+
+[Speaker 2]:
+O bültenleri takip etmek Vesaire Okumak
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+Raporları incelemek
+
+[Speaker 1]:
+Hani şirketler nasıl yapıyor Ne yönde atılım yapıyor
+
+[Speaker 2]:
+Ne yönde yatırım yapıyor
+
+[Speaker 1]:
+Bunlarla biraz daha geçiyor Zaten şirket çok koşuşturmacı içinde oluyor
+
+[Speaker 2]:
+Yani şirkette olduğun zaman Telefona bile bakamıyorsun
+
+[Speaker 1]:
+Bir şekilde
+
+[Speaker 2]:
+Oradan oraya Toplantıdan oraya Oradan oraya Aslında baya böyle
+
+[Speaker 1]:
+Savruluyorsun yani
+
+[Speaker 2]:
+Şirketteyken öyle
+
+[Speaker 1]:
+Bir şeyler oluyor
+
+[Speaker 2]:
+Ya release geçişi oluyor Atıyorum mesela
+
+[Speaker 1]:
+Daha stresli oluyorsun Ya da işte normal bir Sıradan bir gün oluyor Ya sprinti kapatıyorsun Sprinti açıyorsun
+
+[Speaker 2]:
+Falan filan Arkadaşlarla konuşuyorsun
+
+[Speaker 1]:
+Onlara destek olmaya çalışıyorsun Vesaire Çok şükür arkadaşlarımız Çok iyi yani Çalıştığımız gerçekten
+
+[Speaker 2]:
+Harikulade arkadaşlar
+
+[Speaker 1]:
+Herkes Elinden geleni çok iyi
+
+[Speaker 2]:
+Fazlasıyla yapıyor
+
+[Speaker 1]:
+Bu yüzden çok fazla böyle Stres olmalık bir şey de kalmıyor Günün sonunda İyi insanlarla çalıştığında
+
+[Speaker 2]:
+Etrafında iyi insanlar olduğunda da Hani
+
+[Speaker 1]:
+Çok mükemmel bir şekilde İşle iş devam edebiliyor Birbirlerinin hani Eksiklerini örterekten
+
+[Speaker 2]:
+İlerleyen
+
+[Speaker 1]:
+Otonom ilerleyen Hani çevik Ve özerk bir şekilde ilerleyen Çok böyle şey yapmadan Destek almayan
+
+[Speaker 2]:
+Almadan
+
+[Speaker 1]:
+Doğrudan
+
+[Speaker 2]:
+İlerleyen
+
+[Speaker 1]:
+Bir ekiple çalışıyoruz
+
+[Speaker 2]:
+O yüzden
+
+[Speaker 1]:
+Acayip şanslıyım
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Diyelim Mesai bitti
+
+[Speaker 2]:
+Genelde Toplantılarım olabiliyor
+
+[Speaker 1]:
+İşte Yani
+
+[Speaker 2]:
+Farklı farklı alanlarda
+
+[Speaker 1]:
+Özellikle bireysel olarak
+
+[Speaker 2]:
+Projelere Vesaire Destek verme durumlarım oluyor
+
+[Speaker 1]:
+Çünkü Hayat bir şeyden
+
+[Speaker 2]:
+Bir threadten ibaret değil Hayat yani Hayatı multi
+
+[Speaker 1]:
+Proces olarak düşünmek lazım Hani sizin iş hayatınız olacak İşte Başka başka çalışacağınız Kısımlarda olabilir
+
+[Speaker 2]:
+Yani yedekte bir şeylerde
+
+[Speaker 1]:
+Devam ettirebilirsiniz Paralelde kendi girişiminizi Sürecinizi yaratabilirsiniz Bunlar çok mümkün Yani siz bir geliştirici olduğunuz için Bir fikriniz vardır
+
+[Speaker 2]:
+Yan tarafta
+
+[Speaker 1]:
+Onu geliştirirsiniz
+
+[Speaker 2]:
+Akşamları mesela
+
+[Speaker 1]:
+Onu çıkarsınız Bir şekilde Belki tutar Belki bir şeyler olur
+
+[Speaker 2]:
+Yatırım alır
+
+[Speaker 1]:
+Vesaire sonuçta Bunları kovalıyoruz Biraz daha
+
+[Speaker 2]:
+Mümkün oldukça
+
+[Speaker 1]:
+Vakit buldukça
+
+[Speaker 2]:
+Ama önceliğimiz tabi ki de
+
+[Speaker 1]:
+Doktora ile birlikte Aslında şirketi yürütmek Bir şekilde Ama bayram olur Seyran olur
+
+[Speaker 2]:
+Böyle ara Tatillerde vesaire Onları iyi değerlendirmeye Çok özen gösteriyorum Enes
+
+[Speaker 1]:
+Onlar çok büyük bir fırsat Yani senin hani
+
+[Speaker 2]:
+Buffer'ını temizlemek için Yapacağım dediğin
+
+[Speaker 1]:
+Tuzul istene İşte kitaplar okunacak Mesela Bir şeyleri toparlamak için Çok güzel bir fırsat
+
+[Speaker 2]:
+Böyle işte bayram girdi
+
+[Speaker 1]:
+Bir hafta tatil falan
+
+[Speaker 2]:
+Aynı zamanda
+
+[Speaker 1]:
+Aileni bir şeyleri görmek için Kafanın dağılması için de bir fırsat
+
+[Speaker 2]:
+Tabi Öyle bakıyorum olaya
+
+[Speaker 1]:
+Şimdi genelde bilgisayarı kapattığımda Koşuya falan çıkıyorum Koşu önemli Koşuya çıktıkça böyle
+
+[Speaker 2]:
+Soruların cevaplarını Koşarken aradığım oluyor
+
+[Speaker 1]:
+Çok seviyorum yani koşmayı Hayat bir spor olacak hayatta Kesinlikle yani
+
+[Speaker 2]:
+O yüzmek olur
+
+[Speaker 1]:
+Tenis olur Başka bir şey olur Ama bir şey olacak kesinlikle Ben koşmayı çok seviyorum Çünkü ekipman derdi yok abi Ayakkabıyı giyiyorsun Şortu çekiyorsun Çıkıyorsun dışarı
+
+[Speaker 2]:
+Hava soğuk mu İki dakika sonra ısınıyor zaten
+
+[Speaker 1]:
+Senin dünya ısınıyor bir şekilde Koşmaya başladığında Hiçbir salona bağlı değilsin
+
+[Speaker 2]:
+Böyle kapalı bir alanda değilsin Koşmaya bayılıyorum
+
+[Speaker 1]:
+O yüzden İnşallah Nisan'da da bir maraton koşacağım İzmir'de Artık sen de oralarda olursan En azından maraton olmasa da
+
+[Speaker 2]:
+Sen de
+
+[Speaker 1]:
+O koşuya gelebilirsin Yani çok güzel bir ortam oluyor Onun dışında İngilizce mecburen devam ediyor
+
+[Speaker 2]:
+Yani bir süreç Hani arkadaşlarla konuşarak Orada kendimi bir şekilde Genelde
+
+[Speaker 1]:
+Ya da müşterilerle konuşmak için de Sürekli bir İngilizce çalışmaları
+
+[Speaker 2]:
+Vesaire devam ediyor
+
+[Speaker 1]:
+Bu hani
+
+[Speaker 2]:
+Oldum bitti diyebilecek bir durum yok
+
+[Speaker 1]:
+Sürekli İngilizce Devam etmesi gereken bir trend Özellikle Türkiye'de yaşayan insanlar için Hani ne kadar Kendimizi maruz bırakabileceğimiz Konusunda değişir
+
+[Speaker 2]:
+Ama
+
+[Speaker 1]:
+Çokça maruz kalamayanlar için
+
+[Speaker 2]:
+İngilizce
+
+[Speaker 1]:
+Devam ediyor diyebilirim Benim açımdan da bu şekilde
+
+[Speaker 2]:
+Hep İngilizce'ye bir şekilde Yer veriyorum
+
+[Speaker 1]:
+Zaten bir şeyler okurken de Bir şeyler yaparken de Sürekli orada taze kalmayı
+
+[Speaker 2]:
+Hani kendini ifade edebilir
+
+[Speaker 1]:
+Şekilde tutmaya yarıyor
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Neyse ki İngilizce'yle bir sorunum yok Bazen yazı yazıyorum Çok nadiren
+
+[Speaker 2]:
+Bazen öyle video çektiğim oluyor Youtube'a vs. Ama çok
+
+[Speaker 1]:
+Çok zamandır onları da yapmıyorum Şu anda yapabileceğimi de düşünmüyorum Genelde benim akşamları da maalesef
+
+[Speaker 2]:
+Çoğunlukla toplantılarla
+
+[Speaker 1]:
+Ya da koşmakta geçiyor Yemek yapıyorum
+
+[Speaker 2]:
+Yemek yapmaktan keyif oluyorum
+
+[Speaker 1]:
+Çok Öyle bir şeyler hazırlamak Seviyorum evde kendim Bir şeyler yapmaya Ya da pazara çıkmayı falan da Seviyorum öyle şeyleri Öyle Diyebilirim Burada mesela İçerik üretinden bahsetmiştin Yani ben biraz
+
+[Speaker 2]:
+Hani o taraftan
+
+[Speaker 1]:
+Konuşmak istiyorum Özellikle çünkü Benim Seni tanımam da Hani bir noktada Keşfedişim de Şeyle olmuştu
+
+[Speaker 2]:
+Böyle
+
+[Speaker 1]:
+Medium bana Yazdığın şeyi önermişti Görüntü işleme kursunun Yazısını önermişti Yani orada Yıldız Teknik Üniversitesi'ne bir görüntü işleme kursu Vermişti Youtube kanalında da videoları var Ben de ondan bir görüntü işleme kursu arıyordum Ona dedim Efsane bir kurs buldum falan Öyle efsane bir kurs değildi O aslında bayağı sinyal işleme kursuydu birazdan İki boyutlu sinyal işleme kursuydu
+
+[Speaker 2]:
+Sözünü bölmüş gibi oldum ama
+
+[Speaker 1]:
+Çok kısaca bahsedeyim Aslında benim eğitim tarafında
+
+[Speaker 2]:
+Yani birazdan kendim verdiğim eğitimler
+
+[Speaker 1]:
+Ya da işte kurslar tarafında da Açsa yukarı bir şeyler Oluyor Şöyle ki 2020 yılında aslında
+
+[Speaker 2]:
+Biz böyle danışmanlık kapsamında Yine bir eğitimler vermiştik
+
+[Speaker 1]:
+Bazı şirketlere Şimdi isim zikretmeyeyim burada 2020 yılında başlamıştı
+
+[Speaker 2]:
+Daha sonra benim Bakırçay'da işte
+
+[Speaker 1]:
+Bilgisayar mühendisi derslerini asist etme durumum oldu Daha sonra yine bazı şirketlerle ilgili
+
+[Speaker 2]:
+Data science üzerine bootcamp'ler verdik
+
+[Speaker 1]:
+Şirketlere giderek doğrudan Ya da Endüstri 4.0'lığın
+
+[Speaker 2]:
+AI konseptiyle ilgili
+
+[Speaker 1]:
+Bazı şirketlere giderek Eğitimler verdik Şu an CV'den bakıyorum Kendine CV'm açık Orada Hani hatırlayın diye Onun dışında
+
+[Speaker 2]:
+Kendimiz zaten şirkette Ne yaparsak yapalım Hep bir eğitimimiz oluyordu zaten
+
+[Speaker 1]:
+Enes Baktığında Hani internal bir şekilde
+
+[Speaker 2]:
+Orada şirketin gelişimi de önemli
+
+[Speaker 1]:
+Yani şirketi bir şekilde Tamam testler çok güzel
+
+[Speaker 2]:
+Hani ilerleyecek bitecek gidecek Ama orada Çalışanları da
+
+[Speaker 1]:
+Eğitim kapsamında Çok böyle Aç bırakmamak
+
+[Speaker 2]:
+Ya da onları sadece Mesai bitince
+
+[Speaker 1]:
+Kendini geliştirebilirsiniz
+
+[Speaker 2]:
+Terk etmemek gerekiyor
+
+[Speaker 1]:
+O yüzden
+
+[Speaker 2]:
+Onlara doğru bir kariyer
+
+[Speaker 1]:
+Roadmapi çizmek için de Bu önemli bence Dolayısıyla
+
+[Speaker 2]:
+Internal'da Bootcamp'lerimiz oldu
+
+[Speaker 1]:
+Yıldız Teknik Üniversitesi Orada bir üniversite için Öyle bir çektiğimiz
+
+[Speaker 2]:
+Bir yapıydı Arkadaşlar geldi Rica etti
+
+[Speaker 1]:
+Oluşturduk Ama çok Advanced'li Öyle bir kurs değildi Diyebilirim Normaldi
+
+[Speaker 2]:
+Yani hani
+
+[Speaker 1]:
+Open CV tabanlı bir şeydi Zaten çalışmayaydım Başlangıç için Güzel bir kurs Gördüğüm vakit Yani hani Güzel bir içerik buldum Demiştim Ve sonrasından Devam etmiştim Youtube kanalına Abone olmuştum Sonra hatta Youtube kanalında
+
+[Speaker 2]:
+Ekrana verdim
+
+[Speaker 1]:
+Faydalı videolar var Yani Türkçe içerik Her zaman çok değerli Özellikle Böyle advanced seviyede 101'in ötesinde İçerik üreten insanlar Bence çok daha değerli Bu tarafta Senin Bence yaptığın işte
+
+[Speaker 2]:
+Hani kanalında
+
+[Speaker 1]:
+Oradaki işte Pidentik videoların PyTrixler falan Bunlar gerçekten Güzel videolardı Ben de çokça izledim EWS videolarım vardı Evet Var değil mi bayağı bir şey Faydalanlık EWS'e de ayrıca
+
+[Speaker 2]:
+Aslında göz kırpıyorum EWS tarafında Solışın Arketek tarafında Böyle çalışmalar Yapmak istiyordum
+
+[Speaker 1]:
+Aslında Hala da isteyebilirim
+
+[Speaker 2]:
+Tabiki de Hala da ilerleyebilirim Fakat biraz öncelik Meselesi orada
+
+[Speaker 1]:
+Cloud'ı Çok
+
+[Speaker 2]:
+Benimsedim
+
+[Speaker 1]:
+Yani Düşünsene
+
+[Speaker 2]:
+Hani elinde EWS gibi bir tool var Bu şu demek Dünyanın istediğin yerinde
+
+[Speaker 1]:
+İstediğin gibi sunucular
+
+[Speaker 2]:
+Kaldırarak İstediğin şeyleri
+
+[Speaker 1]:
+Tüm insanlara Servis edebilirsin
+
+[Speaker 2]:
+Hizmet verebilirsin
+
+[Speaker 1]:
+Ya bu çok Olağanüstü bir güç Aslında Çok büyük bir güç Ve senin Parmaklarının ucuna Bir şekilde bunu Sadece kullandığın kadar
+
+[Speaker 2]:
+Öde mantığıyla Açabiliyorlar
+
+[Speaker 1]:
+Yani Cloud aslında Yani en büyük devrimlerden
+
+[Speaker 2]:
+Bir tanesi belki
+
+[Speaker 1]:
+Hani blockchain gibi En azından Cloud'ın bu kadar Gelişmiş olması Benim için Çok büyüleyici bir şey Baktığında
+
+[Speaker 2]:
+Ona hakim olmak Onu yönetebiliyor olmak
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+Yoğunlukları Ölçekleyebiliyor olmak Falan
+
+[Speaker 1]:
+Böyle şeyler
+
+[Speaker 2]:
+Hep ilgimi çekti Benim Enes
+
+[Speaker 1]:
+O yüzden
+
+[Speaker 2]:
+Ayrıca orada da Kendimi geliştirme fırsatı Bulduğum
+
+[Speaker 1]:
+Müddetçe Çalışmalar yapıyorum
+
+[Speaker 2]:
+Zaten Linux
+
+[Speaker 1]:
+Çok seviyorum Onlardan da bahsetmiş olayım Kısaca Linux işletim sisteminde Genelde çalışmaya çalışıyorum Tabi şirket vesaire
+
+[Speaker 2]:
+Ayrı IT politikaları var Ama genelde
+
+[Speaker 1]:
+Linux tabanlı Kendimi daha rahat hissediyorum Pycharm'la kullanıyorum
+
+[Speaker 2]:
+Genelde Sen biraz daha Teknik detayları da
+
+[Speaker 1]:
+Merak ettiğin için
+
+[Speaker 2]:
+Söylemiş olayım
+
+[Speaker 1]:
+Pycharm Pycharm'ı
+
+[Speaker 2]:
+Pycharm'ı
+
+[Speaker 1]:
+Yıktı şu an Pycharm'ı pek sevmem ben Yok Pycharm'ı çok iyiydi
+
+[Speaker 2]:
+Pycharm'ın Hatta prosunu kullanıyorum Premium Pro mu Neyse artık Biz hala öğrenci Otuzuma merdiven dayadım Hala öğrenci şeyi altında
+
+[Speaker 1]:
+Öğrenciyim abi
+
+[Speaker 2]:
+Yalan mı
+
+[Speaker 1]:
+Öğrenciyim yani Bugün askerliğimi bile yapmamışım
+
+[Speaker 2]:
+Öğrenciyikten
+
+[Speaker 1]:
+Neden Pycharm? O da çok enteresan Şu an Visual Studio kodu Neyi yapıyor ki? İnan
+
+[Speaker 2]:
+Visual Studio kodu Tam olarak Arası hala kullanıyorum Bir şeyleri Notepad, Editör gibi Kullanıyorum ben Visual Studio VS kodu diyorsun Kullanıyorum ama
+
+[Speaker 1]:
+Pycharm Adı üstünde
+
+[Speaker 2]:
+Pycharm
+
+[Speaker 1]:
+Yani Python için Surulmuş bir şey Ve Python'ın
+
+[Speaker 2]:
+İşte VanWals'un
+
+[Speaker 1]:
+Bir sürü bir sürü
+
+[Speaker 2]:
+Desteklerini sağlıyor
+
+[Speaker 1]:
+Hani Bilmiyorum
+
+[Speaker 2]:
+Bana böyle Biraz daha
+
+[Speaker 1]:
+Şey geliyor
+
+[Speaker 2]:
+Yani işte Atıyorum şu telefonu Telefonda konuşmak için Kullanırım ben mesela
+
+[Speaker 1]:
+Ya hiç sevmiyorum
+
+[Speaker 2]:
+Telefonda öyle bir şeyler Kaydırmayı Bakmayı böyle hani
+
+[Speaker 1]:
+Baktığında
+
+[Speaker 2]:
+VS Code biraz böyle
+
+[Speaker 1]:
+Her işe yarayan bir şey ya
+
+[Speaker 2]:
+Abi o kadar Yaramamalı Bence o zaman
+
+[Speaker 1]:
+Pycharm'ın bir artısı vardır
+
+[Speaker 2]:
+Bilmiyorum VS Code uzun zamandır Kullanılıyormuş ama
+
+[Speaker 1]:
+Pycharm biraz daha Python özel olduğu için Bana çok çekici geliyor Prosu da çok rahat
+
+[Speaker 2]:
+Community versiyonu da var Yine o da rahattır muhtemelen
+
+[Speaker 1]:
+Community de kullanıyor Arkadaşlarım ama Yani Virtual Environment
+
+[Speaker 2]:
+Oluşturuyorum çok rahat
+
+[Speaker 1]:
+Zaten oluşuyor
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Kendim oluşturuyorum Gerçi konsolda oluşturuyorum Onu bir şey yok Aslında Pycharm Abi şeyleri falan çok iyi yapıyor
+
+[Speaker 2]:
+Import
+
+[Speaker 1]:
+Importationlar
+
+[Speaker 2]:
+İşte fromlar Falan filan Hani orada Modüller arası Bağlantıları falan
+
+[Speaker 1]:
+Da çok iyi yapıyor ama Ya öyle şey bir Abartış yok aslında Yani normal bir
+
+[Speaker 2]:
+Benim beklentim Zaten konsolunu Kullanıyorum onun Konsolundan derli
+
+[Speaker 1]:
+İşte yorumlatıyorum Şey yapıyorum sürekli Aslında öyle çok Acayip bir şey yok işte Böyle highlight etme
+
+[Speaker 2]:
+Özellikleri falan güzel Belki bana hataları Söylüyor bazen O güzel
+
+[Speaker 1]:
+Ama Belki
+
+[Speaker 2]:
+Parlatıyor işte Sönümletiyor falan Ama muhtemelen bunları VS Code'da yapıyordur şimdi Yani hani Co-Pilevan bunları Yapar
+
+[Speaker 1]:
+Her şeyi yapar
+
+[Speaker 2]:
+O yüzden çok bir şey diyemiyorum
+
+[Speaker 1]:
+Belki de alışkanlığımın
+
+[Speaker 2]:
+Devamı bu yani O yaptığım alışkanlık Yatırımının Devamından dolayı Pycharm kullanıyorum
+
+[Speaker 1]:
+Belki de Evet Bu okeydir yani Bu bir savaş Pycharmcılar VS Code'cılar Ya VS Code Her şey
+
+[Speaker 2]:
+Herkes kullanıyor
+
+[Speaker 1]:
+Her şey için zaten Bilmiyorum
+
+[Speaker 2]:
+Pycharm için avantajlarının Pycharm'da daha çok olmasını beklerim Pycharm'ın Pycharm için Artı olmasını beklerim Bir de JetBrains ürünlerini Çok beğeniyorum
+
+[Speaker 1]:
+DataGrip de öyle mesela DataGrip Kullanıyor musun Database için Ben JetBrains ürünlerini Biraz sevmeyen taraftayım Ben çok çok beğeniyorum
+
+[Speaker 2]:
+JetBrains Muhteşem şeyler yapıyor
+
+[Speaker 1]:
+İşte DataGrip
+
+[Speaker 2]:
+Bunlardan bir tanesi
+
+[Speaker 1]:
+Bugün işte
+
+[Speaker 2]:
+DataBrave falan Data mıydı Brave
+
+[Speaker 1]:
+Öyle bir şey
+
+[Speaker 2]:
+DataGrip abi Farklı farklı Databaseleri Böyle bağlamanı Onları explore etmeni
+
+[Speaker 1]:
+Arama
+
+[Speaker 2]:
+Üzerinde
+
+[Speaker 1]:
+Komit atma Değişiklik yapmanı
+
+[Speaker 2]:
+Falan sağlıyor
+
+[Speaker 1]:
+DB Brave Adını unuttum Şimdi geldi aklıma
+
+[Speaker 2]:
+Brave gibi
+
+[Speaker 1]:
+MSSQL kurarsın ya Bilgisayarına girmek için
+
+[Speaker 2]:
+DataGrip bunların
+
+[Speaker 1]:
+Hepsini yapmanı sağlıyor
+
+[Speaker 2]:
+Yine onun da
+
+[Speaker 1]:
+Premium'unu Neyse ki
+
+[Speaker 2]:
+Öğrenci olduğum için Kullanabiliyorum Diyebilirim
+
+[Speaker 1]:
+DataGrip iyidir Benim çok rahat ettiğim Tool'lardan bir tanesi İşte
+
+[Speaker 2]:
+Hani database'leri
+
+[Speaker 1]:
+Listeliyorsun
+
+[Speaker 2]:
+Prozunu
+
+[Speaker 1]:
+Testini İstediğin zaman İstediğin gibi Değişiklikler yapıp İstediğin tabloları
+
+[Speaker 2]:
+Görüntülüyorsun
+
+[Speaker 1]:
+Cure'ler yazıyorsun
+
+[Speaker 2]:
+Bu aslında Benim kullanım amacımda Bundan ibaret
+
+[Speaker 1]:
+Diyebilirim
+
+[Speaker 2]:
+Evet
+
+[Speaker 1]:
+JetBrains'in ürünü o da O da güzel Birkaç tane daha ürünü var
+
+[Speaker 2]:
+Böyle JetBrains'in
+
+[Speaker 1]:
+Ben çoğunlukla
+
+[Speaker 2]:
+Hepsini biliyorum Hepsini beğeniyorum Hepsini kaliteli ürünler Gerçekten
+
+[Speaker 1]:
+Doğrudur Doğrudur Yani ben şeyi görmüştüm Dataspelli bir denemiştim
+
+[Speaker 2]:
+Rezalet Bilmiyorum onu Onu bilmiyorum bak Evet olabilir Şey gibi değil mi Jupiter Notebook'un
+
+[Speaker 1]:
+Şey içinde yapılmış hali
+
+[Speaker 2]:
+Değil mi Interpreted bir
+
+[Speaker 1]:
+I-Fi kullanıyor ama JetBrains ürünlerinin Bir ağırlığı var Yani bir yavaş açılıyor
+
+[Speaker 2]:
+Program
+
+[Speaker 1]:
+Doğru Bir şey yani Bir VS kodası
+
+[Speaker 2]:
+Tıkladığı zaman gelir Android Studio değil canım Sen kullandın mı öyle bir şey Android falan kullandığı zaman
+
+[Speaker 1]:
+Android Studio Çöken bir şey Yani Android Studio
+
+[Speaker 2]:
+Açardık Üniversitedeyken Öyle bazı Bootcamp'lere giderdim abi
+
+[Speaker 1]:
+Android Studio açardık
+
+[Speaker 2]:
+Yani tost makinesi gibi Kızarırdı
+
+[Speaker 1]:
+Böyle bilgisayar
+
+[Speaker 2]:
+Hatırlıyorum
+
+[Speaker 1]:
+Java falan
+
+[Speaker 2]:
+Ne ekrançlar Ne şeyler vardı
+
+[Speaker 1]:
+Bir öyle değil yine
+
+[Speaker 2]:
+Evet ama
+
+[Speaker 1]:
+Bir şeyi var
+
+[Speaker 2]:
+Ben buradayım diyor
+
+[Speaker 1]:
+JetBrains Evet Yani şimdi
+
+[Speaker 2]:
+Youtube kanalı
+
+[Speaker 1]:
+Evet çok faydalı Bir yandan Medium'da da yazıyorsun
+
+[Speaker 2]:
+Hani orada da güzel yazılıyor Evet Sıra yazıyorum
+
+[Speaker 1]:
+Evet Çok nadiren yazıyorum
+
+[Speaker 2]:
+Yazınca Rahatlıyorum ama Her zaman da Yazamıyorum Ya da paylaşamıyorum da her şeyi Evet yazmak güzel ama Öneririm
+
+[Speaker 1]:
+Hani spor falan dedik Abi sanatsal bir şey olacak ya
+
+[Speaker 2]:
+Ya işte belki Yeteneğiniz vardır
+
+[Speaker 1]:
+Heykel falan bir şeylerle uğraşırsınız Hani kill ile uğraşırsınız mesela Ya da başka bir şey Müzik olur Başka bir şey olur
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Bir şey gerekiyor yani Evet Yani şimdi
+
+[Speaker 2]:
+Burada hani çok girmeyelim dedik ama Ben gene
+
+[Speaker 1]:
+Söyleyorken önermemiz Bir de podcast var
+
+[Speaker 2]:
+Yani Niye girmeyeyim dedim o zaman
+
+[Speaker 1]:
+Podcast'ten bahsediyorsun Evet
+
+[Speaker 2]:
+Evet
+
+[Speaker 1]:
+Tamam Ben söylemeden edemem kardeşim Podcast'a o da Yani güzeldi bu arada Hani benim de İlk dinlediğim Bakıldığı vakit Aslında teknik podcast olabilir Yani ben de hep böyle Daha böyle şey Podcast'lar dinliyordum Eğlenceli
+
+[Speaker 2]:
+Evet
+
+[Speaker 1]:
+Ya podcast güzel
+
+[Speaker 2]:
+Mesela şimdi
+
+[Speaker 1]:
+Fark ettiysen
+
+[Speaker 2]:
+Ürettiğim içerikler Üretmeye çalıştığım içerikler Benim tüketmeyi de sevdiğim içerikler Yani bunlar nitelikli şeylerdir
+
+[Speaker 1]:
+Mesela televizyon izlemek
+
+[Speaker 2]:
+Ama radyo dinlemek
+
+[Speaker 1]:
+Okeydir Radyo güzel bir şeydir Yani sen orada Başka bir şeylerle uğraşırken
+
+[Speaker 2]:
+Radyonu dinlersin Radyonun ayrı bir havası vardır
+
+[Speaker 1]:
+Podcast'ta da o gözle bakıyorum Ses kayıtları
+
+[Speaker 2]:
+Dinlemek
+
+[Speaker 1]:
+Etmek Özellikle böyle
+
+[Speaker 2]:
+Sohbetleri dinlemek
+
+[Speaker 1]:
+Bana çok iyi geliyor Koşarken de işte böyle bir yolculukta Yken de uzun bir yolculuğa çıkmışken de falan Dolayısıyla bunlar Çok zararlı içerikler değil Hani çok böyle Kansiyolojen içerikler değil Kansiyolojen içerik ne abi
+
+[Speaker 2]:
+Al instagramı aç Yani real server'a gir böyle kaydır kaydır
+
+[Speaker 1]:
+Bunlar kansiyolojen içerikler Yani baktığımda
+
+[Speaker 2]:
+O yüzden en azından
+
+[Speaker 1]:
+Podcast O tarafta Gerçekten güzel Kimsenin dikkatini çalmadan Dikkat hırsızlığı yapmadan kimseye
+
+[Speaker 2]:
+Böyle Onların en azından
+
+[Speaker 1]:
+Hani Büyük konuşmayayım da
+
+[Speaker 2]:
+Böyle biraz da ufk açıcı Hani
+
+[Speaker 1]:
+Biraz daha böyle işte Kafa açıcı
+
+[Speaker 2]:
+Şeylerden konuşmayı seviyorum
+
+[Speaker 1]:
+Yani bahsetmeyi seviyorum
+
+[Speaker 2]:
+Bu sadece yazılımla Yapay zeka ile ilgili olmayı Başka şeylerle de ilgili olabilir de
+
+[Speaker 1]:
+Ben orada daha çok ve muhtemelen IT tarafında Bazı şeylerden bahsetmişimdir Böyle bir en azından
+
+[Speaker 2]:
+4-5 tane
+
+[Speaker 1]:
+İçeri kaydedebildim diye hatırlıyorum
+
+[Speaker 2]:
+Ondan sonra devam etmedim
+
+[Speaker 1]:
+Edemedim zaten Başlamak değil
+
+[Speaker 2]:
+Devam ettirmek mesela
+
+[Speaker 1]:
+Şey Kapuşonlu sohbet Yani Spotify'da Doğru Kapuşonlu sohbetti
+
+[Speaker 2]:
+Ama kendi kendimize yaptığımız
+
+[Speaker 1]:
+Bu sohbetti Selamlar Zehra Ya o şeyin Podcast'ın son bölümü Şimdi oradan acayip bir yere bağlayacağım
+
+[Speaker 2]:
+Oturlamıyorum abi Hiç hatırlamıyorum Ya
+
+[Speaker 1]:
+Yerinden önce Oturlamıyorum Başlık bu Ya efsane bir başlık yani Bu arada Burada şeyde yapalım
+
+[Speaker 2]:
+Veri bilimi falan Sohbet edeceğiz diye
+
+[Speaker 1]:
+Paylaştım Çok böyle profesyonel
+
+[Speaker 2]:
+Bana biraz yapmacık gelebiliyor Bazen
+
+[Speaker 1]:
+Yani şey hani Gurur duyuyorum
+
+[Speaker 2]:
+Onur duyuyorum Muhabbetleri falan belki O yüzden En azından orada dedim Goy goy yapalım
+
+[Speaker 1]:
+Carcürt
+
+[Speaker 2]:
+Evet
+
+[Speaker 1]:
+Ya bence müthiş bir başlık Yani inanılmaz Ben ilk okuduğumdan beri
+
+[Speaker 2]:
+Unutamıyorum zaten
+
+[Speaker 1]:
+Yani harika bir başlık Ben de bir podcast yapsam Başkaları böyle atarım Gerçekten mağazam Ya O sıralar
+
+[Speaker 2]:
+Ben twitter'da kullanıyorum Abi A bire doktorlarla Hıznimsel kavga içerisinde Twitter'da
+
+[Speaker 1]:
+Böyle tuhaf bir şey var
+
+[Speaker 2]:
+Ortam var Twitter'da Twitter var
+
+[Speaker 1]:
+Çok başka bir yer yani
+
+[Speaker 2]:
+Gerçekten
+
+[Speaker 1]:
+Ya bir doktorla
+
+[Speaker 2]:
+Yazılımcının denk gelmesi Bir kediyle köpeğin
+
+[Speaker 1]:
+Sokakta karşılaşması gibi Bir şey yani Twitter öyle bir ortam
+
+[Speaker 2]:
+İnanılmaz ya Bir de öyle bir O tarzda bir içerik vardı O yüzden söyledim
+
+[Speaker 1]:
+Öyle bir podcast daha vardı işte Doktorlar daha mı çok kazanıyordu
+
+[Speaker 2]:
+Az mı kazanıyordu
+
+[Speaker 1]:
+Bir ona değinmişimdir Öyle Yani şimdi burada şey soracağım Mevcut hani o dönemden bu dönemde Neredeyse bir sene oldu Belki geçti Şu anki
+
+[Speaker 2]:
+İki sene geçti belki
+
+[Speaker 1]:
+İkilerin nasıl LLM konusunda Bunu Güncel hayatında nasıl kullanıyorsun Nasıl fayda sağlıyorsun Evet hani bunu Konuşmanın başında ChatGPT'nin tool olmasıyla Bunu kullanmak gerektiğinden bahsediyor ama Bunu hands-on olarak nasıl kullanıyorsun Ve sadece chatGPT mi Yani şu an bakıldığı vakit İşte kursor var Windsurf var Çok popüler şu anda Bir tag var şu anda İşte hiç bilmiyorum Şu ürünü yaptım Falan gibi böyle Şeyler dolanıyor
+
+[Speaker 2]:
+Doğru doğru Bireysel şirketler söz konusu Tek başına adam Şirket oluyor Neden? ChatGPT ona her türlü Yolu yordamı söylüyorken ChatGPT bir şirketi kurmadığı kalıyor Bir startup şirketin
+
+[Speaker 1]:
+Startup'ı bir chatGPT'nin
+
+[Speaker 2]:
+Oluşturmadığı kalıyor yani
+
+[Speaker 1]:
+Gerçekten biraz deneyimli birisi Bilgisayardan anlayan birisi
+
+[Speaker 2]:
+ChatGPT'nin desteğiyle
+
+[Speaker 1]:
+Belki kaş göz yara yara Belki zorlanana zorlanak Ki kaldı ki bu kişi sen yörse Zaten çok daha iyi bir vaziyette Hani bunun DevOps'unu
+
+[Speaker 2]:
+Cloud'unu
+
+[Speaker 1]:
+Frontend'ini
+
+[Speaker 2]:
+Backend'ini
+
+[Speaker 1]:
+Bilmem nesinin Her türlü Operasyonlarını yapabilecek bir düzeye
+
+[Speaker 2]:
+Geldi Getirdi
+
+[Speaker 1]:
+ChatGPT demelim bu arada
+
+[Speaker 2]:
+Özür dilerim
+
+[Speaker 1]:
+Hani bir akıllı bir model diyelim Bazı insanlar Anti-ChatGPT oluyor böyle
+
+[Speaker 2]:
+Hani hep şey yapıyor
+
+[Speaker 1]:
+Var öyle bir Birkaç insan Yani sürekli Sam Altman'a karşı böyle işte O OpenAI'e karşı daha doğrusu
+
+[Speaker 2]:
+Böyle bir şey LinkedIn'de böyle
+
+[Speaker 1]:
+Hep bir laf giydirme falan Bir şeyler yapıyorlar Ama komik yani Sonuçta ChatGPT burada OpenAI diyeyim daha doğrusu İşaret bir şeyini Onlar yaktı yani Onlar o gece değiştirdi Ve kaç ay geçti
+
+[Speaker 2]:
+Google
+
+[Speaker 1]:
+Biraz bir şeyler çıkarmaya çalışıyor AWS bir şeyler çıkarmaya çalışıyor Çok çaresiz durumlar yaşandı Yani yaşattı insanlara OpenAI yaptı bunu Onu başaran da olduğu için Hani ister istemez
+
+[Speaker 2]:
+Onların hakkıdır
+
+[Speaker 1]:
+Diye düşünüyorum Orada Hani şey olur ya Selpak Peçeteyle özdeşleşmiştir
+
+[Speaker 2]:
+Artık
+
+[Speaker 1]:
+Çifti diyor adamlar
+
+[Speaker 2]:
+Yani Hani Oysa yani Yapay zeka Çifti Kazıdılar
+
+[Speaker 1]:
+İnsanlara bir şekilde
+
+[Speaker 2]:
+Zaten o günden sonra
+
+[Speaker 1]:
+Hiçbir şey aynı olmadı
+
+[Speaker 2]:
+Baktığında
+
+[Speaker 1]:
+Senin sorun neydi abi Çok özür dilerim Kesinlikle Ya benim sorum Ya buradaki Senin Bundan faydalanma biçimin nasıl Sen bunu nasıl kullanıyorsun
+
+[Speaker 2]:
+Abi
+
+[Speaker 1]:
+Ben bir yaklaşık Bir sene falan belki direndim
+
+[Speaker 2]:
+Yani ben Çetçip diye Bir sene boyunca falan
+
+[Speaker 1]:
+O zaman 3.5 çıkmıştı
+
+[Speaker 2]:
+Hatırlıyorsunuz
+
+[Speaker 1]:
+2 sene önce falan çıktı diyebiliyorum 2023 müydü
+
+[Speaker 2]:
+Neydi Evet
+
+[Speaker 1]:
+2 seneye yakın 2 seneye yakın net
+
+[Speaker 2]:
+Ben bir sene falan direndim
+
+[Speaker 1]:
+Hiçbir şekilde kullanmamaya Yani kullanmadım
+
+[Speaker 2]:
+Gereksinim duymadım Hani Yani gidip de teknik sorunlarım için falan şey yapmadım Ama tabii görüyorum yani kod yazdırıyorlar İnanılmaz yazıyor Algoritma çözüyor falan filan
+
+[Speaker 1]:
+Hep goy goylarını da görüyorum
+
+[Speaker 2]:
+Hani görüntülerini de görüyorum
+
+[Speaker 1]:
+Daha sonra böyle baktım
+
+[Speaker 2]:
+Problemler üzerinde Yaşadığım sorunları Çok güzel ifade ettiğimde
+
+[Speaker 1]:
+Gerçekten bana bir danışmanmış gibi de
+
+[Speaker 2]:
+Destek olabileceğini
+
+[Speaker 1]:
+Biraz geç fark ettim Yani Onun gerçekten neler yapabileceğini Çünkü
+
+[Speaker 2]:
+Abi bilmiyorsun bir alan
+
+[Speaker 1]:
+Diyorsun ki hani
+
+[Speaker 2]:
+Bana aptal birini anlatır gibi anlatır Böyle promptlar yazıyorum Bilmiyorsun yani Konuyu bilmiyorsun Şimdi
+
+[Speaker 1]:
+Yani atıyorum tamam
+
+[Speaker 2]:
+Fourier dönüşümü
+
+[Speaker 1]:
+Sen şimdi mühendislik tabanlı bir insan değilsen Matematik tabanlı bir insan değilsen Fourier dönüşümüne
+
+[Speaker 2]:
+Hadi anla da
+
+[Speaker 1]:
+Sinyali De noise'i et bakalım Edemiyorsun bir şekilde O titreşimi Vibrasyonu sil bakalım Sen şimdi onu diyorsun Ben aptalmışım gibi bahset İşte şunu anlatır gibi bahset
+
+[Speaker 2]:
+Affedersin
+
+[Speaker 1]:
+Ya müthiş sana aktarımlar yapıyor Bir danışman olsa zaten
+
+[Speaker 2]:
+Bu kadar yapabilir
+
+[Speaker 1]:
+Ben düşünüyorum Sektöre başladığımda
+
+[Speaker 2]:
+Böyle bir junior
+
+[Speaker 1]:
+Bir şey hani hep Bir insan kendinden Çok böyle yaşça büyük birinin
+
+[Speaker 2]:
+Eli kirli ama
+
+[Speaker 1]:
+Eli işin içinde olan Aslında hani bir ustanın Ona bir şeyler öğretmesini ister ya Yani tam o modda bir şey aslında İsteyen insanlar için Hani bugün Bir şirkete girdiniz mesela Kendinizi geliştireceksiniz Bir işi yapacaksınız falan Ya o işin de
+
+[Speaker 2]:
+Kitlenmeniz mümkün değil
+
+[Speaker 1]:
+Hiçbir şekilde Kitlenemezsiniz Çünkü
+
+[Speaker 2]:
+Kitlenemiyorsunuz Duramıyorsunuz
+
+[Speaker 1]:
+Muhakkak deneyeceğiniz
+
+[Speaker 2]:
+ARGE yolları Metotları Yöntemleri var
+
+[Speaker 1]:
+Bir bakıma Çünkü chat tip ise
+
+[Speaker 2]:
+Daima bir şeyler öneriyor Daima orada
+
+[Speaker 1]:
+Yapacağınız şey hakkında Size fikir veriyor
+
+[Speaker 2]:
+Yol yordam gösteriyor
+
+[Speaker 1]:
+Yani daha ne yapabilir ki
+
+[Speaker 2]:
+Yani bir tek onu yapmıyor
+
+[Speaker 1]:
+Onu da yapıyor zaten
+
+[Speaker 2]:
+Kodunu da yazıyor bazen
+
+[Speaker 1]:
+Onu çalıştırma diyeceğim
+
+[Speaker 2]:
+Onu da çalıştırıyor
+
+[Speaker 1]:
+Şimdi agentlar var orada
+
+[Speaker 2]:
+Python üzerinde Derliyor da gidiyor Yorumluyor da kodunu size
+
+[Speaker 1]:
+Çıktısını da veriyor falan Siz CSV'yi bağlıyorsunuz
+
+[Speaker 2]:
+Bilmem ne
+
+[Speaker 1]:
+Hani daha ne yapabilir ki Herhalde daha bir şey yapamaz Yani baktığında Dolayısıyla artık
+
+[Speaker 2]:
+Nimetlerinden faydalanıyorum Mesela bir
+
+[Speaker 1]:
+İşte bulut bilişim tarafında olur
+
+[Speaker 2]:
+Başka başka taraflarda olur Böyle yeni teknolojileri Google'lamak yerine
+
+[Speaker 1]:
+Şey yapmak yerine Hep chat tipçiliyle Konuşaraktan Danışmanlık alıyorum ondan aslında Bu böyle olsa ne olurdu
+
+[Speaker 2]:
+Nasıl olurdu falan Tabi onu soru sorma
+
+[Speaker 1]:
+Şeklinizle ayrı bir Prompt mühendisliği Yani siz Hiç bilmiyorsanız da İlk başta sorduğunuz soruları
+
+[Speaker 2]:
+İstediğiniz verimde
+
+[Speaker 1]:
+Yanıtı alamayabilirsiniz Ama bunu açtığınız durumda Chat tipti bugün Yani chat tiptiyle siz aslında Önünüzde kimse duramayacak Bir güce dönüşüyorsunuz Bir şekilde Daha sonra işte Aynı o Selman'ın yaptığı gibi Tek başına İşte bir şirket kuruyorum Ya da işte chat tiptiyle Hiçbir şey bilmeden
+
+[Speaker 2]:
+Bir şeyler yapıyorum tarzında
+
+[Speaker 1]:
+İçeriklerin çıkması Çok çok olası oluyor
+
+[Speaker 2]:
+Çok mümkün oluyor
+
+[Speaker 1]:
+Çünkü böyle bir güç bu
+
+[Speaker 2]:
+Bunu kullanmalıyız yani Bunu ehriyleştirip
+
+[Speaker 1]:
+Kullanmanın yoluna bakmalıyız Kesinlikle Bende katılıyorum Şimdi birazcık da böyle Senin denli kariyerini Biraz hızlandırırsak
+
+[Speaker 2]:
+O tarafta
+
+[Speaker 1]:
+Çok konuştuk Bu kalbi AI zamanları Oradan geçişin Sonra bir Norm Dijital'de AI Expert Title'ın var Tüm buradaki süreçlerin Nasıldı Oradaki roller Nasıldı Nasıl geçti
+
+[Speaker 2]:
+O taraflar
+
+[Speaker 1]:
+Kalibe bizim girişimimizdi aslında Biz start up'tı
+
+[Speaker 2]:
+Ve işte Deniz hocamla birlikte Orada kurduğumuz Ben de orada Co-founder Rolündeyim aslında Kalibe AI'da Doğrudan da Lead olarak
+
+[Speaker 1]:
+Data scientist olarak Başlamış oldum Çünkü ondan öncesinde de Biz zaten Çalışıyorduk Danışmanlıklar kapsamında O şirketi kurmadan önce de Çalışıyorduk zaten
+
+[Speaker 2]:
+Deniz hocamla birlikte
+
+[Speaker 1]:
+Çokça örnek görmüştük Orada işte
+
+[Speaker 2]:
+Bir ekiple birlikte
+
+[Speaker 1]:
+Bir yaklaşık 3 sene Biz o şirketi idame ettirdik Daha sonra ben çıkış yaptım Ve
+
+[Speaker 2]:
+Norm dijital bünyesinde
+
+[Speaker 1]:
+Çalışmaya başladım E-Expert Yani o şey olarak İsim olarak öyle
+
+[Speaker 2]:
+Aslında orada da
+
+[Speaker 1]:
+Doğrudan takımın başındaydım Sadece öyle bir strateji izledik Yani giriş olarak Hani title olarak O şekilde uygun Olduğunu düşündük
+
+[Speaker 2]:
+Ama orada da yine Girdiğimizde takımın Başındaydım
+
+[Speaker 1]:
+AI tarafındaki işlerle
+
+[Speaker 2]:
+Doğrudan ilgileniyordum Odaklanıyordum
+
+[Speaker 1]:
+Diyebilirim Farklı farklı projelerde ilgileniyorduk
+
+[Speaker 2]:
+Orada hani
+
+[Speaker 1]:
+Ve zaten
+
+[Speaker 2]:
+Winter'la birlikte de Doğrudan
+
+[Speaker 1]:
+Bu spin-off'la birlikte de Zaten Winter'ın işte Bahsettiğim size
+
+[Speaker 2]:
+AI feature'larıyla birlikte
+
+[Speaker 1]:
+Böyle bir Çıkış yakalayaraktan Sürece Geçiş yaptım
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Şu anda Bu şekilde Özellikle detaylandırmamı İstediğim bir kısım varsa
+
+[Speaker 2]:
+Açabilirim ama
+
+[Speaker 1]:
+Yani Hep Data Science
+
+[Speaker 2]:
+Tarafında çalıştım
+
+[Speaker 1]:
+Kısacası
+
+[Speaker 2]:
+Data Science
+
+[Speaker 1]:
+Ve biraz daha
+
+[Speaker 2]:
+Cloud tarafında Belki hani
+
+[Speaker 1]:
+Olmak üzere %90 Data Science Tarafında Ağırlıklı olarak Çalıştım ve Çalıştığım süre boyunca Hep bir şeylere
+
+[Speaker 2]:
+Lead etme Taraflarındaydım
+
+[Speaker 1]:
+Diyebilirim Bu güzel bir fırsat Özellikle danışmanlık Tarafında çalışmak Sürekli farklı
+
+[Speaker 2]:
+Projeler görmek
+
+[Speaker 1]:
+Ben seviyende Gördüğüm için biliyorum Bir sürü şirkette Bir sürü farklı Proje var Böyle bir fırsat Kendini geliştirme Adına inanılmaz İnanılmaz Çünkü her şirket
+
+[Speaker 2]:
+Farklı bir şirket Kültüründen göre Şimdi bazı oradaki Şirketleri göreceksin Üretim şirketi Bazı şirketler
+
+[Speaker 1]:
+Sağlık şirketi
+
+[Speaker 2]:
+Avrupa'da mesela
+
+[Speaker 1]:
+Bazı şirketler
+
+[Speaker 2]:
+Baktığında
+
+[Speaker 1]:
+İşte Kargo şirketleri var Mesela işte
+
+[Speaker 2]:
+İki tane Onların adını Söyleyeyim
+
+[Speaker 1]:
+Zaten üç tane Kargo şirketi var
+
+[Speaker 2]:
+İki tane dediğimde
+
+[Speaker 1]:
+Yine de
+
+[Speaker 2]:
+Bilemeye biliyorsunuz
+
+[Speaker 1]:
+Çok Evet Üç tane Kargo şirketi var
+
+[Speaker 2]:
+Herhalde
+
+[Speaker 1]:
+Neyse Her bir şirketin
+
+[Speaker 2]:
+Kendini nasıl orada Çalışma tarzlarını Vesaire görmek
+
+[Speaker 1]:
+Çok iyi oldu
+
+[Speaker 2]:
+Hani
+
+[Speaker 1]:
+Çalışma biçimlerini Disiplinlerini görmek Gerçekten benim için de Çok faydalı oldu
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Peki o zaman Güzel Sevdiğim bir Sekşen Kendini nasıl Geçtiyorsun Güncel kalmak için Neler yapıyorsun Şimdi buraya Geçmeden önce Bizim Malta Grup'ta Yaptığımız bir
+
+[Speaker 2]:
+Repo var
+
+[Speaker 1]:
+Efsum Repo Şöyle ekranda Vereyim linkini Burada Data Science ile İlgilenen Her Seviyeden İnsanın
+
+[Speaker 2]:
+Kendince
+
+[Speaker 1]:
+Bir şeyler Bulabileceği Buraya böyle Sekşenlara
+
+[Speaker 2]:
+Böldük
+
+[Speaker 1]:
+Kaynaklar ekliyoruz Data Commit içinde Ayrı bir Bölme Oluşturduk Bu Hem yayının linkini Hem de Daha sonrasında
+
+[Speaker 2]:
+Hem burada önerdi
+
+[Speaker 1]:
+Hem de sonrasında Murat Şahin'in Önerdiği Kaynakları Oraya ekleyip Aslında
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Belgeyi bir şekilde Tutuyoruz Güzel oluyor Burada
+
+[Speaker 2]:
+İlla
+
+[Speaker 1]:
+Bunun işte Bir buçukuncu Saatinde
+
+[Speaker 2]:
+Olmak durumunda
+
+[Speaker 1]:
+Değilsiniz
+
+[Speaker 2]:
+Bu kaynaklara
+
+[Speaker 1]:
+Erişmek için Repoya da Ekleyeceğiz
+
+[Speaker 2]:
+Dilim
+
+[Speaker 1]:
+Sonrasında Ve Soruyu Sorayım
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+Senin En çok
+
+[Speaker 2]:
+Kullandığın
+
+[Speaker 1]:
+Siteler İşte Frameworkler Kendini Nasıl Güncel Tutuyorsun Tabi Süreç
+
+[Speaker 2]:
+Boyunca Aslında Bayağı
+
+[Speaker 1]:
+Konuştuk
+
+[Speaker 2]:
+Ama
+
+[Speaker 1]:
+Daha böyle
+
+[Speaker 2]:
+Belki
+
+[Speaker 1]:
+Nokta Atışı Bir şeyler Verebilirsin Ya ben
+
+[Speaker 2]:
+Medyumu Çok seviyorum Bir kere Medyum İnanılmaz Bir Platform Hani Ya Bana Deseler ki Murat
+
+[Speaker 1]:
+Sen
+
+[Speaker 2]:
+Bugün Tüm Aboneliklerini
+
+[Speaker 1]:
+Sosyal medyada
+
+[Speaker 2]:
+Kullandın
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+İnternet Ve
+
+[Speaker 1]:
+Hepsisi
+
+[Speaker 2]:
+Tüm Hizmetlerine
+
+[Speaker 1]:
+Sonlandırıyor Sen
+
+[Speaker 2]:
+Deseler Bir tanesini Bırak
+
+[Speaker 1]:
+Deseler Spotify Youtube Oymuş Hepsini Bırakırım
+
+[Speaker 2]:
+LinkedIn'i Önce Bırakırım LinkedIn'i İlk
+
+[Speaker 1]:
+Niye ya Çok Sentetik
+
+[Speaker 2]:
+LinkedIn'i
+
+[Speaker 1]:
+İlk yani
+
+[Speaker 2]:
+Öncelikle LinkedIn'i Bırakırım
+
+[Speaker 1]:
+Her şeyden
+
+[Speaker 2]:
+Önce Ondan Sonra Akabinde Şeyleri Bırakır Medyumu
+
+[Speaker 1]:
+Tutarım
+
+[Speaker 2]:
+Ben Yazı Okumayı Çok
+
+[Speaker 1]:
+Seviyorum
+
+[Speaker 2]:
+Zaten
+
+[Speaker 1]:
+Bir şeyler
+
+[Speaker 2]:
+Yazmaktan Ziyade Okumayı Çok
+
+[Speaker 1]:
+Seviyorum Tüketmeyi Seviyorum
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Ya
+
+[Speaker 2]:
+Orada Çok Deneyimli İnsanlar Var Gerçekten
+
+[Speaker 1]:
+Hani Sizin
+
+[Speaker 2]:
+Belki
+
+[Speaker 1]:
+Yaşınızca Burada
+
+[Speaker 2]:
+Genelde Hep
+
+[Speaker 1]:
+Üniversite Öğrencisi Arkadaşlar
+
+[Speaker 2]:
+Olduğu
+
+[Speaker 1]:
+İçin
+
+[Speaker 2]:
+Ya En az
+
+[Speaker 1]:
+Sizin Yaşınızca Sektörde
+
+[Speaker 2]:
+Deneyim Edilmiş
+
+[Speaker 1]:
+İnsanlar
+
+[Speaker 2]:
+Var O İnsanların Deneyimleri
+
+[Speaker 1]:
+Okumak
+
+[Speaker 2]:
+O İnsanlarla
+
+[Speaker 1]:
+Sohbet
+
+[Speaker 2]:
+Etmek Gibi Bir
+
+[Speaker 1]:
+Şey Diyebilirim Dolayısıyla Acayip
+
+[Speaker 2]:
+Beğeniyorum Hani Ben O Yüzden
+
+[Speaker 1]:
+Site
+
+[Speaker 2]:
+Falan Demek Yerine Medium Medium Da
+
+[Speaker 1]:
+Gireyim
+
+[Speaker 2]:
+Bir Yandan Kimleri Takip
+
+[Speaker 1]:
+Ettiğimi Bakacağım İsim
+
+[Speaker 2]:
+Vermem Çok Doğru Olmayabilir Ama
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Medium Da Doğrudan Okuduğum
+
+[Speaker 1]:
+İnsanlar
+
+[Speaker 2]:
+Var
+
+[Speaker 1]:
+Ya
+
+[Speaker 2]:
+Da
+
+[Speaker 1]:
+Bazı
+
+[Speaker 2]:
+Böyle Organizasyonlar Var
+
+[Speaker 1]:
+İşte Hani
+
+[Speaker 2]:
+Medium Grubu Oluyor Mesela
+
+[Speaker 1]:
+Ekip Blogları
+
+[Speaker 2]:
+Değil mi
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+Netflix
+
+[Speaker 1]:
+Aynen
+
+[Speaker 2]:
+Öyle
+
+[Speaker 1]:
+Aynen
+
+[Speaker 2]:
+Öyle Kesinlikle
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Medium Da Şimdi Daha Böyle Yeni Başlayan Birisi Bir Platformu Öğrenmek
+
+[Speaker 1]:
+İçinde Farklı
+
+[Speaker 2]:
+Farklı Gerçekten Çok Deneyimli İnsanlar Da Hani
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Yazabiliyor Gerçekten
+
+[Speaker 1]:
+İçinden
+
+[Speaker 2]:
+Geldiği İçin
+
+[Speaker 1]:
+İlk
+
+[Speaker 2]:
+Defa
+
+[Speaker 1]:
+Belki Ortaya
+
+[Speaker 2]:
+Koymak
+
+[Speaker 1]:
+İçinde
+
+[Speaker 2]:
+Yazabiliyor Dolayısıyla Medium Çok Önemsiyorum
+
+[Speaker 1]:
+Medium
+
+[Speaker 2]:
+Dışında Öyle Hani
+
+[Speaker 1]:
+Çok Faydalandığım
+
+[Speaker 2]:
+Bir Platform
+
+[Speaker 1]:
+Doğrudan
+
+[Speaker 2]:
+Yok Diyebilirim Çok Kovalamıyorum Öğrenciyken Kovalıyordum Onları Ben Biraz Daha
+
+[Speaker 1]:
+Ondan
+
+[Speaker 2]:
+Sonra
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Kovalamamaya
+
+[Speaker 1]:
+Başladım
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Özellikle
+
+[Speaker 2]:
+Böyle Kaliteli
+
+[Speaker 1]:
+İçerikler
+
+[Speaker 2]:
+Olduğunda Medium'da
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Bayılıyorum
+
+[Speaker 1]:
+O
+
+[Speaker 2]:
+Şekilde
+
+[Speaker 1]:
+Söyleyeceğim Onun dışında
+
+[Speaker 2]:
+GitHub Tarafında Zaten Yaptığım
+
+[Speaker 1]:
+Çalışmaları
+
+[Speaker 2]:
+GitHub Üzerinde Çok Koymam Mümkün Olmuyor
+
+[Speaker 1]:
+Yani Çünkü
+
+[Speaker 2]:
+Zaten Hani Böyle bir Open Source Tarafında Mesela Çok
+
+[Speaker 1]:
+İsterim
+
+[Speaker 2]:
+Open Source
+
+[Speaker 1]:
+Geliştirme
+
+[Speaker 2]:
+Yapabilmeyi Çok
+
+[Speaker 1]:
+İsterim Ama
+
+[Speaker 2]:
+Şu anda Bu Konjonktür Bana Bunu Müsaade Etmiyor Daha Farklı Önceliklerim Oladığı İçin Orada
+
+[Speaker 1]:
+Projeler
+
+[Speaker 2]:
+Kapsamında
+
+[Speaker 1]:
+Genelde
+
+[Speaker 2]:
+Yaptığım İşleri Open
+
+[Speaker 1]:
+Source Koyma Şansım
+
+[Speaker 2]:
+Olmuyor Ya Ekiple Böyle Bir
+
+[Speaker 1]:
+GitHub
+
+[Speaker 2]:
+Open Source
+
+[Speaker 1]:
+Çalışalım Gibisinden
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şeyimiz
+
+[Speaker 2]:
+Olmuyor
+
+[Speaker 1]:
+Maalesef Ama
+
+[Speaker 2]:
+Tamamen Kendi İnisiyatifim
+
+[Speaker 1]:
+Üzerinde
+
+[Speaker 2]:
+Olan Bir
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Olsaydı Eğer Ki
+
+[Speaker 1]:
+Enes Open
+
+[Speaker 2]:
+Source Yönelirdim Yani Yaptığım İçerikleri Tutmadan
+
+[Speaker 1]:
+Aslında
+
+[Speaker 2]:
+Şey Yapmaya
+
+[Speaker 1]:
+Çalışırdım İçimizde
+
+[Speaker 2]:
+Tutmadan
+
+[Speaker 1]:
+Şirket
+
+[Speaker 2]:
+Taraflarında Vesaire Alınan Kararların
+
+[Speaker 1]:
+Sonucu Sonuçta Baktığımızda Çünkü
+
+[Speaker 2]:
+Bilgi
+
+[Speaker 1]:
+Paylaştıkça Çoğalır
+
+[Speaker 2]:
+Yazılım
+
+[Speaker 1]:
+Ekosistemi
+
+[Speaker 2]:
+Bunu Çok İyi Yapıyor
+
+[Speaker 1]:
+Yani Sağ
+
+[Speaker 2]:
+Olsunlar Gerçekten Yazılım Tarafında
+
+[Speaker 1]:
+Çalışan İnsanlar Hep Artık
+
+[Speaker 2]:
+Böyle Bir
+
+[Speaker 1]:
+Zihniyette
+
+[Speaker 2]:
+Böyle Bir
+
+[Speaker 1]:
+Düşünce
+
+[Speaker 2]:
+Yapısında
+
+[Speaker 1]:
+Çalıştıkları İçin Gerçekten Herkes Her şeyi Paylaşma
+
+[Speaker 2]:
+Derdinde Yani Çok Böyle Belki Aykırı
+
+[Speaker 1]:
+İstisnalar
+
+[Speaker 2]:
+Olabilir Teknik Ama Onun
+
+[Speaker 1]:
+Dışında
+
+[Speaker 2]:
+Gerçekten Herkes
+
+[Speaker 1]:
+Paylaşım
+
+[Speaker 2]:
+Derdinde
+
+[Speaker 1]:
+Bu
+
+[Speaker 2]:
+Da Güzel Bir
+
+[Speaker 1]:
+Şey Ben Birazcık
+
+[Speaker 2]:
+Open Sources
+
+[Speaker 1]:
+Cuyum
+
+[Speaker 2]:
+Dir
+
+[Speaker 1]:
+Yaptığımız Her şeyi
+
+[Speaker 2]:
+Koyalım İnsanlar
+
+[Speaker 1]:
+Görsün Fayda Sağlasın Ama
+
+[Speaker 2]:
+Tabi Bir Yandan Bankada
+
+[Speaker 1]:
+Çalışan
+
+[Speaker 2]:
+Biri
+
+[Speaker 1]:
+Olarak Orada
+
+[Speaker 2]:
+Yapılan
+
+[Speaker 1]:
+Hiçbir İşi Koyamıyoruz Öyle
+
+[Speaker 2]:
+Bir Durum Var Yani
+
+[Speaker 1]:
+Benim Tarafda Şimdi Çok Güzel
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Kısım 3. Sekşen Olarak Yeni Başlayanlara Birşeyler Önerme Kısmı Özellikle Şu
+
+[Speaker 2]:
+Kamu
+
+[Speaker 1]:
+Spotı Kısmı
+
+[Speaker 2]:
+Var
+
+[Speaker 1]:
+Sence Senin
+
+[Speaker 2]:
+Alanında Yeni
+
+[Speaker 1]:
+Başlayanların
+
+[Speaker 2]:
+Doğru
+
+[Speaker 1]:
+Zannettiği Ama Aslında Yanlış
+
+[Speaker 2]:
+Olan Neler Var
+
+[Speaker 1]:
+Abi Bu
+
+[Speaker 2]:
+Kamu Spotı Ünlü Bilinen Birşey Miydi Benim Bundan Haberim Yoktu
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Özür Dilerim Şeyde
+
+[Speaker 1]:
+Şeyde
+
+[Speaker 2]:
+Bilmediğim İçin Ben
+
+[Speaker 1]:
+Sistemi
+
+[Speaker 2]:
+De
+
+[Speaker 1]:
+İşle
+
+[Speaker 2]:
+İşle Bilmediğim
+
+[Speaker 1]:
+İçin
+
+[Speaker 2]:
+Bu Kamu Spotı Haberim Yoktu
+
+[Speaker 1]:
+Ben
+
+[Speaker 2]:
+Şöyle Diyeyim Yeni Başlayanların Büyük Yaptığı Hatalar Ya Da
+
+[Speaker 1]:
+Pişmanlık
+
+[Speaker 2]:
+Neler Olabilir Yani
+
+[Speaker 1]:
+Aslında
+
+[Speaker 2]:
+Medium'da Bunun için Bazı Böyle Yazılarım Var
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+Hani Yeni Başlıyorsanız
+
+[Speaker 1]:
+Hatta İsmini
+
+[Speaker 2]:
+De
+
+[Speaker 1]:
+Bakayım Şöyle
+
+[Speaker 2]:
+En
+
+[Speaker 1]:
+Azından Sizi
+
+[Speaker 2]:
+Tam Yönlendirmiş Olayım
+
+[Speaker 1]:
+Bu
+
+[Speaker 2]:
+Tarzda Böyle Yazılarım Var
+
+[Speaker 1]:
+İşte Mesela IT
+
+[Speaker 2]:
+Alanında Başarılı Olmak
+
+[Speaker 1]:
+İsteyen
+
+[Speaker 2]:
+Öğrencilere
+
+[Speaker 1]:
+8 Tavsiye Mesela Şimdi Açtım
+
+[Speaker 2]:
+Ben Bu
+
+[Speaker 1]:
+Yazıyı Mesela Sürekli
+
+[Speaker 2]:
+Biraz Bahsedeyim En azından Yazının Genel Konseptinden Orada Bu
+
+[Speaker 1]:
+Soruyu
+
+[Speaker 2]:
+Cevaplanmış Olurum Diye
+
+[Speaker 1]:
+Düşünüyorum Hep
+
+[Speaker 2]:
+Böyle Merak Etmeniz Gerekiyor
+
+[Speaker 1]:
+Merak
+
+[Speaker 2]:
+Etmek
+
+[Speaker 1]:
+Sürekli
+
+[Speaker 2]:
+Büyük
+
+[Speaker 1]:
+Resmi
+
+[Speaker 2]:
+Hayal Etmek Gerçekten Önemli
+
+[Speaker 1]:
+Siz
+
+[Speaker 2]:
+Merakla
+
+[Speaker 1]:
+Bir
+
+[Speaker 2]:
+Şekilde
+
+[Speaker 1]:
+Aslında
+
+[Speaker 2]:
+Yeni Şeyler Öğrenmeye De Kendinizi
+
+[Speaker 1]:
+Açıyorsunuz Dolayısıyla
+
+[Speaker 2]:
+Bir İlgi Alaka İyidir
+
+[Speaker 1]:
+İlgisiz Alakasız
+
+[Speaker 2]:
+Olduğunuz Durumda Zaten Bir
+
+[Speaker 1]:
+Şey Öğrenmeniz Çok
+
+[Speaker 2]:
+Zor Oluyor
+
+[Speaker 1]:
+İlgi
+
+[Speaker 2]:
+Alakanız Varsa
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Kolay Bir Kaldıraç
+
+[Speaker 1]:
+Vazifesi
+
+[Speaker 2]:
+İle
+
+[Speaker 1]:
+Aslında Orada
+
+[Speaker 2]:
+O
+
+[Speaker 1]:
+Sistemleri
+
+[Speaker 2]:
+Öğrenmeye Tüketmeye
+
+[Speaker 1]:
+Hızlıca Başlıyorsunuz Diyebilirim
+
+[Speaker 2]:
+Merak Önemli
+
+[Speaker 1]:
+Onun
+
+[Speaker 2]:
+Dışında
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Henüz Üniversite
+
+[Speaker 1]:
+Öğrencisiyken
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Alan
+
+[Speaker 1]:
+Seçmeniz Çok
+
+[Speaker 2]:
+Önemli Arkadaşlar Sizin De Böyle
+
+[Speaker 1]:
+İşte
+
+[Speaker 2]:
+Mobil Olur
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Blok Zincir Olur Büyük Veri Olur
+
+[Speaker 1]:
+Her Şey
+
+[Speaker 2]:
+Olabilir Yani
+
+[Speaker 1]:
+Sizin
+
+[Speaker 2]:
+Böyle Bir Alanda Bir
+
+[Speaker 1]:
+Karar Kılmanız Şart O
+
+[Speaker 2]:
+Bakımdan Onu Söyleyebilirim
+
+[Speaker 1]:
+IT Çok
+
+[Speaker 2]:
+Geniş
+
+[Speaker 1]:
+Bir
+
+[Speaker 2]:
+Derya Deniz
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Büyük Bir
+
+[Speaker 1]:
+Şemsiye Sonuçta Ve
+
+[Speaker 2]:
+Sizin Bir Alanda
+
+[Speaker 1]:
+Karar
+
+[Speaker 2]:
+Vermeniz En Azından Üçüncü
+
+[Speaker 1]:
+Sınıfta
+
+[Speaker 2]:
+Falan Bu Kararı Vermiş Olmanız
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+İyi Olur Bunun İçin
+
+[Speaker 1]:
+En
+
+[Speaker 2]:
+Azından Her
+
+[Speaker 1]:
+Çiçekten
+
+[Speaker 2]:
+Bal Alarak Böyle Bir
+
+[Speaker 1]:
+Şeyleri
+
+[Speaker 2]:
+Görerekten İlerlemeniz Gerekiyor
+
+[Speaker 1]:
+Çünkü Belki
+
+[Speaker 2]:
+De Daha Çok
+
+[Speaker 1]:
+Hoşunuza Gideceğiniz
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Olacak Dolayısıyla Her Şeyden Biraz Bir
+
+[Speaker 1]:
+Şehler Tüketmeniz Gerekiyor Nasıl
+
+[Speaker 2]:
+Olduğunu Görmeniz
+
+[Speaker 1]:
+Gerekiyor O Alandaki
+
+[Speaker 2]:
+Deneyimli İnsanlarla
+
+[Speaker 1]:
+Konuşmanız Gerekiyor Neyi Sevdiğinizi Bilmeniz Şart Onun Dışında Şirketlerle Çalışmaya Çalışacaksınız
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Şunu
+
+[Speaker 2]:
+Söyleyebilirim
+
+[Speaker 1]:
+Orada
+
+[Speaker 2]:
+Biraz Daha
+
+[Speaker 1]:
+Çıkarcı
+
+[Speaker 2]:
+Olarak
+
+[Speaker 1]:
+Gerekirse
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şekilde Kötü
+
+[Speaker 2]:
+Koşullara Biraz Daha Olsun Göğüs Gererek
+
+[Speaker 1]:
+Başlatmanız Sizin
+
+[Speaker 2]:
+Kariyer Sürecinizi
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Önemli
+
+[Speaker 1]:
+Orada Çünkü Sonuçta Siz
+
+[Speaker 2]:
+Oradan Bir Şeyler
+
+[Speaker 1]:
+Öğreniyorsunuz Ve
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şekilde
+
+[Speaker 2]:
+Başlamanız
+
+[Speaker 1]:
+Gerekiyor
+
+[Speaker 2]:
+Başlamadığınız
+
+[Speaker 1]:
+Süre
+
+[Speaker 2]:
+Boyunca Bir
+
+[Speaker 1]:
+Şirket
+
+[Speaker 2]:
+Ortamı Bile Görememiş
+
+[Speaker 1]:
+Oluyorsunuz En
+
+[Speaker 2]:
+Büyük Verebileceğim
+
+[Speaker 1]:
+Tavsiye
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şekilde
+
+[Speaker 2]:
+Başlamak Olur
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Kolay Bir
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Değil Ama Başladıktan Sonra
+
+[Speaker 1]:
+Gerisi
+
+[Speaker 2]:
+Geliyor Ona Emin
+
+[Speaker 1]:
+Olabilirsiniz Sadece
+
+[Speaker 2]:
+Başlamak
+
+[Speaker 1]:
+Biraz
+
+[Speaker 2]:
+Zor
+
+[Speaker 1]:
+Herkes İçin Zor Sadece
+
+[Speaker 2]:
+Özel Olduğunuzu
+
+[Speaker 1]:
+Düşünmeyin Size Garezi
+
+[Speaker 2]:
+Olduğunu Düşünmeyin
+
+[Speaker 1]:
+Kimsenin Biraz
+
+[Speaker 2]:
+Başlamak Zor
+
+[Speaker 1]:
+Gerçekten
+
+[Speaker 2]:
+Diyebilirim Genelde Ben Proaktif Oldum
+
+[Speaker 1]:
+Mesela
+
+[Speaker 2]:
+3
+
+[Speaker 1]:
+İstiyorlarsa
+
+[Speaker 2]:
+5 Verdim
+
+[Speaker 1]:
+Sizden
+
+[Speaker 2]:
+Benzer Şeyleri Vermenizi
+
+[Speaker 1]:
+Önerebilirim Çünkü Doğru Kişilerle Çalışıyorsanız
+
+[Speaker 2]:
+Burada Fazla Verdiğinizde Zaten
+
+[Speaker 1]:
+Çokça Öğreniyorsunuz
+
+[Speaker 2]:
+Öte Yandan
+
+[Speaker 1]:
+Bu Vermeniz Size Çokça Katarken Sizin
+
+[Speaker 2]:
+Doğrudan
+
+[Speaker 1]:
+Yükselmenizi Sağlayabiliyor Siz
+
+[Speaker 2]:
+Proaktif Olduğunuzda
+
+[Speaker 1]:
+Kendinizden
+
+[Speaker 2]:
+Fazla
+
+[Speaker 1]:
+Verdiğinizde En
+
+[Speaker 2]:
+Büyük
+
+[Speaker 1]:
+Artısı
+
+[Speaker 2]:
+Öğrenmek
+
+[Speaker 1]:
+Size Ama Onun Dışında
+
+[Speaker 2]:
+Eğer Ki Doğru
+
+[Speaker 1]:
+İnsanlar
+
+[Speaker 2]:
+Laysanız
+
+[Speaker 1]:
+Sizin
+
+[Speaker 2]:
+Onların Gözünde Daha Çok
+
+[Speaker 1]:
+Yükselmenizi
+
+[Speaker 2]:
+Ve
+
+[Speaker 1]:
+Daha Çok
+
+[Speaker 2]:
+Sorumluluk Alarak Daha İyi Yerlere Gelmenizi
+
+[Speaker 1]:
+Sağlayabilir
+
+[Speaker 2]:
+Diyebilirim Öğrenmeyi Öğrenmeye
+
+[Speaker 1]:
+Çalışın Bunu
+
+[Speaker 2]:
+Da Söylemiş Olayım Yani
+
+[Speaker 1]:
+Mesele
+
+[Speaker 2]:
+Bir Framework Angler Öğrenmek Değil Başka Bir Frontend Tool Var
+
+[Speaker 1]:
+İşte Atıyorum Angler
+
+[Speaker 2]:
+Öğrendiniz
+
+[Speaker 1]:
+Sonra
+
+[Speaker 2]:
+React Öğrenmeniz
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Daha Kolay olur Amaç Burada
+
+[Speaker 1]:
+Konsepti
+
+[Speaker 2]:
+Öğrenmek
+
+[Speaker 1]:
+Konsept
+
+[Speaker 2]:
+Ne Öğrenme
+
+[Speaker 1]:
+Konsepti Yani
+
+[Speaker 2]:
+Sizin Öğrenmeyi Öğrenmeniz
+
+[Speaker 1]:
+Gerçekten Çok
+
+[Speaker 2]:
+Önemli Bunu
+
+[Speaker 1]:
+Amaçlamanız Çok
+
+[Speaker 2]:
+Önemli
+
+[Speaker 1]:
+Bugün
+
+[Speaker 2]:
+İngilizce Bilen
+
+[Speaker 1]:
+Birisi İspanyolcayı
+
+[Speaker 2]:
+Da Çok Kolayca Öğrenir Atıyorum Ya da Almancayı Da Çok Kolay Öğrenebilir
+
+[Speaker 1]:
+Çünkü Farklı
+
+[Speaker 2]:
+Bir Dil Orada
+
+[Speaker 1]:
+Sizin
+
+[Speaker 2]:
+O
+
+[Speaker 1]:
+Güçlerinizi Çalıştırdığınız
+
+[Speaker 2]:
+Anlamına Geliyor
+
+[Speaker 1]:
+Nasıl
+
+[Speaker 2]:
+Arayacağınızı Öğrenmeniz Lazım
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Şu anda
+
+[Speaker 1]:
+Ne
+
+[Speaker 2]:
+Alanda
+
+[Speaker 1]:
+Başlayacaksanız
+
+[Speaker 2]:
+Bile Bunu
+
+[Speaker 1]:
+Nasıl
+
+[Speaker 2]:
+Arayacağınız Bunu
+
+[Speaker 1]:
+Çet Cipti
+
+[Speaker 2]:
+Yazma
+
+[Speaker 1]:
+Şeklinizi
+
+[Speaker 2]:
+Bile Öğrenmeniz Gerekiyor
+
+[Speaker 1]:
+Aslında Ya da
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Akıllı
+
+[Speaker 2]:
+Büyük Dil Modeli Ne Demeyeyim
+
+[Speaker 1]:
+Çet
+
+[Speaker 2]:
+Cipti
+
+[Speaker 1]:
+Demeyeyim Yani
+
+[Speaker 2]:
+Bu Şekilde
+
+[Speaker 1]:
+Aslında Önceliklerini
+
+[Speaker 2]:
+Belirlesin Arkadaşlar
+
+[Speaker 1]:
+İşte Bir Pozisyonda
+
+[Speaker 2]:
+Başlama Durumu Olabilir İstedikleri Şirket Kültürü Olmayabilir Şirket Kültürü Olur Pozisyon İstediği
+
+[Speaker 1]:
+Pozisyon
+
+[Speaker 2]:
+Olmaz
+
+[Speaker 1]:
+Enes Hatırla
+
+[Speaker 2]:
+Sen de Benzer Durumları Yaşadın Yani Her şey Dört Dörtlük Olmuyor
+
+[Speaker 1]:
+Abi
+
+[Speaker 2]:
+Ya Para Oluyor
+
+[Speaker 1]:
+Yanaklar
+
+[Speaker 2]:
+Olmuyor Ya Para Yanaklar Oluyor İstediğin
+
+[Speaker 1]:
+Şirket
+
+[Speaker 2]:
+Olmuyor
+
+[Speaker 1]:
+Şirket
+
+[Speaker 2]:
+Oluyor
+
+[Speaker 1]:
+İstediğin Pozisyon
+
+[Speaker 2]:
+Olmuyor
+
+[Speaker 1]:
+Hepsi
+
+[Speaker 2]:
+O
+
+[Speaker 1]:
+İstediğin
+
+[Speaker 2]:
+Kültürde Olmuyor
+
+[Speaker 1]:
+Şirket Şirkete Giriyorsun Şirket Bakıyorsun İstediğin
+
+[Speaker 2]:
+Kültürde Çalışan Bir
+
+[Speaker 1]:
+Şirket
+
+[Speaker 2]:
+Değil Falan
+
+[Speaker 1]:
+Hepsi
+
+[Speaker 2]:
+Oluyor Çalışma
+
+[Speaker 1]:
+Stili
+
+[Speaker 2]:
+Uymuyor Sana
+
+[Speaker 1]:
+O
+
+[Speaker 2]:
+Yüzden Arkadaşların Önceliklerini Belirleyip Ona Göre Hareket Etmeleri Daha
+
+[Speaker 1]:
+Mantıklı
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Bu
+
+[Speaker 2]:
+Şekilde Aslında Baya bir şey Söylemiş Oldum Yazıdan Kopya Çekerek
+
+[Speaker 1]:
+Ama Yine
+
+[Speaker 2]:
+Ayrıca
+
+[Speaker 1]:
+Ekstra
+
+[Speaker 2]:
+Sorusu Olanlar Varsa
+
+[Speaker 1]:
+Seve Yanıtlarım Kesinlikle
+
+[Speaker 2]:
+Bu Arta
+
+[Speaker 1]:
+Artık Son
+
+[Speaker 2]:
+Soruları Doğru
+
+[Speaker 1]:
+Alabiliriz Artık Son
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+İki Sorum
+
+[Speaker 2]:
+Kaldı Benimde Ondan Sonra
+
+[Speaker 1]:
+Kapanışa Geçeceğiz Varsa Sor bana
+
+[Speaker 2]:
+Şu an
+
+[Speaker 1]:
+Tam sırası Şimdi Biraz Şey
+
+[Speaker 2]:
+Bir Soru
+
+[Speaker 1]:
+Zor
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Soru
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Keşken
+
+[Speaker 2]:
+Var mı
+
+[Speaker 1]:
+Geçmişe Dönseydin Şunu Şöyle
+
+[Speaker 2]:
+Yapardım Dediğim Bir Şey Var
+
+[Speaker 1]:
+Sen
+
+[Speaker 2]:
+Niye Böyle Sorular
+
+[Speaker 1]:
+Sordun
+
+[Speaker 2]:
+Gerçekten
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Ne Cevap Verdiler Şimdiye Kadar Onu Bilmiyorum Diğer Arkadaşlar
+
+[Speaker 1]:
+Abi Ben Şöyle
+
+[Speaker 2]:
+Bir Geri Dönüş Vereyim
+
+[Speaker 1]:
+Mesela
+
+[Speaker 2]:
+Cevabı
+
+[Speaker 1]:
+Verildi
+
+[Speaker 2]:
+Bu
+
+[Speaker 1]:
+Soruya Çok Daha Erken Yurtdışına Çıkardım
+
+[Speaker 2]:
+Kan Bir Çalıştı Çekil
+
+[Speaker 1]:
+Yurtdışına Çıkmaya
+
+[Speaker 2]:
+Onu
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Dedi
+
+[Speaker 1]:
+Olgun
+
+[Speaker 2]:
+Olgun Bey Dedi
+
+[Speaker 1]:
+Nike 'da Principal ML Engineer Olar Çalışıyordu Polona
+
+[Speaker 2]:
+Da
+
+[Speaker 1]:
+Tamam
+
+[Speaker 2]:
+Kaan Demedi Di Yok Yok Kaan
+
+[Speaker 1]:
+Kaan
+
+[Speaker 2]:
+Demedi Anladım Yok Şaka Yapıyorum Zaten O da Mezun Olduğu Gibi Çıktı Gitti
+
+[Speaker 1]:
+Zaten Sen
+
+[Speaker 2]:
+Niye Çıkmıyorsun
+
+[Speaker 1]:
+Abi Yurtdışında
+
+[Speaker 2]:
+Kazanacağım Parayı Burada Kazanınca Aslında
+
+[Speaker 1]:
+Hiç Şeye
+
+[Speaker 2]:
+Gerek Kalmıyor Bir Bakıma
+
+[Speaker 1]:
+Öyle Düşünüyorum Bugün
+
+[Speaker 2]:
+Temiz Alabileceğin Zaten Normal Şartlarda
+
+[Speaker 1]:
+Eğer ki
+
+[Speaker 2]:
+Avrupa Şartlarındaysan
+
+[Speaker 1]:
+İngiltere
+
+[Speaker 2]:
+Gibi
+
+[Speaker 1]:
+Al Almanya
+
+[Speaker 2]:
+Gibi Tabiki Bulunduğun Oradaki
+
+[Speaker 1]:
+Eyalete Şehre
+
+[Speaker 2]:
+Göre De Değişir Ama
+
+[Speaker 1]:
+Günü
+
+[Speaker 2]:
+Sonunda
+
+[Speaker 1]:
+4000
+
+[Speaker 2]:
+Euro
+
+[Speaker 1]:
+Normal
+
+[Speaker 2]:
+Ortalama Alabileceğin
+
+[Speaker 1]:
+Aşağı yukarı Ben Bunların
+
+[Speaker 2]:
+Çok Oynadığını Acayip Böyle Hani 10.000 Euro 15.000 Euro Aylık
+
+[Speaker 1]:
+Havada Uçuttuğunu Düşünmüyorum
+
+[Speaker 2]:
+Amerika
+
+[Speaker 1]:
+Değil Orası
+
+[Speaker 2]:
+Arkadaşlar Belki
+
+[Speaker 1]:
+Karıştırıyor Belki
+
+[Speaker 2]:
+Kafa
+
+[Speaker 1]:
+Karışıklıkları
+
+[Speaker 2]:
+Var
+
+[Speaker 1]:
+Arkadaşların Amerika'nın Dünyanın
+
+[Speaker 2]:
+Öbür ucu Biliyorsunuz Biz de Avrupa'ya
+
+[Speaker 1]:
+Çok Yakın Yaşıyoruz
+
+[Speaker 2]:
+Ama Amerika Başka Bir Dünya Tabi
+
+[Speaker 1]:
+Gidebiliyorsan
+
+[Speaker 2]:
+Amerika'ya Git
+
+[Speaker 1]:
+Gerçekten Orada
+
+[Speaker 2]:
+Eğer
+
+[Speaker 1]:
+Kapitalist Sistemde Çalışan Çalışacak
+
+[Speaker 2]:
+Olan Bir
+
+[Speaker 1]:
+Gerçekten
+
+[Speaker 2]:
+Yağız Bir Değkanlı Olduğunu
+
+[Speaker 1]:
+Düşünüyorsan
+
+[Speaker 2]:
+Orada Hani Buna
+
+[Speaker 1]:
+Hazırsan
+
+[Speaker 2]:
+Ve
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Para Kazanmaya
+
+[Speaker 1]:
+Hazırsan Çok
+
+[Speaker 2]:
+Da
+
+[Speaker 1]:
+Çalışmaya
+
+[Speaker 2]:
+Kendinden Vermeye
+
+[Speaker 1]:
+Gidilebilir
+
+[Speaker 2]:
+Mantıklıdır Değerlendirilebilir
+
+[Speaker 1]:
+Ama Yani
+
+[Speaker 2]:
+Avrupa Şartlarında Bana
+
+[Speaker 1]:
+Çok Saçma
+
+[Speaker 2]:
+Geliyor Yani 4000 Euro İçin Orada Hani Gitmek Vesaire Bir De Orada Çalışıyorsan O zaman 2000 Euro Da ev Kirası Veriyorsun Anladın 1500 1500 Euro Veriyorsun Hadi Yani
+
+[Speaker 1]:
+Farketmez Baktığında Bunları
+
+[Speaker 2]:
+Türkiye'de
+
+[Speaker 1]:
+Kazanıp
+
+[Speaker 2]:
+Aynı Şekilde
+
+[Speaker 1]:
+Çalışmak Çok
+
+[Speaker 2]:
+Daha Makul Bir Hayat
+
+[Speaker 1]:
+Sunuyor
+
+[Speaker 2]:
+Sana Aynı Paralarla
+
+[Speaker 1]:
+O yüzden Gerek
+
+[Speaker 2]:
+Kalmıyor Benim cevabım Bu Aslında Çok
+
+[Speaker 1]:
+Samimi Cevap
+
+[Speaker 2]:
+Ama Bu Yani Gerçekten de
+
+[Speaker 1]:
+Amerika
+
+[Speaker 2]:
+Olabilir Mesela Amerika Güzel Olabilir Ama
+
+[Speaker 1]:
+Baktığında Amerika'daki
+
+[Speaker 2]:
+O kazancı Şeye Burada Öyle
+
+[Speaker 1]:
+Ulaşamazsın
+
+[Speaker 2]:
+Abi
+
+[Speaker 1]:
+Kimse
+
+[Speaker 2]:
+Onu Remote Vermeye Bilir Bunun İçinde Car Türk Konuşabiliriz Yani Orada Hani Sen
+
+[Speaker 1]:
+O Nasıl
+
+[Speaker 2]:
+Deyim Yani
+
+[Speaker 1]:
+Şahıs
+
+[Speaker 2]:
+Şirketi
+
+[Speaker 1]:
+Atacaksın
+
+[Speaker 2]:
+Nasıl
+
+[Speaker 1]:
+Yapacaksın
+
+[Speaker 2]:
+Nasıl Gösterilecek Vesaire Gerçekten Çok Fazla Evrak
+
+[Speaker 1]:
+İşleri
+
+[Speaker 2]:
+Olabilir
+
+[Speaker 1]:
+Tutunmak
+
+[Speaker 2]:
+Da Zor Orta
+
+[Speaker 1]:
+Amerika'da
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+İşten Çıkarılman Çok
+
+[Speaker 2]:
+Kolay Avrupa'daki Gibi
+
+[Speaker 1]:
+Avrupa'da Çıkarıyorsun Yani İşçi
+
+[Speaker 2]:
+Geliyor Seni Dömüyor Yani Bir
+
+[Speaker 1]:
+Güzel
+
+[Speaker 2]:
+Avrupa'da Daha Farklı Regülatif Olarak
+
+[Speaker 1]:
+Ama
+
+[Speaker 2]:
+Amerika'da Öyle Değil Yani
+
+[Speaker 1]:
+Çıkarsın Dönemezsin
+
+[Speaker 2]:
+Bile
+
+[Speaker 1]:
+Bavulunu Toplayamazsın Amerika'da İşten Çıkarıldıktan
+
+[Speaker 2]:
+Sonra
+
+[Speaker 1]:
+Direkt
+
+[Speaker 2]:
+Deport Falan Böyle 15
+
+[Speaker 1]:
+Gün İçinde
+
+[Speaker 2]:
+Falan Hani
+
+[Speaker 1]:
+Baktığında Ama
+
+[Speaker 2]:
+Avrupa'da Öyle Değil
+
+[Speaker 1]:
+İşçi
+
+[Speaker 2]:
+Hakları Yani
+
+[Speaker 1]:
+Sosyalist
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şeyden
+
+[Speaker 2]:
+Geldikleri Çok Daha Farklı Orta Öyle
+
+[Speaker 1]:
+Hani Ya Çalışma
+
+[Speaker 2]:
+Tempoları Falan Farklı Tabiki
+
+[Speaker 1]:
+Onlara
+
+[Speaker 2]:
+Girmeyeyim
+
+[Speaker 1]:
+Şimdi
+
+[Speaker 2]:
+Linç Falan Yemeyelim Gece Gece Amerikan Ve Avrupa'nın Tabiki
+
+[Speaker 1]:
+Çalışma İştahı Farklı
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+Sonuçta Bir
+
+[Speaker 2]:
+Yanda Adam McDonald's Arabasından 10 Dakika İçerisinde 5
+
+[Speaker 1]:
+Dakika
+
+[Speaker 2]:
+İçerisinde Yemek Yiyor Arabasıyla Yemek Yiyor Arabasıyla Tuvalete Gidiyor Arabasıyla Hemen Devam Ediyor Bu Kadar Zamanla
+
+[Speaker 1]:
+Yarışan
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+İnsan
+
+[Speaker 2]:
+Grubu Var Bir Yanda Daha Çok Hani
+
+[Speaker 1]:
+Ona
+
+[Speaker 2]:
+Göre Mesai Saatleri Olan Hani
+
+[Speaker 1]:
+Çokta
+
+[Speaker 2]:
+Böyle Kasmayan
+
+[Speaker 1]:
+İşsizlik Maaşlarıyla
+
+[Speaker 2]:
+Vesaire Farklı Farklı
+
+[Speaker 1]:
+Şekilde
+
+[Speaker 2]:
+Kültürle Harmanlanan Bir Topluluk Var Baktığında
+
+[Speaker 1]:
+Avrupa
+
+[Speaker 2]:
+Bana Hitap Etmiyor Avrupa Benlik Değil Yani
+
+[Speaker 1]:
+Orada
+
+[Speaker 2]:
+Hani Öyle Bir
+
+[Speaker 1]:
+Şey Kesinlikle
+
+[Speaker 2]:
+O Yüzden Gitmiyorum
+
+[Speaker 1]:
+Ama Şimdi
+
+[Speaker 2]:
+Tabi Winter'de İngiltere'de Kurulmuş
+
+[Speaker 1]:
+Bir Şirket Baktığında
+
+[Speaker 2]:
+Dolayısıyla
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Orada Yatırımcılar Vesaire Yine Bir Görüşmelerimiz Vesaire Şeylerimiz Olacak Yatırım Turlarında
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Çok İyi Geçeceğini
+
+[Speaker 1]:
+Düşünüyorum
+
+[Speaker 2]:
+Ben
+
+[Speaker 1]:
+Kişisel
+
+[Speaker 2]:
+Olarak
+
+[Speaker 1]:
+Çok Hazırız
+
+[Speaker 2]:
+Ürün Buna Çok Hazır
+
+[Speaker 1]:
+Gerçekten Son Böyle
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Kapanıca
+
+[Speaker 2]:
+Doğru Reklamını Yapmış İnsanların Aklına O
+
+[Speaker 1]:
+Kalsın
+
+[Speaker 2]:
+Hani Winter
+
+[Speaker 1]:
+Kalsın Biz
+
+[Speaker 2]:
+Buna
+
+[Speaker 1]:
+Hazırız
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Bu Şekilde
+
+[Speaker 1]:
+Pişmanlık
+
+[Speaker 2]:
+Olarak Da
+
+[Speaker 1]:
+İşte Şu
+
+[Speaker 2]:
+Şeyi
+
+[Speaker 1]:
+Üniversite
+
+[Speaker 2]:
+Başladığımda Etaryum
+
+[Speaker 1]:
+Koleksiyon
+
+[Speaker 2]:
+Lığı Yapıyordum Etaryum
+
+[Speaker 1]:
+Koleksiyon
+
+[Speaker 2]:
+Lığı
+
+[Speaker 1]:
+İki saat
+
+[Speaker 2]:
+Olduğu
+
+[Speaker 1]:
+İçin Dilim
+
+[Speaker 2]:
+Dönmüyor
+
+[Speaker 1]:
+Enes
+
+[Speaker 2]:
+Onları Keskes Satmasaydım Diyorum
+
+[Speaker 1]:
+Öyle O zaman
+
+[Speaker 2]:
+Teşekkür Edelim
+
+[Speaker 1]:
+Son
+
+[Speaker 2]:
+Soru
+
+[Speaker 1]:
+Son Soru Artık Bu Soruya
+
+[Speaker 2]:
+Ben Bayılıyorum En En
+
+[Speaker 1]:
+Sevdiğin Sorulardan Biri Hani Buradan
+
+[Speaker 2]:
+Buna
+
+[Speaker 1]:
+Kendince Şehitle
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şeyler Demişsin Ama
+
+[Speaker 2]:
+Ben Aynı
+
+[Speaker 1]:
+Şekilde Soracağım Sen
+
+[Speaker 2]:
+O
+
+[Speaker 1]:
+Sence Seni En
+
+[Speaker 2]:
+Çok
+
+[Speaker 1]:
+Geliştiren Veya İşte Sana
+
+[Speaker 2]:
+En
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Zorlandığın
+
+[Speaker 1]:
+Proje
+
+[Speaker 2]:
+Neydi Bilmiyorum Beni Geliştiren Her Zaman Zorlandığım Şeyi Emin Değilim
+
+[Speaker 1]:
+Yani Beni
+
+[Speaker 2]:
+Geliştiren Şeyler Oldu Beni Zorlayan Şeyler Oldu Ama
+
+[Speaker 1]:
+İkisinin
+
+[Speaker 2]:
+Aynı Tarafta Olduğundan
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Emin Değilim Bazen Zorlama İyidir
+
+[Speaker 1]:
+Stres
+
+[Speaker 2]:
+İyidir Hani
+
+[Speaker 1]:
+Gelişmeni
+
+[Speaker 2]:
+Sağlar Yani
+
+[Speaker 1]:
+İnsan Stres
+
+[Speaker 2]:
+Gerekir Yani Gerçekten Bende Ama
+
+[Speaker 1]:
+En
+
+[Speaker 2]:
+Çok Zorlandığım Bir Proje Vardı
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+İsmini
+
+[Speaker 1]:
+Cismini
+
+[Speaker 2]:
+Söyleyemeyeceğim Tabi Ama
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Ağır Bir Şey Yükümlülükler Altında Çalışıyorduk Orada
+
+[Speaker 1]:
+İster İstemez
+
+[Speaker 2]:
+Baktığında
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Gri Bir Alandı
+
+[Speaker 1]:
+Müşteriye
+
+[Speaker 2]:
+Anlatamıyorsun Ekürüsü Ne Demek Bilmiyor
+
+[Speaker 1]:
+Mesela Ama İstiyor Yani Çok Şey İstiyor Tamamen
+
+[Speaker 2]:
+Yapısal Olmayan Bir Bir Tamamen Yapısal Olmayan Bir Ortam
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Çok
+
+[Speaker 1]:
+Gri
+
+[Speaker 2]:
+Böyle Kahrefalı Bakmak Gibi Bir
+
+[Speaker 1]:
+Projeydi
+
+[Speaker 2]:
+Günün Sonunda Ve Biz Orada Elimizden Geleni
+
+[Speaker 1]:
+Yaptık Çokça Şey
+
+[Speaker 2]:
+Yaptık
+
+[Speaker 1]:
+Çokça Şey Kurşun Sıktık
+
+[Speaker 2]:
+Her Türlü Orada Gerçekten De
+
+[Speaker 1]:
+Ekip Muazzam Çalıştı
+
+[Speaker 2]:
+Muhtemelen Hayatımda Asla O
+
+[Speaker 1]:
+Tempoda
+
+[Speaker 2]:
+Belki Bir Projeye Odaklanamayacağım
+
+[Speaker 1]:
+O
+
+[Speaker 2]:
+Saatten Sonra
+
+[Speaker 1]:
+Gerçekten Çok
+
+[Speaker 2]:
+Büyük Bir
+
+[Speaker 1]:
+Çalınj
+
+[Speaker 2]:
+Bizim
+
+[Speaker 1]:
+İçinde
+
+[Speaker 2]:
+Ve Yükümlülüklerimiz De Vardı Yani Sorumluluklarımız Da Vardı Hani
+
+[Speaker 1]:
+Regülasyon
+
+[Speaker 2]:
+Olarak Da Baktığında
+
+[Speaker 1]:
+İşin İçinden Çıkmamız
+
+[Speaker 2]:
+Gereken Bir Projeydi Bir Bakıma
+
+[Speaker 1]:
+Bu
+
+[Speaker 2]:
+Yüzden Bunun Verdiği Stresle Çok Zorlandığımı Hatırlıyorum
+
+[Speaker 1]:
+Tabi
+
+[Speaker 2]:
+Bir Daha Bundan Sonra Zaten Öyle Bir Şeyin Altına Girmem Yani Kesinlikle Girmem
+
+[Speaker 1]:
+O
+
+[Speaker 2]:
+Alırdım Olayları
+
+[Speaker 1]:
+Süreçleri
+
+[Speaker 2]:
+Oradaki
+
+[Speaker 1]:
+Bakış
+
+[Speaker 2]:
+Açımı Falan Değiştirirdim Muhtemelen
+
+[Speaker 1]:
+Böyle
+
+[Speaker 2]:
+Diyebilirim
+
+[Speaker 1]:
+Yani Geliştiren
+
+[Speaker 2]:
+Projeler Kapsamında Sen Şimdi
+
+[Speaker 1]:
+CV
+
+[Speaker 2]:
+Az Çok Şeyi Bildiğin İçinden Bir Sürü Proje Var Zaten
+
+[Speaker 1]:
+Hepsinden
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şeyler Geliştiriyor İnsan Şey
+
+[Speaker 2]:
+Değil Yani Kesinlikle Hani Bir Tane Çok Vurucu Bir
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Sana Söylemem Mümkün Değil Çünkü
+
+[Speaker 1]:
+Hepsinden İyi
+
+[Speaker 2]:
+Kötü
+
+[Speaker 1]:
+Benim Şöyle
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Hikaye
+
+[Speaker 2]:
+O Zorlandığın Proje Kırılma Noktam
+
+[Speaker 1]:
+Diyebilirim Senin
+
+[Speaker 2]:
+Nasıl Bir Hikaye Bende
+
+[Speaker 1]:
+Şöyle
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Şey Olmuştu Bu Bundan
+
+[Speaker 2]:
+Yani Bir
+
+[Speaker 1]:
+Seneden
+
+[Speaker 2]:
+Daha Da Önceydi Herhalde
+
+[Speaker 1]:
+Anoda Sigortanın Hekaton'la Katılmıştım Yani Türkiye
+
+[Speaker 2]:
+Geneliydi Böyle Orada Bir
+
+[Speaker 1]:
+Chatbot Yapmıştım
+
+[Speaker 2]:
+Yani O
+
+[Speaker 1]:
+Zamanlar GPT
+
+[Speaker 2]:
+Tarı
+
+[Speaker 1]:
+Falan
+
+[Speaker 2]:
+Yeni
+
+[Speaker 1]:
+Hype
+
+[Speaker 2]:
+Lanıyordu Raza Yla
+
+[Speaker 1]:
+Yapmıştım
+
+[Speaker 2]:
+Senle Konuşmuyor Müyük O Suralarda Hatırladım
+
+[Speaker 1]:
+Tamam
+
+[Speaker 2]:
+O Zaman
+
+[Speaker 1]:
+Yeni Tanışma Şeyimizdi Evet Doğru Orada Chatbot Yaptım Ondan Sonra
+
+[Speaker 2]:
+O Bir Dönüm
+
+[Speaker 1]:
+Noktası Oldu Yani
+
+[Speaker 2]:
+Belki Ondan
+
+[Speaker 1]:
+Sonra
+
+[Speaker 2]:
+10
+
+[Speaker 1]:
+Taneye
+
+[Speaker 2]:
+Katalog
+
+[Speaker 1]:
+Atılmışız
+
+[Speaker 2]:
+10 Tane
+
+[Speaker 1]:
+Hepsine Chatbot Yaptık Hala
+
+[Speaker 2]:
+Her
+
+[Speaker 1]:
+Gildiğimiz
+
+[Speaker 2]:
+Yer Şöyle
+
+[Speaker 1]:
+Chatbot Yapıyoruz Sen
+
+[Speaker 2]:
+Chatbot Evet Distribütör
+
+[Speaker 1]:
+Olmuşsun Ya
+
+[Speaker 2]:
+Öyle Bir Kırma Noktası Oldu Benim
+
+[Speaker 1]:
+Gerçekten
+
+[Speaker 2]:
+Orada
+
+[Speaker 1]:
+Chatbot
+
+[Speaker 2]:
+Tarafına
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Böyle Yöneldim Ve
+
+[Speaker 1]:
+Hala En son Katıldığım Zaten Şeyde
+
+[Speaker 2]:
+AWS
+
+[Speaker 1]:
+İçerisinden
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Chatbot Yaptık Amazon
+
+[Speaker 2]:
+Bedrock
+
+[Speaker 1]:
+Birlikte Context Base Bir
+
+[Speaker 2]:
+Rock
+
+[Speaker 1]:
+Ve Recommendation Engineler Birlikte Çalışıyordu Eticaret
+
+[Speaker 2]:
+Bot Yaptı
+
+[Speaker 1]:
+Güzel
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Projeydi
+
+[Speaker 2]:
+O
+
+[Speaker 1]:
+Yani
+
+[Speaker 2]:
+Şöyle
+
+[Speaker 1]:
+Geliştirmeye Çalışıyorum
+
+[Speaker 2]:
+O Tarafı
+
+[Speaker 1]:
+Çok
+
+[Speaker 2]:
+Güzel Çok Güzel
+
+[Speaker 1]:
+Valla
+
+[Speaker 2]:
+Benim
+
+[Speaker 1]:
+İçimde
+
+[Speaker 2]:
+Böyleydi Dinleyen
+
+[Speaker 1]:
+İzleyen
+
+[Speaker 2]:
+Bu
+
+[Speaker 1]:
+Saate
+
+[Speaker 2]:
+Kadar Herkese Çok
+
+[Speaker 1]:
+Teşekkür Ederiz Çok
+
+[Speaker 2]:
+Sağ olun Çok Teşekkürler
+
+[Speaker 1]:
+Soru
+
+[Speaker 2]:
+Soranlara Daha
+
+[Speaker 1]:
+Teşekkür Ederiz Abi
+
+[Speaker 2]:
+Geldiğin
+
+[Speaker 1]:
+İçin Çok Teşekkür
+
+[Speaker 2]:
+Ederim
+
+[Speaker 1]:
+Ben
+
+[Speaker 2]:
+Teşekkür Ederim Davet Ettiğin İçin Bu Yani Yoğunluğumun Arasında Belki Daha İyi Daha Enerjikli Olabilirdim
+
+[Speaker 1]:
+Kusura
+
+[Speaker 2]:
+Bakmayın Sabahtan Akşam Kadar Konuştuğum İçin Dil Bir Saatten Sonra Dönmüyor Zaten Gidiyor Bir
+
+[Speaker 1]:
+Şekilde Saatte
+
+[Speaker 2]:
+Geç Oldu Çok Teşekkür Ederim
+
+[Speaker 1]:
+Herhangi
+
+[Speaker 2]:
+Bir Durum Olduğunda Arkadaşlar Bana Linkedin'den
+
+[Speaker 1]:
+İstedikleri
+
+[Speaker 2]:
+Gibi Ulaşabilir
+
+[Speaker 1]:
+Ayrıca Super
+
+[Speaker 2]:
+Peer Üzerinden Böyle
+
+[Speaker 1]:
+Ücretsiz
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Slotum
+
+[Speaker 2]:
+Oluyor Benim Genelde Hani
+
+[Speaker 1]:
+Yeni Kapattılar
+
+[Speaker 2]:
+Biliyor
+
+[Speaker 1]:
+Musun
+
+[Speaker 2]:
+Daha Yeni
+
+[Speaker 1]:
+Kapandı Ne
+
+[Speaker 2]:
+Zaman
+
+[Speaker 1]:
+Daha
+
+[Speaker 2]:
+Yeni
+
+[Speaker 1]:
+Kapandı
+
+[Speaker 2]:
+Daha
+
+[Speaker 1]:
+Bugün Satıldı Satıldı Tamam
+
+[Speaker 2]:
+Niye Kapandı
+
+[Speaker 1]:
+Satıldı
+
+[Speaker 2]:
+Ve Satın Alan Fermi Operasyonları Sonlandırdı
+
+[Speaker 1]:
+Şu an Super
+
+[Speaker 2]:
+Peer
+
+[Speaker 1]:
+Uçtu
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+Ben Super
+
+[Speaker 2]:
+Peer .com'a Girdim Şu an Girildi
+
+[Speaker 1]:
+Artık Skillshare
+
+[Speaker 2]:
+Ailesinin Büyüyesi
+
+[Speaker 1]:
+Sizin
+
+[Speaker 2]:
+İçin Ne Anlama Geliyor Bu Değişiklik Falan Falan Falan Diyor Ama Girebiliyorum
+
+[Speaker 1]:
+Ne
+
+[Speaker 2]:
+Ben Girebiliyorum Da
+
+[Speaker 1]:
+Şey
+
+[Speaker 2]:
+Var Tamam Tamam Gördüm 404 Aldık Evet
+
+[Speaker 1]:
+Tamam Hayırlısı O
+
+[Speaker 2]:
+Zaman Siz Yine LinkedIn'den Yazarsanız Ben Arkadaşları Elimden Geldiği Kadar Yardımcı Olmaya Çalışıyorum Enes Sen de Zaten Öyle Bir Arkadaşın
+
+[Speaker 1]:
+Aslında
+
+[Speaker 2]:
+Normal Hani
+
+[Speaker 1]:
+Geldin
+
+[Speaker 2]:
+Görüştün
+
+[Speaker 1]:
+Selam
+
+[Speaker 2]:
+Verdin
+
+[Speaker 1]:
+Görüştük Tanıştık Konuştuk
+
+[Speaker 2]:
+Yani Ne
+
+[Speaker 1]:
+Bu
+
+[Speaker 2]:
+Faydam
+
+[Speaker 1]:
+Olabilirse
+
+[Speaker 2]:
+Faydalı Genelde Bu Düşünce
+
+[Speaker 1]:
+Ben İki
+
+[Speaker 2]:
+Defa Oradan Hatta
+
+[Speaker 1]:
+Randevu Almıştım Bir
+
+[Speaker 2]:
+Kere Aldım Bir Daha Cumartesi Sabah 8'e Koyduğumdan Herkes Alıyor Ama Herkes Kalkıp Gelemiyor
+
+[Speaker 1]:
+Öyle
+
+[Speaker 2]:
+Bir
+
+[Speaker 1]:
+Turnu
+
+[Speaker 2]:
+Sol Koyduk Koray Bu
+
+[Speaker 1]:
+Sabah
+
+[Speaker 2]:
+Köründe
+
+[Speaker 1]:
+Cumartesi 8'de
+
+[Speaker 2]:
+Yani
+
+[Speaker 1]:
+Öyle
+
+[Speaker 2]:
+Güzeldi
+
+[Speaker 1]:
+O Zaman Tekrardan Teşekkür
+
+[Speaker 2]:
+Ederiz Herkese Görüşmek Üzer
+
+[Speaker 1]:
+Arkadaşlar Çok
+
+[Speaker 2]:
+Sağ olun Dikkat Edin Hoşçakalın İyi Bakın Kendinize
+
+[Speaker 1]:
+İyi Akşamlar Altyazı

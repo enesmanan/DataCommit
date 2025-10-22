@@ -1,0 +1,2410 @@
+[1.72s - 3.86s] Selamlar herkese hoş geldiniz.
+[4.06s - 6.30s] Datacomit'in 5. yayını ile birlikteyiz.
+[7.16s - 10.18s] EWS'de çalışan Eren Akbaba ile birlikteyiz.
+[10.36s - 11.44s] Hoş geldin Eren abi.
+[12.16s - 15.64s] Merhabalar, hoş bulduk Enes. Teşekkür ederim davetiniz için.
+[15.82s - 17.56s] Bu arada güzel bir sohbet olacak.
+[18.30s - 19.48s] Ben de heyecanlıyım.
+[19.90s - 22.52s] Seviyorum böyle insanlarla buluşmayı.
+[23.18s - 23.94s] Bakalım.
+[25.14s - 28.74s] O zaman yavaşça seni tanımakla başlayabilir miyiz?
+[28.74s - 31.22s] Böyle alana nasıl başladın?
+[31.50s - 32.54s] İlk mezun eğittin?
+[32.68s - 33.94s] Hangi üniversiteden çıktın?
+[34.34s - 36.74s] Ben şöyle bir genel bir kendimi tanıtayım.
+[37.28s - 38.34s] İsmi Eren Akbaba.
+[38.50s - 41.50s] Şu an 2,5 yıldan fazla süredir EWS'de çalışıyorum.
+[41.62s - 43.54s] Ama şöyle bir geçmişimden bahsedersek.
+[43.68s - 47.24s] Ben 2014 Bilkent Bilgisayar Mühendisliği mezunuyum.
+[48.02s - 50.96s] 2018 Hacettepe'den yüksek lisans mezunuyum.
+[51.20s - 54.06s] 2022'de de İTÜ'de MBA bitirdim.
+[54.18s - 55.80s] Yani işletme masterımı yaptım.
+[55.80s - 60.64s] Bu süreçte 2014'den beri mezun olduğum günden beri değil.
+[60.72s - 61.98s] Daha doğrusu öncesini söyleyeyim.
+[62.06s - 65.50s] Öncesinde 5 şirkette staj ve yarı zamanlı çalıştım.
+[65.60s - 67.20s] Yani okurken hep çalıştım ben.
+[67.66s - 69.60s] Kendimi piyasada göstermeye çalışmıştım.
+[69.94s - 74.30s] 2014 yılında da mezun olduktan sonra Oracle şirketinde işe başladım.
+[74.98s - 80.04s] Pre-Sales, çözüm mimarı, bulut mimarı yani birbirlerine çok benzeyen roller bunlar.
+[80.34s - 83.70s] Ama biraz daha satışa yakınlık ve uzaklık arasında şeyler var.
+[83.70s - 89.40s] Detaylara gireriz. 4 yıl Oracle'da çalıştıktan sonra İstanbul'a taşınma durumum oldu.
+[89.88s - 93.76s] Ben Oracle derken taşındım ama taşındıktan sonra SAP şirketine geçtim.
+[94.08s - 101.80s] Bir yıl SAP'de kaldıktan sonra işte askerlik durumu, şey durumu falan böyle bir yıldan sonra bir tam oturtamadım.
+[101.80s - 105.48s] Yenişehir derken ayrıldım.
+[105.88s - 107.22s] Daha sonra da IBM'e geçtim.
+[107.76s - 109.68s] 4 yıla yakında IBM'de çalıştım.
+[110.70s - 112.72s] IBM'den sonra da AWS'e geldim.
+[113.14s - 120.18s] Çalıştım 4 şirkette de yaptığım rol tanım olarak birbirine çok benzeyen ama isim olarak birbirinden biraz farklı roller.
+[120.18s - 125.66s] İşte Pre-Sales, Solution Architect, Cloud Engineer, Cloud Architect gibi roller.
+[125.98s - 128.22s] Ama genelde benim yaptığım iş aynı.
+[128.60s - 130.28s] Onun detaylarına gireriz birazdan.
+[130.90s - 133.20s] Temel olarak Eren Akbaba'yı böyle tanıtabilirim.
+[134.16s - 138.98s] Ya burada çalışan şirketlerin hepsi gerçekten herkesin bildiği büyük şirketler.
+[139.14s - 142.32s] Bir de 11 yıllık bir sektör deneyimi var Cloud tarafında.
+[142.32s - 150.54s] Bunu ilk duyduğumdan beri benim kafamı kurcalayan şey mesela mezun olmaya yakın veya işte okul döneminde de full çalışmışsınız.
+[150.76s - 152.10s] Özellikle işte lisans döneminde.
+[152.32s - 154.28s] Orada Cloud'la bir tanışma var mı?
+[154.40s - 156.64s] O dönemlerde Cloud nasıl bir durumdaki?
+[157.04s - 159.80s] Yani mezun oluyorsun ve Cloud tarafına yöneliyorsun.
+[159.90s - 160.58s] Çok enteresan.
+[160.72s - 163.82s] Aslında Cloud'a yönelmem benim okul döneminde olmadı.
+[164.02s - 168.66s] Benim okul döneminde yaptığım işler web development var, mobil development var.
+[169.14s - 170.40s] Sistem engineering var.
+[170.40s - 174.54s] Yani işte bir şirketin bütün sistemlerini yönettiğimiz bir durum olmuştu.
+[174.64s - 175.26s] O ekipteydi.
+[175.86s - 177.94s] Benim Bulut'la tanışmam şöyle oldu.
+[178.02s - 181.48s] Ben 2014'te Oracle'a aslında middleware pre-says olarak başladım.
+[181.60s - 188.68s] Bu şu demek işte API integrations, content management gibi ürünlerin Java'nın işte pre-says olarak başladım.
+[189.28s - 192.08s] Tam o sene Oracle Cloud'a geçiş yapıyordu.
+[192.30s - 196.92s] Ve benim o dönemki müdürlerim de bana şu konuda güvenerek bir soru sordular.
+[196.92s - 201.64s] Yani dediler ki biz bir Cloud pre-says alacağız ya da içimizden yetiştireceğiz.
+[201.76s - 204.00s] Hani sen bu olmak ister misin dediler.
+[204.18s - 205.38s] Ben de isterim dedim.
+[205.70s - 208.54s] O zaman Oracle'ın daha servisleri çok yeniydi.
+[209.06s - 211.54s] Oracle Cloud'u ilk öğrenenlerden biriyim.
+[211.64s - 212.18s] Öyle söyleyeyim.
+[212.30s - 214.56s] Ve çalışmayan, çalışmadığı durumlar vardı.
+[215.02s - 219.02s] Ve hani çalışmadığı durumları işte biz product management ile beraber çözüyorduk.
+[219.28s - 222.36s] Ben baya dipten öğreniyordum aslında Cloud servislerini.
+[222.36s - 225.16s] Tabii ki o gün şeyi biliyordum.
+[225.32s - 228.96s] Yani Oracle'ın Cloud'daki rakibi kim diyorduk mesela.
+[228.96s - 232.56s] O zaman için AWS ya da Microsoft tam değildi.
+[232.70s - 234.52s] Ama Oracle böyle girmişti işin içine.
+[235.10s - 237.62s] Bizim için en tepede işte iki şirket vardı.
+[237.78s - 239.32s] Microsoft ve AWS.
+[239.88s - 244.20s] Bugün gelinen noktada benim Cloud'a geçişim öyle oldu.
+[244.34s - 247.56s] İlginçtir ki ilk dört arasında Oracle Cloud'da sayılıyor.
+[247.56s - 250.16s] Ve ben hani burada şeyden çok memnunum.
+[250.56s - 253.88s] Onların ilk günlerinde o doğuşta ben de vardım.
+[253.96s - 255.30s] Orada öğrendiğim birçok şeyi.
+[255.48s - 258.82s] Hala temelim olarak kullanıyorum diyebilirim.
+[258.94s - 262.54s] Ve sonra işte SAP'ye geçtiğimde de çok benzer bir şey oldu.
+[262.78s - 267.00s] İşte oradaki bana yaklaşan hem HR hem müdür diyeyim.
+[267.14s - 268.40s] Ekibinde çalıştığım müdür.
+[268.48s - 269.34s] Şey demişti.
+[269.46s - 273.12s] Ya aslında senin Oracle'da yaptığını biz SAP'de yapmanı istiyoruz.
+[273.26s - 275.28s] Biz de bir Cloud dönüşümü içerisindeyiz.
+[275.28s - 279.40s] Ve bir böyle dönüşüm geçirmiş biriyle çalışmak istiyoruz dediler.
+[279.62s - 281.94s] Ben aslında benzer şeyi SAP'de yaptım.
+[282.18s - 290.96s] Sonra daha dönüşümden öte olan bir bulut konusunda daha kanıtlamış bir şirkete geçtim IBM'e.
+[291.30s - 293.66s] Orada Cloud Engineer olarak çalışırken.
+[294.46s - 297.28s] Menat bölgesindeki projelerde çalıştım.
+[297.44s - 301.48s] Yani daha hands-on ve bir şeyleri hayata geçirme konusunda çalıştım.
+[301.48s - 306.56s] Artık bulut servislerini satmaya çalışmak yerine bulut servisleriyle proje yapmaya başladım.
+[307.14s - 310.38s] 4 yıla yakın onu yaptıktan sonra da işte AWS'e geldim.
+[311.06s - 312.86s] Benim orada şöyle bir şeyim de var.
+[313.04s - 314.78s] Bu arada ben konuşunca çok konuşurum.
+[314.90s - 315.58s] Onu da söyleyeyim.
+[317.06s - 323.20s] Ben işte Oracle, SAP ve IBM'de bulutçu çalışınca benim arkadaşlarım hep şey diyordu.
+[323.34s - 327.30s] Hani senin aslında şu an olman gereken yer Azure ya Microsoft ya da AWS.
+[327.30s - 331.06s] Hani sen Türkiye'de buluta ilk adım atanlardansın.
+[331.20s - 334.64s] En azından Türkiye'de oralarda olmanı biz görmek istiyoruz diyorlardı.
+[335.06s - 340.70s] Ben AWS iş görüşmelerine başladığımda hep bu motivasyonla devam ettim.
+[340.80s - 346.76s] Yani dedim ki naçizane kendimi geliştirdiysem olduğum alanda da en iyilerden biri olmam gerekiyorsa
+[346.76s - 349.10s] oralara yönelmem gerekiyor diye geliştirdim.
+[349.72s - 350.96s] Kısmet oldu diyelim.
+[351.10s - 352.20s] Güzel bir süreçti.
+[352.56s - 354.42s] Yine onların da detaylarına gireriz.
+[354.42s - 356.58s] Ben böyle hepsini tek seferde anlatmayayım.
+[356.64s - 358.82s] Ama sonunda buradayım işte.
+[359.06s - 361.08s] Şimdi tabii farklı hedeflerimiz var.
+[361.26s - 363.06s] Ama buluta benim geçişim böyle.
+[363.20s - 365.60s] Aslında ben de lisansda bulut çalışmıyordum yani.
+[365.72s - 366.58s] Onu söyleyebilirim.
+[366.92s - 369.60s] İlk yıllarımda biraz bu dönüşüme girdim.
+[370.14s - 373.16s] O zamanlar bulut biliniyor muydu ki bile yani.
+[373.42s - 374.50s] Öyle bir nokta.
+[374.78s - 376.46s] Hatta benim aklımda şunu doğurdu.
+[376.80s - 379.02s] Bu gidişat, bu süreç.
+[379.90s - 383.56s] Şimdi normalde bulut deyince işte bir şeylere tıklıyorum.
+[384.08s - 386.00s] Ekrandan bir şeyler çıkartıyorum.
+[386.24s - 388.80s] Ve işte iki tıkla database ayağa kaldırdım.
+[389.00s - 390.96s] İki tıkla bir şeyleri bağladım.
+[391.18s - 391.82s] Lambda yaptım.
+[391.88s - 392.66s] Ondan ona şey yaptım.
+[392.76s - 393.02s] Çok hoş.
+[393.12s - 395.48s] Bugün bir noktada basit geliyor aslında.
+[395.72s - 396.10s] Basit yani.
+[396.44s - 399.38s] O geçmişte düşündüğümüz o işte şeyler vardır ya.
+[399.50s - 401.60s] Her şeyi kodla yapmak, soru kurmak, bir şeyler yapmak falan.
+[401.90s - 403.56s] Şu an iki tıkla yapıldığı için.
+[403.98s - 405.62s] Eskiden de bu durum böyle miydi?
+[405.76s - 407.76s] Bu cloud'un dönüşümü nasıl oldu buradaki?
+[407.76s - 410.58s] Gerçekten o dönemlerde de iki tıkla yapılıyor muydu bunlar?
+[410.92s - 413.12s] Yoksa bunlar da mı zamanla bu hale yapıldı?
+[413.36s - 414.04s] Zamanla oturdu.
+[414.16s - 416.48s] Yani acayip bir şekilde en de zamanla oturdu.
+[416.88s - 418.16s] Şimdi öncü şey.
+[418.28s - 420.08s] Hani bu çartlar olur ya.
+[420.34s - 422.76s] O çartlarda, lider şeylerinde.
+[422.90s - 424.54s] İşte öncü şirketler olur.
+[424.92s - 426.46s] İşte takip eden şirketler olur.
+[426.54s - 427.46s] Niş şirketler olur.
+[427.80s - 432.12s] Şimdi öncü şirketler 2008'de, 2006'da AWS Microsoft diyeyim.
+[432.46s - 436.92s] Bu servisleri ilk çıkardığında onlar tabii ki bu kadar otomatisli değildi.
+[436.92s - 440.08s] Ama 2012, 13, 14'lerde artık...
+[440.08s - 441.96s] Bu dönemlerde şey var mıydı?
+[442.04s - 443.12s] Arayüz var mıydı?
+[443.20s - 444.90s] Yoksa hep SDK'ye mi bağlanıyordun?
+[445.30s - 447.44s] İlk senelerde yoktu gibi.
+[447.74s - 449.32s] Ama daha sonradan arayüz de geldi.
+[449.42s - 453.86s] Zaten bulutun insanlara kolay gelmesinin sebebi arayüzler biraz.
+[453.86s - 463.70s] Şimdi bundan işte 15 yıl önce diyeyim bir oturup bir database kurmak, işte terminalden bütün ayarları yapmak, konfigürasyonları yapmaktan çok zordu.
+[464.18s - 467.80s] İnanın ben Türkiye'de çok fazla database kurdum Oracle'da çalışırken.
+[468.22s - 471.04s] İki günümüzü aldığı, bir günümüzü aldığı zamanlar oluyordu.
+[471.14s - 474.60s] Senin dediğin gibi şu an iki tıkla bir Oracle database'i ayağa kaldırabiliyorum ben.
+[474.60s - 477.80s] Yani ve bu Oracle Cloud'da da böyle bu arada.
+[477.94s - 481.36s] Hani ben bütün Cloud'u savunan bir insan olarak Türkiye'de, nacizane.
+[481.58s - 482.66s] Hep böyle şey değil.
+[483.16s - 484.48s] Soranlara bazen öyle geliyor.
+[484.56s - 486.76s] Diyorlar ki sen işte şu an AWS'i savundun.
+[486.98s - 489.68s] Tabii ki savunacağım ama ben Cloud'u savunuyorum aslında.
+[490.00s - 494.40s] Ben Cloud'u savunuyorum, public Cloud'u savunuyorum, hibrit Cloud'u savunuyorum.
+[494.40s - 499.78s] Benim derdim on-premise'in tabii ki kanunsal şeylerini bir kenara koyarak ki onlar da çözülüyor.
+[500.34s - 505.16s] İnsanlara ve dünyaya maddi manevi zarar verdiği, işte daha zor olduğu.
+[505.32s - 506.10s] Benim derdim bu.
+[506.32s - 508.94s] Ben Bluetooth'u bu kadar savunma sebebim şey değil.
+[509.06s - 511.16s] Bunun isim babası ben değilim yani.
+[511.30s - 513.92s] Ama öğrendiğim süreçlerde bunu gördüm.
+[514.58s - 519.78s] İşte 5 milyon dolara bir makine alıp data center'a koyduğunda bir müşterimiz içim acıyor.
+[519.78s - 526.22s] Yani belki de ayda 15 bin dolara bu işi çözebilecekken işte bunu kaç yılda 5 milyon doları diyor.
+[526.46s - 527.08s] Böyle düşün yani.
+[527.32s - 530.20s] Ki ayda ödediğinde müşterimize bu kadar da koymuyor.
+[530.32s - 533.46s] Çünkü 5 milyon doları farklı değerlendirebilir müşterimiz.
+[533.66s - 535.98s] Çalışan alabilir, inovasyon ayırabilir.
+[536.18s - 539.82s] Ama onu yine makineye veriyor ya da data center'ın bakımına veriyor.
+[540.26s - 544.00s] E biz diyoruz ki bunun aynı işi 15 bin dolara ayda yapardık yani diyoruz.
+[544.60s - 546.18s] E öyle oluyor falan filan.
+[546.88s - 552.30s] Yani bu kafa yapısıyla aslında bulup da tanıştıktan sonra benim de kafa yapım inanılmaz değişti.
+[552.50s - 554.80s] Gerçekten o bir şeyleri hızlıca ayağa kaldırmak falan.
+[555.02s - 561.00s] Artık böyle kendi kendime ürünleri böyle AWS'den oradan buradan nasıl yapabilirim böyle aklımda acayip çartlar oluşuyor falan.
+[562.34s - 565.78s] Zaten application modernization'ın ilk şeyleri şudur.
+[565.88s - 569.82s] Hani kendi tarafınızda işte modernize edebilirsiniz her şeyi ederseniz.
+[569.90s - 572.06s] Atıyorum konteynerlaştırmadır vesairedir.
+[572.06s - 577.08s] Ama sonra şuna bakarsınız ben hazır platform servisleri kullanabiliyor muyum?
+[577.30s - 583.06s] Yani bu kullanacağım servisin AWS'de ya da başka bir servis sağlayıcıda bir karşılığı var mı?
+[583.28s - 587.00s] Mesela OCR yani bir imaj okuma sistemi diyelim.
+[587.12s - 588.20s] Bizde Textract var.
+[588.52s - 594.58s] Şimdi Textract varken sıfırdan bir OCR yazmaya çalışmanın ya da bir şeyleri implement etmenin anlamı yok.
+[594.80s - 596.96s] Sadece gönderip cevap alıyorsunuz.
+[596.96s - 601.54s] Yani hiçbir şey yapmıyorsunuz yani enable bile Textract'a tek tıp yani.
+[601.96s - 603.32s] Database ya da öyle işte.
+[603.54s - 609.98s] Hani PostgreSQL'de işte 3 yedekli bir database ayağa kaldırıp bunu farklı data center'lara yaymaktı,
+[610.06s - 616.22s] bağlantısıydı, HTTPS'iydi, sertifikası ile uğraşmak yerine bir tane Aurora ayağa kaldırırım bitti.
+[617.44s - 619.66s] Cüzi yani gerçekten de çok cüzi.
+[619.98s - 621.28s] Hesaplama maliyeti de yok.
+[621.40s - 622.78s] Kendi bilgisayarında da bir şey yapmıyorsun.
+[622.94s - 624.08s] O da çok güzel bir şey.
+[624.08s - 627.80s] Şey bile var AWS'in mobil uygulaması var mesela.
+[628.16s - 629.10s] O ben biliyorum.
+[629.64s - 632.56s] Tabii AWS konsola mobilden girebiliyorsun.
+[632.96s - 635.22s] Böyle %100 bütün işlemleri yapamıyorsun.
+[635.40s - 642.94s] Bazı işlemler, çarklar falan mobilde küçük görünce ama %70 işlemlerini mobilden gerçekleşebiliyorsun mesela.
+[643.66s - 645.34s] Giden parayı görebiliyormuşsun.
+[645.98s - 646.24s] Giden parayı görebiliyormuşsun.
+[646.36s - 647.14s] Giden parayı görebiliyormuşsun.
+[647.66s - 649.24s] Tabii tabii onlar görünüyor.
+[649.36s - 651.40s] Costal, Play, Costex, bu hepsi var.
+[652.12s - 653.36s] Onlar varsa iyi.
+[653.50s - 654.82s] Ben çünkü onu düşünüyordum yani.
+[654.98s - 656.06s] Gerçekten nasıl görürüz diye.
+[656.14s - 659.04s] Bir de AWS'e girerken böyle iki adımlı doğrulama var ya.
+[659.26s - 660.94s] İşte bilgisayardan açıyorsun, telefona gönder falan.
+[661.14s - 664.12s] Girmek de biraz böyle şey, maliyetli güvenlikten dolayı.
+[664.32s - 665.78s] Telefondan görebiliyormuşsun çok güzel oldu.
+[666.92s - 668.94s] Bu arada MFA çok önemli.
+[669.32s - 671.78s] Bunu sadece arada lafı geçtiği için söyleyeyim.
+[673.32s - 676.32s] Bulut kullanılması hesaplarda sınırsız bir kaynak var.
+[676.46s - 676.94s] Bunu unutmayın.
+[676.94s - 680.92s] Bunu GPU'lu makineleri, blockchain'leri vs.
+[681.38s - 687.98s] Biri sizin hesabınızı hackleyip sabaha kadar Bitcoin mine etmeye çalışıp sonra da size çok büyük faturalar yazdırabilir.
+[688.60s - 690.42s] Tabii bunları engellemenin yolları var.
+[690.56s - 693.72s] Ama en azından MFA'yi açık tutmak her zaman iyidir.
+[694.50s - 696.32s] Ben onu kapatmaya çalıştım.
+[696.42s - 697.78s] Nereden kapatabiliriz diye.
+[698.06s - 699.46s] Çünkü uğraşmak istemedim onunla.
+[699.60s - 703.32s] Zaten içeride çok da maks 5 dolar aylık harcamaya çalışıyorum.
+[703.62s - 704.94s] Nasıl kapatırız diye bulamadım.
+[705.04s - 706.44s] Galiba kapatılmıyormuş sorumlu.
+[707.52s - 709.38s] Bu arada bir yıldır falan şey oldu.
+[709.52s - 710.42s] Zorunlu hale geldi.
+[710.56s - 712.00s] Daha önce şey değildi.
+[712.12s - 713.88s] Son bir yılda falan çok bir şey oldu.
+[714.12s - 714.92s] Zorunlu hale geldi.
+[715.58s - 719.44s] Şimdi o zaman bilen senin akademik geçmişine bakarsak.
+[719.70s - 720.72s] Sen şimdi mezun oldun.
+[720.78s - 721.96s] Oracle'da çalışmaya başladın.
+[722.04s - 722.66s] Zaman ilerledi.
+[722.72s - 723.90s] Ondan sonra bir yüksek lisans var.
+[724.10s - 724.48s] O niye?
+[724.48s - 726.54s] Ya o şöyle.
+[726.80s - 735.70s] O dönem şimdi bunu tabii ki şey yaparak, övünerek söylemiyorum ama kafamda yüksek lisans yapmak vardı ama aynı zamanda askerliği de ötelemek vardı.
+[735.90s - 737.42s] Şimdi gerçeği konuşmak gerekirse.
+[738.02s - 740.22s] Benim yüksek lisans hikayem de çok ilginç.
+[740.30s - 741.34s] Ben Otlu'da başladım.
+[742.44s - 745.66s] Bir buçuk yıl, bir yıl diyeyim Otlu'da ben okudum.
+[745.78s - 746.20s] İki dönem.
+[746.56s - 749.80s] İkinci dönemin sonunda beni şeyden çağırdılar.
+[749.88s - 751.32s] Bu hikayeyi çok seviyorum anlatmayı.
+[751.42s - 752.68s] Öğrenci işlerinden çağırdılar.
+[752.78s - 756.80s] Dediler ki, siz lisansla işletme 101 dersi almamışsınız.
+[757.92s - 761.10s] Peki, bu bizim pre-request derslerimizden.
+[761.22s - 764.90s] Bunu almadığınız için bu dönem, bu dersi almak zorundasınız.
+[765.02s - 767.50s] Bunu bana söylediklerine dönemin bitmesi 6 hafta var.
+[768.74s - 772.52s] Eğer bu dersi alıp da geçemezseniz atılacaksınız dediler.
+[773.08s - 775.32s] Ben böyle bir şaşırdım yani.
+[775.56s - 776.94s] İşte oraya gittim, buraya gittim.
+[777.02s - 778.32s] Kimseye derdimi anlatamadım.
+[779.32s - 782.80s] En son o dersi bana eklediler ama 6 hafta kalı.
+[783.10s - 784.40s] Dersin hocasına gittim.
+[784.40s - 787.00s] Dedim ki işte, bu derse beni eklediler.
+[787.20s - 789.06s] Ben normalde yüksek lisans öğrencisiyim.
+[789.14s - 790.64s] Bu dersi geçmek zorundayım hocam.
+[791.28s - 795.34s] Bana dedim, geçen not vermek için, yani ne ödev verirseniz hepsini yaparım.
+[795.62s - 797.02s] Ben dedim, ABC istemiyorum.
+[797.12s - 798.60s] Bana geçen not verin sadece.
+[799.50s - 801.14s] Dedi ki, sen derslere gir.
+[801.36s - 803.94s] Şöyle, işte bizim ikinci midtermimiz haftaya.
+[804.16s - 806.70s] İlk midterm zaten kaçmış, bilmem ne falan.
+[807.32s - 809.52s] Girdim, işte 4 tane ödev gitmiş.
+[809.66s - 811.38s] Ödevleri hocadan istedim, vermedi.
+[811.52s - 813.40s] Dedi ki, zamanları geçti, haksızlık olur.
+[813.50s - 814.00s] Peki dedim.
+[814.40s - 816.48s] İkinci midterm'e girdim bir haftada.
+[816.72s - 817.92s] İşte 80 küsur aldım.
+[818.48s - 820.16s] Finale girdim, 80 küsur aldım.
+[820.46s - 821.74s] Geri kalan ödevlerimi yaptım.
+[821.84s - 822.82s] Her derse gittim.
+[822.96s - 824.50s] Benim notum geldi, D, C.
+[825.20s - 827.88s] Şimdi, ilk sınav yok çünkü.
+[828.02s - 828.92s] 4 tane ödev yok.
+[829.86s - 831.54s] Etendası'm çok az güya.
+[831.70s - 832.52s] Son haftalarda gelmiş.
+[832.64s - 834.08s] Ama hocaya bunu anlatmama rağmen,
+[834.18s - 835.34s] hoca bana böyle davrandı.
+[835.78s - 837.94s] Neyse dedim ki, D, C geçen not dedim.
+[838.06s - 839.02s] En azından geçtik hani.
+[839.34s - 840.04s] Kurtardık dedim.
+[840.04s - 842.24s] Sonra bölüm sekreteri beni aradı.
+[842.32s - 843.36s] Dedi ki, işte Eren Bey,
+[843.78s - 846.28s] atın şey, okuldan uzaklaştırmanız yapılıyor.
+[846.40s - 848.12s] Şöyle böyle, işte gelin konuşalım falan.
+[848.20s - 848.76s] Ne oluyor dedim.
+[848.88s - 850.04s] Hani ben dersi geçtim dedim.
+[850.60s - 853.52s] Dediler ki, D, C, yüksek lisans için geçerli not değildir.
+[853.52s - 855.84s] En düşük C, C almanız gerekiyordu.
+[856.10s - 858.26s] İşte kaldığınız için şöyle olacak, böyle olacak.
+[859.06s - 859.84s] Neyse gittim.
+[860.10s - 861.24s] Bölüm başkanıyla konuşuyorum.
+[861.42s - 862.92s] Hocanın yanına gidiyorum, yalvarıyorum.
+[863.02s - 865.34s] Hoca diyor ki, bir şey yapamam, haksızlık olur falan.
+[865.56s - 866.88s] Hani her şeyde buna şey.
+[867.12s - 869.08s] Diyor ki, 6 haftadır bu dersi alıyorum.
+[869.30s - 870.58s] Beni mecbur bıraktınız.
+[870.76s - 871.98s] Ve başta bunu söylemediniz.
+[872.08s - 873.38s] Bu dedim sistemsel bir hata.
+[873.90s - 876.12s] Bölüm başkanıyla tartışmaya başladık.
+[876.88s - 878.84s] Sonra tam böyle şey oldu.
+[878.96s - 881.22s] Dedi ki bana, şu an dedi tamamen dedi,
+[881.22s - 882.56s] hani hiçbir şey yapamıyoruz.
+[882.70s - 883.88s] Burası dedi Bilkent değil.
+[884.10s - 887.00s] Siz dedi özel üniversitelerde bilmem şımartılıyorsunuz falan.
+[887.24s - 888.92s] Ben böyle bir kaldım.
+[889.04s - 890.58s] Dedim ki hocam hani ayıp oluyor dedim.
+[890.74s - 892.76s] Yani özel üniversite şöyle böyle şey geçtim.
+[893.12s - 894.98s] Ben dedim Türkiye'de derece yapmış biriyim.
+[895.38s - 896.50s] Hani onları da geçtim.
+[896.64s - 898.64s] Bilkent dedim benim çok sevdiğim bir kurum yani.
+[898.78s - 899.82s] Bunu dedim şey yapamazsınız.
+[900.40s - 902.68s] Sizin dedim sistemsel bir hatanızdan dolayı
+[902.68s - 903.92s] ben burada bir sorun yaşadım.
+[904.28s - 905.94s] 6 haftada bir dersi geçtim.
+[906.02s - 907.82s] Geçmeme rağmen böyle yapıyorsunuz dedim.
+[908.38s - 910.52s] Ders seçme sisteminizde bir sorun varsa
+[910.52s - 912.46s] bana verin bir 10 bin dolar.
+[912.54s - 913.94s] Ben size sıfırdan yazayım dedim.
+[914.70s - 916.66s] Ha dedim bana veremiyorsanız bu parayı
+[916.66s - 918.86s] her sene dedim 100 tane, 180 tane
+[918.86s - 920.92s] bilgisayar mühendisi mezun ediyorsunuz bu bölümden.
+[921.34s - 923.22s] Onları dedim bitirme projesi verin dedim.
+[923.40s - 925.32s] Ya ben size sadece öneri yapıyorum dedim yani.
+[925.46s - 927.62s] Yoksa dedim benim ODTÜ'yle de sizle de bir sorun yok.
+[927.72s - 928.64s] Saygım sonsuz dedim.
+[928.96s - 929.90s] Öyle durdu.
+[930.40s - 931.28s] Çık dışarı dedi bana.
+[932.02s - 932.84s] Kapıdan çıktım.
+[933.14s - 934.26s] Bir baktım mail geldi.
+[934.44s - 934.82s] Dismiz.
+[937.74s - 939.74s] ODTÜ'den atılma sebebim bu yani.
+[939.74s - 943.70s] Sonra ben orada aldığım dersleri transkriptimi aldım.
+[944.16s - 946.88s] Hemen bir sonraki dönem Hacettepe'ye başvuru yaptım.
+[947.22s - 949.40s] Hacettepe de çok hızlıca kabul etti beni.
+[949.52s - 951.74s] Bu arada ortalamalar şunlarla yüksek olduğu için.
+[952.70s - 954.48s] ODTÜ'de aldığım dersleri saydırdım.
+[955.02s - 957.38s] Ve Hacettepe'de bir yıl okuyup okulu bitirdim.
+[957.60s - 959.78s] Yani sonuçta yine yüksek lisansı bitirmiş oldum.
+[959.94s - 962.24s] Diplomum Hacettepe olmuş oldu ki çok memnunum.
+[962.34s - 963.50s] Hacettepe'yi de çok severim.
+[963.84s - 965.08s] Ama bunun hikayesi böyle.
+[965.08s - 969.46s] Ben bu arada bulut sistemler üzerine çalıştım.
+[969.56s - 970.84s] Hani yüksek lisansımda.
+[971.24s - 974.00s] Aldığım dersler daha böyle detaylı şey derslerdi.
+[974.22s - 976.44s] Ama ODTÜ mezunu olabilir miydim?
+[976.68s - 977.46s] İşte olamadım.
+[977.68s - 979.46s] Yani mesela hala içimde uktedir.
+[979.60s - 983.26s] Bir gün ODTÜ'den mezun olacağım diye bazen geyiğini yapıyorum.
+[983.50s - 987.74s] Hani 40-50 yaşında da başvurup işte bir yüksek lisans falan yapmayı düşünüyorum.
+[988.82s - 991.38s] Yani şok içerisinde kaldım hikayeden.
+[992.14s - 992.82s] İnanılmaz.
+[993.04s - 995.64s] O zaman bir de delikanlı çağlarımız yani.
+[995.74s - 997.22s] Herkese atar gider yapıyoruz.
+[997.78s - 1001.48s] Ben yani bölüm başkanına saygısızlık yaptığımı farkındayım açıkçası.
+[1001.86s - 1007.24s] Ama şey yaşadığım şeyi de o zaman kime anlatsam diyorlardı ki ODTÜ'de öyle şey olmaz.
+[1007.48s - 1013.26s] Ya oldu işte ve hani sistemsel bir sorundan ben belki de yüksek lisansını tamamen kaybedecektim.
+[1013.26s - 1016.30s] Okuduğum bir yıla yazık ki ortalamam da 3.90 küsürdü bu arada.
+[1016.44s - 1019.00s] Bir dersten B almıştım diğer hepsi A'ydı falan yani.
+[1020.20s - 1021.90s] Neyse böyle bir şey yaşadık.
+[1021.92s - 1025.14s] Bilkent'e böyle demesi de çok enteresan yani Bilkent gibi bir okula.
+[1025.34s - 1026.10s] O da garipmiş.
+[1026.68s - 1028.58s] O zaten beni trigger eden oydu.
+[1028.72s - 1031.00s] Hani şey orada patlama sebebim oydu.
+[1031.10s - 1033.08s] Çünkü ben Bilkent'te çok değer veriyorum.
+[1033.40s - 1035.60s] Benim için Türkiye'nin en değerli yerlerinden biri.
+[1035.70s - 1036.80s] En büyük kurumlarından biri.
+[1037.20s - 1038.84s] Keza ben orada da hani çalıştım.
+[1039.60s - 1040.64s] Hocalık da yaptım.
+[1040.64s - 1049.42s] Oradaki hocalarımızın da hem şey anlamında araştırma anlamında dünyada hem Türkiye'de böyle bilinirlikleri ve şeylikleri çok yüksek yani.
+[1049.78s - 1054.86s] Hani atıyorum bir şimdi isim vereceğim ama bir İbrahim hocadan ders almak bir lütuftur yani.
+[1055.24s - 1056.22s] Hani öyle diyeyim yani.
+[1056.30s - 1057.62s] Selim hocadan ders almak.
+[1057.72s - 1060.14s] Ben çok şanslıyım o insanlardan ders aldığım için.
+[1060.88s - 1064.02s] Birinin Bilkent'e böyle bir laf etmesi beni şey yapıyor.
+[1064.18s - 1071.30s] Ki bu arada Bilkent'le arkadaşlar varsa ya da daha sonra izleyecekler arasında Bilkent'ten mezun olmak da çok zordur yani.
+[1071.88s - 1073.68s] Derslere girme zorunluluğu vardır.
+[1073.88s - 1075.28s] Ödevleri yapma zorunluluğu vardır.
+[1075.40s - 1078.50s] Yani öyle düşünüldüğü gibi bir yer değildir yani.
+[1078.50s - 1079.00s] Bilkent'ten.
+[1079.00s - 1079.58s] Evet.
+[1080.32s - 1080.72s] Kesinlikle.
+[1080.86s - 1086.30s] Ya ben de bakıyorum yani gerçekten iyi Bilkent'ten çıkmış çok çok iyi yerlere gelmiş.
+[1086.50s - 1087.88s] Çok fazla sayıda insan var.
+[1089.16s - 1090.36s] Kesinlikle iyi bir okul.
+[1091.22s - 1092.90s] Peki ben sormadan edemem.
+[1094.16s - 1096.84s] Yüksek lisansta yaptığınız tezin konusu neydi?
+[1097.82s - 1099.10s] İşte şeydi.
+[1099.32s - 1100.94s] Aslında bir uygulama yazdım ben.
+[1101.54s - 1103.80s] Uygulamam şey üzerineydi.
+[1103.98s - 1105.72s] Bu arada tezli değildi benim yüksek lisansım.
+[1105.78s - 1106.94s] Yanlış bir anlaşım olmasın.
+[1106.94s - 1108.24s] Yani olarak söyleyeyim.
+[1110.64s - 1115.40s] Uygulama lokasyon bazlı bir aktif ne denir ya ona?
+[1115.54s - 1116.40s] Tam söyleyemedim.
+[1116.98s - 1117.42s] Şey.
+[1117.76s - 1120.30s] O lokasyonun aktif olan kullanıcıyı mı anlık gösterdik?
+[1120.34s - 1123.02s] Aktif olan kullanıcılarla aktivite yapma programıydı.
+[1123.16s - 1123.66s] Ama şey değil.
+[1123.80s - 1124.42s] Dating değil.
+[1124.60s - 1125.32s] Tam tersi.
+[1125.48s - 1126.94s] Dating'e karşı bir uygulama.
+[1127.22s - 1129.20s] Örneğin halı sahaya gitmek istiyorsun.
+[1129.40s - 1131.04s] Halı sahaya arkadaşları bulmak için.
+[1131.16s - 1132.14s] Sinemaya gitmek istiyorsun.
+[1132.26s - 1133.40s] Basketbol oynamak istiyorsun.
+[1133.90s - 1135.32s] Fikir de şuradan gelmişti.
+[1135.32s - 1138.20s] Biz Oracle'da her perşembe basketbol oynardık.
+[1138.40s - 1140.12s] Sürekli Whatsapp'tan şey olurdu.
+[1140.18s - 1141.14s] Bugün kimler geliyor?
+[1141.44s - 1142.60s] Herkes ben geliyorum.
+[1142.82s - 1143.90s] Oradan sayardık falan.
+[1144.28s - 1146.00s] Ben de onu uygulamaya çevirmiştim.
+[1146.10s - 1148.16s] Kendi aramızda kullandığımız bir uygulamaya sadece.
+[1148.60s - 1151.54s] 20 kişinin kullandığı küçük bir uygulaması.
+[1151.64s - 1152.58s] Mobilde çalışan işte.
+[1152.90s - 1154.32s] Onu aslında büyüttüm.
+[1155.34s - 1156.44s] Lokasyon aldı.
+[1156.44s - 1158.58s] İşte ben mesela şu an Batı kentteyim.
+[1158.64s - 1164.26s] Diyorum ki işte ben şuradaki tenis kortununa tenis oynayacağım diye bir şey açıyorum.
+[1164.46s - 1164.80s] Feed de.
+[1165.06s - 1166.20s] Oradan birileri geliyor.
+[1166.32s - 1167.40s] Sosyal medya gibiydi.
+[1167.82s - 1169.00s] Öyle bir konuydu yani.
+[1170.10s - 1171.08s] Güzel zaman.
+[1171.66s - 1173.70s] Bundan sonra bir tane NBA var.
+[1173.98s - 1175.18s] O da enteresan.
+[1175.28s - 1177.46s] Çünkü onların arasında gerçekten bir zaman farkı var.
+[1177.54s - 1179.84s] Yüksek lisanstan sonra direkt çıkıp NBA'ye gidilmiyor.
+[1179.84s - 1181.60s] O arada ne oldu?
+[1181.92s - 1183.56s] Buna başlama kararını nasıl verdiniz?
+[1184.06s - 1185.54s] O ara söyle tabii.
+[1186.18s - 1188.80s] Ben o sırada işte İstanbul'a taşındım.
+[1188.90s - 1190.18s] Biraz daha çalıştım.
+[1190.30s - 1191.38s] IBM'e gittim.
+[1191.44s - 1192.74s] IBM'de uzun süre çalıştım.
+[1193.16s - 1196.94s] Benim IBM'de bir yöneticilik rol fırsatım da oldu.
+[1197.56s - 1201.18s] Onun hikayesi çok çok karışık ve bazı hani şirketsel şey var.
+[1201.26s - 1202.86s] O kadar detaya girmeden söyleyeyim.
+[1203.00s - 1204.30s] Benim müdürüm ayrıldı.
+[1204.94s - 1207.64s] Ve direktörümle biz konuşurken ben takım lideriydim o zaman.
+[1207.78s - 1209.32s] Direktörüm bana şey demişti hani.
+[1209.84s - 1212.04s] Seni onun yerine düşünüyorum demişti.
+[1212.28s - 1216.34s] Ben de o zaman dedim ki madem müdür olacağım okumuş müdür olayım dedim yani.
+[1216.52s - 1218.30s] Gittim okuluna baktım.
+[1218.88s - 1220.78s] İTÜ'de başvurulara çıktı.
+[1221.06s - 1222.16s] İTÜ'ye başvurumu yaptım.
+[1222.24s - 1222.84s] Kabul aldım.
+[1222.92s - 1223.36s] Başladım.
+[1224.44s - 1227.84s] Altıncı ayımda falan zaten İTÜ'de üç dönem.
+[1228.08s - 1229.42s] İşte bir buçuk yıl falan sürüyor.
+[1229.98s - 1233.82s] Altıncı yedinci ayımda benim direktörüm ayrıldı.
+[1233.82s - 1240.18s] Direktör ayrılınca benim olduğum ekibi, takım liderliği yaptığım ekibi başka bir müdüre bağladılar.
+[1240.92s - 1243.24s] Yeni bağlanan müdüre gittim durumu anlattım.
+[1243.34s - 1245.16s] Dedim ki hani böyle böyle bir durum vardı.
+[1245.58s - 1249.76s] Bu araya bir müdür hayır etmek yerine beni aday görebilirsin.
+[1249.92s - 1251.80s] Ben sırf bunun okuluna gidiyorum şu an dedim.
+[1252.10s - 1257.10s] O da bana dedi ki IBM'de müdür olmak bu kadar kolay olsaydı buradaki herkes müdür olurdu dedi.
+[1258.00s - 1261.14s] Ben de dedim ki o zaman ben IBM'den ayrılırım dedim yani.
+[1261.14s - 1264.32s] Çünkü bana verilen bir söz var ve tutulmuyor dedim.
+[1264.54s - 1266.52s] Keza IBM'den de ayrıldım sonra.
+[1266.78s - 1267.64s] Üç ay içinde.
+[1267.92s - 1269.32s] Hani AWS'e geçtim.
+[1269.76s - 1271.60s] İş süreçlerini başlattım.
+[1271.64s - 1272.62s] Başvurularımı yaptım.
+[1273.02s - 1281.98s] Çünkü bunu yine artısını söylemiyorum ama bir şekilde kendini geliştiren insanlar, CV'sine yatırım yapan insanlar iş aramaya başladığında herkes yardımcı oluyor.
+[1282.10s - 1283.88s] Herkes bir öneride bulunuyor.
+[1284.18s - 1285.36s] İlan atmaya başlıyor.
+[1285.72s - 1288.88s] Ben de arkadaşlara dedim ki ben dedim IBM'de devam edemiyorum şu an.
+[1289.00s - 1290.32s] Çünkü başıma bir durum geldi.
+[1291.14s - 1291.88s] İş arıyorum dedim.
+[1292.06s - 1293.68s] Hemen bana ilanlar yağdı.
+[1293.76s - 1294.60s] Bak şurada şu var.
+[1294.80s - 1295.64s] Microsoft'da bu var.
+[1295.82s - 1297.54s] Ben başvurdum ve buraya geldim.
+[1297.82s - 1298.98s] Yani hani ne oldu?
+[1299.06s - 1300.00s] Müdür olarak mı geldim?
+[1300.08s - 1300.28s] Hayır.
+[1300.58s - 1306.04s] Ama işte buraya gelmeden önce IBM'de müdür olsaydım belki de orada kalacaktım şu an.
+[1306.14s - 1309.92s] Yani çünkü benim kariyer hedeflerimde o zaman bu şekilde vardı.
+[1310.20s - 1311.40s] Şu an yok mesela.
+[1312.78s - 1314.82s] MBA'm'de aslında öyle başlamış oldum ben.
+[1314.98s - 1316.24s] Arada MBA'm'de bitirdim.
+[1316.66s - 1317.82s] Hani güzel de oldu.
+[1318.26s - 1319.60s] Çok şey öğrendim bu arada.
+[1319.60s - 1324.20s] Şu an hep teknik çalışan biri olarak MBA'de başta biraz zorlandım.
+[1324.40s - 1326.88s] Ama yöneticilikle ilgili çok şey öğrendim.
+[1327.20s - 1330.06s] Keza geçtiğimiz sene bizim kurduğumuz bir startup var.
+[1330.26s - 1333.90s] O startup'ta işte bir yıl boyunca denedik birçok şeyi.
+[1334.16s - 1338.22s] Ve o süreçte de MBA'de öğrendiğim birçok şeyi kullandım mesela.
+[1338.46s - 1339.38s] Yani hani gerçekten.
+[1339.62s - 1341.60s] Aslında bu üç bir kitabı var yöneticiliğin.
+[1342.30s - 1342.90s] Gerçekten.
+[1342.90s - 1348.00s] Hani yeri geliyor şimdiki yöneticin beni izlerse beni yanlış anlamasın.
+[1348.28s - 1349.04s] Öyle söyleyeyim.
+[1349.26s - 1354.54s] Yeri geliyor bir yöneticinin çalışanına söylediği şeyin aslında kitapta olduğunu görüyorsun.
+[1354.92s - 1356.66s] Hani bir şey istiyorsun mesela.
+[1356.82s - 1358.32s] Bir şeyden rahatsızsın.
+[1358.52s - 1360.02s] Sana bir cevap geliyor işte.
+[1360.16s - 1362.28s] Diyor ki ya işte şöyle olursa böyle olur falan.
+[1362.28s - 1365.58s] Sonra diyorsun ki ya ben şu an burada yerimden rahatsızım diyorsun.
+[1365.86s - 1366.44s] Zam istiyorsun.
+[1366.54s - 1367.10s] Bir şey istiyorsun.
+[1367.40s - 1369.58s] Sonra bir ay sonra sana bir ödül veriliyor falan.
+[1369.82s - 1372.58s] Sonra dönüyorum management işte 101 dersine.
+[1372.74s - 1375.16s] Ya da işte yüksek sansizlik adına diyeyim.
+[1375.60s - 1378.76s] Orada diyor ki çalışanın mutsuz olursa önce şöyle bir şey yap.
+[1379.08s - 1380.38s] Sonra böyle bir şey yap.
+[1380.48s - 1381.34s] Sonra bir ödül ver.
+[1381.52s - 1383.08s] Sonra bir 100 dolar bir şey yap falan.
+[1383.28s - 1385.18s] Beşinci de diyor işte onun istediği şeye.
+[1385.64s - 1387.36s] Hala onu tutmak istiyorsan devam et.
+[1387.68s - 1390.08s] Ve bunları ben ve arkadaşlarım yaşıyoruz.
+[1390.70s - 1396.20s] Diyorum yani bunların birçok kitaptan olduğunu yöneticilik okuyunca öğreniyorsun.
+[1397.30s - 1398.84s] Bunları kitapta yazıyor.
+[1399.46s - 1401.36s] Kitapta yazıyormuş meğer hepsi yani.
+[1401.68s - 1403.00s] Bunun bir yol vuku var yani.
+[1403.44s - 1405.18s] Şimdi ben biraz geyiğe vuruyorum.
+[1405.24s - 1405.86s] Biraz şey vuruyorum.
+[1405.94s - 1406.94s] Müdürümü de çok severim.
+[1407.06s - 1408.14s] Buradan ona selam olsun.
+[1408.40s - 1409.40s] Kıvanç Bey de mi?
+[1409.50s - 1410.22s] Buradan selam olsun.
+[1410.30s - 1412.06s] Biz de EKAT'a ondan almıştık ödülü.
+[1413.52s - 1414.62s] Şaka yapmıyorum yani.
+[1414.78s - 1415.40s] Şey olarak söylüyorum.
+[1415.80s - 1419.90s] Ama bazı şeylerin de nasıl yapıldığına dair işte insanlar
+[1419.90s - 1421.28s] akademik çalışma yapmış.
+[1421.48s - 1424.24s] Şirket nasıl yönetilir buradan onu çıkarmış.
+[1424.74s - 1426.24s] Öyle ilerliyor yani.
+[1427.36s - 1427.96s] Evet.
+[1430.42s - 1433.20s] Bu IBM'den ayrılışı ben bayağı merak ediyordum.
+[1433.30s - 1435.60s] Arkasında böyle bir hikayenin olmasını da beklemiyordum.
+[1435.78s - 1437.62s] Bu bir sürpriz oldu gerçekten.
+[1437.90s - 1438.40s] Interesandı.
+[1438.46s - 1441.42s] Bana onu söyleyen kişi bu arada IBM'de çok sevilen bir kişi.
+[1441.56s - 1443.58s] Bir tek benimle galiba Yıldız'ı barışmadı.
+[1443.98s - 1445.54s] Bu arada piyaza küçük belli olmaz.
+[1445.70s - 1447.38s] Biz 3-5 yıl sonra yine karşılaşırız.
+[1447.46s - 1448.42s] Aynı yerde çalışırız.
+[1448.42s - 1449.64s] Bir kırgınlığım yok.
+[1449.84s - 1452.22s] Ama bana bu lafı söylediğinde ben çok üzülmüştüm.
+[1452.34s - 1454.42s] Yani benim zaten şeylerim şöyle.
+[1455.12s - 1457.38s] Olabildiğince iyi niyetli çalışmaya çalışan biriyim.
+[1457.46s - 1460.18s] Ben mesela hayatımda hiç kimsenin arkasından bir şey kazmam.
+[1460.38s - 1462.04s] Yani uğraşmam yani bununla.
+[1462.28s - 1467.02s] Ama böyle yapınca da belli yerlerde mesela bir laf çok koyuyor.
+[1467.28s - 1468.30s] Hani onu demeye çalışıyorum.
+[1468.36s - 1470.80s] Mesela o Optu'daki bölüm başkanının söylediği şey.
+[1470.94s - 1473.54s] Ya da işte o IBM'deki müdürümün söylediği şey.
+[1473.54s - 1476.64s] O bir lafla mesela diyorum ki tamam ben hayatımı değiştiririm.
+[1476.72s - 1477.60s] Çok önemli değil yani.
+[1477.80s - 1479.42s] Çünkü o laf koyuyor yani insanı.
+[1480.54s - 1483.32s] Kaybeden o sırada bugüne kadar ben olmadım.
+[1483.96s - 1486.70s] Çünkü yüksek sansımı da bitirdim başka bir yerde.
+[1487.32s - 1489.00s] İyi daha bir şirkette de çalışıyorum.
+[1489.10s - 1490.54s] Ya da iyi bir şirkette de çalışıyorum.
+[1490.54s - 1493.10s] Ama yazık oluyor.
+[1493.24s - 1497.68s] O ekipteki 4 yıllık, 3,5 yıllık kişiyi kaybetmek de iyi bir şey değil.
+[1497.90s - 1498.72s] Yani onu da söyleyeyim.
+[1499.10s - 1506.36s] Şu an ben mesela bir yönetici olsam ekibimdeki 4 yıllık kişinin gitmemesi için birçok şeyi yaparım yani.
+[1507.20s - 1508.12s] Yani açıkçası.
+[1508.94s - 1509.62s] Kesinlikle.
+[1509.62s - 1514.58s] Ya bir de öyle bir şey ki yani o 3-4 yıllık kişiler gittiği zaman aslında o kişi de ekibin bel kemiği.
+[1515.78s - 1524.70s] Bir sürü süreç duruyor ve hatta onun yaptığı işler de diğer ekip üyelerine daha fazla iş olduğu için sen bütün ekip dengesini bozmuş oluyorsun ya.
+[1525.06s - 1527.74s] Yani ben de bizim ekipten birkaç kişi ayrıldı o zamanla.
+[1528.06s - 1531.48s] Bu süreçleri biraz böyle içeride deneyimli fırsatı oldum.
+[1532.06s - 1533.56s] Yani gerçekten şey işler.
+[1533.66s - 1535.36s] Şimdi Bikent'te hocalık şeyi var.
+[1535.60s - 1537.70s] Benim hani en merak ettiğim kısımlardan bir de bu.
+[1537.70s - 1542.74s] Çünkü Cloud Computing tarafında Bikent'te ders vermiş.
+[1543.24s - 1545.92s] Hatta şey daha tanışma toplantısında şeyi konuşmuştuk.
+[1546.04s - 1549.98s] Hatta bunları bir yayınlansa keşke ben de alabilsem falan diye konuşmuştuk.
+[1550.40s - 1552.24s] Ya gerçekten inanılmaz bir fırsat.
+[1552.54s - 1555.04s] Oradaki kişilere de gıpta ediyorum yani.
+[1555.64s - 1559.06s] Eran Akbaba'dan direkt Cloud Computing gibi ders boyunca alıyorsun.
+[1559.36s - 1560.60s] Ya o süreç nasıldı?
+[1560.96s - 1565.12s] Ben çünkü Hekaton'da bir defa hani bu Hekaton öncesi eğitimlerde almıştık.
+[1565.12s - 1568.76s] Gerçekten inanılmaz akıcı ve çok uzun süreler konuşabiliyor.
+[1569.20s - 1570.68s] Eren abi o inanılmaz yani.
+[1570.92s - 1572.58s] Böyle hocalar çok kolay bulunmuyor yani.
+[1573.16s - 1574.10s] O şöyle oldu.
+[1574.72s - 1579.34s] Bikent'te Cloud Computing dersi veren hocamız Amerika'ya taşınma kararı almış.
+[1579.86s - 1582.78s] Ve şeyin dönemin başlamasına da 15 gün var.
+[1582.78s - 1588.94s] Ben bu arada mezun olduğum günden beri Bilkent'teki bilgisayar mühendisliği bölümüyle hep iç içeyim.
+[1589.24s - 1593.20s] Mesela Bilkent bilgisayar mühendisliğinde mentorluk yapıyorum çocuklara.
+[1594.44s - 1598.00s] Bizim müfredatın belirlenmesinde kurul üyesiyim vesaire.
+[1598.18s - 1599.66s] Hani böyle birkaç şeyde çalışıyorum.
+[1600.30s - 1603.28s] Bölüm başkanımız Selim Hoca'da çok saygı duyuyorum, çok severim.
+[1603.72s - 1605.96s] Bana bir maille dedi ki Eren böyle bir durum var.
+[1606.32s - 1607.50s] Düşünür müsün dedi.
+[1607.68s - 1609.88s] Ya da senin etrafında düşecek biri var mı dedi.
+[1609.88s - 1613.22s] Şimdi ben de dedim ki hocam siz buna layık gördüyseniz
+[1613.22s - 1615.14s] hani benim dedim söyleyecek bir sözüm yok.
+[1615.30s - 1617.68s] Yani görev çağırıyorsa geliriz dedim yani.
+[1617.94s - 1620.80s] Siz dedim uygun görürseniz ben veririm bu dersi dedim.
+[1620.98s - 1622.74s] Biz de zaten onu istiyorduk falan dedi.
+[1623.32s - 1626.56s] Böyle bir iki görüşme yapıp şöyle bir hızlıca müfredatı konuştuk.
+[1626.66s - 1628.04s] Hangi konuların üzerinden geçeriz.
+[1628.10s - 1629.84s] Daha önce neler anlatılmış onu konuştuk.
+[1630.18s - 1631.96s] Bu arada daha önce Google anlatılıyormuş.
+[1632.12s - 1632.58s] Google Cloud.
+[1632.82s - 1635.08s] Ben dedim ki yalnız ben Google Cloud'ı anlatamam.
+[1635.28s - 1636.32s] AWS anlatırım.
+[1636.42s - 1637.32s] Dediler ki daha iyi.
+[1637.46s - 1638.76s] Yani bizim için daha iyi dediler.
+[1638.76s - 1642.54s] Sonra ben müfredatı hazırladım ve başladım.
+[1643.02s - 1644.74s] Çok eğlenceliydi.
+[1644.88s - 1652.94s] Yani hocalık ya birilerinin size böyle gözünüzün içine bakması, saygı duyması çok farklıydı.
+[1653.08s - 1656.76s] Öğrencilerimin her biriyle farklı bir arkadaşlık kurmaya çalıştım.
+[1657.02s - 1657.36s] Denedim.
+[1657.60s - 1662.74s] Mesela ilk sınavdan düşük alan bir arkadaşımız dersi bırakmak istedi.
+[1662.74s - 1666.58s] Resmen ona dedim ki bak hallederiz yani konu öğrenmek olsun.
+[1666.74s - 1667.96s] Sen dedim nota takılma.
+[1668.46s - 1669.76s] Resmen yalvardım mesela.
+[1669.96s - 1671.02s] Sonra dersi bıraktı.
+[1671.18s - 1673.04s] Sonra sene sonu bana mail atmıştı.
+[1673.08s - 1674.76s] Eren hocam keşke dersi bırakmasaydım.
+[1674.86s - 1678.22s] Şu an tüm arkadaşlarıma kıskanarak bakıyorum falan.
+[1678.22s - 1681.92s] Çünkü biz farklı bir şey kurduk oradaki arkadaşlarla.
+[1682.34s - 1689.00s] Hani onlar şey diyordu bana mesela hocam işte siz tam bir hoca gibi değilsiniz ama işte çok iyi de anlatıyorsunuz.
+[1689.06s - 1690.58s] Biz çözemedik bu dersi.
+[1690.72s - 1694.12s] Hani mesela ben dedim ki devam zorunluluğu şöyle gelene 5 puan.
+[1694.26s - 1698.24s] Hani atıyorum 34 ders varsa totalde örnek veriyorum 42'dir galiba.
+[1698.24s - 1700.42s] 35'ine gelene 5 puan dedim.
+[1700.96s - 1703.00s] 34 işte olursa 4 puan böyle gidiyor.
+[1703.08s - 1704.66s] 30'un altına gelene dedim puan yok.
+[1705.38s - 1708.94s] Şimdi beklersin ki bazısı puandan vazgeçer falan filan.
+[1709.02s - 1710.98s] Biz son hafta 60 kişi ders yapıyorduk.
+[1711.08s - 1713.04s] Herkes derseydi yani hiç giden yok.
+[1713.42s - 1716.90s] Ben artık içimden diyorum ya yarısı gelmese mi acaba falan diyorum.
+[1718.68s - 1720.28s] 60 kişi ders yapıyorduk.
+[1720.48s - 1722.92s] Sonra işte güzel bir dönem oldu yani benim için.
+[1722.92s - 1730.00s] Oradaki 60 kişinin de 50 küsürü şey sanırım sertifika sınavına girdi aldı.
+[1730.40s - 1732.58s] Diğerleri girmediği için alamadı herhalde.
+[1733.08s - 1735.94s] Onlara mesela AWS kredileri sağladık.
+[1736.28s - 1737.56s] Orada bir şeyler yaptılar.
+[1737.88s - 1738.78s] Her şeyi söyleyeyim.
+[1739.04s - 1743.20s] Bilkent'in mezuniyet fuarında CS Fair diye bir şey vardır.
+[1743.66s - 1746.74s] Bilgisayar mühendislerinin bitirme projeleri sergilenir.
+[1747.28s - 1749.44s] O gün orada her yer AWS'ti.
+[1749.44s - 1753.50s] Çünkü o arkadaşını anlatmış, o grubunu anlatmış falan filan.
+[1753.76s - 1754.80s] Kredileri verdik.
+[1754.92s - 1759.24s] Bana en son Microsoft'tan benim dönemimden mezun bir arkadaş geldi.
+[1759.54s - 1761.44s] Bunu nasıl başardın dedi böyle.
+[1761.78s - 1763.42s] Dedim ki yaptık bir şeyler.
+[1763.62s - 1764.18s] Ben de bir şey var.
+[1764.52s - 1768.50s] Çünkü Bilkent'te o CS Fair'da her yerde AWS logosu vardı.
+[1768.62s - 1771.80s] Ve ben bunu AWS'de para çıkarıp yapmaya çalışsam yapamam.
+[1772.00s - 1775.00s] Yani hani Bilkent'e gitsem ne zaman ki sana şu kadar para veriyorum.
+[1775.00s - 1777.14s] Benim logomu her yere koy desem yapamam yani.
+[1778.02s - 1779.88s] Öyle güzel bir süreç oldu.
+[1781.02s - 1786.44s] Tavsiyem arkadaşlar, izleyenlere sana bir fırsatınız olursa bu hocalığı deneyin.
+[1786.70s - 1788.32s] Yani çok farklıydı.
+[1788.40s - 1789.84s] Ben devam etmeyi çok istedim.
+[1790.06s - 1793.56s] Ama AWS'de bizde de takımdan ayrılan arkadaşlar oldu.
+[1793.70s - 1794.68s] Yurt dışına gidenliyim.
+[1794.78s - 1796.14s] Ayrılmaktan kastım şey değil.
+[1796.34s - 1798.96s] Hani işte daha iyi pozisyonlar bulan arkadaşlar.
+[1799.24s - 1802.24s] O yüzden iş yüküm çok arttığı için devam edemedim.
+[1802.24s - 1807.04s] Ama eğer ben burada kalırsam ve iş yüküm tekrar şey gelirse, Türkiye'de kalırsam
+[1807.04s - 1813.68s] tekrar Selim Hoca'ya gidip diyeceğim hocam tekrar bir beni düşünürseniz ben diyeceğim yapmak istedim diyeceğim yani açıkçası.
+[1813.76s - 1814.98s] Çok güzel bir şeydi çünkü.
+[1815.60s - 1821.96s] Eğer böyle bir şey olursa umarım bunlar kaydedilir ve artık bir YouTube'a x bir yere de konur.
+[1822.10s - 1823.70s] Yani gerçekten biz de ulaşabiliriz.
+[1823.82s - 1825.66s] Bilkent'te olmayan camia olarak.
+[1827.38s - 1829.76s] Yani umarım denenebilir bu arada.
+[1830.12s - 1832.06s] Belki daha farklı bir proje yapılabilir.
+[1833.00s - 1835.92s] Belki AWS için de bir inisiyatifle bu yapılabilir.
+[1836.26s - 1839.30s] Sonuçta anlattığımız şeyler AWS servisleri temeliydi.
+[1839.98s - 1841.26s] Düşünebilir aslında ya.
+[1841.42s - 1842.22s] Güzel fikir yani.
+[1842.42s - 1844.84s] Ben buradan YouTuber'lar kayıyormuşum bundan sonra.
+[1845.28s - 1847.96s] Bir şeyde eğitim veriyorum falan.
+[1848.84s - 1851.62s] Bana işte hediye atın falan böyle çıkıyormuş.
+[1854.84s - 1858.74s] Ya o her yıl AWS olma şeyini biraz böyle ben de hissettim.
+[1858.88s - 1863.30s] Bu Hekaton tarafında işte ben de böyle detaylı girme fırsatı buldum AWS'e.
+[1863.56s - 1867.88s] Ve bunun öncesinde ben Google Cloud eğitimi almıştım başka bir Bootcamp'te.
+[1867.94s - 1868.94s] Daha uzun süreli.
+[1869.44s - 1870.88s] Şu an işte Azure tarafı var.
+[1870.98s - 1871.94s] Onu da alıyorum.
+[1872.22s - 1873.62s] Başka bir gene Bootcamp'te.
+[1873.90s - 1874.60s] Uzun süreli.
+[1874.74s - 1877.34s] Ama AWS'e bu kadar az eğitim almama rağmen
+[1877.34s - 1880.02s] yani şu an gönülden bağlayayım AWS'i.
+[1880.08s - 1881.08s] Niye bilmiyorum ama.
+[1881.08s - 1882.98s] Valla senden dolayı mı ben de bilmiyorum.
+[1883.80s - 1885.60s] Gerçekten böyle AWS'den çıkamıyorum.
+[1885.70s - 1887.00s] En sevdiğin Cloud o ya.
+[1887.54s - 1888.20s] Çok sevindim.
+[1888.30s - 1888.78s] Çok sevindim.
+[1889.22s - 1892.36s] Ama ben gerçekten bak şey olarak söylemiyorum.
+[1892.50s - 1895.88s] Cloud sistemleri servis arasında ayrım yapmaya gerek yok.
+[1897.52s - 1899.24s] Yarın bir gün ben orada çalışırım.
+[1899.38s - 1900.18s] Burada çalışma değişir.
+[1900.28s - 1901.08s] Bu ayrı bir konu ama.
+[1901.60s - 1902.48s] Ben şey için demiyorum.
+[1902.56s - 1903.30s] Ben burada çalışmışım.
+[1903.50s - 1905.72s] Bu en iyisidir ve bunu kullanın demiyorum.
+[1906.04s - 1907.56s] Bildiğimi anlatmaya çalışıyorum.
+[1907.56s - 1912.88s] Yoksa o konunun belki daha iyi yapıldığı, daha kolay yapıldığı servisler olabilir.
+[1913.16s - 1919.40s] Biz burada insan olarak projeleri daha iyi, daha az maliyete ve daha hızlı çalışacak şekilde yapmaya çalışıyoruz.
+[1919.50s - 1920.34s] Olay bundan ibaret.
+[1920.68s - 1923.10s] AWS'e AWS, başka bir şey ise başka bir şey.
+[1923.84s - 1925.06s] Açıkça söylüyorum yani.
+[1926.84s - 1929.30s] Bir de Eren abinin şöyle bir durumu da var.
+[1929.44s - 1930.28s] Solu işin arkitek.
+[1930.58s - 1931.56s] Şimdi Hekaton'dayız.
+[1931.82s - 1932.62s] Hata var.
+[1932.86s - 1933.38s] Çözemiyoruz.
+[1933.64s - 1935.68s] Bir saat uğraştık, iki saat uğraştık falan.
+[1935.94s - 1937.90s] Artık böyle Eren abi uğradı bir falan.
+[1938.16s - 1939.72s] Abi nasıl yapacağız falan filan şöyle.
+[1940.00s - 1941.24s] Adam geldi oturdu.
+[1941.38s - 1941.98s] İki dakika sonra.
+[1942.22s - 1945.90s] Yani sürekli hata veren fonksiyon hata vermeyi bıraktı bir anda.
+[1946.02s - 1946.66s] Hiçbir şey yapmadın.
+[1946.82s - 1947.66s] Saç ekranı var.
+[1948.38s - 1951.26s] Ya bu da şimdi sen hiçbir şey yapmadın diyorsun ama o şöyle.
+[1951.36s - 1952.98s] 11 yıl artı iki dakika.
+[1956.26s - 1958.46s] Biz saatlerden uğraşıyoruz ona falan.
+[1959.00s - 1960.62s] Sonra işte gitti.
+[1961.02s - 1962.68s] Tekrardan başka bir hata çıktı.
+[1962.84s - 1964.06s] Bir de onu çözmeye çalıştık falan.
+[1964.20s - 1964.50s] Gene oldu.
+[1964.60s - 1965.56s] Sonra bir daha geldi.
+[1965.96s - 1967.78s] Bir beş dakika falan böyle uğraştık.
+[1967.84s - 1968.90s] O da çözüldü.
+[1969.54s - 1971.48s] Adam geliyor böyle çat çözülüyor.
+[1971.60s - 1972.92s] Ondan sonra geri gidiyor.
+[1973.00s - 1974.02s] Başka hata geliyor falan.
+[1974.16s - 1976.06s] Acayip bir ağrısı vardı o tarafta.
+[1976.34s - 1976.72s] Evet.
+[1976.72s - 1977.94s] Sana bir soru geldi.
+[1978.10s - 1979.74s] Sonra mı alacağız soruları bilmiyorum ama.
+[1980.10s - 1981.60s] Yok şu anda da alabiliriz direkt.
+[1982.20s - 1983.80s] Ömer Faruk'tan gelmiş.
+[1984.16s - 1989.16s] Peki Azure'un Microsoft ürünlerini cloud üzerinde kullanmaya teşviki EWS'in gelecekte
+[1989.16s - 1991.86s] olmak istediği pazar liderliği planlarını nasıl etkiler?
+[1992.42s - 1996.64s] Şimdi güzel bir soru ama soruda sadece şunu söylemek istiyorum.
+[1996.96s - 2001.28s] Şu an pazar liderliği ya da olmak istediği pazar liderliği gibi bir şey değil.
+[2001.28s - 2008.54s] EWS aslında 289 servisinin belki de 260'ında 70'inde pazar lideri zaten.
+[2008.74s - 2012.40s] Çok nadir niş servislerde daha iyi olduğu durumlar olabilir rakiplerden.
+[2012.78s - 2013.26s] Rakiplerin.
+[2013.74s - 2015.34s] O yüzden burada bir şey yok.
+[2015.50s - 2018.16s] Hani Azure'dan daha iyi olmak için şunu yapmadığım gibi bir şey yok.
+[2018.32s - 2019.74s] Ama şunu söyleyebilirim.
+[2019.74s - 2028.72s] Kişisel bazda, startup bazında SMB yani Small Medium Business'i bizim COBI dediğimiz bazda EWS'de çok fazla kredi var arkadaşlar.
+[2028.92s - 2030.42s] Bunları eğer araştırırsanız.
+[2030.52s - 2034.36s] Mesela şu an tek kişi olarak şu an Eren Akbaba olarak ben gireyim.
+[2034.54s - 2036.96s] Bin doları veriyor bana kredi.
+[2036.96s - 2040.42s] Şirket olarak bir startup başvuruyor 10 bin doları veriyor.
+[2040.56s - 2046.40s] Hatta o startup büyümeye başlar ve kullanmaya devam ederse 100 bin dolar var bir sonraki adımda.
+[2046.88s - 2049.62s] Yani bin, on bin ve yüz bin dolar gibi krediler var.
+[2050.00s - 2050.98s] COBI'lerde de öyle.
+[2051.38s - 2060.12s] Burada maksat özellikle sıfırdan kurulan sistemleri EWS'e kurun ve doğru velarkitetit yapılar kullanını yaptırmak.
+[2060.34s - 2062.46s] Böylece sonradan bunlarla uğraşmayın.
+[2062.64s - 2063.90s] Hani bu önemli bir şey.
+[2063.90s - 2075.02s] Şimdi şey kervanyolda düzlülür mantığıyla işe girdiğiniz zaman bazen 6. ay hadi 1. yıl ya da şirketiniz bir anda çok büyüdü diyelim.
+[2075.12s - 2075.80s] Startupsınız.
+[2076.14s - 2077.84s] 100 bin kullanıcınız oldu.
+[2078.06s - 2080.38s] Para kazanmaya başladınız ama altyapınız yetmiyor.
+[2080.70s - 2083.88s] En başa geri dönerseniz sıkıntı çok büyük olur.
+[2084.34s - 2088.62s] Onu scale up yapamazsınız ve o zaman da kullanıcıları kaybetmeye başlarsınız.
+[2088.62s - 2102.48s] O yüzden EWS diyor ki ben en baştan senin yanında olursam, benim verdiğim dokümanlara uyarsan, benim verdiğim kredileri doğru kullanırsan bir kullanıcıya da 100 bin kullanıcıya da 1 milyon kullanıcıya da şey verebilirsin diyor.
+[2102.70s - 2103.68s] Hizmet verebilirsin diyor.
+[2104.12s - 2107.48s] Keza şu an mesela bizim dünyadaki en büyük müşterilerimizden biri Meta.
+[2107.98s - 2111.56s] Meta'nın kendi data center'ı var ama EWS'e de kullandığı çok fazla şey var.
+[2111.88s - 2115.68s] Meta deyince aklımıza Facebook, Instagram gibi çok büyük sosyal medyalar geliyor.
+[2116.28s - 2122.50s] Formula 1'deki IoT işte o hızlı datanın aktığı, yorumlandığı şeyler vesaire geliyor.
+[2122.74s - 2127.94s] Ama diğer tarafta erenakbaba.com şu an yok ama olsaydı ben onu da EWS'e çalıştırdım.
+[2128.20s - 2129.98s] Yani demeye çalıştım bu.
+[2130.06s - 2137.38s] Çünkü bana verdiği bin dolar zaten benim 3 yıllık o ya da belki daha fazla erenakbaba.com'u host etme paramı çıkaracaktı yani.
+[2138.70s - 2140.08s] Böyle adımlar var.
+[2140.22s - 2141.08s] Bu teşvikler var.
+[2141.22s - 2142.00s] Onu söyleyebilirim.
+[2142.00s - 2146.58s] Bir şey diyeceğim ya bu bin dolar bedrak da geçerli değil mi?
+[2146.86s - 2149.42s] Ben bedrak da yaptığım her şeyin faturasını ödüyorum çünkü.
+[2150.54s - 2153.10s] Şey özellikle şimdi orada da şöyle bir durum var.
+[2153.90s - 2158.84s] En son yeni çıkan servisler bu kredilerde free tier'a giriyor.
+[2159.02s - 2160.16s] Üstüne çok şey olmuyor.
+[2160.30s - 2161.90s] Bedrak o bin dolarda yok.
+[2162.12s - 2164.14s] Ama on bin dolarda çalıştırabiliyorsun.
+[2164.38s - 2166.98s] Hani bin dolar biraz kişisel bir teşvik ya.
+[2166.98s - 2169.70s] Kişisel olarak bedrak o kadar şey yapmıyor.
+[2170.48s - 2171.70s] Önermiyor şimdi bittiğim.
+[2172.10s - 2174.74s] Ama şirket olarak on bin dolar da kullanabiliyorsun.
+[2174.82s - 2177.30s] Benim startup'ım da bu arada kullandı on bin doları yani.
+[2177.60s - 2178.12s] Bunu söyleyebilirim.
+[2178.26s - 2184.36s] Bu arada startup'ım startup'ım derken EWS'de çalışırken bir startup macerası var.
+[2184.44s - 2185.46s] Orada CTO'luk var.
+[2185.56s - 2186.92s] Hem kurucu ortak hem CTO.
+[2186.92s - 2191.30s] Ve tüm sistemi yanlış mı yoksa EWS içerisinden yapmışlar.
+[2191.38s - 2192.90s] Mesela oradaki süreç nasıldı?
+[2193.14s - 2197.38s] Ve bu işi EWS'de çalışırken ikisini birlikte nasıl götürdün abi?
+[2197.64s - 2198.20s] O şöyle.
+[2198.62s - 2202.16s] EWS'in içinde bir izin mekanizması var.
+[2202.36s - 2204.84s] Diyorsunuz ki ben EWS'e rakip olmayacak.
+[2204.94s - 2206.34s] Hatta Amazon'a da değil.
+[2206.50s - 2207.40s] Amazon Retail'a.
+[2207.56s - 2210.04s] Rakip olmayacak bir işe gireceğim diyorsunuz.
+[2210.36s - 2211.86s] Bir justification yazıyorsunuz.
+[2212.22s - 2213.40s] Ve izin alıyorsunuz.
+[2213.48s - 2214.42s] Ben bu izni aldım.
+[2214.42s - 2217.60s] Bu izni aldıktan sonra biz 5 arkadaş şirketi kurduk.
+[2217.86s - 2222.56s] Biz tekstil üzerine Generative AI ile dizayn üreten bir şirket kurduk.
+[2222.58s - 2223.02s] Adı Earth.
+[2223.22s - 2225.38s] Hala LinkedIn'den mesai takip edebilirsiniz.
+[2225.98s - 2229.88s] Şu an hani emekleme aşamasında bir yere kadar getirdik.
+[2230.02s - 2232.54s] Ben bir yerde ayrıldım şirketten.
+[2232.68s - 2233.24s] Onu söyleyeyim.
+[2233.66s - 2235.06s] Hedefimiz daha da büyümek.
+[2235.16s - 2236.70s] Daha da hızlı yerlere gelmekti.
+[2236.80s - 2238.00s] Ama şu an ben orada değilim.
+[2238.10s - 2238.88s] Onu söylüyorum tekrar.
+[2240.32s - 2242.48s] Altyapıyı tamamen EWS'de kurduk.
+[2242.70s - 2243.64s] Bedrak tabanlı.
+[2243.64s - 2250.70s] Bedrak'ın altındaki Amazon'un Titan ve Stable Diffusion modellerini kullanarak böyle bir şeyler geliştirdik.
+[2251.10s - 2252.24s] Fine Tuning yapıyorduk.
+[2252.40s - 2254.24s] Zaten bu bizi ayrıştıran şeydi.
+[2254.40s - 2257.40s] Ama Fine Tuning yaptığımız için costlarımız yüksekti.
+[2258.32s - 2261.96s] Müşteri bazına o yüzden fiyatımız bir tık yüksek kalıyordu rakiplere göre.
+[2263.00s - 2267.78s] Tekstil alanında benden önce hiç çalışmamış biri olarak oraya adım attığımda şunu gördüm.
+[2267.88s - 2268.92s] Çok büyük bir yer.
+[2269.24s - 2270.54s] Çok büyük bir market.
+[2270.54s - 2274.60s] Yatırımcı kovaladığımız etkinliklere gittik mesela.
+[2274.60s - 2279.42s] Tek bir sözüyle 500 bin dolar yatırım yapabilen insanlar var orada.
+[2279.62s - 2281.84s] İşte bu fikri beğendim diyerek.
+[2281.84s - 2284.68s] Onların peşinde koşmak falan da çok eğlenceliydi.
+[2285.28s - 2287.16s] Orada dediğim gibi MBA'de öğrendim.
+[2287.28s - 2288.06s] Birçok şeyi öğrendim.
+[2288.20s - 2289.84s] Şirketin finansıyla ilgili olsun.
+[2290.00s - 2295.24s] Vergi borçları işte her şeyi böyle yaparken bunları öğrendim ve kullandım.
+[2295.44s - 2299.04s] Aslında benim için o bir yıl bir demoydu.
+[2299.24s - 2304.10s] Yani ben yarın bir yönetici olursam, bir şirket kurarsam nelere dikkat etmeliyim?
+[2304.10s - 2305.92s] Ve aslında denemek için yaptığım bir şeydi.
+[2306.74s - 2308.32s] Şahsen ben ayrıldım.
+[2308.46s - 2309.94s] Umarım çok iyi yerlere gelir.
+[2310.14s - 2313.04s] Eski kurucu ortak arkadaşlarım çok para kazanır.
+[2313.18s - 2316.24s] Ama ben ayrılırken maalesef öyle bir noktaya gelemedik.
+[2316.40s - 2317.56s] Onu söyleyebilirim.
+[2317.98s - 2319.14s] Şöyle çalışıyorduk.
+[2319.28s - 2321.38s] Hafta sonlarını ve akşamını onu ayırıyordum.
+[2321.84s - 2325.82s] Bu da benim işte o zamanki biraz şevkimle ilgiliydi.
+[2326.04s - 2331.52s] Ama sonra farklı konular fazla şey yani farklı şeyler olmaya başladı.
+[2331.60s - 2333.88s] Onları o yüzden biraz kenara bırakmak zorunda kaldım.
+[2334.10s - 2338.68s] Kişisel şeyler yani işte ailedeki sağlık sorunları vesaire.
+[2338.96s - 2341.68s] İnsanı biraz zaman ayırmam gereken şeyler oldu.
+[2342.00s - 2343.72s] Onu o yüzden bırakmak zorunda kaldım.
+[2344.46s - 2347.70s] Bu arada aklıma takıldı dinlerken.
+[2347.94s - 2351.90s] Bu görsel bir ürün ve fine tune yapıyor Stable Diffusion'la.
+[2352.12s - 2354.74s] B2B çalışıyor hani şirketler için.
+[2355.34s - 2357.50s] Ama Titan kelimesi de geçtiği için.
+[2357.82s - 2359.40s] Mesela Titan'ın elbem diyebilirim.
+[2359.72s - 2363.46s] Stable Diffusion'ın kullanıldığı tek bir feature vardı.
+[2363.46s - 2364.04s] Var.
+[2364.30s - 2365.56s] Çok detaya girmeyeyim.
+[2365.72s - 2367.38s] Ama Titan'dı her şey.
+[2367.72s - 2371.04s] Yani Titan'ın image analyzer ve image creator'ıydı.
+[2372.08s - 2373.80s] Yaptığımız hikaye şu aslında.
+[2373.92s - 2377.56s] Bir şirketin 100 yıllık 30 yıllık ne kadar verebilirse.
+[2377.80s - 2386.14s] Geçmiş tekstil dizayn datalarını alıp fine tune edip yeni dizayn üretmeye uğraşıyorduk biz.
+[2386.22s - 2386.82s] Bunu yapıyorduk.
+[2386.82s - 2388.16s] Uygulamamız bunu yapıyor bu arada.
+[2388.28s - 2389.24s] Earth bunu yapıyor şu an.
+[2389.80s - 2390.60s] Örnek veriyorum.
+[2390.74s - 2397.86s] Vakko'nun işte 100 yıllık geçmişini, 150 yıllık geçmişini öğrenip bu seneye ait bir tasarım ortaya çıkarıyordu.
+[2398.08s - 2401.26s] Ve biz bunu Vakko'dan birine gösterdiğimizde şunu dedi.
+[2401.50s - 2403.70s] Evet bu gerçekten Vakko gibi duruyor.
+[2404.08s - 2406.38s] Yani hani zaten dedirtmeye çalışmış şey buydu.
+[2406.84s - 2408.52s] İşte Türkiye'de birçok yere gittik.
+[2408.62s - 2412.06s] Fransa'da birçok müşteriye gittik.
+[2413.56s - 2416.68s] Satışa döndüremediğimiz için aslında iş biraz durdu.
+[2416.96s - 2420.18s] Onun sebebi de fiyatlandırmada biz şey yapamadık.
+[2420.24s - 2421.42s] O kostu çıkaramadık.
+[2421.54s - 2425.40s] Yani aşırı pahalı değildik ama aşırı ucuz da değildik.
+[2425.88s - 2427.92s] Şimdi ben mesela bunu öğrendim.
+[2428.34s - 2435.00s] AWS olarak müşteriye gittiğimdeki Eren Akbaba'yla Earth'un CTO'su olarak gittiğim Eren Akbaba'ya yaklaşım çok farklıydı.
+[2435.46s - 2440.14s] Yani yeri geldiğinde toplantıda karşıma çıkmadı mesela müşteri.
+[2440.14s - 2443.76s] Bekle bekle çıkmadı çünkü ben orada bir startup'ım.
+[2443.96s - 2446.72s] O yüzden de startup'ın zorluklarını öğrenmiş oldum.
+[2447.40s - 2451.00s] Hani Amazon toplantılarına öyle çıkmayan müşteri çok azdır yani.
+[2451.14s - 2457.74s] Belki yoktur ama Earth olunca çıkmayan müşteri oldu hani gibi gibi şeyler yaşadık.
+[2458.08s - 2459.74s] Onu da görmüş oldum yani.
+[2459.90s - 2466.54s] Aslında ben birçok şeyi görerek öğrenen, görerek, deneyimleyerek şey yapan bir insanı seviyorum.
+[2466.74s - 2469.20s] Mesela şu an biri dese ki hoca olmak ister misin?
+[2469.20s - 2471.00s] İsterdim çünkü gördüm, denedim.
+[2471.20s - 2471.62s] Güzeldi.
+[2472.16s - 2474.58s] Startup'ta işte bir yönetici olmak ister miydin?
+[2475.32s - 2477.36s] Belki hani duruma göre.
+[2477.90s - 2479.36s] Çünkü öyle bir durumdayım.
+[2479.90s - 2483.68s] İşte global şirkette takım lideri olmak ister miydin?
+[2484.04s - 2485.52s] Evet çünkü güzeldi.
+[2485.68s - 2487.30s] Ama yönetici olmak ister miydin?
+[2487.54s - 2489.34s] Herkes yönetici olamayabilir.
+[2489.58s - 2490.38s] Hani falan böyle.
+[2490.54s - 2492.70s] Hepsiyle ilgili fikrim böyle birleşti aslında.
+[2492.70s - 2495.42s] 11 yıldır yapmaya çalışmış bir şey buydu zaten.
+[2497.00s - 2499.50s] Totalde de şu an şey hissettiğim zamanlar oluyor.
+[2500.48s - 2502.28s] Hani su kaynar.
+[2502.50s - 2504.08s] Üzerinde ama tencere kapağı vardır.
+[2504.32s - 2506.48s] Ve su o tencere kapağını fırlatmaya çalışır ya.
+[2506.68s - 2508.58s] Şu an aslında tam o noktadayım.
+[2508.80s - 2510.46s] O noktadan kastım şu.
+[2510.72s - 2512.90s] Çok büyük bir fırlama yapmak istiyorum.
+[2513.08s - 2516.52s] Yani bu belki işte bir Dubai'de bir role geçmek olabilir.
+[2516.52s - 2519.10s] Bir yöneticiliğe geçmek olabilir.
+[2519.32s - 2524.16s] Ama kendi kariyerim 11 yıldır olduğu yerde sanki zorluyor gibiyim artık.
+[2524.32s - 2525.36s] Yani her şeyi denedim.
+[2525.48s - 2528.30s] Ve bir büyük adım atmak gerekiyor gibi hissediyorum.
+[2528.44s - 2529.04s] Hayırlısı.
+[2529.26s - 2530.18s] Göreceğiz yani.
+[2530.32s - 2531.72s] Hani şu an bir şey diyemem.
+[2531.94s - 2532.58s] Hani bakacağız.
+[2533.68s - 2534.34s] Hayırlısı.
+[2534.60s - 2536.86s] Ben de orada güzel bir şeyler bekliyorum.
+[2536.94s - 2539.14s] Hatta beni şaşırtan noktalardan biri de şeydi yani.
+[2539.28s - 2544.80s] Gerçekten Türkiye tarafında herhalde Cloud'da çalışılabilecek tüm şirketlerde,
+[2544.92s - 2546.18s] tüm büyüklerde çalışmış.
+[2546.52s - 2552.50s] Yani herhalde gerçekten o dediğiniz doyum noktası sadece LinkedIn'deki o akışa bakıldığında bile görülebiliyor.
+[2552.86s - 2553.74s] İnanılmaz yani.
+[2554.22s - 2557.94s] Adam bir de AWS'de çalışırken CTO'luğu var falan yani.
+[2558.12s - 2559.78s] Startup dönemi falan var acayip.
+[2559.96s - 2563.56s] Hayır o CTO'luk atıyorum bir AWS'in CTO'su kadar havalı değil.
+[2563.74s - 2564.70s] Yine diyorum ya yani.
+[2565.22s - 2566.60s] İşte şeyi bile düşünüyorduk mesela.
+[2566.72s - 2568.52s] Ben bunları şimdi atılıkça çok biliyorum.
+[2568.82s - 2570.04s] Müşteriye gideceğiz mesela.
+[2570.26s - 2572.26s] İşte 5 ortağın peşimizin de arabası var.
+[2572.64s - 2574.22s] Diyoruz ki hangimizin arabasına gidelim?
+[2574.28s - 2575.52s] Hangisi daha havalı görünür?
+[2575.52s - 2578.58s] İşte atıyorum abi senin arabayla gidelim çünkü şu model.
+[2578.74s - 2579.52s] Hani örnek veriyorum.
+[2579.74s - 2582.58s] Biz onunla gidiyorduk ama 5 kişi tek arabada falan yani.
+[2584.98s - 2585.98s] Anlatabiliyor mu abi?
+[2587.54s - 2589.94s] Ya da işte 50 bin liramız var mesela.
+[2590.20s - 2591.90s] Onun bir kısmını vergiye vereceğiz.
+[2591.98s - 2593.28s] Bir kısmının ofisimiz vardır.
+[2593.44s - 2594.62s] Onun kirasını vereceğiz.
+[2595.02s - 2597.86s] 50 bin liramız kalan parayı bölüşsek ne bölüşmesek ne?
+[2598.30s - 2599.62s] Hani onu hatırlıyorum mesela.
+[2600.04s - 2601.36s] Yani şey değil bu tabii ki.
+[2601.54s - 2603.60s] Parayı beğenmemek gibi yanlış anlıyorsunuz.
+[2603.68s - 2606.48s] Hani şirket olarak 50 bin liramız olması çok komik yani.
+[2606.48s - 2607.06s] Yani aslında.
+[2607.24s - 2607.56s] Evet.
+[2608.14s - 2608.14s] 
+[2610.12s - 2612.06s] Ya araba mahvetti çok hoş.
+[2612.22s - 2614.46s] Yani 5 kişi bir arabada müşteriye gidiyor.
+[2615.02s - 2615.66s] Valla.
+[2616.60s - 2619.08s] O yüzden bunları yaşadığım için çok memnunum.
+[2619.22s - 2622.34s] Hani bunları anlatacak yerlere çıkabilmek de çok güzel bu arada.
+[2622.40s - 2623.38s] O yüzden teşekkür ederim.
+[2623.64s - 2625.40s] Hani bunları anlatmayı istiyorum.
+[2625.40s - 2631.60s] Keşke belki çok erken ama şöyle bir video serisi ya da bir küçük bir kitap.
+[2631.66s - 2637.54s] Hani kitap derken şey gibi değil böyle ama bir şeyler yayınlayabilsem de insanlara bunları aktarabilsem istiyorum yani.
+[2638.14s - 2640.48s] Ya bence akar gidersin.
+[2640.58s - 2642.86s] Yani video tarafında zaten çok akıcı.
+[2643.32s - 2647.38s] Yani yazı dilinde de bence akacağını abi eminim yani.
+[2647.80s - 2650.26s] Yaparsan okuruz kesinlikle.
+[2650.40s - 2651.06s] Teşekkür ederim.
+[2652.02s - 2652.96s] Bir soru daha lazım.
+[2652.96s - 2654.24s] Bir soru var.
+[2654.86s - 2656.16s] Merhabalar Eren hocam.
+[2656.30s - 2658.76s] Benim Cloud Security alanında bir kariyer hedefim var.
+[2658.94s - 2660.08s] Bu senin mezun olacağım.
+[2660.44s - 2663.54s] Sizin de bu alandaki görüşlerinizi ve önerilerinizi merak ediyorum.
+[2663.80s - 2665.02s] Geleceği vesaire gibi.
+[2666.06s - 2667.20s] Şöyle anlatayım.
+[2667.36s - 2669.28s] Şimdi dünya Cloud'a gitti gidiyor.
+[2669.48s - 2673.24s] Hani şöyle zaten biz 5 yıl önce gidiyor diyorduk 10 yıl önce.
+[2673.46s - 2674.12s] Artık gitti.
+[2674.86s - 2678.30s] Türkiye'de de bazı kanunsal hafiflemeler yapıldı.
+[2678.50s - 2679.56s] O yüzden daha da gidecek.
+[2679.56s - 2683.12s] İlk aşamada Türkiye kariyerin için çok önemli olur.
+[2683.30s - 2683.58s] Onu söyleyeyim.
+[2683.66s - 2688.06s] Çünkü bulutun en önemli belki 3 bacağı varsa biri kosttur.
+[2688.32s - 2690.24s] Biri işte security'dir.
+[2690.66s - 2693.34s] Üçüncüyü şimdi hani farklı oldu değişebilir yani.
+[2693.66s - 2696.56s] Ama şey olarak security o bacaklardan biridir yani öyle söyleyeyim.
+[2696.56s - 2706.74s] O yüzden bulutlu security bilmek bir bulut sisteminin bir bulut mimarisinin güvenliğini uçtan uca en iyi şekilde yapabilmek çok önemli.
+[2707.52s - 2712.28s] Bence bu konunun geleceği çok yüksek ve hani bir sürede bitmeyecek bir konu.
+[2712.44s - 2713.02s] Onu da söyleyeyim.
+[2713.22s - 2715.00s] Şimdi hatta şöyle bir şey söyleyeyim.
+[2715.40s - 2718.32s] AWS'in Well-Architected diye 6 tane pilleri vardır.
+[2718.84s - 2720.98s] Mesela bu pillerlerden biri security'dir.
+[2720.98s - 2722.78s] Yani AWS'de şunu söylüyor.
+[2722.98s - 2728.68s] Bir mimari Well-Architected olabilmek için security en önemli şeylerden biridir diyor.
+[2728.94s - 2730.56s] Bu bir şey olsun.
+[2730.70s - 2732.76s] O yüzden bence bu konuda devam et Furkan.
+[2733.34s - 2734.40s] Nercizane fikrim.
+[2734.80s - 2737.26s] Çok güzel yerlere gelirsin umarım.
+[2737.78s - 2741.20s] Hatta AWS'in içinde de security rollerine bakabilirsin.
+[2741.36s - 2742.70s] Hani ben bu arada onu da söyleyeyim.
+[2742.70s - 2751.50s] Amazon'da çalışmak böyle şey bir anda hani girmek zordur ama herkesin şansı vardır onu söyleyeyim.
+[2751.58s - 2752.10s] Şey gibi değil.
+[2752.22s - 2754.26s] İlla CV'nizin çok iyi olmasına gerek yok.
+[2754.56s - 2757.76s] Bizim ekipte üniversite mezunu olmayan arkadaşımız var.
+[2758.24s - 2760.36s] Ve hani çok başarılı bir arkadaşımız.
+[2760.56s - 2764.04s] Hiçbir zaman o konuda bir ayrım mesela yaşamadık yani.
+[2764.60s - 2765.40s] Kendini geliştirdik.
+[2765.84s - 2766.20s] Efendim?
+[2766.58s - 2767.94s] Çürk mü? Üniversite mezunu.
+[2767.98s - 2769.50s] Türkiye'deki ekipten bahsediyor.
+[2769.50s - 2770.62s] Bu hani şey değil.
+[2770.84s - 2772.58s] Belki izleyecek beni yanlış anlamasın.
+[2772.70s - 2773.50s] Ona örnek vermem.
+[2773.62s - 2775.34s] Kötü anlamda örnek vermiyorum çünkü.
+[2775.90s - 2780.68s] Hani AWS'de Amazon'da çalışmak için 10 yıl vendorde çalışmanıza gerek yok.
+[2780.82s - 2781.74s] Onu demeye çalışıyorum.
+[2782.40s - 2784.60s] Kendinizi kanıtlamanız yeterli.
+[2784.90s - 2786.84s] Bu konuda çok geliştirirsen kendini.
+[2787.38s - 2789.26s] Burada AWS'de bile çalışabilirsin.
+[2789.48s - 2791.08s] Bence devam et kısaca.
+[2791.34s - 2792.68s] Çok uzatmadan böyle söyleyeyim.
+[2793.18s - 2794.86s] Bu Cloud'deki yayın vardı.
+[2795.20s - 2798.92s] Yanlış hatırlamıyorsam orada da işte biz müşteriye gidiyoruz.
+[2798.92s - 2800.36s] Önce bir checklistimiz var.
+[2800.52s - 2801.28s] Sorduğumuz sorular.
+[2801.52s - 2805.72s] İşte well-deserved işte o şey güvenlik tarafını kontrol ediyoruz falan diyordunuz.
+[2806.60s - 2808.52s] Böyle bir şey.
+[2808.68s - 2811.52s] Biz ona well-architected framework diyoruz zaten.
+[2811.76s - 2812.88s] Bir soru seti var.
+[2813.08s - 2814.90s] Bunları sorduktan sonra şunu anlıyoruz.
+[2815.12s - 2820.38s] Müşterimizin yapacağı projede de şu anki halinde neler gerçekten best practice?
+[2820.50s - 2821.08s] Neler değil?
+[2821.58s - 2823.08s] Oralara yönelip adım adım.
+[2823.20s - 2824.24s] Bu arada parça parça.
+[2824.24s - 2834.46s] Bir gece de her şeyi değiştirmiyoruz ama belki 3 ayda, belki 6 ayda, belki bazen partnerlerimizle uçtan uca değişimler yaparak müşterimizi en iyi noktaya getirmeye çalışıyoruz.
+[2834.96s - 2839.00s] O yüzden güvenliğe bağlayacak olsak en önemli şeylerden biri güvenlik.
+[2839.06s - 2841.58s] Çünkü biz buna özellikle baktığımız durumlar var yani.
+[2842.62s - 2846.70s] Medrak içerisinde de Godreys tam söyleyememiş ol ama Godreys var.
+[2847.88s - 2849.52s] Ben de bir tek onu biliyorum.
+[2850.48s - 2852.38s] Godreys mesela güzel bir servistir.
+[2852.80s - 2861.12s] Hani burada servisi anlatıp böyle sıkmayayım kimseye ama yapay zekada bazı konularda mesela eksikleri Godreys kapatıyor mesela.
+[2861.34s - 2863.68s] Bu da bir AWS'in farklılığı diyebilirim.
+[2863.78s - 2866.06s] Yani yapay zekayı birçok şeyden alabilirsiniz.
+[2866.26s - 2869.18s] Ama Godreys özelliğini şu an bazılarında bulamazsınız.
+[2869.40s - 2869.90s] Onun şöyle gibi.
+[2870.12s - 2870.74s] Kesinlikle.
+[2870.96s - 2874.72s] Yani yapay zeka demişken Furkan'ın sorunun devamı da oraya bağlıyor.
+[2874.72s - 2877.54s] Bir de yapay zeka ile doğrudan bir ilişkim yok.
+[2877.86s - 2879.94s] Şimdilik o tarafta kendimi nasıl geliştirmeliyim?
+[2880.36s - 2882.60s] Cloud için ya da geliştirmeli miyim?
+[2882.68s - 2885.16s] Cloud tarafında işte kendimi geliştiresem mi geliştirmesem mi?
+[2885.70s - 2886.72s] Uzun oldu biraz teşekkürler.
+[2887.72s - 2888.48s] Biz teşekkür ederiz.
+[2888.70s - 2890.72s] Şöyle güzel bir soru.
+[2891.08s - 2895.06s] Şimdi yapay zeka ile ilgili şunu söyleyebilirim.
+[2895.12s - 2896.54s] Ben bunu birçok yerde söylüyorum.
+[2897.96s - 2900.10s] Bir zamanlar blockchain vardı.
+[2900.64s - 2903.96s] Daha sonra işte NFT'ler, metaverse'ler.
+[2903.96s - 2905.92s] Hatta daha geri gidelim.
+[2906.10s - 2906.80s] İnternet.
+[2907.16s - 2910.18s] Şimdi bazı teknolojiler distractivdir.
+[2910.30s - 2911.90s] Yani yıkıcı teknolojilerdir.
+[2912.90s - 2914.88s] Bunlar böyle bir anda gelir.
+[2915.16s - 2916.34s] Bir şeyleri değiştirir.
+[2916.82s - 2918.32s] Daha sonra normalleşir.
+[2918.78s - 2920.34s] Ve hani öyle devam eder.
+[2920.62s - 2922.90s] İnternet de en başta internet zaten.
+[2923.08s - 2928.86s] Ben mesela Oracle'daki benim direktörümün sunumlarında dinlediğimde çok ilgimi çekmişti bu sözler.
+[2928.86s - 2930.18s] Şey demişti.
+[2930.32s - 2940.98s] İşte 92 yılında Türkiye'ye internet geldiğinde müşterilerimize artık database'inize internet üzerinden bağlanacaksınız dediğimizde herkes olur mu öyle şey demişti demişti.
+[2941.78s - 2942.62s] Ama böyle.
+[2942.80s - 2943.70s] Cloud böyle.
+[2944.20s - 2945.30s] Blockchain böyleydi.
+[2945.46s - 2946.38s] Ama şöyle bir şey var.
+[2946.76s - 2949.90s] Bazıları evet bir şeyleri değiştirir ama tutunamaz.
+[2950.14s - 2951.70s] Ya da mesela halka inemez.
+[2951.88s - 2953.58s] Halka inmekten kastım da şu.
+[2953.58s - 2958.66s] Mesela blockchain ucuzlayıp herkesin kullanabildiği hale gelmedi.
+[2959.06s - 2963.56s] Blockchain sadece işte sadece demeyeyim belli başlı projelerde kullanılabilir hale geldi.
+[2963.66s - 2965.12s] O projelerin çoğu hayata geçti.
+[2965.24s - 2965.96s] Çoğu geçemedi.
+[2966.18s - 2967.62s] Ve bir şekilde gitti.
+[2967.82s - 2968.86s] NFT öyle oldu.
+[2969.00s - 2969.96s] Metaverse öyle oldu.
+[2970.28s - 2971.62s] Mesela VR öyle olmadı.
+[2971.74s - 2974.02s] VR ile ilgili hala çok büyük şirketler var.
+[2974.22s - 2974.76s] Kaldı.
+[2974.96s - 2976.68s] Şimdi yapay zeka adını şu var.
+[2976.98s - 2977.84s] Şuraya bağlayacağım.
+[2978.02s - 2979.66s] Bir anda hayatımıza girdi.
+[2980.20s - 2981.90s] Bazı durumlar çok pahalı.
+[2981.90s - 2986.40s] Özellikle GPU'larla fine tune etmek, data eğitmek, training etmek çok pahalı.
+[2986.62s - 2989.40s] Ama yapay zekanın gideceği bir nokta var.
+[2990.48s - 2995.14s] Kullanımının ucuzlayacağı ve herkese daha rahat erişime açılacağı bir nokta var.
+[2995.30s - 2996.84s] O zaman normalleşecek.
+[2996.94s - 2998.02s] Aynı internet gibi.
+[2998.30s - 2999.64s] Aynı cloud gibi.
+[3000.00s - 3002.94s] Ve o durumda yapay zekacı biri çok değerli olacak.
+[3003.06s - 3004.06s] Ki bugün de değerli.
+[3004.22s - 3005.52s] O zaman da çok değerli olacak.
+[3005.62s - 3007.36s] Çünkü o artık hayatımız parçası olacak.
+[3008.32s - 3011.68s] O yüzden yapay zekaya yönelmenizi öneriyorum arkadaşlar.
+[3011.90s - 3013.24s] Aynı security gibi.
+[3013.46s - 3017.50s] Security bir şeyin nasıl bir parçasıysa yapay zekada geleceği bir parçası olacak.
+[3017.68s - 3018.38s] Şu an oldu bile.
+[3018.92s - 3020.32s] Burada şeyi söyleyebilirim.
+[3020.42s - 3021.40s] Nasıl başlayabilirsiniz?
+[3021.58s - 3023.94s] En başta prompt engineering ile başlamanız lazım.
+[3024.08s - 3027.58s] Yani doğru promptu vermeden hiçbir zaman doğru cevabı alamazsınız.
+[3028.00s - 3030.92s] Yapay zekanın en önemli noktası prompt engineering'tir.
+[3031.04s - 3032.34s] Onu bir kere çözmeniz lazım.
+[3032.34s - 3044.76s] Daha sonra yapay zeka modellerinin nasıl eğitildiğine, hangisinin ne kadar parametreye sahip olduğuna, temperature'ın ne olduğuna vs. detaylara girdiğinizde zaten kendi alanınızı çizmiş olacaksınız.
+[3044.98s - 3045.86s] Onu da söyleyeyim.
+[3045.86s - 3055.88s] Mesela biz işte cloud'a 2 varken biz diyorduk ki Türkçe destekleyen bir language model şöyle güzel sonra 3 çıktı sonra 3.5 çıktı.
+[3056.68s - 3058.42s] Bir şeyler o kadar değişti ki şu an.
+[3058.68s - 3063.70s] Yani Türkçe desteğin yanında artık neler neler yapıyor ki onun da üstü geldi.
+[3063.70s - 3066.74s] Hani GPT mesela size şöyle söyleyeyim.
+[3067.42s - 3072.70s] Nisan'da bir haftada hepimizin telefonuna ya da browserına chat GPT girmeseydi.
+[3073.62s - 3075.82s] Yapay zeka bu kadar konuşulur muydu mesela?
+[3076.26s - 3079.48s] Çok doğru bir yaklaşımla hayatımıza girdi yapay zeka.
+[3079.84s - 3081.16s] Onu demeye çalışıyorum.
+[3081.32s - 3083.20s] Sonu halka inmesi demek.
+[3083.32s - 3085.56s] Ucuzlaması ve herkesin kullanabiliyor olması demek bu.
+[3086.00s - 3089.08s] Mesela benim bir şöyle anlatayım.
+[3089.60s - 3092.50s] Mentörlük yaptığım, abilik yaptığım bir arkadaş var.
+[3092.50s - 3096.52s] Biz hatta startup döneminde onunla da iş yapmak istedik.
+[3096.60s - 3098.06s] Sonra o kendi şirketini kurdu falan.
+[3098.52s - 3100.84s] Geçenlerde de bana LinkedIn'den diss atmış yani.
+[3101.00s - 3102.08s] Öyle bir arkadaş.
+[3102.38s - 3103.26s] Çok detaya girdi.
+[3103.54s - 3105.18s] Onun mesela şeyleri var.
+[3105.34s - 3106.58s] Yapay zeka ile yaptığı.
+[3107.80s - 3109.36s] Instagram ne denir?
+[3109.46s - 3110.22s] Ünlüleri var.
+[3111.26s - 3115.12s] Gitmiş mesela Amerika'dan 3 tane işte ünlü kadının yüzünü almış.
+[3115.86s - 3117.14s] Videolarla birleştiriyor.
+[3117.38s - 3118.36s] Her gün post atıyor.
+[3118.66s - 3121.12s] Böyle böyle 250-300 bin takipçi kasmış.
+[3121.12s - 3124.16s] O hesaplardan reklamla para kazanıyor mesela.
+[3124.84s - 3126.80s] Ve bu çocuk öğrenci.
+[3127.16s - 3129.82s] Yani o yolunu öyle bulmuş mesela.
+[3130.10s - 3131.24s] Öbürü başka türlü bulabilir.
+[3131.38s - 3135.28s] Yapay zeka işte kurumsal hayata girdiğinde farklı şekilde hayatımıza girebilir.
+[3135.46s - 3135.98s] Vesaire vesaire.
+[3136.56s - 3137.44s] Böyle gidecek.
+[3138.04s - 3140.32s] Şimdi bizim yaptığımız projeleri düşünüyorum.
+[3140.96s - 3143.28s] Artık kullandığımız o chatbotlar falan.
+[3143.52s - 3145.68s] Eskiden chatbot yazmak bir zulümdü arkadaşlar.
+[3145.98s - 3147.14s] Hiç yazan var mı bilmiyorum.
+[3147.14s - 3149.52s] Yapay zekadan önce chatbot yazmak şöyle.
+[3150.12s - 3150.76s] Ben yazdım.
+[3151.54s - 3152.64s] İnternetler vardı.
+[3152.88s - 3156.34s] Kelime kelime onları bulduk cevap verecek de bilmem neydi.
+[3156.48s - 3158.72s] Böyle tek tek yazardınız ağaç şeklinde.
+[3158.84s - 3159.68s] Ben de yazdım çünkü.
+[3160.28s - 3161.66s] Ben ilk dönemlerinde yazdım.
+[3161.74s - 3163.34s] Belki son dönemleri daha kolaydır bilmiyorum.
+[3163.34s - 3166.22s] NLU işte Natural Language Understanding.
+[3166.66s - 3172.50s] Orada işte daha yakın bu tam LLM Generation tarafı çıkmadan Bert vardı.
+[3172.76s - 3174.96s] Classify ediyorsun sen oradaki şeyle.
+[3175.66s - 3175.94s] Yapıyla.
+[3176.22s - 3177.30s] Yani Generation edemiyorsun.
+[3177.44s - 3181.96s] Gene kalıbı getirmen lazım ama nasıl classify etsem de en yakınını getirsem uğraşılıyorum.
+[3182.18s - 3185.40s] Şimdi Language modeli diyorsun ki benim aldığım şey bu.
+[3185.54s - 3186.46s] Buna cevap ver diyorsun.
+[3186.62s - 3187.82s] İnsan gibi cevap veriyor.
+[3187.98s - 3188.94s] Yani hani bitti.
+[3189.20s - 3190.50s] Eski o şeyler kalmadı.
+[3190.50s - 3194.22s] O yüzden distractive yani İngilizce söyleyemiyorum bir türlü.
+[3195.68s - 3196.50s] Yıkıcı teknolojiler.
+[3197.26s - 3198.44s] Yapay zeka bunlardan biri.
+[3198.80s - 3201.90s] Eğer hayatımızda normalleşirse hayatımızın parçası oluyor.
+[3202.10s - 3203.50s] Aynı internet gibi bulut gibi.
+[3204.14s - 3208.14s] Ve benim görüşüm yapay zeka bunlardan biri olacak oldu.
+[3208.42s - 3212.40s] O yüzden yapay zeka yatırım yapmanız büyük bir tavsiyemdir arkadaşlar.
+[3213.26s - 3215.12s] Peki asıl soru.
+[3215.42s - 3218.24s] EWS'de hangi yapay zeka servisleri var?
+[3218.24s - 3221.18s] Bunlardan böyle kısa bir bilgilendirme alabilir miyiz?
+[3222.06s - 3226.16s] AWS'de bizim aslında 3 katmanda yapay zeka için sunduğumuz servis var.
+[3226.26s - 3227.88s] Birincisi infrastructure tarafı.
+[3227.98s - 3231.92s] Yani şöyle bir müşterimiz derse ki ben her şeyi kendim yapacağım.
+[3232.08s - 3234.02s] Sıfırdan language modelimi geliştireceğim.
+[3234.18s - 3235.44s] Training yapacağım derse.
+[3235.96s - 3237.46s] Biz ona SageMaker'la beraber.
+[3237.78s - 3243.36s] Yani bir machine learning servisi ve makineleriyle beraber GPU'lu makineler sunuyoruz.
+[3243.60s - 3245.00s] Her şeyi sıfırdan yapabilir.
+[3245.00s - 3248.06s] İkinci katmanda ise Bedrock servisimiz var.
+[3248.20s - 3251.50s] Bedrock servisimiz kendi altında şu an 9'du en son.
+[3251.84s - 3255.42s] Geçtiğimiz hafta Reignvent'le beraber bu sayı arttı diyebiliyorum.
+[3255.98s - 3258.78s] Language modeller içeren bir çatı servis.
+[3258.96s - 3264.46s] Kendi içerisinde farklı farklı feature'ları olan işte prompt engineering yapmanıza yarayan
+[3264.46s - 3269.70s] ya da bazı proses flow'lar oluşturmanıza yarayan, farklı modelleri bağlamıza yarayan bir servis.
+[3270.08s - 3271.74s] Baya detaylı bir servis.
+[3272.06s - 3273.06s] İncelemeniz gerekir.
+[3273.06s - 3278.68s] Bir üst katmanda da aslında kod yazmak için mesela size destek olan QDeveloper gibi
+[3278.68s - 3284.02s] ya da kendi işinizin uzmanına oluşturduğunuz QBusiness gibi servisler var.
+[3284.18s - 3285.98s] Bunlar da daha ön yüz servisler.
+[3286.52s - 3289.34s] Mesela QDeveloper şu an şey olarak free.
+[3289.62s - 3290.94s] Kişisel kullanım olarak.
+[3291.22s - 3296.80s] VS Code kullanan herkes extension'lara girip Amazon Q yazdığında indirip kullanabilir.
+[3296.80s - 3304.56s] Ve inanın diğer muadilinden, çok bilinenden daha iyi çalıştığını ben kendi müşterilerimden duyuyorum.
+[3304.94s - 3307.98s] Yani ben müşterime sırt denemesi için kuruyorum bazen.
+[3308.32s - 3308.98s] Çıkıyorum.
+[3309.14s - 3312.84s] Bana bir hat söylüyor ki ben çok memnunum bunun paralısını almak istiyorum diyor.
+[3313.16s - 3314.16s] Hani öyle söyleyeyim.
+[3314.60s - 3318.90s] Ve Türkiye'de de 20'den fazla kurum şu an kullanıyor QDeveloper'ı.
+[3318.90s - 3320.92s] gibi gibi bir sürü örnek var.
+[3321.80s - 3326.00s] Bu servisler mesela şu an AWS'in sunduğu yapay zeka servisleri.
+[3326.58s - 3328.12s] Çok yeni tanıtıldı.
+[3328.74s - 3331.02s] Burada SageMaker'ın da ismi değişecekmiş.
+[3331.18s - 3332.06s] Hani değişmiş galiba.
+[3332.34s - 3333.52s] Aa değiştirmesinler ya.
+[3333.66s - 3334.74s] Güzel bir isim SageMaker.
+[3334.86s - 3335.12s] Evet.
+[3335.26s - 3336.54s] Farklı bir şeye dönüşüyor.
+[3337.18s - 3339.02s] Hep şey unuttum şimdi.
+[3339.58s - 3340.54s] Daha değişmedi.
+[3340.70s - 3341.04s] Değişecek.
+[3341.36s - 3343.52s] Bedrock'a yeni gelen bir modelimiz var.
+[3343.66s - 3343.90s] Nova.
+[3344.50s - 3348.10s] Nova çok iyi bir video creator.
+[3348.10s - 3350.46s] Mesela Titan video oluşturamıyordu.
+[3350.56s - 3352.04s] Titan Amazon'un kendi modeli.
+[3352.56s - 3353.52s] Bu da Nova da öyle.
+[3353.94s - 3355.30s] Artık video da oluşturabiliyor.
+[3355.54s - 3357.86s] Ve diğer language model işlerini yapabiliyor.
+[3358.50s - 3360.86s] Bence yine o da büyük bir değişim olacak.
+[3361.04s - 3362.78s] Geçen hafta duyulan şeylerden biri.
+[3363.50s - 3364.90s] Geçen hafta Rainvent vardı.
+[3365.04s - 3367.46s] AWS'in dünyadaki en büyük etkinliği.
+[3368.16s - 3369.82s] Hisselerimiz 20 dolar arttı.
+[3370.00s - 3371.48s] Sırf Rainvent'den sonra.
+[3371.80s - 3372.26s] Öyle söyleyeyim.
+[3372.34s - 3373.22s] Şu an bile bakıyorum.
+[3374.10s - 3374.22s] Evet.
+[3374.52s - 3376.28s] 20'den de fazla artmış yani.
+[3376.28s - 3380.14s] Orada duyurulan servisler demek ki halkın beklediği diyeyim.
+[3380.68s - 3383.42s] Özellikle bizim sektörün beklediği servislermiş diyebilirim.
+[3384.68s - 3390.12s] Bu arada biraz görsel taraftaki o üretim servisleri bir tık pahalı denebilir.
+[3390.40s - 3392.80s] Arkadaşlar orayı kullanırken biraz dikkatli olursanız.
+[3393.22s - 3395.86s] Ben böyle çok hızlı derecede 5 dolarlık oldum.
+[3395.86s - 3400.08s] Sadece yani 5-6 tane resim ürettirerek oldum bu arada yani.
+[3400.50s - 3404.16s] Ara yüzden de değil yani SDK'den parametreleri çok yüksek vermişim.
+[3404.28s - 3406.74s] Diffusion tarafında çok kaliteli resim ürettirmişim.
+[3407.08s - 3408.88s] Yani 10 tane resme 5 dolarlık olduk.
+[3408.98s - 3409.74s] Çok dikkat edin.
+[3410.40s - 3412.94s] Aslında mesela burada sana şey örneğini verebilirim.
+[3413.08s - 3419.16s] Biz Earth için çalışırken işte free ya da diğer yapay zekalar 5-6 imaj üretiyor.
+[3419.36s - 3420.28s] Farklı olalım dedik.
+[3420.88s - 3423.18s] 1000 imaj üreten bir şey yaptık mesela.
+[3423.44s - 3425.02s] Tek tıkla 1000 imaj üretiyorduk.
+[3425.44s - 3430.04s] Ama parametre de o kadar yüksek tutmadığımız için demek ki biz de o kadar yazmamıştık.
+[3430.18s - 3433.32s] 1000 imajı mesela işte biz 50-60 doları üretmiştik yani.
+[3433.32s - 3435.46s] Evet değişiyor tabii.
+[3436.00s - 3436.98s] Ya şimdi şey de var.
+[3437.16s - 3439.78s] Bulut kullanımında genel konuşacağım yine.
+[3440.78s - 3442.34s] AWS'de bir şey söyleyeceğim önce.
+[3442.62s - 3449.84s] Bir servis ilk çıktığında yani hayat döngüsünün aslında en pahalı dönemini yaşıyor.
+[3449.94s - 3451.90s] Çünkü aslında onun bir RGS'i var, şeyi var.
+[3452.02s - 3453.18s] Önce bir zamanı var.
+[3453.38s - 3460.30s] Ama AWS'de bugüne kadar işte 14-16 yılda daha fazla yılda 140 kere fiyat indirimi olmuş.
+[3460.30s - 3466.00s] Yani aslında servisler kullanıldıkça, normalleştikçe AWS fiyat indirimi yapıyor.
+[3466.10s - 3469.28s] Bugüne kadar fiyatı artan çok çok çok nadir servisler var.
+[3469.54s - 3473.12s] O yüzden mesela bugün öyle olur ama seneye o daha ucuz olacaktır.
+[3473.24s - 3474.58s] Öbürü sene daha ucuz olacaktır.
+[3474.84s - 3480.34s] Mesela sanal makine servisi EC2'da şu an kendi web sitenize host etseniz
+[3480.34s - 3483.64s] gerçekten o 1000 doları da alırsanız yıllarca edebilirsiniz yani.
+[3484.44s - 3488.74s] Hatta şeyler öyle çalışıyor yani bunu çok böyle detayını vermeyeyim ama
+[3488.74s - 3496.86s] Selçuk Sportslar falan o free kredilerle bedava sanal makinelerle buluttan buluta taşıyarak
+[3496.86s - 3501.98s] her ay her şey her hafta farklı sitede şeyini açıyor diyebilirim.
+[3502.04s - 3505.62s] Biz de buna engel olmaya çalışıyoruz ama burada da şey çıkıyor tabii ki
+[3505.62s - 3507.94s] biz müşterimizin ne yaptığına karışmıyoruz.
+[3507.94s - 3516.32s] Shared responsibility'ye göre ben ortamı sağlarım içinde müşterinin yaptığı dataları göremediğim için bir şey yapamıyorum gibi yani.
+[3516.32s - 3517.14s] öyle durumlar var.
+[3517.52s - 3519.66s] O yüzden bunları yaşıyoruz yani.
+[3520.28s - 3520.64s] Evet.
+[3520.92s - 3524.12s] Ya Amplify servisiydi galiba ismini yanlış okumuyorsam.
+[3524.22s - 3524.92s] Yani bedava ya.
+[3525.26s - 3525.78s] Diplo çıkmak.
+[3526.14s - 3526.54s] Aynen.
+[3527.38s - 3529.20s] Öyle çok servisiniz var ya.
+[3529.28s - 3531.70s] Özellikle Lambda'yı mesela bir öğrenirseniz var ya.
+[3531.88s - 3532.86s] O kadar güzel ki ya.
+[3533.02s - 3534.84s] Bir startup vardı.
+[3535.84s - 3537.46s] Milyon dolarlık olmuşlar.
+[3537.58s - 3538.78s] Yani çok paraları var artık.
+[3539.86s - 3542.40s] Mimarisini bana anlattıklarında ben çok şaşırmıştım.
+[3542.52s - 3548.24s] Çünkü benim kafamda ne vel arkitektinde hiçbir şey yok onların mimarisine göre ama her şey çok iyi çalışıyor.
+[3548.40s - 3551.78s] Çünkü sadece S3, EC2 ve Lambda çalışıyor.
+[3552.04s - 3554.40s] Her şeyi Lambda'da mikroservise çevirmiş.
+[3554.60s - 3556.74s] Bütün her şeyi böyle proses şeklinde döndürüyor.
+[3557.50s - 3558.80s] Objeleri S3'e atıyor.
+[3558.98s - 3559.84s] S3'ten çekiyor.
+[3560.32s - 3561.80s] EC2'da da bir database'leri var.
+[3561.98s - 3562.56s] Bu kadar.
+[3563.06s - 3565.32s] Ve ben ilk baktığımda bu nasıl çalışıyor dedim.
+[3565.62s - 3566.78s] Çok iyi çalışıyor yani.
+[3566.78s - 3571.08s] Ve diyorum ya mil ucuz olduğu için de acayip kar etmişlerdi.
+[3571.16s - 3572.40s] Çok iyi para kazanmışlardı.
+[3572.54s - 3575.68s] Lambda tarafı da ücretsiz gibi bir şey aslında.
+[3575.96s - 3578.40s] O kadar fazla ona istek atabiliyorsun ki.
+[3578.68s - 3580.20s] Veya API Gateway tarafında.
+[3580.44s - 3582.30s] Yani onu bitirmek de çok zor zaten.
+[3582.96s - 3584.32s] Küçük şirket için.
+[3584.84s - 3587.70s] Ya benim sadece bu Amazon Q'yu ben de çok aktif kullanıyorum.
+[3587.88s - 3590.54s] Amazon'da bir şeyler yapmaya çalışırken EWS tarafında.
+[3590.78s - 3594.02s] İlk girdi verirken galiba 4000 karakter sınırı var.
+[3594.68s - 3595.78s] Çok zorlayan o.
+[3595.78s - 3597.64s] Mesela lambdanın tamamını atacağım.
+[3597.90s - 3599.08s] Şuradaki şunu çöz diyeceğim.
+[3599.38s - 3599.72s] Sığmıyor.
+[3599.86s - 3600.76s] Lambda sığmıyor yani.
+[3602.02s - 3602.42s] Evet.
+[3602.64s - 3603.12s] O biraz şey.
+[3603.28s - 3605.60s] Aslında 4000 karakterli lambda da biraz şey.
+[3605.78s - 3606.82s] Kaç sıtır mesela.
+[3607.26s - 3612.14s] Çünkü lambda servislerinin aslında olabildiğince bölünmesi, olabildiğince küçük olması da bekliyoruz.
+[3612.48s - 3613.64s] Tabii ona bir bakmak lazım.
+[3613.74s - 3615.82s] Beraber bakarız ona bir sonraki şeyde.
+[3615.90s - 3616.40s] Olur olur.
+[3617.62s - 3619.46s] Şimdi Bukettin bir sorusu var.
+[3619.46s - 3623.72s] Bir sürü şey deneyimlerken bu alanda kendinizi bulma noktası nasıl oldu?
+[3623.92s - 3625.54s] Ya da sizi en çok ne etkiledi?
+[3628.00s - 3630.56s] Şimdi hüzünlü konulara girmek istemiyorum ama şey.
+[3631.28s - 3633.34s] İçeriden bir ahlamaydı.
+[3633.34s - 3634.48s] Öyle aslında.
+[3634.84s - 3642.40s] Benim Oracle'daki takım liderim hayatımda da çok büyük bir yeri olan mentorum vardı.
+[3642.66s - 3643.64s] Hakan Güven.
+[3643.80s - 3645.96s] Bir gecede kendisini kaybettik.
+[3646.16s - 3647.90s] Bir basketbol maçı sonrası.
+[3647.90s - 3650.56s] İşte biraz şey dönen diyeyim.
+[3650.62s - 3652.84s] Bir gecede maalesef kaybettim.
+[3653.02s - 3655.86s] Ben o zamanlara kadar hep şeydim böyle.
+[3656.34s - 3657.80s] Abi yaşarız ya.
+[3657.94s - 3658.68s] Abi çok güzel.
+[3658.82s - 3659.58s] Para da harcarız.
+[3659.66s - 3660.36s] Şöyle yaparız.
+[3660.42s - 3661.70s] Gezeriz de tozarız da falan.
+[3662.20s - 3666.00s] Ve o gece onu kaybettikten sonra inanın 8-10 ay kendime gelemedim.
+[3666.32s - 3670.02s] Hatta benim SAP'den ayrılma dönemi falan da o dönemlere denk geliyor yani.
+[3670.38s - 3673.66s] Hani böyle kendimde çok kaybettiğim dönem oldu.
+[3673.86s - 3677.06s] Ama sonra çok şeyde öyle fark ettim.
+[3677.06s - 3678.92s] Yani kendime dönme şeyim öyle oldu.
+[3679.22s - 3682.82s] Bir dönem antidepresam da kullandım vesaire falan ama.
+[3683.60s - 3684.68s] Önermediğim şeyler.
+[3684.86s - 3686.10s] Sadece şunu söyleyebilirim.
+[3686.60s - 3689.78s] Kendinizi bulmak için sevdiğiniz şeyleri yapmanız gerekiyor.
+[3689.84s - 3691.40s] Ben de bunu mesleğimde buldum.
+[3691.54s - 3696.58s] Yani Cloud Architect ya da Solutions Architect mesleği benim yapmak istediğim meslekmiş.
+[3696.76s - 3697.40s] Bunu buldum.
+[3698.24s - 3701.96s] Bunu aslında temellerini ta lisansta okurken attım ben.
+[3702.16s - 3704.88s] İşte sistem engineer olmak istemediğimi o zaman anladım.
+[3705.00s - 3706.76s] Developer olmak istemediğimi o zaman anladım.
+[3707.06s - 3709.06s] Ama bir yere kadar hep keyfini sürdüm.
+[3709.18s - 3713.36s] Bir yerden sonra dedim ki bir dakika benim artık oturmuş bir şeyler yapmam gerekiyor dedim.
+[3713.48s - 3717.20s] O da maalesef o döneme denk geliyor diyebilirim.
+[3718.30s - 3719.18s] Aslında böyle yani.
+[3719.30s - 3720.58s] Bunun daha uzun böyle bir şeyi yok.
+[3720.72s - 3724.84s] Hani o beni çok etkilediği için biraz kendime gelmem sonrasında oldu.
+[3725.02s - 3725.96s] Ondan öncesi şey.
+[3726.10s - 3727.22s] Bir daha şunu söyleyebilirim.
+[3727.22s - 3732.14s] Burada konuşmam ya da bir yerde sahneye çıkıp konuşmam da beni besleyen şeylerden biri.
+[3732.26s - 3740.10s] Aslında ben burada konuşurken işte akşam bu saatte kendimi buraya şey yaptığımda tam tersi hani kendimi yormak yerine enerji alıyorum.
+[3740.24s - 3741.88s] Çünkü mutlu oluyorum.
+[3742.46s - 3743.84s] Hep şeyi söylerim.
+[3744.04s - 3746.92s] Bunu da daha önce birinden duymuştum aslında yine sevdiğim birinden.
+[3746.92s - 3762.02s] hayatımda şöyle burada konuşurken bir kişiye bir kişiye bin kişiye bir şeyleri değiştirtebiliyorsam ya da bir yola sokup onu mutlu edebiliyorsam o kişi 10 yıl sonra ya biri vardı adını bile hatırlamıyorum ama bu geceden bahsederse mesela.
+[3762.02s - 3771.22s] İyi ki ben o konuşmayı dinlemişim derse benim için aslında bu şu an hani olduğum yerdeki en büyük motivasyon bu.
+[3772.24s - 3773.48s] Onu söylemek istiyorum yani.
+[3774.30s - 3780.76s] Değiştirmeye çalıştığımız şeyler var tabii ki hepimizin hayatında ama benim de sizlerin hayatında değiştirmek istediğim şeyler var.
+[3780.94s - 3782.82s] Daha doğrusu yol göstermek istediğim şeyler var.
+[3782.90s - 3784.02s] Herkesin kendi hayatıdır.
+[3784.02s - 3791.78s] Ama doğru yolda ya da arada kaldığınız yerlerde birinize yol gösterebilirsek ne mutlu bize.
+[3792.06s - 3793.46s] Çünkü zamanında da bana gösterdiler.
+[3793.76s - 3794.46s] Yani böyle hani.
+[3795.22s - 3799.66s] Bana buluta yönel demeseydi o zamanki müdürüm ben şu an belki bir DBA yolacaktım.
+[3799.70s - 3802.02s] Oracle Database'den anlayan biri olacaktım.
+[3802.70s - 3804.26s] O kadar mesela belki de bilmiyorum.
+[3806.48s - 3808.70s] Bazı dönün noktaları var hayatımızda.
+[3809.36s - 3811.18s] Kesinlikle çok güzel cevaptı.
+[3814.02s - 3815.76s] Şimdi o zaman beklenen soru.
+[3815.98s - 3817.98s] Solu işin arkitekt nedir?
+[3818.38s - 3819.54s] Tam olarak ne yapar?
+[3819.80s - 3821.24s] Bu soru çok geliyor.
+[3821.98s - 3823.18s] Ben de şöyle söyleyeyim.
+[3823.26s - 3832.10s] Bilgisayar mühendisliği ya da yazılım mühendisliği işte bizim alanımızdaki mezun arkadaşların aslında alandaki iş kollarını araştırması gerekiyor arkadaşlar.
+[3832.30s - 3833.42s] Bunları bilmeniz gerekiyor.
+[3833.52s - 3837.42s] Çünkü ben de iki yıl sadece developer olacağımı sanarak okudum.
+[3837.52s - 3841.32s] Ondan sonra stajlarda veya çalışmış şirketlerde gördüm bir sürü rol olduğunu.
+[3841.32s - 3846.88s] Şimdi hatta bazen soruyorum diyorum ki bir bilgisayar mühendisi kaç farklı meslek yapabilir diyorum.
+[3847.04s - 3848.50s] Gelen soru şu şey cevap şu.
+[3848.86s - 3849.80s] Hardware, software.
+[3850.02s - 3851.00s] Hayır bu kadar değil.
+[3851.54s - 3853.56s] Şimdi soluşu sarkı tek şunu yapıyor.
+[3853.80s - 3859.62s] Bu bilgisayar mühendisliği ya da yakın mesleklerin alanımızın yaptığı işlerden biri.
+[3859.62s - 3869.06s] Ve ben müşterilerimizin bir projede yeni proje ya da olan projede olabildiğince en doğru mimarda çalışmasını sağlamaya çalışıyorum.
+[3869.18s - 3874.42s] Yani olabilecek olan bütün servisler arasında en doğruyu seçmesini sağlamaya çalışıyorum.
+[3874.48s - 3875.48s] Bunu da şöyle yapıyorum.
+[3875.62s - 3878.82s] Önce onlarla toplantılarda requirement'ları alıyorum.
+[3878.94s - 3879.92s] Yani ne istiyorlar?
+[3880.04s - 3880.96s] Bu proje ne yapıyor?
+[3880.96s - 3884.26s] Sonra elimde best practice'ler varsa bunlara bakıyorum.
+[3884.34s - 3885.36s] Dokümanlara bakıyorum.
+[3885.48s - 3886.96s] Servisleri karşılaştırıyorum.
+[3887.10s - 3890.50s] Ve olabilecek en doğru yapıyı onlara sunmaya çalışıyorum.
+[3890.98s - 3896.86s] Bu çalıştığım yer sebebiyle ilk olarak AWS üzerinden sunmaya çalıştığım bir durum şu an.
+[3897.10s - 3900.08s] Ama mesela yeri geldiğinde ben açık kaynaklara bakıyorum.
+[3900.36s - 3904.26s] Yeri geldiğinde rakibimizdeki bir servisi de diyorum ki bak bizde bu yokmuş.
+[3904.42s - 3905.60s] Buraya bunu koyabilirsiniz.
+[3905.92s - 3906.96s] Siz bilirsiniz diyorum.
+[3907.10s - 3908.16s] Onlarla görüşelim diyorum.
+[3908.16s - 3912.28s] Yeri geldiğinde onlara diyorum ki bir partnerimizin çözümü var.
+[3912.60s - 3916.88s] İşte Limon, Kloya, Comensis onlara getiriyorum.
+[3916.96s - 3918.32s] Onu buraya koyabiliriz diyorum.
+[3919.04s - 3924.96s] Bütün amacım müşterimin o projesinde en doğru yapıyı kurmak.
+[3926.26s - 3930.90s] Bunu yaparken de tabii ki bizim şirketlerimizde satışçı arkadaşlarımız var.
+[3931.04s - 3932.12s] Account Manager dediğimiz.
+[3932.34s - 3934.28s] Onlarla birebir çalışıyoruz.
+[3934.28s - 3939.76s] Ve onların da aslında o müşterilerimize satış yapmasına destek olmuş oluyoruz böylece.
+[3939.96s - 3945.44s] Yani ben AWS servislerini orada konumlandırarak satışçının satış yapmasına destek oluyorum.
+[3945.58s - 3945.98s] İşim bu.
+[3947.28s - 3949.58s] Ama benim hedefim para değil.
+[3949.80s - 3955.74s] Benim hedefim hatta olabildiğince az maliyette en hızlı ve en doğru çözümü sunmak.
+[3955.94s - 3958.82s] Bu çözümün mimarisine de security'ye de bakıyorum.
+[3959.00s - 3960.40s] Sustainability'ye de bakıyorum.
+[3960.90s - 3962.14s] Karmaşıklığına da bakıyorum.
+[3962.28s - 3963.18s] Cost'una da bakıyorum.
+[3963.28s - 3966.42s] Her şeyi en sonunda da olabildiğince en doğru şekilde çıkarmaya çalışıyorum.
+[3966.86s - 3967.34s] Olayım bu.
+[3967.34s - 3971.52s] Hatta ben mesela iş görüşmesi yaptım AWS içerisinde.
+[3971.76s - 3973.84s] Bir network specialist rolü.
+[3974.04s - 3977.18s] Ben de networkten biraz anlayamıyorum ama specialist seviyesinde değil.
+[3977.66s - 3979.18s] Bana şu yorum yaptılar mesela.
+[3979.40s - 3981.36s] Ya sen architecture olarak çok iyisin.
+[3981.54s - 3982.26s] Bayağı iyisin.
+[3982.42s - 3986.20s] Ama network'te mesela işte dört seviye varsa ikinci seviyedesin.
+[3986.64s - 3988.74s] Hani burası sana uygun değil dediler.
+[3988.92s - 3991.80s] Ama sen bir çözüm mimarı olarak devam etmelisin dedi.
+[3991.92s - 3993.42s] Mesela AWS bana bunu böyle söyledi.
+[3993.62s - 3996.64s] Böyle devam etmelisin çünkü burada çok iyisin dediler mesela.
+[3996.64s - 3999.94s] O da işte seçtiğiniz yola göre değişiyor.
+[4000.22s - 4001.56s] İşte yine soruya döneyim mesela.
+[4001.78s - 4003.20s] Şey artık kapattık konuyu ama.
+[4003.50s - 4004.34s] Şey security mesela.
+[4004.50s - 4006.72s] Bizim ekibimizde security konusunda uzman da var.
+[4006.94s - 4008.30s] O onun specielisti.
+[4008.52s - 4012.40s] Belki o da container konusunda benim olduğum kadar detaylı bilmiyor gibi.
+[4012.90s - 4014.60s] Çözüm imar bunu yapıyor arkadaşlar.
+[4015.38s - 4016.88s] Satış hedefim yok.
+[4017.06s - 4020.16s] Ama satışa destek olmam benim ilk görevlerimden biri.
+[4020.48s - 4024.48s] Ama asıl amacım müşterinin projesini en doğru şekilde yapmak.
+[4025.62s - 4028.02s] Çok büyük müşterilerle çalışıyorum.
+[4028.18s - 4030.48s] Ben AWS'de enterprise segmentteyim.
+[4030.78s - 4035.10s] Hani isimlerini böyle şey public olanlardan bahsedebilirim belki ama.
+[4035.42s - 4040.72s] TOG gibi işte TH gibi böyle çok büyük şirketler benim müşterilerim.
+[4040.92s - 4042.28s] Beraber çalışıyoruz.
+[4042.44s - 4044.86s] Hatta projemizi yapıp çıkmıyoruz biz.
+[4044.98s - 4046.68s] Hani sattı çıktı gibi bir durum yok.
+[4046.68s - 4050.08s] Haftalık toplantılarda kontrol ediyoruz.
+[4050.22s - 4051.42s] Beraber devam ediyoruz.
+[4051.70s - 4052.66s] Bunları söyleyebilirim.
+[4054.18s - 4057.48s] Peki solution architect rolüne ilişkin bir soru.
+[4057.54s - 4058.38s] Gene Furkan'dan.
+[4058.78s - 4061.96s] Solution architect hangi seviyede programlama dili bilmeli?
+[4062.16s - 4063.80s] Yani uzman olmamıza gerek var mı?
+[4064.84s - 4066.40s] Kısaca yok aslında.
+[4067.12s - 4069.10s] Şöyle kod yazmıyorum ben.
+[4069.30s - 4071.74s] Ya da yazdığım kodlar benim daha temel seviyede.
+[4071.74s - 4077.76s] Yani bazı entegrasyonları yapacak işte dokümanlardan alıp değiştirerek koyduğum kodlar oluyor.
+[4077.90s - 4081.32s] Çünkü bizim asıl amacımız kod yazmak değil çözüm mimarının.
+[4081.74s - 4083.88s] Ama ben şeyi çok öneririm.
+[4084.06s - 4086.58s] Yine bizim alanımız olarak konuşuyorum.
+[4086.68s - 4090.92s] Bilgisayar mühendisliği ya da yazılım mühendisliği işte o alandaki diğer mühendislikler olarak.
+[4091.12s - 4094.96s] Bence herkes algoritmik düşünmeyi ve kod yazmayı bilmeli.
+[4095.04s - 4096.50s] En az bir dilde bilmeli.
+[4097.62s - 4099.68s] Günümüzün deli Python mesela.
+[4100.44s - 4101.76s] Go mesela.
+[4102.06s - 4103.52s] İşte bazı kütüphaneler.
+[4103.68s - 4106.08s] Bunlar da iyi olmanız sizi bir adım öne geçirir.
+[4106.44s - 4111.64s] Ama bunları hiç bilmiyorum ben hiç kod yazamıyorum diyen biri de çözüm mimarı olabilir.
+[4111.82s - 4115.26s] Çünkü çözüm mimarının kod yazması normalde beklenmiyor.
+[4115.66s - 4117.66s] Ama mesela Bedrock dedin ya sen.
+[4117.86s - 4118.70s] Mesela Bedrock API.
+[4118.70s - 4124.36s] E şimdi ben AWS 2.289 servisinin hepsinin CLI'den bağlantısı var.
+[4124.64s - 4126.80s] Her şeyi konsoldan yapmak zorunda değilim.
+[4126.92s - 4128.86s] Uygulamamın içine bir şeyler gömlem gerekiyor.
+[4128.94s - 4130.40s] O zaman kod yazmam gerekiyor.
+[4130.90s - 4132.40s] O kadar da yazacağım.
+[4132.58s - 4133.92s] Yani o kadar olacak.
+[4133.92s - 4138.14s] Yani bence benim şartsi fikrim olunmaz.
+[4139.76s - 4146.92s] Yani o kadarcık bir CLI tarafında bir şey tarafında bence bir kod yazmak kesinlikle gerekiyor ya.
+[4147.06s - 4151.56s] Kod yazmayı hiç bilmeyen bir kişinin yansı başına kitap olması da garip olur zaten.
+[4152.32s - 4156.94s] Yani temelde beklenmiyor ama bence olması her zaman bir adım artıdır yani.
+[4157.12s - 4158.34s] Hatta birkaç adım.
+[4160.72s - 4163.46s] Peki senin bir günün nasıl geçiyor?
+[4163.96s - 4165.68s] Yani sabah kalkınca ne yapıyorsun?
+[4165.92s - 4167.28s] Uzaktan mı çalışıyorsun?
+[4167.74s - 4170.80s] AWS içerisinde kaç tane toplantı yapıyorsunuz günlük?
+[4171.64s - 4173.06s] Kaçta kapatıyorsun?
+[4173.26s - 4174.16s] Bak o da çok enteresan.
+[4174.22s - 4175.08s] Kaçta kapatıyorsun?
+[4176.14s - 4178.98s] Yani kaçta kapattığım çok değişiyor.
+[4180.16s - 4182.12s] Ben bazen 11'de de iş yapıyorum.
+[4182.30s - 4184.50s] Bazen sabah 5'te de uyanıp iş yapıyorum.
+[4184.90s - 4185.88s] Bunun sebepleri var.
+[4186.02s - 4188.20s] Aslında günümü şöyle anlatırken bunlara gireyim.
+[4188.34s - 4189.44s] Şimdi şunu söyleyeyim.
+[4189.54s - 4193.64s] Ben üniversiteden beri telefonumdaki takvimi hep kullandım.
+[4193.76s - 4194.46s] Hep kullanırdım.
+[4194.54s - 4197.84s] Hatta rehberlik hocası gibi bir hoca vardı bizde.
+[4198.02s - 4198.74s] Beyrin Hoca.
+[4199.26s - 4201.44s] Bir gün beni sınıfa örnek göstermişti.
+[4201.56s - 4205.62s] İşte mesela bakın calendar'ı en iyi kullanan arkadaşınızdan biridir falan filan diye.
+[4205.70s - 4208.36s] Çünkü ben onunla görüşmeye giderken bile ona davet atardım.
+[4208.74s - 4210.40s] Hani ne için MR atardım.
+[4210.40s - 4213.90s] Şimdi ben takvim olmadan yaşayamam.
+[4214.26s - 4214.66s] Onu söyleyeyim.
+[4214.74s - 4219.22s] Yani ben hangi gün, hangi saat toplantım olduğumu her şeyi takvimde tutuyorum.
+[4219.52s - 4220.60s] Bu benim için çok önemli.
+[4220.96s - 4227.42s] Uyandığım saatte eğer ofise gideceğim bir günse tabii ki 9'da ofiste olmaya çalışıyorum.
+[4227.60s - 4232.86s] Ama evden çalıştığım bir günse ve özel bir işim yoksa toplantılarıma göre değişiyor.
+[4232.86s - 4234.40s] Tabii ki bu şey demek değil.
+[4234.48s - 4235.86s] 12'de uyanıyorum demek değil.
+[4236.04s - 4241.02s] Ama mesela 10'da toplantım varsa o gün 9'da, 9.45'de, 9.30'da uyandım oluyor.
+[4241.60s - 4247.94s] Genel olarak toplantılarım şu an Covid sonrası %50-50 şeklinde online ve 100 yüze.
+[4248.12s - 4249.62s] Bazı müşterilerimizi 100 yüze istiyor.
+[4249.72s - 4252.20s] Bazıları tamamen online'a geçtiği için online istiyor.
+[4252.50s - 4254.80s] Bizim internal toplantılarımız 100 yüze.
+[4254.92s - 4257.06s] AWS, Amazon ofise döndük biz.
+[4257.24s - 4258.48s] Onu söyleyebilirim.
+[4259.00s - 4260.86s] Bu yüzden hibrit çalışıyorum diyebiliriz.
+[4261.12s - 4263.40s] Yeri geldiğinde onlar yeri geldiği şey.
+[4264.58s - 4266.12s] Ofisimiz nerede bu arada?
+[4266.72s - 4268.66s] Ofisimiz River Plaza'da.
+[4268.74s - 4272.48s] River Plaza öz dilekle kamyonun arkası da bir plaza.
+[4272.88s - 4275.68s] Hatta öz dileğe bağlı bir plaza.
+[4276.26s - 4281.82s] Gelmek isteyen olursa tabii ki 500 kişi olarak değil ama konuşarak şey yapabiliriz.
+[4281.98s - 4284.52s] Hani böyle 8 kişi 10 kişi ben davet edebilirim.
+[4284.72s - 4286.08s] Orada ağırlayabiliriz.
+[4286.18s - 4287.02s] Ofisi görebilirsiniz.
+[4287.68s - 4288.92s] Muazzam bir fırsat bu arada.
+[4288.92s - 4292.54s] Yani eğer şu anda şu yayını izleyenler yazabilir.
+[4293.06s - 4293.70s] Eden abiye.
+[4294.08s - 4296.48s] Şey olabilir mesela ki biz bunu çok yaptık.
+[4296.60s - 4297.86s] Üniversite kulübü olabilir.
+[4298.14s - 4300.86s] Der ki işte ben biz şu üniversitenin şu kulübüyüz.
+[4300.98s - 4301.72s] Görmek istiyoruz.
+[4301.98s - 4303.52s] Siz de tanışmak istiyoruz da diyebilir.
+[4303.64s - 4306.28s] 8-10 kişilik limitlerde davet edebilirim.
+[4306.74s - 4308.32s] Ama sözünü şöyle veremem.
+[4308.40s - 4309.70s] Hemen haftaya gelin diyemem.
+[4309.82s - 4311.86s] Çünkü takvimden bahsediyordum tam da.
+[4312.54s - 4313.36s] Doluluklarımız var.
+[4313.50s - 4314.10s] Şeylerimiz var.
+[4314.10s - 4316.38s] Ama birbirine sahip gün ayarlama çalışırız.
+[4317.00s - 4319.34s] Bu yasak değil yani onu söylemeye çalışıyorum.
+[4320.18s - 4321.54s] İşte günüm böyle geçiyor aslında.
+[4321.78s - 4323.32s] Toplantıdan toplantıya geçiyor.
+[4323.50s - 4326.74s] Bir de toplantılarımızın hazırlık süreci oluyor.
+[4326.98s - 4329.90s] Yani bir toplantıda mesela next step'ler çıktıysa.
+[4330.02s - 4335.44s] Ben genelde next step'leri hemen toplantı sonrasında ya da o gün içinde yapmaya çalışıyorum.
+[4335.58s - 4337.80s] Ama bazen yetişmediği durumlar olabiliyor.
+[4337.80s - 4340.30s] Çünkü günde 6-7 toplantı yaptığımız oluyor.
+[4340.96s - 4343.84s] Bunlar için de işte gecelere kadar çalıştığımız oluyor.
+[4344.62s - 4350.40s] Ört dönemi yani o CTO'luk yani startup döneminde ben gece 11-12'lere kadar çalıştığım oluyordu.
+[4350.48s - 4351.56s] Hatta şey olmuştu.
+[4351.72s - 4352.66s] Onu da hatırlıyorum.
+[4352.74s - 4354.04s] Biz ofisimizden ayrıldık.
+[4354.36s - 4356.92s] Şimdi ben akşam 6'da AWS'den çıktım.
+[4357.58s - 4358.92s] Ört ofise geçtim.
+[4359.16s - 4361.66s] Biz 11'e kadar çalıştık ve çalışmadı.
+[4361.76s - 4362.96s] Yazdığımız kod çalışmıyordu.
+[4363.36s - 4365.84s] Ben dedim ki ben bir eve gideyim bir buna bakayım dedim.
+[4365.84s - 4367.62s] 3'e kadar evde orada çalıştım.
+[4367.94s - 4371.40s] 3'te çalışan halini arkadaşlara işte attım.
+[4371.62s - 4372.20s] Uyudum.
+[4372.40s - 4374.22s] Sabah 9'da AWS ofise gittim.
+[4374.32s - 4375.90s] Akşam tekrar Ört ofise gittim.
+[4376.10s - 4383.32s] Falan filan hani böyle günlerimle oldu ama şu an daha çok 6'da bilgisayarı kapatmaya çalışıyorum.
+[4383.98s - 4385.06s] Tabii ki yetişmiyor.
+[4385.60s - 4389.52s] Yetişmeme sebepleri de çok müşterim oldu bu ara.
+[4390.10s - 4391.50s] Bir de şeyi söyleyeceğim.
+[4391.82s - 4393.02s] Ne diyecektim?
+[4393.12s - 4394.06s] Bir şey aklımdaydı.
+[4395.48s - 4396.80s] Eğitim durumu var.
+[4396.96s - 4402.46s] Mesela soluşası arkitekt olarak müşterilerimiz bazen AWS hiç bilmiyor olabiliyor.
+[4402.70s - 4404.40s] Onlara eğitim de verdiğimiz oluyor.
+[4404.68s - 4409.10s] O yüzden bazen bir gün iki gün kapatarak tamamen eğitim verdiğimiz olabiliyor.
+[4409.28s - 4413.60s] Mesela diyoruz ki perşembe cuma şu müşterimize eğitim vereceğim diyorum ben.
+[4413.84s - 4415.78s] O gün başka toplantı alamıyorum.
+[4415.98s - 4416.54s] Almıyorum.
+[4416.98s - 4419.48s] Bazen öyle şeylerle geçiyor diyebilirim.
+[4419.74s - 4421.26s] AWS eğitimlerine veriyoruz.
+[4421.26s - 4424.42s] Benim günlerim böyle geçiyor yani.
+[4424.42s - 4439.48s] Burada şeyi vurduğumuz an bir orana işte internal toplantılar, müşteri toplantıları ve senin kendi research veya işte bir şeyleri çözmeye ayırdığın vakit olarak bunları hani üçe bölersek burada nasıl bir dağılım var?
+[4439.48s - 4444.82s] Şöyle söyleyeyim ben cuma günlerime toplantı almamaya çalışırım genelde.
+[4444.98s - 4448.40s] Cuma günleri benim işleri toparlama ve eğitim yapma günümdür.
+[4448.92s - 4450.60s] Çok nerede durumlarda aldığım oluyor.
+[4451.08s - 4456.08s] Öncelikle onu söyleyeyim ama o yüzden yüzde yirmi kişisel şey diyebilirim beş gün varsa.
+[4456.08s - 4463.46s] Bizim de AWS olarak genel böyle denk geldiği için galiba pazartesi internal toplantımız olur.
+[4463.80s - 4466.44s] Yani yüzde yirmi de internal'a gider öyle söyleyeyim.
+[4466.66s - 4470.28s] Kalan yüzde altmışsa tamamen müşterilerimiz de dolu oluyor.
+[4470.38s - 4474.26s] Yani benim salı, çarşamba, perşembe neredeyse her saat doludur.
+[4474.44s - 4476.88s] Hani arada böyle çok nadir boşluğum olur.
+[4477.38s - 4479.14s] Olmasa bile doldurmaya çalışırım.
+[4479.14s - 4482.32s] Çünkü o sırada yapacak bir işim yoksa boşa gidiyor aslında.
+[4482.74s - 4485.56s] Hani böyle planlı yaşamayı seven biriyim.
+[4486.54s - 4494.96s] Üç gün müşterilerle bir gün AWS internal işleri, bir günde kalan işleri tamamlama ve şeyle geçirip hafta sonunu boş bırakmaya çalışıyorum.
+[4495.36s - 4496.58s] Benim genelde böyledir.
+[4497.00s - 4500.50s] Bu rol kolay bir rol değil yani cidden.
+[4500.78s - 4504.96s] Bu kadar saat insanla görüşme sürekli kesintisiz bir aktarım.
+[4505.38s - 4506.82s] Valla hiç kolay değil.
+[4507.08s - 4508.06s] Ben kendimi düşünüyorum.
+[4509.82s - 4511.54s] Soruya geçmeden şunu söyleyeyim.
+[4511.76s - 4515.06s] Mesela benim sekiz tane fokus müşterim var.
+[4515.22s - 4520.00s] Yani bütün mimarisini bildiğim, bütün projeyi takip ettiğim sekiz müşterim var.
+[4520.30s - 4523.58s] Yeni müşteri olarak da kırktan fazla müşterim var.
+[4523.70s - 4527.60s] Yani ben aslında kırk beş elli müşterimin projesini takip ediyorum.
+[4528.02s - 4529.14s] Şimdi şöyle düşünün.
+[4529.88s - 4536.84s] Herhangi bir şirkette, bir holdingde ya da sadece kendi projesini yapan bir şirkette çalışan bir çözüm mimari için bu sayı bir.
+[4538.06s - 4539.26s] Benim için bu sayı kırk.
+[4539.58s - 4543.02s] Hani ben o yüzden beynim durmuyor bazen.
+[4543.18s - 4545.64s] Yani sürekli şey yapmak zorunda.
+[4545.64s - 4547.62s] Bunları peki not alıyor musunuz?
+[4547.72s - 4549.36s] Böyle işte şurada şunu kullanmış falan.
+[4549.54s - 4550.94s] Böyle bir dökümanınız var mı?
+[4551.08s - 4554.00s] Yoksa gerçekten beyin artık o noktada mı?
+[4554.82s - 4557.34s] Her şeyi beyni tutmak kolay değil bu yaşta.
+[4557.38s - 4559.18s] Özellikle ben otuz üç yaşında bir insanım.
+[4559.26s - 4560.08s] Yaşlandık yani.
+[4560.08s - 4562.12s] Teşekkür ederim.
+[4562.32s - 4565.20s] Ama şey tabii ki not almayı çok severim.
+[4566.06s - 4568.78s] Mail yine takvim ve mailim benim için çok önemli.
+[4569.28s - 4573.84s] Yani şimdi her şey mailimde olsun ama mailime ulaşamıyorsam çok büyük sıkıntı.
+[4574.02s - 4576.34s] Ya da işte takvimle ulaşamıyorsam çok büyük sıkıntı.
+[4576.90s - 4579.00s] Not uygulamaları kullanıyorum.
+[4579.14s - 4581.34s] Tabii ki onlar çok önemli şeyler.
+[4582.12s - 4583.34s] O yüzden gerekli.
+[4583.96s - 4585.46s] Her şeyi beyinde halledemezsin.
+[4585.60s - 4586.62s] Çok zor olurdu yani.
+[4587.16s - 4588.94s] Bu kadarmış derin yani.
+[4589.90s - 4592.40s] O zaman Alp Deniz Karakoy'un bir sorusu var.
+[4592.62s - 4594.32s] EAT developer olarak çalışıyorum.
+[4594.58s - 4597.24s] Yapay zekanın gelmesiyle alanın küçüleceğini düşünüyorum.
+[4597.70s - 4599.62s] Bence birçok alanda bu şekilde.
+[4599.92s - 4603.02s] Alanda geri kalmayıp kendini geliştirmek için neler yapabiliriz sizce?
+[4604.22s - 4606.32s] Şimdi ETL bazında konuşayım.
+[4606.44s - 4609.92s] Tabii ki yapay zeka bu konuda bayağı bir kolaylık sağlıyor şu an.
+[4609.92s - 4619.88s] Bence kendi uzmanlığınla yapay zekada bu konuda neler yapılabildiğini birleştirip ona evrilebilirsin.
+[4620.24s - 4630.38s] Mesela yapay zekada şu an ETL yapan language modelleri bulup öğrenip onları biliyorum diye CV'ne yazarsan o konuda ilerlemiş biri olursun.
+[4630.46s - 4634.74s] Yine ETL işi yaparsın ama yapay zekada kullanabilen bir ETL developer olursun.
+[4634.90s - 4636.04s] Bu önemli bence.
+[4636.26s - 4637.92s] Çünkü ben şeye inanmıyorum.
+[4637.92s - 4641.12s] Yapay zeka bizim mesleklerimizi elimizden alacağı inanmıyorum.
+[4641.54s - 4649.04s] Tam tersi bizim işimizi kolaylaştıracağı için bizim daha az çalışacağımıza bir gün ve daha inovatif olacağımıza inanıyorum.
+[4649.48s - 4652.72s] Çünkü insanın bu işin içinden yüzdeyiz çekemezsiniz arkadaşlar.
+[4652.98s - 4654.36s] ETL'de de çekemezsiniz.
+[4654.56s - 4656.84s] Solutions Architect'de, developer'da da çekemezsiniz.
+[4656.84s - 4665.64s] Mesela yapay zekayı iki buçuk yıldır dünyada yüzde seksen yedi oranla mı ben sayıyı yanlış söyleyebilirim ama en çok developer'lar kullanıyormuş.
+[4665.78s - 4668.44s] Çünkü kod yazmaya bayağı meyilli.
+[4668.44s - 4670.70s] Şimdi ne oldu?
+[4670.78s - 4671.86s] Developer'lık bitti mi?
+[4672.58s - 4675.02s] O yazılan kodlar yüzde yüz doğru mu?
+[4675.98s - 4676.62s] Değil.
+[4676.84s - 4677.72s] Açık konuşalım.
+[4677.84s - 4678.30s] Değil yani.
+[4678.54s - 4683.36s] Ama bir developer'ın işini belki bir saatte yapacağı işi beş dakikaya indirdi mi?
+[4683.78s - 4683.94s] Evet.
+[4684.56s - 4687.74s] Demek ki ben bu developer'dan daha çok verim elde edebilirim.
+[4687.74s - 4693.96s] Ya da o developer'a belli bir zaman bırakarak artık onun yaratıcılığına, kendini geliştirmesine sebep olabilirim.
+[4694.02s - 4694.96s] Bu da onun gibi aslında.
+[4695.96s - 4699.24s] ETL development bitmez ama evrilir.
+[4699.64s - 4702.36s] Evrildiği noktaya gitmeye çalışmanızı öneririm.
+[4702.74s - 4703.68s] Yani onu söyleyeyim.
+[4704.36s - 4709.04s] Peki AWS tarafında bu ETL'in belli çözümleri var mı?
+[4709.86s - 4711.36s] ETL çözümleri değil mi?
+[4711.46s - 4712.92s] Glue diye bir çözümümüz var.
+[4713.08s - 4714.18s] Bu iş için özelleşmiş.
+[4714.18s - 4719.16s] Mesela Glue'nun da kendi içinde bazı yapay zeka komponentleri, feature'ları var.
+[4719.88s - 4723.94s] Glue'yu öğrenirsen mesela, hani bu şeyden gidelim sorudan yine.
+[4724.98s - 4728.36s] O özellikleri öğrenerek aslında bir yol çizebilirsin kendine.
+[4731.70s - 4735.04s] Furkan Genz, Soluš'un arkitekt rolüne bir vurgu yaparak,
+[4735.24s - 4737.76s] burada iletişim yeteneği çok ön plana çıkıyor.
+[4737.90s - 4739.52s] O zaman teknikten ayrı olarak demiş.
+[4739.92s - 4740.72s] Aynen öyle.
+[4740.72s - 4744.80s] Zaten bu rolü sevmenin sebeplerinden biri konuşulama izin verilmesi.
+[4745.48s - 4749.04s] Yani bir müşteriyle toplantı yaptığınızda ki bu müşteri toplantıları bu arada şey,
+[4749.92s - 4751.68s] işte genel müdür seviyesinde oluyor,
+[4753.00s - 4754.28s] CTO seviyesinde oluyor,
+[4754.66s - 4756.78s] holdingin en başındaki kişi oluyor.
+[4757.02s - 4761.46s] Yani benim belki de bir developer olsaydım ya da farklı bir rol seçseydim,
+[4761.58s - 4765.74s] hiç denk gelemeyeceğim insanlarla toplantı yaptığım dönemler oldu.
+[4765.74s - 4767.30s] Hani bu böyle bir şey.
+[4767.82s - 4771.62s] Oralarda da belli şeyleri öğreniyorsunuz, geliştiriyorsunuz bu arada.
+[4773.02s - 4775.14s] İletişim yeteneği, kommunikasyon bunlardan biri.
+[4775.46s - 4777.16s] Mesela benim bununla da ilgili bir anım var.
+[4777.36s - 4779.32s] Çok işe yeni başladığım dönemlerde,
+[4779.96s - 4782.00s] bizde şey vardı Oracle derken,
+[4782.44s - 4784.22s] Cuma günü free giyinme olayı.
+[4784.34s - 4785.68s] Hani çok klasik vardır ya,
+[4786.30s - 4786.70s] şey yani,
+[4787.12s - 4790.20s] dört gün takım elbise ya da gömle kravat takardık.
+[4790.30s - 4792.92s] Ya da kravat takmazdık da en azından ceket giyerdik.
+[4792.92s - 4794.62s] Cuma günü rahat giyinirdik.
+[4794.94s - 4797.80s] Cuma günü ben bir gün öyle çok rahat giyinmişim,
+[4797.90s - 4798.48s] tişörtüm,
+[4798.84s - 4799.90s] işte kot pantolonum.
+[4800.30s - 4804.40s] Bir gün işte rahmetli Hakan abiyle de askeriye gideceğiz.
+[4804.58s - 4805.26s] Çok isim vermiyor,
+[4805.26s - 4807.86s] öyle böyle orgenerallerle toplantı yapacağız.
+[4808.72s - 4810.40s] Cuma toplantımız varmış.
+[4810.78s - 4815.08s] Biliyorum olduğunu ama ben şirket içinde öyle giyineceğimiz için öyle giyinmişim.
+[4815.38s - 4817.26s] Dedi ki böyle mi geleceksin müşteriye dedi.
+[4817.48s - 4818.02s] Evet dedim.
+[4818.36s - 4820.24s] Ama dedim bugün free friday falan dedim.
+[4820.24s - 4825.24s] E dedi biz koskoca orgeneralle görüşmeye gidiyoruz bilmem sen dedi böyle oluyormuş öyle böyle.
+[4825.62s - 4828.22s] Sonra dedim ki ben eve gideyim değiştireyim geleyim dedim, yetişeyim dedim.
+[4828.36s - 4829.52s] Hayır dedi böyle geleceksin.
+[4829.78s - 4832.18s] Bu utancı yaşayacaksın dedi tamam mı?
+[4832.72s - 4834.84s] Ama böyle biraz şaka oldu biraz da ciddi.
+[4835.18s - 4838.46s] Mesela o gün anladım mesela kıyafetinde ne kadar önemli olduğunu.
+[4838.58s - 4841.64s] Çünkü ben o toplantıya gittiğimde yıldızlı generaller,
+[4842.04s - 4844.92s] işte insanlar ben böyle tişörtteydim.
+[4845.06s - 4847.40s] Ve bana gerçekten stajyer muhamelesi yapıyordu.
+[4847.40s - 4850.82s] Hani bu böyle oldu ve ben o gün evet dedim.
+[4850.92s - 4853.84s] Demek ki müşteriye göre giyinmek mesela bir madde.
+[4854.60s - 4856.48s] Konuşurken hitap mesela.
+[4856.94s - 4858.48s] Şimdi bazen şey oluyor.
+[4859.70s - 4860.88s] Karşıdaki hocam diyor.
+[4861.08s - 4862.14s] Hocamla devam ediyorsun.
+[4862.28s - 4862.66s] Bey diyor.
+[4862.76s - 4863.64s] Beyle devam ediyorsun.
+[4864.04s - 4865.02s] Bazen Eren diyor.
+[4865.56s - 4867.06s] Sonra bir deniyorsun böyle.
+[4867.28s - 4867.98s] İşte hanım diyorsun.
+[4868.12s - 4868.64s] Bey diyorsun.
+[4868.86s - 4870.98s] Hoşuna gitmediyse sen de ona dönebiliyorsun.
+[4871.26s - 4872.84s] Mesela oyun şirketlerinde böyle.
+[4873.02s - 4874.74s] Bizim oyun şirketi müşterilerimiz de var.
+[4874.74s - 4876.56s] Ya bey dediğinde hoşuna gitmiyor.
+[4876.64s - 4877.62s] Hanım dediğinde hoşuna gitmiyor.
+[4878.16s - 4879.98s] İsmiye hitap etmeyi istiyor mesela.
+[4880.24s - 4881.24s] Bunları öğreniyorsun.
+[4881.84s - 4883.32s] Hatta şuna çevireyim ben.
+[4883.86s - 4890.28s] Ben günlük hayatımda da bu iletişim becerilerini işimden dolayı geliştirdiğim ve kullandığım zamanlar oluyor.
+[4890.72s - 4892.04s] Pazarlık yaparken.
+[4892.32s - 4895.70s] Yani birçok konuda oluyor yani.
+[4895.70s - 4897.30s] Mesela şey olmuştu.
+[4897.58s - 4900.98s] Ben oturduğum sitenin yönetimiyle bir sorun yaşadım otoparkla ilgili.
+[4901.62s - 4904.56s] Dediler ki işte buyurun site yönetimi binasında şöyle görüşelim.
+[4904.68s - 4904.88s] Böyle geçelim.
+[4905.06s - 4905.38s] Gittim.
+[4905.68s - 4906.84s] Hepsi kavgaya hazır.
+[4907.26s - 4908.00s] Ben oturdum.
+[4908.06s - 4909.64s] Dedim ki merhaba bakın şöyle bir durum var.
+[4909.84s - 4910.32s] Böyle bir durum var.
+[4910.40s - 4911.12s] Ben şöyle yaptım.
+[4911.20s - 4912.16s] Siz bana böyle yaptınız.
+[4912.32s - 4912.72s] Bilmem ne.
+[4913.08s - 4915.38s] Adam dedi ki ben sizle kavga etmek için gelmiştim.
+[4915.44s - 4916.40s] Şu an kavga edemiyorum.
+[4916.52s - 4918.46s] Çünkü her şeyi çok iyi açıkladınız dedi mesela.
+[4919.88s - 4920.84s] Ben biliyorum.
+[4921.08s - 4921.74s] Anlatabiliyor muyum?
+[4921.82s - 4924.20s] Orada hani mesela hayatımızda şey oluyor.
+[4924.20s - 4926.86s] Böyle iletişim becerileri de çok önemli.
+[4927.06s - 4928.32s] Bunda geliştirmenizi öneririm.
+[4928.90s - 4931.32s] Tabii ki bazı insanlar içine kapanık.
+[4931.40s - 4933.18s] Bazı insanlar dışa yönük olabiliyor.
+[4933.38s - 4934.06s] Dönük olabiliyor.
+[4934.64s - 4937.34s] Ama biraz ortasını bulmak önemli arkadaşlar.
+[4937.56s - 4937.98s] Orada söyleyeyim.
+[4939.26s - 4940.80s] Peki hobilerin neler?
+[4940.96s - 4944.04s] Yani kapattıktan sonra neler yapıyorsun?
+[4944.24s - 4945.64s] Şimdi arkada bir tenis raketi var.
+[4946.50s - 4948.26s] Tenis oynadığını tahmin ediyorum.
+[4948.58s - 4953.22s] Hatta WhatsApp'ın tıklarsında da böyle bir tenis oynarken şey vardı.
+[4953.40s - 4953.92s] Resim vardı.
+[4954.20s - 4957.76s] O tarafta ciddi vakit harcandığını tahmin ediyorum.
+[4957.90s - 4958.96s] Ama başka neler var?
+[4959.22s - 4960.46s] Şöyle anlatayım.
+[4960.70s - 4962.22s] Bir kere oyun oynamak var.
+[4962.86s - 4964.94s] Ben oyun oynamayı çok seviyorum.
+[4966.32s - 4973.38s] İşte ben de Nintendo'nun her konsolu olduğu, PlayStation 3'ten beri hepsi olduğu falan filan bilgisayar öyleydi.
+[4973.68s - 4975.58s] Son zamanlarda bilgisayarda çok oynamıyorum ama.
+[4975.76s - 4978.30s] Oyuncum oyunlar da genelde kompetitif oyunlar.
+[4978.30s - 4981.86s] Yani ben şöyle deşarj oluyorum.
+[4982.08s - 4998.74s] Mesela FIFA'da hafta sonu ligine girip 10 maç üst üste oynayıp, yeri geldiğinde küfür edip, yeri geldiğinde kolu yere fırlatıp, yeri geldiğinde gol attığında sevinip ama o 2 saatte, 2,5 saatte bir haftanın bütün yorgunluğunu, bütün şeyini atan bir insanım.
+[4998.74s - 5000.94s] Benim hobilerimden biri oyun oynamak.
+[5001.36s - 5004.38s] Hani klasik şey demeyeceğim, kitap okumak, sinemayi öyle değil.
+[5004.48s - 5005.58s] Ben oyun oynamayı seviyorum.
+[5005.68s - 5006.06s] Bu bir şey.
+[5006.36s - 5007.74s] Spor anlamında da şöyle.
+[5007.90s - 5009.72s] Ben hayatımın her döneminde spor yaptım.
+[5010.00s - 5013.24s] Yeri geldi işte futbol oynadım, yeri geldi basketbol oynadım lisanslı.
+[5013.90s - 5025.26s] Son dönemlerde özellikle bir basketbol oyununda işte çenem çıktıktan sonra daha böyle insanlarla yakın temasa girmeyeceğim sporları ararken, eşimin de tavsiyesiyle tenise başladık biz.
+[5025.38s - 5026.46s] 2-1,5 yıl önce.
+[5026.46s - 5029.72s] Ve ben bu kadar zevk aldığım başka bir spor hatırlamıyorum.
+[5029.86s - 5031.34s] Yani basketbol da çok zevk alıyorum.
+[5031.46s - 5033.48s] O ayrı hala ama daha az oynuyorum.
+[5033.86s - 5035.42s] Ama tenis çok eğlenceli bir spor.
+[5035.98s - 5042.92s] O korta girdiğim an işte 1-1,5 saat oynadığımda kaybetsem de kazansam da yine bir deşarj durumum oluyor.
+[5043.14s - 5045.56s] O yüzden hobilerim arasına girdi yani.
+[5045.76s - 5046.62s] Çok güzel bir spor.
+[5046.84s - 5048.18s] Bu gördüğüm ilk raketim.
+[5048.36s - 5053.20s] Ben bunu bir maçtan sonra yere vurup kırdığım için hep hatırlamak istedim onu.
+[5053.64s - 5056.14s] Çünkü raket falan pahalı şeyler bunlar.
+[5056.14s - 5057.56s] Ne gerek var?
+[5057.74s - 5059.36s] Aslında çok düzgün bir spor yapıyorsun.
+[5059.62s - 5061.08s] Niye raketini kırıyorsun yani?
+[5061.52s - 5063.86s] Hiç gerek olmadığını mesela öyle öğrendim.
+[5064.52s - 5068.74s] Bunun dışında hobi olarak biz eşimle zaman geçirmeyi çok seviyoruz.
+[5068.80s - 5070.36s] Özellikle gezmeyi çok seviyoruz.
+[5070.36s - 5079.22s] Yani yılda en az 2 kere 3 kere yani o ara maddi durumumuzu el verirse yurt dışında bir yer, yeni bir yer görmek.
+[5079.46s - 5082.28s] El vermezse yurt içinde bir yer gezmeyi seviyoruz.
+[5083.12s - 5086.64s] Sırf evlendikten sonra sanırım bir 12-13 ülke gördük.
+[5086.90s - 5089.82s] Evlenmeden önce de benim şahsen gezdiğim yerler oldu.
+[5090.46s - 5093.98s] Bunları şöyle düşündüğüm zaman gezmeyi sevdiğimi söyleyebilirim.
+[5094.16s - 5095.58s] Özellikle yeni yerler.
+[5095.76s - 5098.22s] Mesela İskoçya benim için çok yeni bir yerdi.
+[5098.76s - 5101.14s] Bayıldım hala kalbimde bir yaradır yani.
+[5101.58s - 5105.96s] İskoçya'da yaşamak isterdim ama İskoçya'da da mesela iş olanakları çok yok şu an.
+[5106.52s - 5107.42s] Bakıyorum arabadır.
+[5108.14s - 5109.54s] Hobilerim böyle ya aslında.
+[5111.12s - 5112.74s] Oyun tarafına ben şaşırdım.
+[5112.90s - 5121.32s] Öteki taraflarda daha böyle beklediğim böyle bir şeyler çıktı ama böyle bir füfa atıp o maç üst üste hiç beklemediğim bir şeydi gerçekten.
+[5121.74s - 5124.60s] O dediğim gibi şöyle ben eşime de diyorum bak diyorum.
+[5124.72s - 5125.58s] Ben şimdi oturacağım.
+[5125.72s - 5127.66s] Bana 2,5-2 saat neyse izin ver.
+[5127.80s - 5129.12s] Benim haftalık maçlarım var.
+[5129.30s - 5130.88s] O da bana izin veriyor sağ olsun.
+[5131.24s - 5133.16s] Ve ben o sırada bütün şeyimi atıyorum.
+[5133.68s - 5134.94s] Kazansam da kaybetsem de.
+[5134.94s - 5139.56s] Ama ben tabii kaybetmeyi çok sevmediğim için uzun süre kaybettiğim zamanlar bir moral bozukluğu oluyor.
+[5139.76s - 5140.40s] Ama o geçiyor.
+[5141.24s - 5142.62s] Bu daha önce Dota'da.
+[5142.70s - 5143.44s] Dota'ydı mesela.
+[5143.76s - 5146.72s] Dota oynayanınız varsa izleyenlerde yaşı benimle şey olan.
+[5146.90s - 5148.04s] Hala o kadar şeyimi bilmiyorum.
+[5148.50s - 5150.76s] Ben Dota 1'in o mod halinden.
+[5151.00s - 5151.94s] Dota 2'ye geçişi.
+[5152.10s - 5155.68s] Dota 2'nin bütün işte ilk 5 yılını falan yaşamış biriyim.
+[5156.26s - 5157.88s] Hiçbir zaman şey oynamadım bu arada.
+[5158.00s - 5159.10s] Night Online vesaire.
+[5159.42s - 5160.50s] Okra oynaya girmedim.
+[5160.50s - 5164.66s] Ama Dota ve şeyin, bende yeri çok ayrıdır FIFA'nın.
+[5165.68s - 5166.48s] Ha şeyi söyleyeyim.
+[5166.70s - 5171.44s] Mesela Half-Life'ın storiesini, uçtan uca her detayını bilirim.
+[5172.10s - 5173.30s] GTA'ları öyle mesela.
+[5173.56s - 5176.32s] GTA'ların 3'ün, 4'ün bütün detaylarını bilirim.
+[5176.50s - 5177.02s] Araştırırım.
+[5177.14s - 5178.94s] Çünkü ben story modları da çok severim.
+[5179.52s - 5180.80s] Ben bunu soracaktım.
+[5180.84s - 5182.26s] Hikayeli oyun seviyor musunuz diye.
+[5182.36s - 5184.42s] Ben çünkü daha hikayeli ciğimdir yani.
+[5184.68s - 5184.98s] Aynen.
+[5185.12s - 5186.70s] Ama orada da şöyle anlatayım.
+[5186.78s - 5189.64s] Mesela ben son çıkan hikayeli oyunları çok takip edemedim.
+[5189.64s - 5194.58s] Çünkü onlara böyle oturup 15 saat hani şey sadece hikaye için devam ettiğim olmadı.
+[5194.80s - 5197.02s] Genelde biraz nostaljiden gidiyorum.
+[5197.26s - 5199.20s] İşte GTA'lar öyle, Spider-Man'ler öyle.
+[5199.36s - 5202.04s] Mesela ben bir ara Spider-Man'e çok takmıştım.
+[5202.90s - 5206.88s] 700 sayı PDF şeklinde Spider-Man şeyi okudum.
+[5207.56s - 5210.52s] Komik okunu yani çizgi romanını.
+[5211.06s - 5213.62s] Ve o zaman da deli gibi ona sarmıştım.
+[5213.70s - 5215.12s] Bazen böyle sardığım şeyler oluyor.
+[5215.12s - 5219.12s] He bak unuttuğumuz ve konuşmadığımız şey ben Pokemon Go oyuncusuyum.
+[5220.92s - 5223.42s] Hiç bu hiç beklemediğim şey.
+[5224.98s - 5226.40s] Beyvan oyuncusuyum.
+[5226.72s - 5227.44s] Level 50'yim.
+[5227.68s - 5232.92s] Her Pokemon'dan hem Battle için hem IV olarak bilmem ne Pokemon'um vardır.
+[5233.82s - 5235.96s] Türkiye'de tanındığım günler vardı.
+[5236.24s - 5238.98s] Sonra biraz oynatmayı azalttığım zamanlar oldu.
+[5239.48s - 5241.18s] Hatta kendi grubum var.
+[5241.38s - 5245.70s] O grubun hani yöneticisi ve şeyi yönlendiricisi olarak devam ettiğimiz bir durum var.
+[5245.82s - 5247.28s] Discord ve WhatsApp üzerinden.
+[5247.86s - 5250.08s] Böyle Pokemon'da da bayağı şeyimdir.
+[5250.30s - 5250.86s] Aktifimdir.
+[5251.18s - 5254.92s] Her Pokemon'un her saldırısını hangi levelde ne öğrendiğini bilirim.
+[5255.08s - 5255.98s] Sorusu olan soru.
+[5257.98s - 5263.60s] YouTube'da aratınca çıkan YouTube kanalında da böyle 10-12 sene önceki videolarda böyle papağım var.
+[5264.10s - 5266.00s] Bir tane böyle çok eski.
+[5266.48s - 5268.06s] Orada konuşuyor diye ilk defa.
+[5268.18s - 5270.08s] FIFA videoları falan var böyle çok eski.
+[5270.28s - 5270.62s] Var.
+[5270.80s - 5274.02s] Benim şu an mesela PlayStation'ın kayıt şeyinde.
+[5274.12s - 5276.62s] Hani mesela gol atınca kaydettiğim falan şeyler var.
+[5276.74s - 5277.70s] Sırf şu yüzden tutuyorum.
+[5277.82s - 5279.54s] Neredeyse bin tane vardır bu arada.
+[5279.72s - 5280.94s] 15-20 saniyiz videolar.
+[5280.94s - 5287.50s] Bir gün kafam eser de YouTube'a böyle işte gollerimi falan koyarsam diye tuttuğum videolar var.
+[5287.70s - 5288.44s] Bayağı yani.
+[5289.02s - 5290.68s] Bin taneye oturup koymam.
+[5290.76s - 5292.76s] Uğraşmam ama bir gün belki uğraşırım yani.
+[5293.98s - 5294.54s] Olabilir.
+[5295.66s - 5297.66s] O zaman çok güzel bir yere geldik.
+[5297.84s - 5299.16s] Benim en sevdiğim yerlerden biri.
+[5300.08s - 5301.44s] Kendini nasıl geliştiriyorsun?
+[5301.58s - 5302.98s] Güncel kalmak için neler yapıyorsun?
+[5303.30s - 5305.02s] Şimdi bizim burada bir tane de repomuz var.
+[5305.18s - 5306.14s] Efsim repo kısmı.
+[5306.36s - 5308.28s] Onun da linkini biraz sonra chat'e atayım.
+[5308.28s - 5315.42s] Biz Eren abiden de yayın sonrasında Cloud ve işte EWS tarafında önerdiği kaynakları ondan rica edeceğiz.
+[5315.92s - 5317.62s] İsterse o repo'ya pull request atabilir.
+[5317.72s - 5319.02s] Hani isterse biz ekleyebiliriz.
+[5319.64s - 5322.06s] Daha öncesinde de hani çok ufak bahsetmiştim ben.
+[5322.26s - 5324.36s] O repo'yu böyle yavaş yavaş inşa ediyoruz.
+[5324.50s - 5330.14s] Belli bir olgunluğa getirince de tamamen komüniteyle paylaşıp artık pull request'te insanların faydasına bırakacağız.
+[5330.84s - 5333.26s] O zaman kendini nasıl geliştiriyorsun abi?
+[5333.26s - 5338.46s] Şimdi öncelikle ben etkinlikleri çok takip ederim.
+[5338.86s - 5339.46s] Onu söyleyeyim.
+[5339.64s - 5344.12s] Yani EWS ya da bizim rakiplerimizin etkinliklerini takip eder, dinler, izlerim.
+[5344.40s - 5345.70s] Ne yeni çıkmış?
+[5345.88s - 5348.14s] Yani şu an nereye gidiyor dünyayı takip ederim?
+[5348.28s - 5349.46s] Mesela bir örnek vereceğim.
+[5350.00s - 5352.12s] Blockchain örneğini o yüzden veriyorum aslında.
+[5352.52s - 5355.26s] Bu sene yapılan büyük etkinliklerde
+[5356.36s - 5359.04s] Blockchain'e ilgili yeni bir feature tanıtılmadı mesela.
+[5359.28s - 5360.24s] Hiçbir şirket tarafından.
+[5360.36s - 5362.04s] Demek ki Blockchain'e yönelim durdu.
+[5362.04s - 5364.30s] Bunu ben buradan anlayabiliyorum.
+[5364.70s - 5366.12s] Neyle ilgili en çok oldu?
+[5366.24s - 5367.52s] CNA ile ilgili oldu mesela.
+[5367.70s - 5370.08s] Demek ki Cenerative AI'ya doğru giden bir şey var bugün.
+[5370.72s - 5372.64s] Bunları takip etmeye çalışıyorum.
+[5373.52s - 5375.24s] Ben çok yol yapan biriyim.
+[5375.44s - 5378.42s] Ankara-İstanbul arasında çok yol yapan biriyim.
+[5379.52s - 5381.02s] Kitap dinlemeyi seviyorum.
+[5381.16s - 5382.12s] Mesela açık konuşayım.
+[5382.24s - 5384.38s] Kitap okumakla ilgili bir şey sorunum var.
+[5384.48s - 5385.90s] Dikkat dağınık bir sorunum var.
+[5386.30s - 5388.56s] Oturup kitap okumayı çok şey yapıyorum bu ara.
+[5388.56s - 5390.90s] Ama dinlemeyi seviyorum.
+[5391.00s - 5395.04s] Yüzüklerin Efendisi'nden Harry Potter'a birçok kitabı yolda dinledim.
+[5395.60s - 5399.32s] Bu tür konular bana şey konusunda da bazı yollar açıyor onu söyledim.
+[5399.42s - 5400.86s] Sadece iş hayatıyla ilgili değil.
+[5401.00s - 5402.90s] Kişisel anlamda da gelişim sağlıyor.
+[5404.10s - 5411.24s] Tarihsel şeyleri mesela işte Kurtuluş Savaşı'nın bütün detaylarını bir ara din geçmişine çok takmıştım.
+[5411.40s - 5412.94s] Onları dinlemeyi seviyordum.
+[5413.14s - 5414.46s] Mısır'a işte diyeyim.
+[5415.14s - 5417.24s] Oralardan kişisel gelişimime devam ediyorum.
+[5417.42s - 5421.42s] Ama teknik anlamda gelişimimi etkinliklerle ve dokümanlarla sağlıyorum.
+[5421.54s - 5423.10s] Yani bakıyorum şöyle bir feature gelmiş.
+[5423.26s - 5424.92s] Aa bunun bir blog postu vardır diyorum.
+[5425.22s - 5426.08s] Onu okuyorum.
+[5426.08s - 5428.26s] Sonra da deneme yapıyorum.
+[5428.42s - 5429.66s] Ben hands-on bir insanım.
+[5430.36s - 5433.32s] Kendi hesabımda denediğim zaman kafamda oturuyor.
+[5433.60s - 5434.20s] Onu söyleyeyim.
+[5435.32s - 5436.28s] Öyle bir şey de.
+[5436.40s - 5437.28s] Tavsiyem bu olur.
+[5437.40s - 5438.92s] Yani bu şirketleri takip edin.
+[5439.06s - 5443.04s] Çünkü dünyayı yönlendiren şirketler bunlar arkadaşlar.
+[5443.30s - 5445.10s] Nereye gideceğini bu teknolojilerin.
+[5445.24s - 5450.30s] Ve onların yeni özelliklerini, featurelerini öyle test ederek kendinizi geliştebilirsiniz.
+[5450.30s - 5452.96s] Bir de ben bunu o gitaba koyacağım.
+[5453.18s - 5455.96s] Skill Builder diye bir bizim şeyimiz var.
+[5456.18s - 5457.36s] Ben şöyle chat'e atayım onu.
+[5457.46s - 5458.98s] Sen de istersen ekrana paylaş.
+[5459.22s - 5459.68s] Tabii tabii.
+[5460.26s - 5461.62s] Yapabiliyor muyum bakayım de.
+[5462.12s - 5464.10s] Private chat'ten gönderebilirsiniz.
+[5464.24s - 5465.46s] Ben direkt ekrana veririm oradan.
+[5466.18s - 5466.54s] Aynen.
+[5467.00s - 5473.92s] Bu bizim bir yerden belli bir yere kadar bedava eğitimlerinin olduğu bir tool.
+[5475.84s - 5478.02s] Kendi içerisinde badge'ler veriyor.
+[5478.02s - 5481.48s] Bu badge'ler bizim sertifikalara neredeyse eşdeğer.
+[5481.62s - 5482.68s] Tabii ki tamamen değil.
+[5482.90s - 5486.14s] Ama bu badge'leri almanız mesela sizin için bir artıdır.
+[5486.38s - 5491.06s] Bu skillbuilder.aws'e giderek kendinizi geliştirebilirsiniz.
+[5491.30s - 5492.92s] Çok önemli bir sayfa bizim için.
+[5494.38s - 5495.50s] Lab'lar da var.
+[5495.64s - 5496.86s] Orada lab ortamları da var.
+[5497.00s - 5504.96s] Yani girdiğinizde AWS ile ilgili her servisi en baştan başlayacak şekilde başlayıp en detayına kadar gidebiliyorsunuz.
+[5505.36s - 5506.42s] Ben de kullanıyorum.
+[5506.42s - 5509.96s] Hatta yine sizin şeye ekleyeceğim şey o aslında.
+[5510.14s - 5511.10s] Onu hazırlayacağım.
+[5511.56s - 5514.38s] Şu an 14 tane orada farklı yol var.
+[5514.62s - 5517.86s] Ve 14 yolun 14'ü de size farklı kapı açabilir.
+[5518.18s - 5519.40s] Birini de seçebilirsiniz.
+[5519.56s - 5519.90s] Üçünü de seçebilirsiniz.
+[5520.62s - 5521.52s] Beşini de seçebilirsiniz.
+[5521.72s - 5526.70s] Ama boş zamanlarınızda o eğitimleri yaparak dinleyerek kendinizi geliştirebilirsiniz arkadaşlar.
+[5527.62s - 5528.30s] Evet.
+[5529.80s - 5532.94s] Bir de LLM tarafı şimdi aşırı revaçta.
+[5533.24s - 5539.90s] Evet biraz stable division falan dedik ama bu LLM ile Generation ile birlikte aslında Geno'ya inanılmaz bir hype etti.
+[5540.76s - 5543.10s] AWS'te de buna yönelik servisler var.
+[5543.98s - 5548.14s] Hatta tam kayda başlamadan önce canlı yayına başlamadan önce şeyi konuşuyorduk.
+[5548.30s - 5554.52s] Yani bu bir ara hatta siz böyle işi gücü bırakıp tamamen bunu öğrenmeye kanalize olmuştuğunuzdan bahsetmiştiniz.
+[5554.92s - 5558.18s] Mesela oradaki dönüşüm için AWS önerileri ne olur?
+[5558.56s - 5562.00s] Sizin oradaki uğraşınızı öğrenme yolunuzu nasıl oldu?
+[5563.82s - 5565.44s] Bu arada biraz bahsettiniz.
+[5565.60s - 5571.16s] Prompting inceleğinden başlayın şeyden başlayın diye okey ama çok kısa böyle biraz daha AWS odaklı şeyler alabiliriz.
+[5571.58s - 5577.06s] Tabii ben ilk bu language modeller bizim hayatımıza girdiğinde bize bir şirket şunu söyledi.
+[5577.32s - 5579.00s] Arkadaşlar Genetive'ye öğreneceksiniz.
+[5579.70s - 5580.84s] Bütün ekibe bunu söyledi.
+[5582.22s - 5582.84s] Başladık.
+[5583.34s - 5585.16s] İşte Prompting incele denedik.
+[5585.28s - 5586.62s] Neler veriyor ne vermiyor.
+[5586.92s - 5587.98s] Nelerde takılıyor.
+[5588.10s - 5588.92s] Nerede yanlış yapıyor.
+[5589.04s - 5589.62s] Nerede doğru yapıyor.
+[5589.72s - 5590.32s] Bunları denedik.
+[5590.32s - 5593.78s] Ben özellikle AWS feature'lere ilgili sorular sordum.
+[5593.96s - 5597.46s] Yani dedim ki EC2'da şunu yapabilir miyim, S3'de bunu yapabilir miyim falan.
+[5597.68s - 5599.60s] Şunu anlamaya çalıştım.
+[5600.14s - 5603.68s] Gerçekten doğru cevap mı veriyor yoksa bir internet search mü yapıyor mesela.
+[5603.94s - 5605.18s] Yani bilmediğim için o dönem.
+[5605.62s - 5606.74s] Sonra şunu fark ettim.
+[5606.86s - 5609.12s] Dokümanlardan öğrendikleriyle konuşuyor aslında.
+[5609.38s - 5610.66s] O zaman onu anlamıştım.
+[5612.24s - 5615.58s] Bunu yaptıktan sonra aslında senin de yaptığı şeye döndüm.
+[5615.76s - 5618.64s] Biraz CL üzerinden uygulama geliştirmeye başladım.
+[5618.64s - 5623.32s] Yani tamam biz bunu şimdi şeylerde sandboxlarda kullanıyoruz.
+[5623.56s - 5624.06s] Çok güzel.
+[5624.26s - 5625.84s] Abi bir tane şey var.
+[5626.48s - 5628.20s] Prompt atıyorsun cevap alıyorsun.
+[5628.32s - 5628.68s] Eyvallah.
+[5628.78s - 5630.24s] Ben bunu uygulamamı nasıl gömeceğim?
+[5630.66s - 5632.54s] Mesela bunu araştırmaya başladım.
+[5632.98s - 5639.26s] Uygulamaya gömdüğümde token'ın ne olduğunu, nasıl para yazdığını bunları öğrenmeye başladım.
+[5639.40s - 5640.86s] Temperature'ın ne olduğunu öğrenmeye başladım.
+[5640.98s - 5642.10s] Böyle bir süreç oldu aslında.
+[5643.32s - 5645.26s] Burada şeyin de katkısı büyük bu arada.
+[5645.54s - 5646.20s] Onu da söyleyeyim.
+[5647.28s - 5649.76s] Müşterilerimizde projeleri dinlemenin de katkısı büyük.
+[5649.88s - 5654.38s] Bir şey öğrenirken, mesela bizim bakmadığımız noktalara müşterilerimiz bakmış olabiliyor.
+[5654.50s - 5655.10s] Özellikle rakiplere.
+[5656.20s - 5660.32s] Mesela diyor ki bana, ya ben şu şirketi şu servisinde böyle bir şey gördüm.
+[5660.44s - 5661.52s] Siz de göremedim diyor.
+[5662.04s - 5663.78s] Hop dönüp araştırmaya başlıyorum.
+[5664.76s - 5668.10s] Yoksa da product manager'a ulaşıyorum bizim içeriden.
+[5668.18s - 5670.04s] Diyorum ki bak müşterim böyle böyle dedi.
+[5670.32s - 5672.28s] Bizim buna ihtiyacımız var diyorum.
+[5672.64s - 5674.24s] Ve onu bir ticket olarak açıyorum.
+[5674.34s - 5679.52s] Yeri geldiğinde biz böyle böyle çok fazla özellik eklettik mesela AWS servislerine.
+[5679.74s - 5681.62s] Hatta bunun bir ismi var AWS'de.
+[5681.66s - 5683.10s] Working Backwards diye.
+[5683.64s - 5685.34s] Yeri geliyor müşterimizden öğreniyoruz.
+[5685.54s - 5687.16s] Yeri geliyor kendimiz öğreniyoruz.
+[5687.54s - 5689.18s] Benim üçüncü ayakta şu aslında.
+[5689.34s - 5691.36s] Ben yeni jenerasyondan çok şey öğreniyorum.
+[5691.36s - 5697.22s] Bu komşmalara çıktığımda sahneye ya da işte bu canlı yayınlara çok fazla yeni jenerasyon oluyor.
+[5697.44s - 5699.44s] Bizim takip etemediğimiz bazı yerler var.
+[5699.60s - 5703.52s] Mesela bu yapay zekaların Discord'da şurada burada şeyleri var.
+[5703.94s - 5705.16s] Bedava tool'ları var.
+[5705.60s - 5706.86s] Benim hiç denemediğim mesela.
+[5706.98s - 5708.94s] Çünkü ben kurumsal yaklaşıyorum ya kafamda.
+[5709.18s - 5711.62s] Hep müşteri ve AWS bazlı yaklaşıyorum.
+[5712.02s - 5714.62s] Biri diyor ki mesela hocam diyor şurada şöyle bir şey var.
+[5714.80s - 5718.06s] Sadece bunu yazarak sizin sesinize şarkı söyletebiliyorsunuz diyor mesela.
+[5718.46s - 5721.08s] Bunu öğrendiğim zaman mesela şaşırıyorum mesela.
+[5721.08s - 5723.02s] Çünkü ben denememişim görmemişim.
+[5723.20s - 5725.06s] Bunun gibi şeylerde öğrendiğim oluyor.
+[5725.48s - 5728.16s] Bu da böyle bir süreç var yani.
+[5728.30s - 5729.50s] L3'de de öyle oldu aslında.
+[5729.76s - 5731.08s] Yani yapay zekada da öyle oldu.
+[5733.66s - 5735.10s] Furkan şey demiş.
+[5735.26s - 5737.24s] Yurt dışında kariyer için ne düşünüyorsunuz?
+[5737.30s - 5738.76s] Farklı olarak ne yapmak lazım?
+[5738.90s - 5740.54s] Yeni mezun için biraz zor demiş.
+[5741.90s - 5742.82s] Aslında değil.
+[5743.40s - 5747.94s] Benim çok fazla arkadaşım mezun olur olmaz Hollanda'ya Almanya'ya gitti.
+[5747.94s - 5750.98s] O dönem gitmek daha kolaydı.
+[5751.18s - 5752.64s] Bu ara biraz daha zor.
+[5752.98s - 5755.98s] Bu arada tecrübelilere evet biraz yol açtılar.
+[5756.16s - 5757.98s] Çünkü orada tecrübeli sayısı daha az.
+[5758.22s - 5762.22s] Ama şey yurt dışı için en önemli şey arkadaşlar dil.
+[5762.68s - 5767.10s] Yani şimdi burada dinleyenler belki işte şöyle düşünüyorum.
+[5767.80s - 5775.72s] İşte salı, çarşamba, hafta içi bir akşamının gece 8-9'unu buna ayıran kişi zaten kendini biraz geliştirmiş biridir.
+[5775.90s - 5778.46s] Açık konuşmak gerekirse bizi dinleyen biri için söylüyorum.
+[5778.92s - 5782.58s] Ama İngilizce konusunda da geliştirmiştir ve geliştirmeye çalışıyordur.
+[5782.88s - 5783.94s] Dil çok önemli.
+[5783.94s - 5789.48s] Şimdi AWS iş görüşmeleri de mesela Türkiye için de olsa yurt dışı için de olsa İngilizce oluyor.
+[5790.04s - 5792.26s] Yani siz alanınızda çok iyi olun.
+[5792.46s - 5793.82s] Okul bilincisi olarak mezun olun.
+[5793.96s - 5798.10s] Ama İngilizce konuşamıyorsanız buralarda iş görüşmelerine giremiyorsunuz.
+[5798.20s - 5799.36s] Bu bir kere ilk şey.
+[5799.76s - 5807.72s] Diğer tarafta da kendi alanınızda bir alan seçip ya da genel olarak bakarak bir şeyleri temelini iyi oturtmak ve ilerlemek.
+[5807.72s - 5814.26s] Mesela aslında benim mesela iş görüşmelerinde sorduğum 20 tane falan soru var.
+[5814.50s - 5821.80s] Bu 20 soru aslında bir bilgisayar mühendisliği öğrenci ya da daha doğrusu mezunu ya da birkaç yıllık çalışanın temelde bilmesi gereken sorular.
+[5822.14s - 5825.28s] Bunları bilmeyen biri bulutun da temelini anlayamaz.
+[5825.64s - 5827.22s] İşte başka şeyin de temelini anlıyor.
+[5827.30s - 5828.74s] Ben bir temeli ölçerim her zaman.
+[5829.40s - 5832.56s] Temelden sonra ikinci görüşmede daha detaya gireriz biz mesela.
+[5832.56s - 5833.58s] Burada da öyle.
+[5834.32s - 5839.10s] Ben birçok yurt dışı iş görüşmesinde kendimde ya da arkadaşlarımda şunu gördüm.
+[5839.28s - 5842.04s] Biz Türkiye'de çok detaylara boğuluyoruz.
+[5842.30s - 5843.34s] Temeli kaçırıyoruz.
+[5843.74s - 5846.76s] Bazen hatta öyle bir şey oluyor ki ezberliyoruz.
+[5847.32s - 5848.90s] Bakın çok şey bir şey söyleyeceğim.
+[5849.38s - 5852.18s] Yani diyor ki burada bu iş nasıl yapılır?
+[5852.26s - 5853.64s] Bana bir kere işte göster diyor.
+[5853.76s - 5854.72s] Ben bundan sonra yapayım diyor.
+[5854.90s - 5860.34s] Onun nasıl yapıldığını, ne olduğunu tam böyle çözmeden ezberleyerek gitmeye çalışıyor mesela.
+[5860.34s - 5866.22s] E öyle olunca iş görüşmesinde o konuyla ilgili bir detay soru geldiğinde afallıyor mesela.
+[5866.56s - 5868.96s] O yüzden temeli iyi oturtmanızı tavsiye ediyorum.
+[5869.88s - 5873.78s] O yüzden mesela kod yazmayla ilgili soru vardı ya programla diliye ilgili.
+[5873.86s - 5874.56s] Ben orada şey dedim.
+[5875.06s - 5875.88s] Hiç dikkat edin bilmiyorum.
+[5876.12s - 5877.72s] Algoritmik düşünmeyi bilmek dedim.
+[5878.08s - 5881.18s] Kod yazmak demek yazarsınız yani.
+[5881.80s - 5886.18s] Hani işte kimsenin işini balt alıyor ama bilgi adama gider eğitim alırsınız.
+[5886.40s - 5887.30s] Developer olursunuz.
+[5887.30s - 5891.14s] Ama algoritmik düşünmeyi öyle 5 ayda 3 ayda öğrenemezsiniz.
+[5891.62s - 5892.58s] Temeli farklıdır onun.
+[5892.94s - 5894.76s] Bilgisayar mühendisi olmak farklıdır.
+[5895.02s - 5895.68s] Bu da onun gibi.
+[5896.30s - 5898.82s] Bir şeylerin temelini öğrenmeniz lazım.
+[5899.00s - 5903.06s] O yüzden dil ve neyin nasıl çalıştığını temelden öğrenmek önemli.
+[5903.20s - 5907.46s] O iş görüşmelerinde kendinizi satabilmek için en önemli şey bunlar arkadaşlar.
+[5909.04s - 5914.84s] Peki hazır yeni mezunlardan konuşmuşken biraz da bu alana yeni başlayanlardan konuşursak.
+[5914.98s - 5922.22s] Sence yeni başlayanların yaptığı doğru zannettiği ama aslında yanlış olan bu tarz hatalardan bir bahsedebilir misin?
+[5924.32s - 5926.14s] Şimdi güzel bir soru yine.
+[5926.82s - 5928.32s] Doğru zannettiği.
+[5928.40s - 5929.54s] Yani şöyle anlatabilirim.
+[5929.78s - 5932.22s] Startup zamanı yaşadığım şeylerde çok gördüm.
+[5933.18s - 5937.78s] Şimdi bak onlarca enterprise projede bulundum.
+[5939.82s - 5940.96s] Ego çok farklı bir şey.
+[5941.26s - 5941.50s] Tamam mı?
+[5941.58s - 5949.40s] Şimdi hak edilmiş egoyla ego yapmaya çalışan insanın arasındaki o ego çok sırıtıyor.
+[5949.50s - 5950.14s] Çok fark ediyor.
+[5950.30s - 5950.72s] Tamam mı?
+[5950.72s - 5961.48s] Yeni mezun ya da birkaç yıllık bir çalışan arkadaşımızın kendince 2-3 konuda başarılı olup egolu davranması mesela iş hayatında güzel görünmüyor.
+[5961.70s - 5963.10s] Onu söyleyeyim en başta.
+[5963.64s - 5965.32s] O yüzden humble olmak önemli.
+[5965.56s - 5972.08s] Yani biraz daha böyle evet yaptım ama ilk birkaç belki 5 yıl daha iyisini yapabilirim demek önemli.
+[5972.22s - 5972.92s] Bu çok önemli.
+[5973.18s - 5976.32s] Bence ben bazen görüyorum böyle arkadaşlar.
+[5977.14s - 5978.44s] LinkedIn'de de görüyorum mesela.
+[5978.86s - 5979.88s] Bir yıllık mezun.
+[5979.88s - 5981.94s] Eyvallah çok güzel işler yapmış.
+[5982.16s - 5985.82s] Ama mesela öyle bir yazı yazmış ki ben diyorum ki ben 11 yılda böyle konuşmadım.
+[5987.98s - 5990.06s] Kendime bu özgüveni görmemişim diyorum.
+[5990.30s - 5991.24s] Yani nasıl olmamışım diyorum.
+[5991.32s - 5994.02s] Ama sonra bakıyorum aslında o yaptığı bir tane şey var.
+[5994.10s - 5996.18s] O da belki de göstermedik bilmiyoruz.
+[5996.30s - 6000.82s] Ya ben şeyi geçmişi incelerken paylaşımları o Kravstark skandalı vardı.
+[6001.14s - 6004.22s] Yani oradaki paylaşımda bile evlenen bir şey yazmış.
+[6004.36s - 6006.30s] Yani naçizane 11 yıllık tecrübem.
+[6007.10s - 6009.60s] Yani birazcık konuşabileceğimi düşünüyorum.
+[6011.22s - 6013.10s] Öyle çünkü herkes konuşuyor.
+[6013.36s - 6013.84s] Anlatabiliyor muyum?
+[6013.98s - 6019.74s] Yani bir de LinkedIn'de çok fazla bağlantım olunca onun bağlantısına ona gidiyor ona gidiyor falan.
+[6019.96s - 6022.36s] Ben mesela bazen o kadar ilginç şeyler görüyorum ki.
+[6022.62s - 6024.18s] Ya kendi kendime şey diyorum yani.
+[6024.56s - 6025.98s] Ha burası Facebook olmuş diyorum.
+[6026.20s - 6030.54s] Çünkü onun ego ile yanlış yazıldığını doğru olmadığını görüyorum mesela.
+[6030.86s - 6032.64s] Ben bunu mesela Twitter'da da yaşadım.
+[6032.64s - 6035.22s] Şimdi isim vermeden konuşacağım.
+[6035.34s - 6040.84s] Çok bilinen biri hatta Edebileci Camiası'nda bilinen biri bu şey konusuyla ilgili bir yorum yapıyor işte.
+[6041.24s - 6045.32s] Türkiye'de remote çalışıp dolar kazananlarla ilgili bir yorum yapıyor.
+[6045.50s - 6046.36s] Kendisi öyle çünkü.
+[6046.36s - 6050.90s] Ama kalan arkadaşları öyle bir yere konumlandırmış ki mesela.
+[6051.28s - 6053.30s] Ya ben çok rahatsız olmuştum mesela.
+[6053.52s - 6058.62s] Şimdi şanslı bir şekilde dolar kazanıyorsun kişisel olarak söylüyorum.
+[6058.74s - 6060.30s] Ben de olabilirim başkası da olabilir.
+[6060.56s - 6063.74s] Ama bunu Twitter'da hava atacak şekilde yazamazsın.
+[6064.70s - 6065.62s] Yazmamalısın yani.
+[6065.62s - 6067.10s] O zaman burada.
+[6067.36s - 6069.02s] Çünkü ben şunu biliyorum yani.
+[6069.14s - 6069.68s] Yeri geliyor.
+[6069.88s - 6071.04s] Çok düşük maaşa.
+[6071.22s - 6072.24s] Çok zeki insanlar.
+[6072.52s - 6074.18s] Çok değişik yerlerde çalışabiliyor.
+[6074.28s - 6074.78s] Yeri geliyor.
+[6075.00s - 6076.62s] Hiç hak etmediği paraları alan.
+[6077.10s - 6078.70s] Hiç hak etmeyen insanlar olabiliyor.
+[6078.88s - 6080.74s] Yani onları gördükçe falan.
+[6080.88s - 6082.42s] O yüzden humble'lık bence önemli.
+[6082.68s - 6082.68s] 
+[6083.00s - 6083.22s] İki.
+[6084.44s - 6086.08s] Ha bu arada humble'lığa şey istedim.
+[6086.16s - 6087.32s] Youtube'da video izlemiştim.
+[6087.50s - 6089.10s] İşte koç ama boğazı içlerim.
+[6089.16s - 6089.68s] Soruyorlar.
+[6090.04s - 6092.30s] İşte mezun olunca ne kadar maaşa başlamak istiyorsun?
+[6092.48s - 6092.92s] Üç yüz.
+[6093.12s - 6093.58s] Beş yüz.
+[6093.76s - 6094.22s] Bir milyon.
+[6094.30s - 6094.50s] Yani.
+[6095.62s - 6096.10s] Ya bir dur.
+[6096.36s - 6097.34s] Kendini kanıtla.
+[6097.50s - 6098.06s] Bir görelim.
+[6098.20s - 6099.82s] Sen üç yüz bin liraya kediymişsin.
+[6099.88s - 6100.68s] Beş yüz bin liraya kediymişsin.
+[6100.72s - 6101.18s] Bir görelim.
+[6101.34s - 6102.44s] Verelim ondan sonra.
+[6102.58s - 6103.28s] Tamam verelim.
+[6103.38s - 6104.56s] Bak söylüyorum ama.
+[6104.94s - 6105.96s] Göster kendini.
+[6106.32s - 6107.22s] Daha üçüncü sınıfsın.
+[6107.32s - 6108.16s] Dördüncü sınıfsın.
+[6108.56s - 6109.00s] Bir dur.
+[6109.52s - 6110.02s] Bu önemli.
+[6110.52s - 6111.08s] İkincisi.
+[6111.26s - 6112.36s] Bunu ben de yaptım.
+[6112.94s - 6113.92s] Hata olarak demiyorum.
+[6114.08s - 6115.76s] Bu seçimi yaparken kullandım.
+[6116.14s - 6117.78s] Ben Oracle'a işe başlarken.
+[6118.22s - 6122.08s] Yeni mezun statüsünde Oracle'ın en düşük level'ında başladım.
+[6122.26s - 6124.66s] Ve o yeni mezun statüsünün maaşı çok düşük.
+[6124.66s - 6126.42s] Normal bu arada bu.
+[6126.54s - 6127.44s] Hani kötü bir şey değil.
+[6127.88s - 6133.48s] Bana ama o dönem Türkiye'den büyük global bir holding şirketi de bir iş teklifi yapmıştı.
+[6133.60s - 6134.74s] Ve maaşı daha yüksekti.
+[6135.40s - 6142.46s] Ben orada Oracle'da daha çok şey öğreneceğimi ve daha farklı bir yöne gideceğimi bildiğim için düşük maaşı seçmiştim mesela.
+[6143.24s - 6145.04s] %30 kadar bir fark vardı.
+[6145.60s - 6147.16s] Şimdi söyleyeceğim şey şu.
+[6147.34s - 6155.24s] Yeni mezun olduğunuzda arkadaşlar öğrenene kadar bir şeyleri oturtana kadar parayı ilk aşamaya koymamanızı öneriyorum.
+[6155.40s - 6156.86s] Bu yine naçizane düşüncen.
+[6156.86s - 6158.28s] İhtiyacınız olabilir.
+[6158.48s - 6160.50s] Kendinizi o sebeve göre o farklı bir konu.
+[6160.98s - 6162.48s] Veren vardır o farklı bir konu.
+[6162.62s - 6171.54s] Ama işte bir şirket size çok şey öğretmeyi vaat ediyorsa ama az para veriyorsa çok şey öğretmek belki daha kıymetli olabilir.
+[6171.76s - 6173.24s] İlk 5 sene için konuşuyorum.
+[6173.88s - 6179.58s] Sonraki 5 sene kendinizi piyasada kanıtlamakla ilgili o sırada maaşınızı arttırmaya çalışırsınız.
+[6179.88s - 6186.70s] Sonraki 5-10 sene ise artık iyi paralar kazandınız ve piyasada isminizin yaptığı döneme denk gelmeli.
+[6187.48s - 6194.00s] Ondan sonrasında söyleyeyim ben de daha orada değilim ama ondan sonrasında daha belki kendi işinizle ilgili bir şey olmalı.
+[6194.16s - 6195.70s] Bu da benim yine kendi düşüncem.
+[6196.00s - 6197.52s] Ben mesela büyük konuşmayayım.
+[6197.64s - 6199.60s] Bu video orada olur 10 yıl sonra önüme çıkar.
+[6199.60s - 6210.48s] Ama kırkımdan sonra maaşlı olarak ya da bir böyle ekipte çalışmaktan öte kendi şirketimle ya da daha böyle oluşturduğum yapılarla çalışmayı tercih ederim.
+[6210.84s - 6212.18s] O bir naçizane düşüncem.
+[6212.50s - 6214.36s] Kariyerim şey hedefim böyle yani.
+[6214.86s - 6221.12s] O yüzden başlangıçta öğrenmek, kendinizi geliştirmek, farklı alanları görmek daha kıymetli olmalı parada.
+[6221.12s - 6231.38s] Çünkü o gün kazandığınız 10 bin lira fazla, 20 bin lira fazla, bin dolar fazla sizi 5 yıl sonra bir yerlere getirmeyebilir.
+[6231.54s - 6235.86s] Ama öğrendiğiniz bir konu mesela bulut sizi bir yerlere getirebilir.
+[6236.46s - 6237.62s] Onu demeye çalışıyor.
+[6238.56s - 6239.28s] Evet.
+[6239.58s - 6242.18s] Altın değerinde tavsiyelerdi bence kesinlikle.
+[6242.48s - 6244.78s] Ben de çok şey öğrendim bu konuşmadan.
+[6244.78s - 6248.50s] Peki o zaman son soruma doğru gelirsek.
+[6248.84s - 6251.42s] Seni en çok geliştiren proje neydi?
+[6253.54s - 6255.10s] Bu da güzel soru.
+[6255.42s - 6257.74s] Aslında çok fazla projede bulundum.
+[6259.08s - 6263.20s] Ama en çok geliştiren hangisi olabilir?
+[6264.96s - 6266.70s] Hepsi benim bebeğimle falan değil mi?
+[6269.00s - 6271.30s] Ya bu arada bu soruyu sorguluyorum.
+[6272.06s - 6276.76s] Gelen cevaplarda mesela genel olarak daha böyle yakın tarihli projeler söyleniyor.
+[6278.06s - 6279.96s] Ve bu böyle kırılma noktası da olabilir.
+[6280.72s - 6280.74s] Yani...
+[6281.56s - 6282.64s] Şöyle örnek vereyim.
+[6282.90s - 6286.04s] Ben orakıda çalışırken ilk 3 yıl Ankara'da çalıştım.
+[6286.04s - 6288.44s] Ankara'da çalıştığım için kamu ile çalıştım.
+[6288.92s - 6292.98s] Mesela Milli Eğitim Bakanlığındaki o zamanlar farklı projesi vardı.
+[6293.28s - 6295.08s] Bence çok güzel bir projeydi.
+[6295.62s - 6298.10s] İlerleseydi farklı yerlere gelebilirdi gerçekten.
+[6298.42s - 6300.34s] Onun altyapısında çok şey öğrendim.
+[6300.74s - 6302.06s] 112 projesi mesela.
+[6302.18s - 6303.72s] Merkez İlleşme Projesi'nde çalıştım.
+[6303.94s - 6305.34s] O bana çok şey öğretti.
+[6305.46s - 6306.66s] Özellikle Java anlamında.
+[6306.78s - 6309.14s] Çünkü onun temelinde o zaman diyeyim Java vardı.
+[6309.24s - 6310.22s] Şu an değişmiş olabilir.
+[6310.52s - 6311.02s] Bilmiyorum.
+[6311.32s - 6313.14s] Ama o zaman çok şey öğrenmiştim.
+[6313.14s - 6316.04s] Sağlık Bakanlığı projesinde çok şey öğrenmiştim.
+[6316.20s - 6319.48s] Ama dediğim gibi şu beni çok ayrıştırdı diyebileceğim ne var?
+[6319.84s - 6320.54s] Şey olabilir.
+[6321.22s - 6324.94s] Ankara'nın EgoCart projesinde çok şey öğrenmiştim.
+[6325.14s - 6328.10s] O zaman Mobil Cloud diye bir servisi vardı orakılı.
+[6328.28s - 6328.94s] Şu an yok.
+[6329.54s - 6333.22s] İşte mobil push notification'lar, SMS'ler göndermeye yarayan falan.
+[6333.22s - 6335.74s] Mesela benim ilk cloud projem o aslında.
+[6336.46s - 6338.96s] Ve orakılın da Türkiye'deki ilk cloud projesi.
+[6339.48s - 6344.32s] Hani ben orada sürekli yurt dışından birileriyle bağlantılarla bu projeyle çalıştım.
+[6344.48s - 6347.42s] O yüzden sonrasında ödül falan da aldım.
+[6347.52s - 6351.36s] Hani şey işte ilk cloud projesi, innovator bilmem ne ödülü falan.
+[6351.86s - 6354.38s] Çünkü kimse yapmamıştı daha önce mesela.
+[6354.72s - 6356.14s] Hani orada çok şey öğrendim.
+[6357.44s - 6358.56s] Mesela şöyle diyeyim.
+[6358.70s - 6361.94s] Proje proje değil de hangi şirketlerde ne öğrendiğimden bahsedeyim mi biraz?
+[6361.94s - 6363.46s] Güzel, güzel nokta.
+[6363.56s - 6364.62s] Ben de merakla dinlerim.
+[6364.90s - 6367.38s] Oracle'da ben çok fazla builder'lık öğrendim.
+[6367.48s - 6369.32s] Yani projede işte çalışmayı öğrendim.
+[6369.40s - 6375.04s] Gerçekten benden büyük kişilerin bana iş vererek beni çalıştırmasıyla oradaki servisleri öğrendim.
+[6375.16s - 6376.38s] Onlarla bir şeyler yaptım.
+[6376.50s - 6378.28s] Ve satışa yönelmeye başladım.
+[6378.34s - 6378.88s] Onu öğrendim.
+[6378.96s - 6379.58s] Konuşmayı öğrendim.
+[6379.62s - 6380.72s] Sahneye çıkmayı öğrendim.
+[6381.02s - 6384.96s] Mesela beni Oracle'da ilk sahneye çıkardıklarında ne kadar heyecanlıydım.
+[6385.14s - 6387.78s] Sonra bir gün bir şey var mesela, bir hikayem var.
+[6389.16s - 6393.32s] Benden önceki sunumda çok fazla bir şey oldu.
+[6393.54s - 6395.28s] Sıkılma durumu oldu mesela herkesin.
+[6395.60s - 6398.28s] Bu arada bin küsür kişi var dinleyici.
+[6398.52s - 6399.64s] Benim de son sunum.
+[6400.00s - 6403.12s] Ben de içimden dedim ki ya dedim ben işte Ören Akbabay'ım.
+[6403.22s - 6406.22s] Kimse benim sunumda uyumamalı falan filan böyle gaza gelmişim.
+[6406.34s - 6407.02s] Gençlik yine.
+[6407.66s - 6408.88s] Farklı bir şey yapayım dedim.
+[6409.10s - 6410.14s] Arabada drone vardı.
+[6410.50s - 6411.20s] Drone'u aldım.
+[6411.60s - 6412.78s] Ekrana yansıttım telefonumu.
+[6413.44s - 6415.20s] Drone'un kamerasını açtım ekrana.
+[6415.20s - 6417.70s] Dolaştırmaya başladım sunumdan hemen önce.
+[6417.92s - 6419.18s] Bir tane de şey aldım.
+[6419.32s - 6420.50s] Şapka ve gözlük taktım.
+[6420.58s - 6424.12s] Dedim ki işte bayanlar baylar sevgili çocuklar işte uçuşumuz başlıyor.
+[6424.26s - 6426.68s] Şimdi işte son yılların en iyi sunumu dinleyeceksiniz.
+[6427.04s - 6428.02s] Kemalinizi bağlayın falan.
+[6428.44s - 6430.38s] Millet kendini ekranda gördü bir anda.
+[6430.54s - 6431.52s] Uyuyanlar uyandı.
+[6431.90s - 6433.74s] Ne oluyor bu çocuk kim falan filan.
+[6433.82s - 6434.80s] Yarım saat konuştum.
+[6434.86s - 6436.66s] O sırada müdürümle de göz göze geliyorum.
+[6438.72s - 6439.96s] Kovulacak mıyım şey miyim?
+[6442.34s - 6443.18s] Sunum bitti.
+[6443.72s - 6446.04s] Müdürüm beni alkışlayınca dedim ki rahatladım.
+[6446.34s - 6446.88s] Tamam güzel.
+[6447.18s - 6449.62s] İndim dedim ki abi kusura bakma bir şey yapmak zorundaydı.
+[6449.64s - 6450.46s] Herkes uyuyordu dedim.
+[6451.00s - 6453.06s] Valla ben de çok şaşırdım falan dedim öyle.
+[6455.58s - 6458.62s] Sahne özgüvenimi en çok geliştiren gün oydu mesela.
+[6458.86s - 6461.86s] Dedim ki ben bunu yaptıysam bunun gibi birçok şeyi yaparım dedim.
+[6462.36s - 6463.14s] Denedim de bu arada.
+[6463.30s - 6464.34s] Yaptığı bir şeyler de var yine.
+[6464.34s - 6467.34s] Hani sahnede çünkü uyutmaman gerekiyor ya dinleyiciyi.
+[6467.98s - 6468.54s] Bu çok önemli.
+[6469.04s - 6470.22s] Bunları öğrendim.
+[6470.46s - 6471.96s] SAP'de şunu öğrendim mesela.
+[6472.20s - 6473.74s] Kısa bir dönem gibi gelse de.
+[6474.46s - 6476.76s] SAP müşterisi süreç odaklıdır.
+[6477.04s - 6480.60s] Yani teknolojiyi bilir ama o kadar detayına girmeyi sevmez.
+[6480.82s - 6483.04s] Ama mesela süreçleri dinlemeyi sevmez.
+[6483.32s - 6489.76s] Ben mesela satın almış süreçleri işte product bilmem ne süreçleri hepsini SAP'de öğrendim.
+[6489.94s - 6492.24s] Sonra onları IBM'deyken çok fazla kullandım.
+[6492.30s - 6493.88s] Müşterilerime çok sattım o bilgiyi.
+[6493.88s - 6495.46s] Yani ben bunu da biliyorum.
+[6495.54s - 6498.68s] Bakın işte order prosesi böyle işler.
+[6498.80s - 6500.98s] Şurada şöyle bir adım vardır diye çok konuştuğum oldu.
+[6501.08s - 6502.20s] Orada onu öğrendim çünkü.
+[6503.44s - 6505.34s] IBM'de global çalışmayı öğrendim.
+[6505.42s - 6506.72s] Menat bölgesine bakıyordum ben.
+[6506.82s - 6508.30s] Middle East, North Afrika ve Turkey.
+[6508.66s - 6512.34s] Mesela bir Afrikalı müşterinin toplantıya 10 dakika geç geldiğini.
+[6512.48s - 6513.26s] Her toplantıya.
+[6513.54s - 6514.82s] Her Afrikalı müşterinin.
+[6514.88s - 6515.64s] Orada öğrendim.
+[6516.04s - 6520.68s] İşte Türkiye'deki müşterinin nasıl çalıştığını, kimin nasıl beklentisi olduğunu öyle öğrendim.
+[6520.68s - 6522.50s] Takım yönetmeyi orada öğrendim.
+[6522.60s - 6527.48s] Mesela o zamanki arkadaşların farklı ülkelerden Mısır'dan, Dubai'den arkadaşlarım vardı ekibimde.
+[6527.66s - 6530.36s] Onlara nasıl iş dağılımı yapacağımı orada öğrendim.
+[6530.60s - 6532.08s] Gibi gibi şeyler söyleyebilirim.
+[6532.16s - 6533.66s] Yaptığım bir sürü de proje oldu.
+[6534.76s - 6536.34s] Sonuçta da işte şimdi de öyle.
+[6536.34s - 6546.22s] AWS'de de gerçekten global, daha doğrusu şöyle, startup kültürüyle yaşayan büyük bir şirketin nasıl yönetildiğini öğreniyorum.
+[6546.34s - 6547.42s] Nasıl çalıştığını öğreniyorum.
+[6547.84s - 6552.26s] AWS işe alımı ile ilgili mesela çok kısa konuşayım, çok da uzatmayayım.
+[6552.76s - 6557.16s] Bizde kültürel bazı leadership prensipleri vardır.
+[6557.72s - 6562.64s] Yani AWS der ki benim her çalışanımda benim aradığım bazı kültürel özellikler var.
+[6562.64s - 6565.76s] Ben bütün toplantılarımda bunları kullanıyorum.
+[6565.98s - 6568.40s] O yüzden buraya giren kişi de kullanacaklar.
+[6568.70s - 6571.00s] Mesela biz presentation çok sevmeyiz.
+[6571.36s - 6571.98s] PPTX.
+[6572.16s - 6573.28s] Kullanırız tabii ki.
+[6573.74s - 6577.74s] Ama bizde one pager'lar, three pager'lar ve sixty pager'lar vardır.
+[6578.08s - 6580.40s] Bir toplantı öncesi one pager hazırlarız.
+[6580.52s - 6581.66s] Onu anlatırız.
+[6582.34s - 6584.74s] Yani sunum açıp on tane next next yapmayız.
+[6584.74s - 6589.24s] İşte leadership prensiplerinde aratırsanız internette bulursunuz.
+[6589.58s - 6592.62s] İşte insist on high standard diye bir şey vardır.
+[6592.92s - 6595.02s] Bir şey yapıyorsan en iyisini yapmaya çalış der.
+[6595.42s - 6598.02s] Eğer en iyisini yapmıyorsan başka bir şeyle git der.
+[6598.18s - 6599.04s] Daha bugün yaşadım.
+[6599.34s - 6602.94s] Bir müşterimin istediği isteği bizim servisimiz yüzde yüz yapamıyor.
+[6603.10s - 6604.08s] Yüzde doksan beş yani.
+[6604.62s - 6604.94s] Belli.
+[6605.68s - 6606.28s] Araştırdım.
+[6606.44s - 6608.40s] Bunu yapan açık kaynak bir language model var.
+[6608.64s - 6611.26s] Dedim ki bunu bununla yapacağımıza alalım.
+[6611.26s - 6613.92s] Bedrak'a bunu custom model yapıp şöyle yapalım dedim.
+[6614.10s - 6615.46s] Müşterimiz havalara uçtu mesela.
+[6615.62s - 6616.42s] Daha mutlu oldum.
+[6617.06s - 6617.80s] Anlatabiliyor muyum?
+[6618.14s - 6619.86s] Bunları da burada öğreniyorum şu an.
+[6619.94s - 6621.52s] Öğrendim ya da devam ediyorum.
+[6622.06s - 6624.02s] Gibi gibi şeyler var diyebilirim.
+[6624.10s - 6625.84s] Ama her projem benim bebeğim.
+[6626.36s - 6628.02s] Hepsinde de çalışma çok memnunum.
+[6629.38s - 6631.16s] Hepsinde farklı hikayesi var tabii.
+[6632.48s - 6632.92s] Evet.
+[6633.36s - 6635.22s] Muazzam bir özetti bu arada yani.
+[6635.94s - 6637.86s] Benim için de dinlemesi çok keyifli.
+[6637.96s - 6640.16s] Özellikle bende daha üniversiteden mezun olmamış.
+[6640.16s - 6642.66s] Son sonuçta bir genç olarak.
+[6643.18s - 6645.44s] Yani gerçekten çok şey öğrendim.
+[6645.54s - 6646.80s] İnanılmaz bir yayın oldu.
+[6647.34s - 6647.74s] Şuper.
+[6647.88s - 6650.10s] Çok teşekkür ederim katıldığın geldiğin için.
+[6650.40s - 6652.30s] O zaman hepinizin yolu açık olsun.
+[6652.96s - 6657.10s] Çalışanlarım da, çalışacak olanlarım da yani öğrenci arkadaşlarım da.
+[6657.42s - 6658.14s] Şey söyleyeyim.
+[6658.30s - 6660.70s] Bana LinkedIn'den her zaman ulaşabilirsiniz arkadaşlar.
+[6661.34s - 6664.08s] Ben hani ulaşılması zor biri değilim gerçekten.
+[6664.82s - 6667.34s] Ve olabildiğince cevap vermeye çalışan biriyim.
+[6667.34s - 6671.90s] Başta söylediğim gibi birinizin hayatında küçük bir etkim olursa ne mutlu bana.
+[6672.18s - 6673.14s] Olumlu yönde tabii ki.
+[6674.10s - 6675.80s] Olmazsa da yapacak bir şey yok.
+[6675.96s - 6676.98s] Ama elimizden gelen bu.
+[6678.10s - 6679.48s] Davetiniz için teşekkür ederim.
+[6679.68s - 6681.16s] Çok güzel bir akşam oldu benim için de.
+[6681.80s - 6682.82s] Rica ederiz.
+[6683.74s - 6684.62s] Teşekkür ederim.
+[6686.56s - 6687.12s] Tamamdır.
+[6687.52s - 6689.04s] Arkadaşlar iyi akşamlar.
+[6689.52s - 6690.38s] Görüşmek üzere.
+[6691.26s - 6691.94s] Kendinize iyi bakın.

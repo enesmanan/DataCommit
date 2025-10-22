@@ -1,0 +1,2860 @@
+[Speaker 2] [2.10s - 3.40s] Selamlar herkese.
+[Speaker 1] [4.06s - 6.40s] Data Committee'in ikinci yayınıyla birlikteyiz.
+[Speaker 1] [6.92s - 9.90s] Bu yayına özel, Bilgi Yücel bizlerle birlikte.
+[Speaker 1] [10.74s - 15.36s] CNI tarafında gerçekten TRD adından söz ettiren birisi.
+[Speaker 1] [15.72s - 21.60s] Gerek yaptığı konuşmalarla, gerek globaldeki yayınlarıyla da benim çok takip ettiğim bir isimdi.
+[Speaker 1] [22.06s - 24.34s] Bugün bu programda olduğu için de mutluyum.
+[Speaker 1] [24.88s - 27.48s] İstersen Bilgi seni tanımakla başlayabiliriz.
+[Speaker 1] [27.60s - 28.66s] Öncelikle hoş geldin.
+[Speaker 2] [28.66s - 33.70s] Hoş bulduk. Teşekkür ederim davetin için ve burada beni ağırladığın için de.
+[Speaker 1] [34.18s - 35.00s] Bilgi ederim.
+[Speaker 1] [36.18s - 38.60s] Biraz bize kendinden bahsedebilir misin?
+[Speaker 1] [38.86s - 42.72s] Bu alana, başlangıcın, şu an çalıştığın şirket neler yapıyorsun?
+[Speaker 2] [45.46s - 51.76s] İlk son iki senedir Deepset isimli Almanya merkezi, daha doğrusu Berlin merkezi bir şirkette çalışıyorum.
+[Speaker 2] [52.02s - 54.10s] Gerçi yavaş yavaş şirket şu anda büyüyor.
+[Speaker 2] [54.28s - 56.04s] Amerika'da da çalışanlar olmaya başladı.
+[Speaker 2] [56.22s - 58.06s] Orada da böyle küçük bir merkezi var.
+[Speaker 2] [58.66s - 62.92s] Burada, bu şirkette, Developer Relations Engineer olarak çalışıyorum.
+[Speaker 2] [63.98s - 65.02s] Deepset yapay...
+[Speaker 1] [65.78s - 67.70s] Çok enteresan bir nokta.
+[Speaker 1] [67.86s - 69.32s] Oraya tekrar da gelmek lazım.
+[Speaker 1] [69.62s - 72.10s] Bu title, Türkiye'de hiç duymadığım bir title.
+[Speaker 1] [72.46s - 75.94s] Sadece yurt dışında çalışanlarda böyle çok az kişide gördüğüm bir title.
+[Speaker 1] [76.86s - 83.88s] Tam böyle Deepset'e geçmeden yaptığın title'ın ne yaptığını mesela, işte onu bize bir kısaca söyleyebilir misin?
+[Speaker 1] [84.30s - 86.08s] Developer Relations Engineer nedir?
+[Speaker 2] [86.08s - 88.38s] Evet, çok güzel bir soru.
+[Speaker 2] [88.96s - 104.78s] Şimdi, Developer Relations takım olarak ya da bir fonksiyon olarak baktığımızda aslında yaptığı iş, şirketteki mühendislerle yani bir ürün geliştiren mühendislerle ürünü kullanan mühendisler arasında bir köprü oluşturmak.
+[Speaker 2] [104.78s - 108.80s] Bu aslında çok yaygın bir rol değil Türkiye'de.
+[Speaker 2] [108.90s - 118.06s] Çünkü bu rolün olduğu şirketlerin yazılımcılara, geliştiricilere yani developerlara, mühendislere yönelik bir ürün yapıyor olmaları gerekiyor.
+[Speaker 2] [118.06s - 121.02s] Türkiye'de fakat biz böyle çok fazla ürün göremiyoruz.
+[Speaker 2] [121.18s - 126.88s] Mesela açık kaynak bir ürün göremiyoruz veya bir SDK göremiyoruz bir ürünle alakalı.
+[Speaker 2] [127.32s - 130.26s] O yüzden de bu rol çok fazla yaygın değil.
+[Speaker 2] [130.52s - 136.66s] Ama yurt dışında bu alanda biraz daha gelişmeler olduğundan dolayı özellikle Kuzey Amerika'da.
+[Speaker 2] [137.24s - 140.62s] Bu rol tabii ki çok önemli bir pozisyona geliyor.
+[Speaker 2] [140.76s - 146.42s] Çünkü günün sonunda aslında sen son kullanıcıyla kendi şirketindeki insanları bağlamış oluyorsun.
+[Speaker 2] [146.42s - 148.60s] Ama tabii ki son kullanıcın mühendis.
+[Speaker 2] [148.76s - 160.40s] Yani onunla kuracağın iletişim, onun kullanmasını istediğin ürün, klasik pazarlama teknikleriyle ulaşabileceğin, satabileceğin bir şey değil.
+[Speaker 2] [160.58s - 163.24s] Ve her zaman da aslında satma amacı da gütmüyorsun.
+[Speaker 2] [163.44s - 168.96s] Mesela benim şu an çalıştığım pozisyonda bir mühendislere yönelik bir ürün geliştiriyoruz.
+[Speaker 2] [169.08s - 172.02s] Evet, fakat biz bunu tamamen open source olarak yapıyoruz.
+[Speaker 2] [172.14s - 174.38s] Yani aslında mühendisleri hiçbir şeyde satmıyorsunuz.
+[Speaker 2] [174.38s - 182.50s] Öyle olunca da aslında benim görevim de birazcık bu ürünün ne olduğunu dışarıdaki insanlara anlatmak.
+[Speaker 2] [182.66s - 188.30s] Ama onların anlayacağı dilden yani işte demolarla, tutoryıllarla, kod örnekleriyle,
+[Speaker 2] [188.56s - 198.04s] yapabilecekleri uygulamaların örnekleriyle bir şekilde bu sahip olduğumuz ürünü dışarıdaki developerlara anlatmak.
+[Speaker 2] [198.04s - 201.10s] O yüzden de işte developer relations diyoruz.
+[Speaker 2] [201.30s - 206.10s] Tabii ki de yani herkes bu takımın içerisinde ben bir mühendis olarak çalışıyorum.
+[Speaker 2] [206.22s - 209.64s] Fakat bu takımın içerisinde her zaman mühendisler olmuyor.
+[Speaker 2] [209.78s - 212.52s] Sadece YouTube'a içerik çıkaran insanlar da olabiliyor.
+[Speaker 2] [212.70s - 217.18s] Veya sosyal medyayı yöneten, oradaki içerikleri oluşturan insanlar da olabiliyor.
+[Speaker 2] [217.18s - 223.12s] Benim gibi biraz daha teknik tarafta belki ürünün developer experience'ına da bakın insanlar da oluyor.
+[Speaker 2] [223.32s - 226.32s] Yani kısaca böyle anlatabilirim sanırım bu rolün ne olduğunu.
+[Speaker 1] [227.02s - 228.18s] Bence inanılmaz açıklayıcıydı.
+[Speaker 1] [229.16s - 230.90s] Hatta ben de rolü tam bilmiyormuşum yani.
+[Speaker 1] [231.18s - 233.68s] Şu an öğrendim diyebilirim daha detaylı.
+[Speaker 1] [235.64s - 239.92s] Merak ettiğim bir şey de hatta senin Deepset'e işte internlikten girişin var.
+[Speaker 1] [240.10s - 241.88s] İnternken advocate oluyorsun.
+[Speaker 1] [241.88s - 244.00s] Ondan sonra relation'a geçiyorsun.
+[Speaker 1] [244.48s - 247.06s] Yani orada da bir senin içeride yükselişin var.
+[Speaker 2] [247.48s - 251.14s] Biraz bu Deepset'e girişinden işte orası nasıl olduğu bahsedebilir misin?
+[Speaker 2] [252.78s - 256.94s] Ya ben bir iş arıyordum.
+[Speaker 2] [257.22s - 259.50s] Yeni yüksek lisansımdan mezun olmuştum.
+[Speaker 2] [260.08s - 262.44s] Belki orayı da sonrasında anlatabilirim.
+[Speaker 2] [263.04s - 270.62s] Ve böyle biraz daha işte applied NLP scientist, data scientist gibi rollere bakıyordum.
+[Speaker 2] [270.62s - 277.02s] Ama bir yandan da böyle developer advocate, developer advocacy işte, developer relations gibi şeyleri duyuyordum.
+[Speaker 2] [277.12s - 281.30s] Ve biraz da merak ediyordum bunlar ne acaba, ne yapıyorlar acaba diye.
+[Speaker 2] [283.36s - 285.34s] Ben Deepset'i Twitter'dan buldum.
+[Speaker 2] [286.08s - 293.62s] Bu alanda yani yapay zeka alanında çalışan bir şirket olduğundan ve özellikle benim ilgilendiğim alan, doğal geliştirme alanında çalışan bir şirket olduğundan.
+[Speaker 2] [293.74s - 296.04s] Bir böyle takip etmeye başlamıştım.
+[Speaker 2] [296.22s - 299.16s] O işte Deepset'ten bulup başka takip ettiğim şirketler de vardı.
+[Speaker 2] [299.16s - 304.16s] Ve bir gün işte Twitter'da dolaşırken bir ilan açıldığını gördüm işte.
+[Speaker 2] [304.28s - 306.18s] Developer advocate intern arıyorlardı.
+[Speaker 2] [306.84s - 309.02s] Dedim süper, ben iş arıyorum.
+[Speaker 1] [309.34s - 310.32s] Onlar intern arıyorlar.
+[Speaker 2] [310.76s - 314.54s] Yani böyle kendim yeteneklerimden de açıkçası çok emin değildim.
+[Speaker 2] [314.58s - 317.10s] Acaba hani developer advocate olmak ne demek?
+[Speaker 2] [317.44s - 319.08s] Ben bunu yapabilir miyim?
+[Speaker 2] [319.16s - 320.46s] Yaparsam sever miyim?
+[Speaker 2] [320.52s - 322.50s] Hani çok fazla soru işareti vardı kafamda.
+[Speaker 2] [322.50s - 327.42s] O yüzden de dedim ki çok iyi ben bu staj döneminde de biraz bakarım bu işi tanırım.
+[Speaker 2] [327.88s - 329.64s] Hem şirket beni tanımış olur.
+[Speaker 2] [329.80s - 334.52s] Hem de bak yanmak isteyeceğim bir şey mi onu anlamış olurum diye böyle bir başvuruda bulundum.
+[Speaker 2] [335.20s - 339.34s] Ve işte türlü mülakatlardan geçerek şirkette başladım.
+[Speaker 2] [339.34s - 347.80s] 6 aylık bir sürecin sonunda da artık karşılıklı bir memnuniyet de söz konusu olunca full time olarak aynı işi yapmaya devam ettim aslında.
+[Speaker 2] [349.04s - 353.10s] Sonrasında da yani developer advocate'dan developer relations engineer'a geçtim.
+[Speaker 2] [353.10s - 357.10s] Çünkü aslında yaptığım iş tamamen bir mühendislik işiydi genel adlarıyla.
+[Speaker 2] [357.80s - 363.42s] Yani developer advocate title'ı da çok yanlış değil aslında bu işi yapan insanlar için.
+[Speaker 2] [363.64s - 368.02s] Fakat benim mühendis olduğumu biraz daha bu title'ımı da belirtmek istedik.
+[Speaker 2] [368.12s - 370.06s] Çünkü etkinliklere gidiyorum çok fazla.
+[Speaker 2] [370.78s - 374.04s] Ve teknik alanına da hakimin.
+[Speaker 2] [374.48s - 376.42s] Gerek ürünün gerekse bu alanın.
+[Speaker 2] [377.12s - 383.58s] Bu yani sahip olduğum rolün aslında yaptığım işi daha iyi yansıttığını düşündüğümüz için böyle bir şey yaptık.
+[Speaker 2] [383.92s - 386.68s] Aslında developer advocate olarak da kalabilirdim bence.
+[Speaker 2] [386.78s - 387.88s] Çok da yanlış olmazdı.
+[Speaker 2] [388.14s - 389.98s] Ama bu title'ımı daha çok seviyorum.
+[Speaker 1] [390.72s - 391.40s] Anlıyorum.
+[Speaker 1] [391.68s - 396.74s] Yani advocate dediğimiz title teknik tarafı aslında çok aşırı dokunmayan bir title.
+[Speaker 1] [397.30s - 399.36s] Senin şu anki title'ına nazaran.
+[Speaker 2] [399.80s - 403.44s] Birazdan sen teknik bir insan olduğun için ve mühendislik çıkışlı olduğun için
+[Speaker 1] [403.44s - 409.30s] aslında ben engineer'im dedin ve o tarafta engineer'e geçiş yaptın.
+[Speaker 2] [409.52s - 412.68s] Aynen öyle diyebiliriz yani genel adlarıyla.
+[Speaker 2] [413.14s - 417.96s] Developer advocate'lar biraz daha evet iletişim tarafı daha güçlü olan insanlar.
+[Speaker 2] [418.12s - 419.96s] Daha çok işin bu tarafını yapan insanlar.
+[Speaker 2] [420.48s - 422.76s] Ben biraz daha bunun teknik tarafında kalıyorum.
+[Speaker 1] [424.80s - 426.96s] Kesinlikle güzel bir açıklamaydı.
+[Speaker 1] [427.08s - 429.12s] Ben o advocate'ın farkını da merak ediyordum.
+[Speaker 1] [429.12s - 432.12s] Yani bu yurt dışında popüler roller böyle çok görüyorum.
+[Speaker 1] [432.88s - 434.64s] İşte hugging phase'de bunu görüyorum.
+[Speaker 1] [435.06s - 440.56s] İşte deep set'te o tarz bir open source bir kütüphane olduğu için orada da aslında onu görüyorum.
+[Speaker 1] [440.66s - 443.06s] Bu arada kütüphane dedim belki yanlış bir terimde kullanmış olabilirim.
+[Speaker 1] [443.46s - 447.62s] Orada deep set'in tam ne olduğundan da bir bahsedebiliriz.
+[Speaker 1] [447.68s - 450.60s] Ama galiba çok da ileri atladık gibi geldi bana.
+[Speaker 1] [450.88s - 452.12s] Birazcık daha senin böyle üniversite.
+[Speaker 1] [452.26s - 456.38s] Üniversite oradan böyle anlık olarak çok hızlı gittik gibi hissettim böyle.
+[Speaker 1] [456.58s - 461.20s] İlk ve o üniversite zamanına ve alana yönelmenden biraz bahsedebiliriz.
+[Speaker 1] [461.28s - 465.70s] Ben hani bildiğim kadarıyla sen mezun olduktan sonra webçi olarak aslında sektöre giriş yapıyorsun.
+[Speaker 2] [466.90s - 467.54s] Evet.
+[Speaker 2] [467.84s - 471.52s] Ya aslında benim bu bilgisayar mühendisi olma yolum da birazcık farklı.
+[Speaker 2] [471.70s - 473.54s] Ben liseden mezun oldum.
+[Speaker 2] [473.86s - 476.00s] Endüstri mühendisliği okuyacaktım.
+[Speaker 2] [476.00s - 479.82s] Ama işte Sabancı Üniversitesi'ne gitmek çok istiyordum.
+[Speaker 2] [479.88s - 484.36s] Orada bir yaz kampına katılmıştım lisedeyken ve kampüsü çok hoşuma gitmişti.
+[Speaker 2] [484.52s - 485.66s] Sistemini çok beğenmiştim.
+[Speaker 2] [486.06s - 489.10s] Dedim ki ben Sabancı Üniversitesi'ne gireceğim ama endüstri mühendisliği okuyacağım.
+[Speaker 2] [489.56s - 492.50s] Bu şekilde bir giriş yaptım üniversiteye.
+[Speaker 2] [493.22s - 496.52s] Ve üniversitenin yani Sabancı Üniversitesi'nin şöyle bir sistemi var.
+[Speaker 2] [497.48s - 501.84s] İlk girdiğiniz sene bütün herkes aynı dersler oluyor tamamen.
+[Speaker 2] [501.84s - 511.06s] Bunlar daha klasik dersler tabii ki işte edebiyat, İngilizce, tarih, matematik gibi çok temel dersler alıyorsunuz aslında.
+[Speaker 2] [511.40s - 514.06s] Ama direkt bölüme giriş yapmıyorsunuz.
+[Speaker 2] [515.00s - 517.62s] Ve üniversite size bu alan yani sizi aslında şeyi tanıyor.
+[Speaker 2] [517.84s - 519.44s] Sen biraz önce bir kendini tanı.
+[Speaker 2] [520.78s - 522.48s] Neler yapmak istiyorsun.
+[Speaker 2] [522.74s - 524.10s] Biraz üniversiteye alış.
+[Speaker 2] [524.32s - 525.72s] Bu alanı size sağlıyor.
+[Speaker 2] [525.98s - 531.38s] Sonrasında da ikinci senaya geçtiğimizde bomboş bir kağıt veriyorlar size.
+[Speaker 2] [531.38s - 536.48s] Ve diyorlar ki hadi şimdi kendi istediğiniz bölüme göre bir programınızı oluşturun.
+[Speaker 2] [536.58s - 538.54s] Ve siz her dersi seçmekte özgürsünüz.
+[Speaker 2] [538.90s - 540.38s] Ben de işte böyle bir program oluşturdum.
+[Speaker 2] [541.12s - 543.78s] Ve oluşturduğum programda programlama dersi de vardı.
+[Speaker 2] [544.14s - 548.06s] Çünkü o endüstri mühendisliği için gerekli olan derslerden bir tanesiydi.
+[Speaker 2] [548.30s - 550.22s] Ben sonra bu programlama dersi aldım.
+[Speaker 2] [550.74s - 553.48s] C++'la ve çok hoşuma gitti.
+[Speaker 2] [553.92s - 555.06s] İnanılmaz hoşuma gitti.
+[Speaker 2] [555.06s - 558.16s] Dedim ki ben ikinci dönemde biraz böyle geçireyim.
+[Speaker 2] [558.26s - 560.18s] Bir bakayım gerçekten bu bölümü okuyabilir miyim?
+[Speaker 2] [560.24s - 562.10s] Bilgisayar mühendisi yapabilir miyim diye.
+[Speaker 2] [562.28s - 565.40s] İkinci dönemimi de yani biraz karışık derslerden aldım.
+[Speaker 2] [566.60s - 568.00s] Ve bir gün çok iyi hatırlıyorum.
+[Speaker 2] [568.66s - 572.14s] Kütüphaneden gece 3'te yurtadama dönerken
+[Speaker 2] [572.14s - 575.16s] bütün gece böyle bir ödev için çalışmışım.
+[Speaker 1] [575.34s - 576.14s] Kodlama yaparak.
+[Speaker 2] [576.14s - 580.56s] Dedim ki yani ben bunu gece 3'e kadar hiç sıkılmadan, bunalmadan yapıyorsam
+[Speaker 1] [580.56s - 581.86s] bence ben bu bölümü okurum.
+[Speaker 2] [582.12s - 583.22s] Severek de okurum dedim.
+[Speaker 2] [584.12s - 589.24s] Böylelikle aslında Sabancı Üniversitesi'nin saldığı bir olanak sayesinde
+[Speaker 2] [589.24s - 590.88s] bilgisayar mühendisliğine geçiş yaptım.
+[Speaker 2] [590.90s - 594.36s] Başka bir üniversitede olsaydım büyük ihtimalle endüstri olarak devam edecektim.
+[Speaker 2] [596.90s - 600.60s] Sonrasında 4. sınıfın yani son senemin ikinci döneminde
+[Speaker 2] [600.60s - 603.66s] part-time olarak HIPO'da bir işe girdim.
+[Speaker 2] [603.66s - 607.76s] Orada part-time olarak web development yapıyordum.
+[Speaker 2] [607.88s - 608.66s] React yazıyordum.
+[Speaker 2] [609.06s - 610.32s] TypeScript kullanıyorduk.
+[Speaker 2] [611.06s - 614.64s] Ve o zamanlar daha yeni yeni geçişler vardı böyle React ve TypeScript.
+[Speaker 2] [614.94s - 617.04s] Ama çok hoşuma gitmişti.
+[Speaker 2] [617.18s - 619.84s] Yani genel hatlarıyla gerçek bir projede çalışmak işte
+[Speaker 2] [619.84s - 623.86s] önünde bir user interface kodluyorsun, o çıkıyor işte.
+[Speaker 2] [623.98s - 627.08s] Ama hani çok kodun içerisinde değilsin ama bir noktada bir şey yapıyorsun
+[Speaker 2] [627.08s - 628.70s] ve görüyorsun da onun çıktısını.
+[Speaker 2] [629.08s - 630.12s] Çok hoşuma gitmişti.
+[Speaker 2] [630.12s - 633.88s] Yani iki sene, iki buçuk sene kadar HIPO'da bu şekilde çalıştım.
+[Speaker 2] [635.10s - 637.02s] Ve oradaki grubumu da çok seviyordum.
+[Speaker 2] [637.14s - 638.22s] Arkadaşlarımı da çok seviyordum.
+[Speaker 2] [638.30s - 639.38s] Şirkete de çok seviyordum.
+[Speaker 2] [639.58s - 641.24s] Çok güzel kültürü olan bir şirketti.
+[Speaker 2] [641.84s - 644.74s] Fakat iki senenin sonunda böyle biraz şey oldum.
+[Speaker 2] [644.84s - 646.58s] Tamam bu alanı gördüm.
+[Speaker 2] [646.76s - 649.60s] İşte web development, front-end engineerlik nasıl bir şeymiş bunu gördüm.
+[Speaker 2] [650.06s - 654.78s] Hadi biraz da yani bilgisayar mühendisliğinde ne tür işler var?
+[Speaker 2] [654.78s - 661.22s] Onları biraz keşfedeyim diye yapay zekalarını yüksek lisans yapmak için işten ayrıldım.
+[Speaker 2] [661.36s - 663.04s] Ve Belçika'ya gittim bir sene boyunca.
+[Speaker 2] [663.52s - 665.14s] Yüksek lisans yaptım.
+[Speaker 2] [665.38s - 668.24s] Tamamen böyle bir ismi AI'di yani.
+[Speaker 2] [668.90s - 669.90s] Bir senelik bir program.
+[Speaker 2] [670.10s - 671.84s] Çok yoğun bir program.
+[Speaker 2] [672.38s - 675.18s] Bir sene içerisinde on bir tane ders alıyorsunuz.
+[Speaker 2] [675.34s - 676.78s] Üstüne bir de tezinizi yazıyorsunuz.
+[Speaker 2] [678.00s - 682.00s] Neyse ki tezde işte bir şirkette staj yaparak yazabiliyordunuz.
+[Speaker 2] [682.10s - 685.38s] O yüzden ben de öyle bir seçeneği seçmiştim.
+[Speaker 2] [686.68s - 692.90s] Ve bu bir senenin sonunda da mezun olunca tabii ki aldığınız temelle beraber de
+[Speaker 2] [694.28s - 697.36s] çeşitli şirketlerde işte data scientist olarak işe girebiliyorsunuz.
+[Speaker 2] [697.42s - 700.70s] O zamanlar AI engineer diye bir kavram çok fazla yoktu.
+[Speaker 2] [702.08s - 707.78s] O bunlar daha tabii generatif AI öncesi yani birkaç ay öncesi diyebilirim.
+[Speaker 2] [707.92s - 711.68s] Yani ben 2022 yılında mezun oldum.
+[Speaker 2] [712.10s - 712.84s] Anlaşılmıyorsam.
+[Speaker 2] [713.10s - 717.68s] Ve chat GPT'nin çıkması artık bu large language model dediğimiz şeylerin hayatımıza girmesi de
+[Speaker 2] [717.68s - 720.60s] 2022 yılının sonlarına doğru geliyor.
+[Speaker 2] [722.08s - 726.98s] Bu şekilde yani bir geçiş oldu hayatımda.
+[Speaker 1] [727.16s - 728.76s] Ve development'ı da çok seviyordum.
+[Speaker 2] [729.68s - 731.82s] Şimdiki çalıştığım alanı da çok seviyorum.
+[Speaker 2] [732.44s - 734.10s] Bakalım bundan sonra neler olacak.
+[Speaker 2] [734.22s - 735.56s] Belki bu şekilde devam ederim.
+[Speaker 2] [735.74s - 741.10s] Belki birkaç yıl sonra bakarsın ki ben bambaşka bir alanda bambaşka bir rolde çalışıyorum.
+[Speaker 2] [741.32s - 741.96s] Mümkün mü?
+[Speaker 1] [742.42s - 744.86s] Computer Science'ı seviyorsun diyebilir miyiz?
+[Speaker 2] [745.50s - 746.14s] Evet.
+[Speaker 2] [746.86s - 749.88s] Yani içerisinde kod varsa seviyorum ben.
+[Speaker 2] [750.14s - 751.62s] Kodlamayı çok seven bir insanım.
+[Speaker 2] [752.06s - 755.76s] Çünkü Computer Science'ında her alanın kodla ilerlemiyor.
+[Speaker 2] [755.76s - 758.72s] Oraları mesela çok hoşuma gittiğini söyleyemem.
+[Speaker 2] [758.84s - 760.74s] Ben biraz daha oturayım.
+[Speaker 2] [760.86s - 761.78s] İdeme açayım.
+[Speaker 2] [762.84s - 764.08s] Kafasında bir insanım.
+[Speaker 1] [764.46s - 765.10s] Kesinlikle.
+[Speaker 1] [765.28s - 770.42s] Ben bu anlattığım serüvenden aslında çok böyle can alıcı nokta.
+[Speaker 1] [770.66s - 773.48s] Senin Sabancı derken aldığın C++ dersi.
+[Speaker 1] [773.60s - 775.58s] Aslında bir noktada senin de kırılma noktan olmuş.
+[Speaker 1] [775.58s - 777.80s] Bir anda kodlamayla tanışman.
+[Speaker 1] [778.48s - 780.96s] Sonrasında ya ben bunu seviyorum demen.
+[Speaker 1] [781.12s - 783.58s] İşte 7-3'lere kadar kodun başından ayrılmamak.
+[Speaker 1] [784.34s - 785.72s] Oradaki fark ediş falan.
+[Speaker 1] [785.94s - 787.02s] Yani inanılmaz.
+[Speaker 2] [787.56s - 790.24s] Sonrasında AI için Belçika dedin değil mi?
+[Speaker 1] [790.86s - 791.26s] Hı hı.
+[Speaker 2] [791.78s - 794.00s] Belçika'ya yüksek lisansa gittin.
+[Speaker 1] [794.20s - 796.56s] Ve direkt programın ismi AI.
+[Speaker 2] [796.94s - 797.62s] Yüksek lisans.
+[Speaker 1] [797.88s - 798.06s] Evet.
+[Speaker 1] [798.72s - 801.06s] Buradaki dersler neydi o dönemde?
+[Speaker 1] [801.06s - 805.58s] Hani tabii TR tarafında yeni yeni farkındalık oluşuyor.
+[Speaker 1] [805.90s - 807.40s] AI böyle çok geniş bir kavram.
+[Speaker 1] [808.50s - 811.30s] Altı böyle çok çok fazla kırılıyor.
+[Speaker 1] [811.66s - 814.20s] O programda Belçika tarafını gerçekten merak ettim.
+[Speaker 1] [814.26s - 816.28s] O taraftaki dersler kapsam nasıldı?
+[Speaker 2] [818.56s - 822.66s] Aslında bu Advanced Master's Degree diye geçiyor.
+[Speaker 2] [823.70s - 827.60s] Belçika'da bu bölümü okuyan ya da Avrupa'da değil bu bölümü okuyan insanlar için
+[Speaker 2] [827.60s - 831.22s] öncelikle bir 3 senelik Bachelor'larını bitirmeleri gerekiyor.
+[Speaker 2] [831.38s - 834.94s] Sonrasında genelde bir alanda 2 senelik bir yüksek lisans yapmış oluyor.
+[Speaker 2] [835.26s - 839.40s] Ve sonrasında da üstüne ek olarak 1 senelik bir programı yapıyorlar.
+[Speaker 2] [839.50s - 841.62s] O yüzden işte Advanced Master's diye geçiyor.
+[Speaker 2] [842.76s - 846.46s] Fakat Türkiye'de benim işte üniversitem 4 senelikti.
+[Speaker 2] [846.56s - 849.36s] Onun üstünde de 2 senelik çalışma tecrübem olduğundan dolayı
+[Speaker 2] [850.10s - 853.46s] bu alana girmekteki işte gereklilikleri karşılayabilmiştim.
+[Speaker 2] [854.14s - 856.70s] Yüksek lisans daha öncesine yapmamış olmama rağmen.
+[Speaker 2] [857.60s - 862.34s] Ve çok aslında yani bir senelik kısa yoğun bir programdı.
+[Speaker 2] [862.66s - 870.40s] Ve gerçekten de size direkt yapay zeka ile alakalı bilgileri veren bir programdı.
+[Speaker 2] [870.60s - 873.00s] Yani derslerimiz mesela Machine Learning dersimiz vardı.
+[Speaker 2] [873.38s - 875.12s] AI Ethics dersimiz vardı.
+[Speaker 2] [875.26s - 881.50s] Bu biraz daha hukukla yapay zekanın birleştiği bir alan diyebilirim.
+[Speaker 2] [881.50s - 883.96s] Computer Vision dersim vardı.
+[Speaker 2] [884.20s - 886.28s] NLP seçtiğim ders vardı.
+[Speaker 2] [887.12s - 888.30s] Information Retrieval gibi.
+[Speaker 2] [888.54s - 896.10s] Yani aslında yapay zekanın alt alanlarında Machine Learning ile alakalı birçok dersim vardı içerisinde.
+[Speaker 2] [896.10s - 901.10s] Tabi buradan da siz kendinizi 3 farklı kategoride yönlendirebiliyordunuz.
+[Speaker 2] [901.38s - 906.54s] İsterseniz işte biraz daha doğal işleme tarafına yönelebiliyorsunuz.
+[Speaker 2] [906.54s - 910.54s] İsterseniz biraz işte bilgisayar mühendisliği tarafına yönelebiliyorsunuz.
+[Speaker 2] [911.38s - 913.46s] Veya Big Data alanına da yönelebiliyordunuz.
+[Speaker 2] [913.74s - 916.82s] Bu alanda tabi ki daha farklı teknolojiler devreye giriyor.
+[Speaker 2] [917.92s - 924.54s] Ama çok gerçekten eğer düşünülen insanlar varsa tavsiye ederim en çok memnun kaldığım bir programdı.
+[Speaker 2] [925.42s - 935.92s] Yoğun olmasıyla ve bir senede yapıp bitirilmesiyle gerçekten çok endüstriden de kopmadan temel yapay zeka bilgisinin edinilebildiği bir program yani.
+[Speaker 1] [936.62s - 944.94s] Mesela endüstriden de kopmadan dedin ya orada düşününce böyle aklıma akademi ve endüstri ikisinin arasında şöyle bir şey geliyor.
+[Speaker 1] [945.28s - 951.78s] Akademi işte matematik kağıt üzerinde formüller ama endüstri deyince önünde bir kod idresi açılıyor gibi hissediyorum.
+[Speaker 1] [951.78s - 957.16s] Mesela şu an benim okuduğum bölüme de baktığım zaman evet Malta ve Rez statistikli bir ders alıyorum şu anda.
+[Speaker 1] [957.68s - 958.18s] Son sınıftayım.
+[Speaker 1] [958.32s - 959.68s] Elle Key Means yapıyoruz mesela.
+[Speaker 1] [960.76s - 970.14s] Bu sizin tarafta da böyle miydi şeyde Belçika'daki yüksek lisansta orada gerçekten bunların uygulamaları endüstriye yakın satarak bir fiil var mıydı?
+[Speaker 1] [970.30s - 973.70s] Yoksa hani gerçekten sen bunu kendi çabanla mı götürüyordun kod kısmına?
+[Speaker 2] [974.34s - 978.96s] Yok yine akademiye odaklı bir bölümdü.
+[Speaker 2] [978.96s - 983.36s] Yani endüstriden konmadan dediğim sadece kısa olmasıyla alakalıydı.
+[Speaker 2] [983.44s - 987.74s] Yani bölümdeki aslında hocaların kesinlikle öyle bir kaygıları yoktu.
+[Speaker 2] [988.00s - 992.46s] Tam tersinde hatta bir dersimizde sadece konuları öğreniyorduk.
+[Speaker 2] [992.58s - 993.66s] NLP dersiydi bu.
+[Speaker 2] [993.84s - 997.16s] Konuları öğreniyorduk ama hepsi paper bazlı ilerliyordu.
+[Speaker 2] [997.52s - 1005.32s] Hiç bunun çok aktif bir şekilde endüstride nasıl kullanıldığını net görmüyorduk.
+[Speaker 2] [1005.32s - 1009.48s] Sadece işte bir dersinde hatırlıyorum çok hands on bir dersti.
+[Speaker 2] [1009.64s - 1017.24s] Gerçekten her gördüğümüz algoritmayı işte circuit learner öğrenerek uyguluyorduk kendimiz.
+[Speaker 2] [1017.92s - 1020.02s] O ders mesela çok hoşuma gitmişti.
+[Speaker 2] [1020.18s - 1022.58s] Ama onun dışında genelde evet biraz teorik kalıyordu.
+[Speaker 2] [1022.64s - 1025.38s] Ben o yüzden de aslında staj yapmak istedim.
+[Speaker 2] [1025.38s - 1029.68s] Yoksa yine tezimi yine bir üniversitedeki hocayla yazabilirdim.
+[Speaker 2] [1029.84s - 1035.36s] Ama staj yapı biraz daha endüstride nasıl oluyor bunlar gerçekten diye görmek istemiştim.
+[Speaker 2] [1036.10s - 1041.34s] Ama işte bunun sağlaması bile aslında birazcık bir adımdır yani bence bir bölüm için.
+[Speaker 2] [1042.58s - 1045.64s] İnsanları endüstride yakınlaştırmak için diyeyim.
+[Speaker 1] [1047.24s - 1049.82s] Orada mesela tezim diyorsun ya.
+[Speaker 1] [1050.10s - 1051.40s] Hani orada yaptığın tez neydi?
+[Speaker 1] [1051.76s - 1055.38s] Şu anda ben de son sınıf olduğum için tez yazma durumum var.
+[Speaker 1] [1055.70s - 1060.26s] Hem lisansta tez yazmıştım Aydın onu sorayım hem de yüksek lisans tezine bağlayayım orada.
+[Speaker 2] [1060.76s - 1062.48s] Şu an ben zorlanıyorum açıkçası.
+[Speaker 1] [1062.82s - 1064.68s] Hani elelemle alakalı bir şey yapmak istiyorum.
+[Speaker 1] [1064.98s - 1066.90s] Ama böyle tam böyle hocamla uyuşamıyorum.
+[Speaker 1] [1067.20s - 1069.64s] Yapacağım şey böyle biraz fazla büyüyebiliyor.
+[Speaker 1] [1069.76s - 1070.20s] Önceyebiliyor.
+[Speaker 1] [1070.44s - 1073.70s] Ondan sonra işte şu an başka birisiyle konuştum.
+[Speaker 1] [1073.78s - 1079.82s] O da dedi ki işte bunu yapsan ne bileyim 6 ay sonra Beyzel elelem bunu zaten yaparsa ne olacak dedi.
+[Speaker 1] [1080.34s - 1082.40s] Falan orada da bir trade off var.
+[Speaker 1] [1082.64s - 1085.54s] Böyle elelem tarafı da çok hızlı gelişiyor büyük dil modelleri.
+[Speaker 1] [1086.08s - 1087.46s] Orada sen neler yapmıştın?
+[Speaker 1] [1087.78s - 1090.44s] Belki yeni tez yazacak olanlara da bir tavsiyen olur mu?
+[Speaker 2] [1091.70s - 1094.18s] Ya işte şeyler çok değişiyor.
+[Speaker 2] [1095.08s - 1096.54s] Şeyden başlayabilirim belki.
+[Speaker 2] [1096.54s - 1100.90s] Ben lisansımda tez yazmadım bitirme projemiz vardı bizim.
+[Speaker 2] [1101.44s - 1103.88s] Tabii bitirme projesi ve bunun raporu gibiydi.
+[Speaker 2] [1103.98s - 1107.50s] O zamanlarda bir tane uygulama yapmıştık.
+[Speaker 1] [1107.66s - 1108.60s] Mobil uygulama.
+[Speaker 2] [1108.78s - 1112.08s] Sudoku'nun fotoğrafını çekiyorsunuz ve size o Sudoku'yu çözüyor.
+[Speaker 2] [1112.56s - 1119.30s] Yani işte içerisinde mobil app'i de biz yaptığımız için bir Java'yla yazmıştık onu o zamanlar.
+[Speaker 2] [1119.30s - 1121.78s] İşte bir Java vardı.
+[Speaker 2] [1122.22s - 1126.88s] Bir Sudoku çeken, Sudoku çözebilen bir algoritmamız vardı.
+[Speaker 2] [1127.00s - 1128.08s] Server'da bu çalışıyordu.
+[Speaker 2] [1128.90s - 1134.82s] Ve ondan sonra işte fotoğraf çekip bu fotoğraftan numaraları tanıyan yani işte bir Sudoku var.
+[Speaker 2] [1134.94s - 1136.40s] Çünkü orada 6 var, 8 var.
+[Speaker 2] [1136.68s - 1141.42s] O numaraları tanıyan yine küçük bir machine learning modelimiz vardı.
+[Speaker 2] [1141.42s - 1145.10s] Yani böyle biraz farklı alanlarını birleştiren bir uygulamaydı.
+[Speaker 2] [1146.36s - 1151.14s] Bak o zamanlarda demek ki biraz daha böyle yapay zekaya hafif ilgim varmış.
+[Speaker 2] [1151.98s - 1166.20s] Sonrasında benim yüksek lisansımda yaptığım tezde ben o zamanlar bir insan kaynakları takımlarına yapay zeka uygulamaları yapan bir şirkette stajımı yaptım.
+[Speaker 2] [1166.20s - 1170.08s] Ve bu şirkette çok büyük bir data seti vardı.
+[Speaker 2] [1170.44s - 1173.64s] Kendileri düzenli olarak işte LinkedIn'den buluyorlar.
+[Speaker 2] [1174.38s - 1176.98s] Gerek işte web sitelerinden alıyorlar.
+[Speaker 2] [1177.18s - 1178.94s] Glassdoor gibi sitelerden alıyorlar.
+[Speaker 2] [1179.34s - 1181.16s] Çok büyük bir data setleri vardı.
+[Speaker 2] [1181.40s - 1182.76s] İş ilanları ama hepsi.
+[Speaker 2] [1182.98s - 1185.10s] Ve benim yaptığım tez de şuydu.
+[Speaker 2] [1185.42s - 1187.28s] Ya bir iş ilanı, büyük bir metini var.
+[Speaker 2] [1187.42s - 1190.10s] Ve bu metini segmentlerine ayrılıyordum.
+[Speaker 2] [1190.10s - 1196.42s] İşte bu metinin neresi şirketin o ilanı veren şirketle alakalı bilgi içeriyor.
+[Speaker 2] [1196.68s - 1200.82s] İşte hangisi bu ilan için gereklilikleri anlatıyor.
+[Speaker 2] [1201.08s - 1205.52s] İşte ne bileyim 4 sene tecrübe B1 seviyesinde İngilizce vesaire gibi.
+[Speaker 2] [1205.82s - 1208.36s] Ve bir tarafı da yan haklar.
+[Speaker 1] [1208.46s - 1209.56s] Yani bunun benefitleri.
+[Speaker 2] [1209.68s - 1212.38s] Bu iş ilanındaki benefitler nedir?
+[Speaker 2] [1212.56s - 1214.10s] Gibi teksti.
+[Speaker 2] [1214.78s - 1216.10s] Ben bunu segmentasyonla yapıyordum.
+[Speaker 2] [1216.16s - 1217.70s] Bildiğimiz classification aslında.
+[Speaker 1] [1217.70s - 1221.80s] Aslında tam hard NLP zamanları.
+[Speaker 1] [1222.14s - 1223.32s] Cene'nin öncesi.
+[Speaker 2] [1223.96s - 1225.62s] Nasıl yapıyordum bu arada?
+[Speaker 1] [1225.78s - 1227.90s] Oradaki kullandığı model neydi?
+[Speaker 2] [1228.52s - 1231.82s] Ya orada çok büyük bir data seti olduğundan dolayı.
+[Speaker 2] [1231.94s - 1237.48s] Ben kendim oturup baya bir uzun süre manual labeling yaptım.
+[Speaker 2] [1238.00s - 1242.76s] Yani işte burası şirketle alakalı.
+[Speaker 2] [1242.76s - 1244.76s] Burası benefitler.
+[Speaker 2] [1244.90s - 1246.94s] Burası requirementler falan diye.
+[Speaker 2] [1246.94s - 1247.86s] Ve sonrasında bunun için.
+[Speaker 1] [1247.86s - 1250.48s] Kolon kolon tabüler bir data çıkardın aslında.
+[Speaker 1] [1250.88s - 1254.14s] Ve o tekste bir label atadın her seferinde.
+[Speaker 2] [1254.14s - 1255.28s] Aynen.
+[Speaker 2] [1255.64s - 1260.50s] Sonra TF-IDF ile bir classification modeli train ettim.
+[Speaker 2] [1261.40s - 1266.92s] Ve sonrasında da bu model aslında şu şekilde kullanılıyordu.
+[Speaker 2] [1267.14s - 1270.72s] Bu modeli direkt bir çıktı olarak yani bu modeli son bir model olarak kullanmıyorlar.
+[Speaker 2] [1270.82s - 1275.30s] Sadece ellerindeki olan datayı biraz daha anlamlandırabilmek için kullanıyorlardı.
+[Speaker 2] [1275.38s - 1278.14s] Yani aslında bu model bir pre-processing modeliydi.
+[Speaker 1] [1278.24s - 1278.84s] Bu modeliydi.
+[Speaker 2] [1279.26s - 1280.44s] Bu modeli günün sonunda.
+[Speaker 2] [1281.64s - 1283.02s] Ve çok ilginçti.
+[Speaker 2] [1283.20s - 1285.80s] Yani o zamanlar tabii ki de deep learning vardı.
+[Speaker 2] [1286.14s - 1288.16s] İşte neural ağlar.
+[Speaker 1] [1288.90s - 1289.74s] Bunlar yok olmadı.
+[Speaker 1] [1289.86s - 1290.86s] Bunlar bu arada hala var.
+[Speaker 1] [1291.16s - 1291.64s] Evet.
+[Speaker 1] [1291.64s - 1291.94s] Hayır.
+[Speaker 2] [1291.94s - 1294.14s] O zamanların en iyisi oydu.
+[Speaker 2] [1294.48s - 1297.14s] Fakat benim taskım için mesela onları da denemiştim.
+[Speaker 2] [1297.28s - 1298.88s] Ve çok iyi sonuçlar alamamıştım.
+[Speaker 2] [1298.94s - 1305.94s] Günün sonunda yine TF-IDF ile böyle keyword based bir algoritmayla sonuca ulaşabilmiştim.
+[Speaker 2] [1306.60s - 1308.60s] Yani iyi sonuca ulaşabilmiştim diyeyim.
+[Speaker 2] [1308.60s - 1314.00s] Ama evet senin de dediğin gibi yani bu tamamen CNI öncesi.
+[Speaker 2] [1314.36s - 1318.38s] Tamamen traditional yani geleneksel NLP dediğimiz zamanlarda.
+[Speaker 2] [1318.46s - 1319.50s] O zamanlar çok şeydi.
+[Speaker 1] [1319.66s - 1320.88s] Wow nasıl bildi ama.
+[Speaker 2] [1321.02s - 1324.46s] Hani çok güzel bir segmentasyon oldu falan gibidir.
+[Speaker 2] [1324.62s - 1328.22s] Şu an tabii mesela tezime bakınca iki sene geçti üzerinden.
+[Speaker 2] [1328.44s - 1331.98s] Yani diyorum ki wow neler neler değişti dünyada.
+[Speaker 1] [1331.98s - 1339.66s] Yani şu an herhalde dübdüz kopyalı yapıştır yapıp chat cepiteye bile atsan sana böyle rapor gibi çıkartır her şeyi.
+[Speaker 1] [1340.70s - 1341.22s] Aynen öyle.
+[Speaker 1] [1341.22s - 1343.40s] Ama o dönemlerin keyfi bir başkaydı ya.
+[Speaker 1] [1343.84s - 1347.02s] Yani CNI'nin olmanın önceki NLP'nin keyfi bir acayipti.
+[Speaker 2] [1347.62s - 1354.48s] Ya o zamanlar tabii ki gerçekten NLP bilgisi ya şu anda da tabii ki çok önemli ama NLP bilgisi çok önemliydi.
+[Speaker 2] [1354.74s - 1356.24s] Yani işte token ne demek.
+[Speaker 2] [1356.24s - 1368.94s] Ve bizim bazı derslerimizde özellikle linguistik alanına yönelmek isteyen insanlar için gerçekten işte kelimelerin kökleri, ne anlama geldikleri, nasıl ilerledikleri bir kelimeler.
+[Speaker 2] [1368.94s - 1372.78s] Yani İngilizce dili için özellikle bununla alakalı dersler alıyorlardı.
+[Speaker 2] [1372.84s - 1379.58s] O yüzden de aslında linguistik bölümü mezunları bu alanda data scientist olarak çalışmaya çok uygunlardı.
+[Speaker 2] [1379.74s - 1381.42s] Ki hala şu anda da uygunlar.
+[Speaker 2] [1381.42s - 1388.18s] Ama evet şu an artık her şeyde herhangi bir task yapmamız gerekirse ilk gittiğimiz şey sanırım chat cepite.
+[Speaker 2] [1388.44s - 1390.34s] İlk önce onunla bir deniyoruz.
+[Speaker 2] [1391.68s - 1398.84s] Sonrasında belki işte model train edilecekse ediliyor veya başka bir model kullanılacaksa o kullanılıyor.
+[Speaker 1] [1399.70s - 1403.32s] Bu arada yani arada böyle çok güzel bir noktaya geldik.
+[Speaker 1] [1403.66s - 1408.46s] O da şu şu şu anda CNI yapmak için NLP bilgisi ne kadar gerekli?
+[Speaker 1] [1408.46s - 1410.24s] Çok tartışılan bir konu.
+[Speaker 1] [1411.34s - 1414.74s] Çok da gerçekten üzerine düşünülüyor.
+[Speaker 1] [1414.92s - 1416.34s] Bazıları diyor ki olsa olur.
+[Speaker 1] [1416.70s - 1417.94s] Yani hatta olmalı.
+[Speaker 1] [1418.06s - 1419.72s] Artık bir şeyler yapacaksan gerekli.
+[Speaker 1] [1420.04s - 1423.66s] Ama bazıları da diyor ki API canbaz olacaksan çok da gerek yok.
+[Speaker 1] [1424.06s - 1426.74s] Artık orada teskine göre de değişir diyenler var.
+[Speaker 1] [1426.90s - 1427.94s] Sen ne diyorsun bu duruma?
+[Speaker 2] [1428.40s - 1430.24s] Ben teskine göre değişir diyorum.
+[Speaker 2] [1430.24s - 1433.20s] Hatta ben biraz daha gerekli tarafındayım.
+[Speaker 2] [1433.36s - 1439.48s] Çünkü şöyle her zaman API'larla bir uygulama yapmıyorsun.
+[Speaker 2] [1439.88s - 1441.88s] Çünkü API'lar pahalı olabiliyor.
+[Speaker 2] [1442.28s - 1444.04s] Data'ını bir API'ye yollamak istemiyorsun.
+[Speaker 2] [1446.78s - 1455.64s] Farklı nedenlerle aslında çok büyük şirketlerinde o büyük modelleri, yetenekli modelleri kullanmak mümkün olmuyor.
+[Speaker 2] [1456.48s - 1463.30s] O yüzden de kendin daha küçük modellerle daha hızlı çözümler bulmaya çalışıyorsun.
+[Speaker 2] [1463.30s - 1471.00s] Ve bu noktada da aslında yapay zeka bilgisi, daha spesifik olarak da NAP bilgisi çok önemli hale geliyor.
+[Speaker 2] [1471.30s - 1476.22s] Çünkü o noktada işte modelin yani data setlerini anlıyorsun.
+[Speaker 2] [1476.40s - 1478.24s] Ve bu model hangi data setiyle eğitilmiş?
+[Speaker 2] [1478.30s - 1480.06s] Hangisine nasıl performans vermiş?
+[Speaker 2] [1480.38s - 1485.36s] Ve buna göre acaba bu benim uygulamam için, şu anki taskim için mantıklı bir model mi?
+[Speaker 2] [1485.70s - 1489.28s] Ben bu modeli nasıl bir yerde host edeceğim?
+[Speaker 2] [1489.42s - 1490.38s] Gibi sorular var.
+[Speaker 2] [1490.38s - 1494.68s] Ve bu soruların cevabını bulabilmek için bence biraz NAP bilgisi şart.
+[Speaker 2] [1494.88s - 1497.70s] Kimseye demiyorum ki tabii ki gidin yüksek lisanslarının yapını bunun.
+[Speaker 2] [1498.08s - 1501.28s] Bence o kadar o seviyede değil.
+[Speaker 2] [1501.44s - 1504.38s] Ama bence temelde bir NAP bilgisi gerekiyor.
+[Speaker 2] [1505.02s - 1507.24s] Bu modeller arkada nasıl çalışıyorlar?
+[Speaker 2] [1507.66s - 1511.88s] Neden işte bu model şu task için iyi ama bu task için iyi değil gibi.
+[Speaker 1] [1513.52s - 1516.36s] Kesinlikle yani bence çok güzel bir açıklamaydı.
+[Speaker 1] [1517.04s - 1518.84s] NAP'yi savunuyoruz.
+[Speaker 2] [1518.84s - 1519.52s] Savunacağız.
+[Speaker 1] [1519.72s - 1521.28s] CNA'ya başlasanız arkadaşlar.
+[Speaker 1] [1521.72s - 1522.88s] Bir NAP tarafı önemli.
+[Speaker 2] [1524.36s - 1525.24s] Ya tabii ki.
+[Speaker 2] [1525.46s - 1530.56s] Her şekilde yani fazla bilgi, bilgi güçtür ne diyeyim.
+[Speaker 1] [1531.76s - 1532.84s] Zararı olmaz.
+[Speaker 2] [1533.80s - 1536.56s] O şey kafa karışıklığı çok oluyor orada ya.
+[Speaker 1] [1536.78s - 1542.40s] Yani işte NAP deyince böyle hard matematiksel şeyler çıkıyor bir anda ekrana.
+[Speaker 1] [1542.40s - 1546.32s] İşte o dedim mesela TF-IDF dedin ama aslında o matematik yani.
+[Speaker 2] [1546.50s - 1549.04s] Ama CNA'ya deyince matematik bir şey yok yani.
+[Speaker 1] [1549.22s - 1552.36s] E-PIA'ya soru gönderiyorsun sana bir cevap geliyor.
+[Speaker 1] [1552.70s - 1555.44s] Az da bu kadar basit bir şey yapmak için.
+[Speaker 1] [1555.52s - 1558.90s] Gerçi orada da işler çok dediğin gibi kanbaşıklaşılabiliyor.
+[Speaker 2] [1559.82s - 1560.66s] Evet.
+[Speaker 1] [1560.74s - 1561.92s] Şimdi o yerde kaldık.
+[Speaker 1] [1562.10s - 1565.38s] Senin teskin vardı işte yaptığın stajda.
+[Speaker 1] [1567.64s - 1571.12s] Bu teski yaptın sonra tezinden bahsediyordun.
+[Speaker 1] [1571.26s - 1572.08s] Yüksek lisans tezinden.
+[Speaker 2] [1572.08s - 1582.06s] Yani aslında tez yani yüksek lisans tezimde bu tamamen biraz önce anlattığım süreci raporladığım bir şeydi.
+[Speaker 2] [1582.24s - 1584.34s] Yani işte tez değil de bir staj raporuydu.
+[Speaker 2] [1584.64s - 1590.08s] İşte ben bu staj raporunda neler yani bu stajda neler yaptım, neleri denedim, nasıl sonuçlar aldım,
+[Speaker 2] [1591.98s - 1601.92s] işte bunu nasıl train ettim, ne kadar datayla train ettim, bunun da nasıl sonuçlar aldım, örnekler paylaşılması vesaire gibi şeylerdi yani.
+[Speaker 2] [1602.66s - 1609.10s] Vallahi şu anda da bunu yani tezimde staj raporu olduğundan dolayı ve bir şirketle yazdığımdan dolayı bunu yayınlamadım tabii.
+[Speaker 2] [1609.36s - 1612.02s] Ama açıp bakmam lazım acaba başka neler ekledim buraya.
+[Speaker 2] [1612.22s - 1614.50s] Uzunca zaman oldu, iki sene geçti üzerinden.
+[Speaker 1] [1615.92s - 1618.84s] Muhtemelen hani sen de açıp baksan şaşırırsın.
+[Speaker 1] [1619.02s - 1624.84s] Ya dersin biz o zamanlar ne kadar hard işler yapmışız, nerelere girmişiz falan diyebilirsin muhtemelen.
+[Speaker 2] [1625.98s - 1629.02s] Evet, kesinlikle bu arada derim diye düşünüyorum.
+[Speaker 1] [1630.36s - 1634.98s] Bu senin şeydeki, lisanstaki tezindi, classification tarafı.
+[Speaker 2] [1635.80s - 1637.50s] Bu yüksek lisanstaki tezindi.
+[Speaker 1] [1637.52s - 1639.64s] Bu yüksek lisanstaki, tamamdır.
+[Speaker 1] [1639.94s - 1644.40s] Şu an o tezi de yaptın, ondan sonra artık deep set dönemi başlıyor senin için.
+[Speaker 2] [1644.40s - 1648.94s] Aynen öyle yani. Ondan sonra artık bir iş arayışındaydım.
+[Speaker 2] [1651.22s - 1654.36s] Tabii yani o zamanlar şeyi fark etmiştim mesela.
+[Speaker 2] [1655.10s - 1659.56s] Tezimde neural ağlar kullanmamıştım.
+[Speaker 2] [1659.76s - 1662.18s] Çok basit machine learning algoritmaları kullanmıştım.
+[Speaker 2] [1662.28s - 1663.38s] Çalışıyor muydu? Çalışıyordu.
+[Speaker 2] [1663.38s - 1669.76s] Ama bana şirketleri etkilemek anlamında tezimi çok efektif bir şekilde kullanamamıştım.
+[Speaker 2] [1670.08s - 1673.38s] Orada çünkü bir tecrübem olduğunu kanıtlayamıyordum şirketlere.
+[Speaker 2] [1674.36s - 1676.42s] Yani bir PyTorch kullanmamıştım mesela.
+[Speaker 2] [1677.64s - 1684.44s] Ve o yüzden de bu süreç, özellikle yeni de bu alanda mezun olmuşum.
+[Speaker 2] [1684.44s - 1688.96s] Yani NLP alanında, yapay zeka alanında bir tecrübesi olmayan bir insan için.
+[Speaker 2] [1689.16s - 1690.96s] Bu beni birazcık zorlamıştı açıkçası.
+[Speaker 2] [1692.32s - 1697.62s] Ama şu an mesela bilmiyorum artık iş ilanlarında ne kadar aranıyor PyTorch bilgisi.
+[Speaker 2] [1697.78s - 1702.28s] Veya biraz daha acaba modellerin temel bilgilerini bilmek.
+[Speaker 2] [1702.64s - 1708.16s] Ve daha önce modelleri kullanarak bir uygulama geliştirmek belki daha önemli hale gelmiş olabilir.
+[Speaker 2] [1708.80s - 1710.16s] Buna da bakmak lazım.
+[Speaker 2] [1710.46s - 1712.48s] Ve sonrasında işte evet iş arayışım oldu.
+[Speaker 2] [1713.34s - 1717.06s] Developer Advocate olarak, internal olarak Deepset'e girdim.
+[Speaker 2] [1717.28s - 1718.84s] Hala da şu an Deepset'teyim.
+[Speaker 2] [1718.96s - 1719.72s] İki sene geçti.
+[Speaker 1] [1722.00s - 1725.28s] Oradaki aslında en güzel noktalara geldik artık.
+[Speaker 1] [1725.50s - 1726.62s] Deepset nedir?
+[Speaker 1] [1727.24s - 1728.86s] Ve Heystack diye bir şey dönüyor.
+[Speaker 1] [1728.96s - 1729.18s] Tamam mı?
+[Speaker 1] [1729.18s - 1731.50s] Heystack ve Deepset arasındaki ilişki nedir?
+[Speaker 1] [1731.58s - 1733.02s] Bunlar çatı bir şeyler mi?
+[Speaker 1] [1733.26s - 1734.18s] Bunlar nasıl bir şey?
+[Speaker 1] [1734.44s - 1735.60s] Bize biraz bahsedebilir misin?
+[Speaker 2] [1736.88s - 1739.14s] Şimdi Deepset şirketin ismi.
+[Speaker 2] [1741.76s - 1746.62s] Heystack, Deepset'in sahip olduğu open source LLM framework'ü.
+[Speaker 2] [1746.74s - 1748.54s] Buna kütüphane demek de çok yanlış olmaz.
+[Speaker 2] [1748.80s - 1751.22s] Bir Python kütüphanesi günün sonunda.
+[Speaker 2] [1752.72s - 1762.28s] Aslında başlangıcı şirketin kurucuları, şu anki kurucuları o zamanlar şirketlere küçük küçük danışmanlıklar veriyorlar.
+[Speaker 2] [1762.62s - 1769.38s] Bu verdikleri danışmanlıklar sırasında da bazı modelleri fine tune ediyorlar kendi tasklarına göre.
+[Speaker 2] [1770.76s - 1780.42s] Ve fark ediyorlar ki modelleri fine tune etmek için çok fazla kütüphane, çok fazla script yok etrafta.
+[Speaker 2] [1780.50s - 1783.18s] Ve kendileri Heystack'i yazmaya başlıyorlar.
+[Speaker 2] [1783.42s - 1785.58s] Bunu işte open source olarak tutuyorlar.
+[Speaker 2] [1785.76s - 1789.38s] Ve kendilerinin aslında kendi işlerine yardımcı olması için başlayan bir proje.
+[Speaker 2] [1789.38s - 1794.24s] Sonrasında işte Heystack bir semantik search kütüphanesine evriliyor.
+[Speaker 2] [1794.46s - 1800.84s] Yani işte sizin question answering uygulamaları yapabileceğiniz, kendi o zamanlar emmending modelleri de var.
+[Speaker 2] [1801.06s - 1808.42s] Ama emmending modellerinin yanında keyword based retrieval yapabileceğiniz işte BM25, TFIDF gibi metotlar da var yine.
+[Speaker 2] [1808.42s - 1819.22s] Bu metotları kullanabileceğiniz, kendi datanız üzerinde extractive search yapabileceğiniz ya da document search yapabileceğiniz bir framework haline geliyor.
+[Speaker 2] [1819.42s - 1821.84s] Hala open source, hala Python ile yapılıyor.
+[Speaker 2] [1822.64s - 1827.64s] Ve bu şekilde şirket, yani Heystack ile beraber Deepset ile büyümeye başlıyor.
+[Speaker 2] [1828.08s - 1830.06s] Gerçekten bir şirket olarak kuruluyor.
+[Speaker 2] [1831.26s - 1834.68s] Şu an Heystack hala open source bir framework.
+[Speaker 2] [1834.68s - 1844.50s] Tabii ki generative AI ile birlikte biz geçen sene Heystack'in bu NLP ile ilerlemesini biraz daha hızlandırdık.
+[Speaker 2] [1844.68s - 1846.94s] Ve yeni bir versiyonunu yazdık.
+[Speaker 2] [1847.28s - 1848.14s] Heystack 2 diye.
+[Speaker 2] [1848.44s - 1856.74s] Heystack 2, Heystack 1'in böyle biraz daha, yani oradan öğrendiğimiz şeylerin generative AI ile geliştirilmiş hali.
+[Speaker 2] [1856.98s - 1861.78s] Çünkü eskiden sahip olduğumuz framework biraz daha search odaklıydı.
+[Speaker 2] [1861.78s - 1868.84s] Fakat generative AI girdiğimizde hayat, girince hayatımıza yaptığımız uygulamalar sadece search olmaktan çıktı.
+[Speaker 2] [1869.12s - 1873.12s] Çok daha büyük search uygulamaları olmaya başladı.
+[Speaker 2] [1873.30s - 1877.66s] Veya retrieval augmented generation dediğimiz uygulamalar dahil olmaya başladı.
+[Speaker 2] [1877.96s - 1882.26s] Hatta bir seviye daha ileriye alırsak bunu, agent kavramı girdi.
+[Speaker 2] [1882.26s - 1892.94s] Böyle olunca da biz Heystack'i bütün bu kavramları, bütün bu uygulamaların yapılmasını sağlayacak bir framework'e çevirdik.
+[Speaker 2] [1893.86s - 1900.68s] Hala dediğim gibi Heystack open source olarak Deepset'in, Deepset'teki bir takımın maintain ettiği bir proje.
+[Speaker 2] [1900.68s - 1909.96s] Tabii ki de eğer katkıda bulunmak isterseniz, GitHub'a gidip açık işe'lara bakıp katkıda bulunabilirsiniz.
+[Speaker 2] [1911.26s - 1916.36s] Böyle ben de Heystack için developer relations yapıyorum.
+[Speaker 2] [1916.74s - 1919.92s] Yani Heystack'in tutorial'larını hazırlıyorum.
+[Speaker 1] [1920.48s - 1921.76s] Cookbook'larını hazırlıyorum.
+[Speaker 2] [1921.84s - 1923.90s] Heystack'la alakalı artikallar yazıyorum.
+[Speaker 2] [1923.90s - 1927.86s] Gerekse işte konferanslarda sunumlar yapıyorum.
+[Speaker 2] [1928.28s - 1934.78s] Bunun gibi aslında Heystack'i insanlara tanıtmak ve Heystack'ta nasıl uygulamalar geliştirilebilecek,
+[Speaker 2] [1935.02s - 1938.40s] bunun örneklerini hazırlamak gibi görevlerim var.
+[Speaker 2] [1938.72s - 1941.46s] Tabii bunun dışında koda da çok yakın olarak çalışıyorum.
+[Speaker 2] [1943.56s - 1947.56s] Yeni bir feature gelecekse bu feature'ın ismi nasıl olsun?
+[Speaker 2] [1949.08s - 1952.76s] Nasıl işte bu komponentin parametreleri neler olsun?
+[Speaker 2] [1952.76s - 1955.80s] Bu parametrelerin isimleri neler olsun?
+[Speaker 2] [1956.26s - 1958.74s] Gibi bazı tartışmalar da dahilim.
+[Speaker 2] [1959.54s - 1961.22s] İmplementasyon detaylarına çok girmiyorum.
+[Speaker 2] [1961.34s - 1964.22s] Onun için ayrıca bir mühendislik takımımız var.
+[Speaker 2] [1964.74s - 1967.76s] Ama evet, DeepStack ve Heystack ilişkisi de bu şekilde.
+[Speaker 2] [1967.98s - 1969.78s] Yani Heystack, Heystack'in bir ürünü.
+[Speaker 1] [1970.84s - 1973.36s] Benim de GitHub'ta böyle gördüğüm kadarıyla,
+[Speaker 1] [1973.70s - 1976.32s] özellikle Türklerin açtığı işulara falan,
+[Speaker 1] [1976.54s - 1978.98s] hemen böyle direkt sizi orada görebiliyoruz.
+[Speaker 1] [1979.10s - 1981.40s] Cevap olarak ilgili yere yönlendiriyor.
+[Speaker 1] [1981.40s - 1983.34s] Aslında bunun cevabı şurada var diye falan.
+[Speaker 1] [1984.02s - 1987.06s] O taraftaki hakimiyeti böyle çok net hissedebiliyorum.
+[Speaker 1] [1987.24s - 1988.52s] O işlendeki cevaplardan,
+[Speaker 1] [1989.58s - 1990.94s] cookbook'taki dokümanlardan.
+[Speaker 1] [1991.90s - 1994.34s] Burada, şimdi aklıma şu takıldı.
+[Speaker 1] [1994.52s - 1995.46s] DeepStack'in çıkışında,
+[Speaker 1] [1995.64s - 1997.32s] bu Heystack framework'in çıkışında,
+[Speaker 1] [1997.48s - 2000.10s] aslında bir fine-tune kelimesi var.
+[Speaker 1] [2000.38s - 2001.14s] O dönemki,
+[Speaker 1] [2001.42s - 2003.84s] bunun kurucuları fine-tune etmek için
+[Speaker 1] [2003.84s - 2005.90s] bunu bir noktada ortaya çıkarmışlar.
+[Speaker 1] [2005.90s - 2008.14s] O zamanlar tabii hard-nlb dönemleri,
+[Speaker 1] [2008.32s - 2009.72s] tam ceneye yeni geliyor.
+[Speaker 2] [2010.74s - 2011.34s] Şimdi,
+[Speaker 2] [2011.58s - 2012.68s] şu an hala,
+[Speaker 2] [2013.34s - 2013.94s] Heystack,
+[Speaker 1] [2014.44s - 2016.46s] işte fine-tune tarafında kullanılabiliyor mu?
+[Speaker 1] [2016.84s - 2018.06s] Kullanılması efektif mi?
+[Speaker 1] [2018.54s - 2019.08s] Ve,
+[Speaker 2] [2019.24s - 2019.86s] şu,
+[Speaker 1] [2020.10s - 2021.46s] benim aklımı çok kurcalıyor.
+[Speaker 1] [2021.52s - 2021.74s] Mesela,
+[Speaker 1] [2021.86s - 2023.12s] senin de yaptığın yayınlardan,
+[Speaker 1] [2023.30s - 2024.06s] daha çok böyle,
+[Speaker 1] [2024.26s - 2025.20s] rock tarafını görüyorum.
+[Speaker 1] [2025.42s - 2026.00s] İşte bahsettin,
+[Speaker 1] [2026.18s - 2027.54s] retrieval augmented generation.
+[Speaker 1] [2028.04s - 2028.14s] Yani,
+[Speaker 1] [2028.22s - 2028.62s] genel olarak,
+[Speaker 1] [2028.70s - 2029.28s] rock üzerine,
+[Speaker 1] [2029.48s - 2029.92s] çok fazla,
+[Speaker 1] [2029.96s - 2031.08s] heystack'la alakalı,
+[Speaker 1] [2031.24s - 2032.36s] döküman görüyorum.
+[Speaker 1] [2032.50s - 2033.50s] Fine-tune'la alakalı,
+[Speaker 1] [2033.50s - 2035.58s] doğrusu hiç görmedim yani.
+[Speaker 1] [2035.90s - 2037.84s] Bu taraftaki durum nedir?
+[Speaker 2] [2039.32s - 2040.84s] Çok doğru bir tespit.
+[Speaker 2] [2041.18s - 2042.70s] Heystack'in birinci versiyonunda,
+[Speaker 2] [2042.94s - 2044.16s] fine-tune'u,
+[Speaker 2] [2044.28s - 2044.78s] yani işte,
+[Speaker 2] [2044.86s - 2046.70s] train etmeyi destekliyorduk.
+[Speaker 2] [2046.84s - 2048.54s] Embedding modellerini özellikle,
+[Speaker 2] [2048.82s - 2052.02s] çok fazla fine-tune eden insanlar vardı.
+[Speaker 2] [2052.12s - 2052.60s] Özellikle,
+[Speaker 2] [2052.76s - 2054.94s] domain spesifik olarak çalışıyorlarsa.
+[Speaker 2] [2055.50s - 2056.74s] Fakat artık,
+[Speaker 2] [2056.94s - 2060.00s] şu bulunduğumuz zamanda,
+[Speaker 2] [2060.68s - 2062.08s] şeyi gözlemledik.
+[Speaker 1] [2062.16s - 2062.32s] Yani,
+[Speaker 2] [2062.32s - 2063.26s] insanlar artık,
+[Speaker 1] [2064.02s - 2064.64s] modelleri,
+[Speaker 2] [2064.74s - 2065.88s] fine-tune etmiyorlar.
+[Speaker 2] [2067.00s - 2068.50s] Başka model kullanıyorlar.
+[Speaker 2] [2068.78s - 2070.84s] Daha fine-tune edilmiş halini kullanıyorlar.
+[Speaker 1] [2071.06s - 2071.26s] Veya,
+[Speaker 2] [2071.90s - 2073.20s] dışarıda fine-tune ediyorlar,
+[Speaker 2] [2073.22s - 2074.02s] başka bir şekilde.
+[Speaker 1] [2074.34s - 2074.74s] O yüzden,
+[Speaker 2] [2074.92s - 2076.50s] heystack'in ikinci versiyonu,
+[Speaker 2] [2076.88s - 2078.30s] bir model train etmeyi,
+[Speaker 2] [2079.38s - 2080.94s] veya fine-tune etmeyi,
+[Speaker 2] [2081.02s - 2081.64s] desteklemiyor.
+[Speaker 2] [2081.82s - 2082.46s] Şu noktada.
+[Speaker 2] [2083.64s - 2084.26s] Fakat,
+[Speaker 2] [2084.36s - 2084.86s] tabii ki de,
+[Speaker 1] [2085.24s - 2085.74s] her zaman,
+[Speaker 1] [2086.12s - 2087.94s] bir modeli fine-tune edip,
+[Speaker 1] [2088.06s - 2088.62s] sonrasında,
+[Speaker 1] [2088.76s - 2089.42s] tekrardan onu,
+[Speaker 2] [2089.46s - 2090.36s] heystack içerisinde,
+[Speaker 2] [2090.50s - 2091.26s] kullanmak mümkün.
+[Speaker 2] [2092.16s - 2092.98s] ama evet,
+[Speaker 2] [2093.10s - 2093.82s] tespitin doğru.
+[Speaker 1] [2094.00s - 2094.08s] Bu,
+[Speaker 2] [2094.18s - 2096.02s] birazcık bizim gözlemlediğimiz bir şeydi.
+[Speaker 1] [2096.46s - 2097.58s] Bunda çok ağırlık vermedik,
+[Speaker 2] [2097.58s - 2099.16s] o yüzden ikinci versiyonunu yaparken.
+[Speaker 1] [2099.32s - 2099.68s] Biraz daha,
+[Speaker 2] [2099.68s - 2100.90s] generatif AI tarafına,
+[Speaker 2] [2102.06s - 2103.06s] odaklanmak istedik.
+[Speaker 1] [2103.72s - 2104.72s] şimdi gene,
+[Speaker 1] [2104.72s - 2106.88s] çok can alıcı bir soru.
+[Speaker 1] [2107.58s - 2107.68s] Bu,
+[Speaker 1] [2107.94s - 2108.02s] yani,
+[Speaker 1] [2108.14s - 2109.86s] heystack'ten birini buldun mu,
+[Speaker 1] [2110.12s - 2110.28s] yani,
+[Speaker 1] [2110.38s - 2111.84s] bunu da insanın sorusu geliyor.
+[Speaker 1] [2112.50s - 2112.66s] Şimdi,
+[Speaker 2] [2114.48s - 2115.18s] heystack'in,
+[Speaker 1] [2115.48s - 2116.14s] direkt rakibi,
+[Speaker 1] [2116.32s - 2116.46s] hani,
+[Speaker 1] [2116.58s - 2117.90s] tırnak içerisinde rakibi,
+[Speaker 1] [2118.22s - 2118.70s] like-chain,
+[Speaker 1] [2118.90s - 2119.62s] diyebilir miyiz?
+[Speaker 1] [2120.26s - 2120.72s] Aslında,
+[Speaker 2] [2121.26s - 2123.18s] like-chain'in yaptığı işleri,
+[Speaker 1] [2123.34s - 2124.38s] heystack de yapıyor,
+[Speaker 1] [2124.56s - 2124.68s] veya,
+[Speaker 1] [2124.82s - 2126.00s] heystack'in yaptığı işleri,
+[Speaker 1] [2126.08s - 2127.04s] like-chain de yapıyor.
+[Speaker 1] [2127.04s - 2128.58s] ve TRD aslında,
+[Speaker 1] [2128.80s - 2130.10s] like-chain daha çok bilmiyor.
+[Speaker 2] [2130.66s - 2131.34s] Doğru.
+[Speaker 2] [2132.08s - 2132.76s] Sence,
+[Speaker 1] [2133.38s - 2133.46s] bir,
+[Speaker 1] [2133.66s - 2135.16s] heystack gözünden ve,
+[Speaker 1] [2135.32s - 2136.94s] open source'da bir developer gözünden,
+[Speaker 1] [2137.84s - 2138.52s] neden,
+[Speaker 1] [2138.76s - 2140.30s] heystack'i kullanmalıyım?
+[Speaker 2] [2140.96s - 2142.22s] Lank-chain'dense.
+[Speaker 2] [2144.02s - 2145.34s] Çok güzel bir soru.
+[Speaker 2] [2146.20s - 2146.88s] Şimdi,
+[Speaker 1] [2147.08s - 2147.94s] buna tabii ki de çok,
+[Speaker 2] [2148.92s - 2150.28s] tarafsız cevap vermem,
+[Speaker 1] [2150.38s - 2151.02s] pek mümkün değil.
+[Speaker 1] [2151.20s - 2152.16s] Ama yine de deneyeceğim.
+[Speaker 2] [2152.64s - 2153.96s] Çünkü ben büyük bir,
+[Speaker 2] [2154.08s - 2155.26s] heystack fanıyım.
+[Speaker 2] [2155.98s - 2157.00s] Heystack'i çok iyi,
+[Speaker 1] [2157.04s - 2157.50s] biliyorum.
+[Speaker 2] [2158.12s - 2159.56s] Lank-chain'in açıkçası,
+[Speaker 1] [2159.60s - 2160.52s] o kadar çok bilmiyorum.
+[Speaker 2] [2161.22s - 2162.60s] Ve bu noktada açıkçası,
+[Speaker 1] [2162.72s - 2163.30s] çok fazla da,
+[Speaker 1] [2163.60s - 2163.80s] yani,
+[Speaker 2] [2163.98s - 2165.28s] Lank-chain'i de öğrenip,
+[Speaker 1] [2165.38s - 2166.38s] çok fazla detayına da,
+[Speaker 1] [2166.46s - 2167.12s] girmek istemiyorum.
+[Speaker 1] [2167.26s - 2167.60s] Çünkü bu,
+[Speaker 1] [2168.34s - 2168.44s] yani,
+[Speaker 1] [2168.54s - 2169.76s] bizim üründeki alacağımız,
+[Speaker 1] [2169.92s - 2170.62s] kararları da,
+[Speaker 1] [2171.34s - 2172.10s] etkileyebilir diye.
+[Speaker 2] [2172.36s - 2173.02s] İki ürün de,
+[Speaker 2] [2173.08s - 2174.24s] open source günün sonunda.
+[Speaker 2] [2176.32s - 2176.80s] Şeyi,
+[Speaker 2] [2177.12s - 2177.46s] diyorum,
+[Speaker 2] [2177.68s - 2178.46s] ben öncelikle,
+[Speaker 2] [2179.26s - 2179.46s] bir,
+[Speaker 2] [2179.66s - 2180.28s] eğer,
+[Speaker 2] [2180.46s - 2181.76s] bir framework seçilecekse,
+[Speaker 2] [2182.26s - 2183.48s] şirketteki bir uygulama için,
+[Speaker 2] [2183.60s - 2184.70s] veya kendi kişisel,
+[Speaker 2] [2185.00s - 2185.56s] hobi içinde,
+[Speaker 2] [2186.94s - 2188.52s] nelere bakarız genelde.
+[Speaker 1] [2188.94s - 2189.02s] İşte,
+[Speaker 2] [2189.24s - 2190.68s] bir kitabına gireriz,
+[Speaker 2] [2190.82s - 2191.92s] ne kadar aktif,
+[Speaker 1] [2192.12s - 2192.26s] yani,
+[Speaker 2] [2192.28s - 2193.70s] disk aşınları ne kadar var,
+[Speaker 2] [2193.90s - 2195.40s] işular ne kadar sürede açılıyor,
+[Speaker 1] [2195.48s - 2195.96s] kapanıyor,
+[Speaker 2] [2196.42s - 2197.08s] acaba işte,
+[Speaker 2] [2197.22s - 2197.62s] işuları,
+[Speaker 2] [2197.88s - 2199.04s] yeni işular var mı,
+[Speaker 2] [2199.10s - 2199.60s] yoksa işte,
+[Speaker 2] [2200.24s - 2201.92s] üç ay önceki işular mı hala orada?
+[Speaker 2] [2203.04s - 2204.46s] Kaç tane starı var?
+[Speaker 2] [2205.42s - 2206.82s] Bunun gibi şeyler,
+[Speaker 2] [2206.92s - 2207.64s] ilk başta böyle,
+[Speaker 2] [2207.94s - 2209.40s] o proje anlamında,
+[Speaker 2] [2209.46s - 2209.86s] bize,
+[Speaker 2] [2210.88s - 2211.10s] çok,
+[Speaker 2] [2211.26s - 2212.84s] basit bilgiler verir.
+[Speaker 2] [2213.10s - 2213.68s] Sonrasında,
+[Speaker 2] [2213.86s - 2214.30s] belki biraz daha,
+[Speaker 2] [2214.36s - 2216.06s] bunun komünitesinin içerisine gireriz.
+[Speaker 2] [2216.20s - 2217.62s] Ne kadar aktif bir komünite?
+[Speaker 2] [2218.18s - 2218.82s] Yani,
+[Speaker 2] [2218.96s - 2220.20s] benim bir sorunum olsa,
+[Speaker 2] [2220.50s - 2222.38s] bana yardımcı olabilecek insanlar var mı?
+[Speaker 2] [2224.10s - 2226.24s] Buraya kadar cevap vermem gerekirse,
+[Speaker 2] [2227.50s - 2228.26s] Heystack'da,
+[Speaker 2] [2228.26s - 2229.16s] dediğim gibi yani,
+[Speaker 2] [2229.36s - 2230.84s] bu Heystack üzerine çalışan,
+[Speaker 2] [2230.92s - 2232.60s] bir mühendis takımı var.
+[Speaker 2] [2232.98s - 2233.96s] İçerinden biri de benim.
+[Speaker 2] [2235.72s - 2236.70s] Aktif olarak,
+[Speaker 2] [2237.04s - 2238.30s] sürekli işi çözüyoruz.
+[Speaker 2] [2238.40s - 2239.68s] Disk aşınlara cevap veriyoruz.
+[Speaker 2] [2240.50s - 2242.02s] Ben Discord'dayım.
+[Speaker 2] [2242.34s - 2243.54s] Discord'da cevap veriyorum,
+[Speaker 2] [2243.64s - 2244.66s] sorulan sorulara.
+[Speaker 2] [2245.94s - 2246.70s] Yani,
+[Speaker 2] [2247.02s - 2248.36s] olabildiğince insanları,
+[Speaker 2] [2248.84s - 2250.52s] Heystack anlamında,
+[Speaker 2] [2250.66s - 2251.88s] böyle bir kucaklamak,
+[Speaker 2] [2252.02s - 2252.76s] bir onlara işte,
+[Speaker 2] [2252.86s - 2255.12s] hoş geldiniz demeye çalışıyorum açıkçası,
+[Speaker 1] [2255.22s - 2256.16s] komünite anlamında.
+[Speaker 2] [2256.24s - 2257.50s] Bu birazcık daha,
+[Speaker 2] [2257.58s - 2257.90s] hani iki,
+[Speaker 2] [2258.08s - 2259.52s] bir projenin nasıl,
+[Speaker 2] [2259.88s - 2262.22s] ne kadar maintain edildiğinin,
+[Speaker 2] [2262.58s - 2262.92s] ne kadar,
+[Speaker 2] [2263.20s - 2265.08s] hani arkasında,
+[Speaker 2] [2265.46s - 2267.44s] bir ekip olduğunun göstergesi.
+[Speaker 2] [2267.60s - 2269.92s] Ama biraz da teknik tarafına girersek,
+[Speaker 2] [2270.40s - 2273.06s] bizim en çok karşılaştığımız şeylerden biri,
+[Speaker 2] [2273.34s - 2274.42s] dokümentasyon.
+[Speaker 2] [2276.02s - 2279.20s] Bu konuda gerçekten çok titiziz diyebilirim.
+[Speaker 2] [2280.36s - 2282.20s] Bizim kendi tarafımızda.
+[Speaker 2] [2282.60s - 2283.40s] Genelde,
+[Speaker 2] [2283.74s - 2285.54s] bize gelen geri bildirimler,
+[Speaker 2] [2286.02s - 2286.50s] işte,
+[Speaker 2] [2287.68s - 2289.26s] dokümentasyon çok kötüydü,
+[Speaker 2] [2289.42s - 2290.72s] hiçbir şey anlamıyordum,
+[Speaker 2] [2290.88s - 2292.64s] bir şey bulmakla çok zorlanıyordum.
+[Speaker 2] [2293.18s - 2293.90s] Şimdi işte,
+[Speaker 2] [2293.98s - 2295.06s] Heystack'ı kullanıyorum,
+[Speaker 2] [2295.30s - 2296.28s] çok teşekkürler,
+[Speaker 2] [2296.38s - 2297.64s] işte her şey çok daha net.
+[Speaker 2] [2297.94s - 2298.68s] Şu an neyin,
+[Speaker 1] [2298.72s - 2298.84s] neyin,
+[Speaker 1] [2298.84s - 2298.96s] neyin,
+[Speaker 1] [2299.12s - 2299.22s] neyin,
+[Speaker 2] [2299.22s - 2299.34s] neyin,
+[Speaker 1] [2299.44s - 2299.56s] neyin,
+[Speaker 2] [2300.20s - 2300.68s] neyin,
+[Speaker 1] [2303.84s - 2304.32s] neyin,
+[Speaker 2] [2304.32s - 2306.02s] gurur duyuyorum ekip arkadaşımla,
+[Speaker 2] [2306.16s - 2309.44s] özellikle dokümentasyonunu yazan ekip arkadaşımla.
+[Speaker 2] [2309.74s - 2311.58s] Gerçekten çok iyi bir iş çıkarıyor.
+[Speaker 2] [2313.00s - 2314.86s] Diğer bir alanı da şu,
+[Speaker 2] [2315.10s - 2317.62s] daha fazla teknik detayına girmek gerekirse,
+[Speaker 2] [2318.74s - 2320.30s] biz Heystack'ı bir,
+[Speaker 2] [2320.52s - 2321.50s] yani,
+[Speaker 2] [2321.62s - 2324.84s] komponentler ve pipeline'lar diye tasarladık.
+[Speaker 2] [2324.84s - 2326.40s] Yaptığınız şey şu aslında,
+[Speaker 2] [2326.62s - 2328.92s] bir tane işi olan bir komponent var,
+[Speaker 2] [2329.02s - 2332.46s] ve siz bu komponentleri bağlayarak birbirine bir pipeline,
+[Speaker 2] [2332.60s - 2334.30s] bir graf oluşturuyorsunuz aslında.
+[Speaker 2] [2334.68s - 2336.16s] Ve bu grafiniz sizin,
+[Speaker 2] [2337.94s - 2341.68s] directed graf ve içerisinde loop'lar olabilecek bir graf.
+[Speaker 2] [2341.86s - 2346.30s] İsterseniz işte dallara ayrılabilecek ve sonra o dalların birleşebileceği bir graf.
+[Speaker 2] [2346.40s - 2348.00s] Yani üniversite bilgilerini hatırlarsan,
+[Speaker 2] [2348.06s - 2350.34s] bildiğimiz işte edge'ler, node'larla bir graf.
+[Speaker 2] [2351.06s - 2357.58s] Ve bu bize Heystack'la beraber istediğimiz her uygulamayı yapabilme şansı veriyor.
+[Speaker 2] [2357.82s - 2361.38s] İstersek işte Heystack'in sahip olduğu komponentleri birleştirerek,
+[Speaker 2] [2361.58s - 2364.18s] veya kendimiz bir komponent yazarak,
+[Speaker 2] [2364.40s - 2365.76s] çok basit bir şekilde,
+[Speaker 2] [2366.16s - 2368.34s] istediğimiz uygulamaları geliştirebiliyoruz.
+[Speaker 2] [2368.52s - 2373.62s] Fakat link chain biraz daha chain diye geçtiğinden dolayı,
+[Speaker 2] [2373.62s - 2376.50s] sadece lineer şekilde ilerliyor içerisinde data.
+[Speaker 2] [2376.82s - 2377.84s] Bu da işte bazı,
+[Speaker 2] [2378.46s - 2383.16s] yani uygulamaları biraz daha flexible şekilde yazmak istediğimde,
+[Speaker 2] [2383.34s - 2384.18s] belki biraz daha,
+[Speaker 2] [2384.36s - 2385.78s] hani her şeyle çok güzel ama,
+[Speaker 2] [2385.90s - 2388.84s] keşke şurada şöyle değil de böyle yapsa dediğimde,
+[Speaker 2] [2389.72s - 2393.42s] link chain'in de çok fazla tıkanıklık yaşıyor insanlar.
+[Speaker 2] [2393.42s - 2395.26s] Burayla alakalı,
+[Speaker 1] [2395.44s - 2396.60s] mesela dedin ya,
+[Speaker 1] [2397.06s - 2398.92s] edge'ler, node'lar işte bir graf yapısı var.
+[Speaker 1] [2399.24s - 2402.80s] Bunun galiba link chain'in karşılığı direkt link graf olabilir.
+[Speaker 1] [2403.58s - 2404.04s] Aynen.
+[Speaker 2] [2404.56s - 2405.44s] Ve o tarafta,
+[Speaker 1] [2406.02s - 2407.36s] çok sözünü durdurum, pardon.
+[Speaker 2] [2408.22s - 2409.04s] Yani şunu söyleyeceğim,
+[Speaker 1] [2409.22s - 2411.72s] o tarafta link graf ile alakalı kullananlardan,
+[Speaker 1] [2411.88s - 2413.80s] genelde böyle iş uzadığı vakit,
+[Speaker 1] [2414.00s - 2414.88s] olayın çok karmaşıklaştığı,
+[Speaker 1] [2415.06s - 2418.38s] ve takip etmenin çok zorlandığına dair,
+[Speaker 1] [2418.40s - 2419.64s] yeni bildirimler almıştım.
+[Speaker 1] [2420.16s - 2420.24s] Bu,
+[Speaker 2] [2420.46s - 2421.66s] heystack'da nasıl çözülüyor?
+[Speaker 2] [2422.72s - 2423.30s] Evet,
+[Speaker 1] [2423.38s - 2424.04s] bu da çok güzel.
+[Speaker 2] [2425.30s - 2426.10s] Heystack'ta,
+[Speaker 2] [2426.40s - 2428.42s] bunun çözmenin farklı yöntemleri var.
+[Speaker 2] [2429.84s - 2430.20s] Bir,
+[Speaker 2] [2430.98s - 2431.96s] yapabileceğiniz şey,
+[Speaker 2] [2432.86s - 2434.76s] bir component serisini,
+[Speaker 2] [2434.94s - 2437.08s] ya da pipeline'in bir tarafını alıp,
+[Speaker 2] [2437.34s - 2439.74s] büyük bir component haline getirip,
+[Speaker 2] [2439.74s - 2441.12s] ve onu işte,
+[Speaker 2] [2441.14s - 2441.88s] mesela bu sizin,
+[Speaker 2] [2442.90s - 2444.36s] bir rag yapan,
+[Speaker 2] [2445.28s - 2446.34s] komponentleriniz olabilir.
+[Speaker 1] [2446.58s - 2447.04s] Ve bunu,
+[Speaker 2] [2447.26s - 2448.74s] yine bir komponent ile,
+[Speaker 2] [2448.94s - 2450.34s] enkapsül ettiğiniz zaman,
+[Speaker 1] [2451.16s - 2453.02s] bu pipeline'i biraz daha,
+[Speaker 2] [2454.04s - 2455.14s] basitleştirmiş olursunuz.
+[Speaker 2] [2455.46s - 2456.70s] Ama bunun dışında,
+[Speaker 2] [2457.06s - 2457.62s] açıkçası,
+[Speaker 2] [2458.30s - 2458.84s] çok yani,
+[Speaker 2] [2459.10s - 2460.40s] bir yerden alıp,
+[Speaker 2] [2460.44s - 2461.76s] bir yerden vermek gerekiyor.
+[Speaker 1] [2461.92s - 2462.24s] Ben,
+[Speaker 2] [2462.58s - 2463.88s] bir abstraction yazabilirim,
+[Speaker 2] [2463.96s - 2464.40s] ve bir şey,
+[Speaker 2] [2464.60s - 2465.40s] assume adarak,
+[Speaker 2] [2465.60s - 2468.24s] size daha basit bir komponent verebilirim.
+[Speaker 2] [2468.30s - 2469.72s] Daha basit bir abstraction verebilirim,
+[Speaker 2] [2469.74s - 2471.24s] ama günün sonunda,
+[Speaker 2] [2471.48s - 2474.58s] bir şeyi çok custom hale getirmek istiyorsak da,
+[Speaker 2] [2475.90s - 2476.94s] birazcık uzuyor.
+[Speaker 1] [2477.16s - 2477.26s] Evet.
+[Speaker 1] [2477.68s - 2478.04s] Yani bu,
+[Speaker 2] [2478.26s - 2479.60s] bizimle karşılaştığımız bir problem,
+[Speaker 2] [2479.78s - 2480.98s] ve bunun en basit çözümü,
+[Speaker 2] [2481.76s - 2482.94s] daha büyük,
+[Speaker 1] [2483.72s - 2484.66s] komponent olarak,
+[Speaker 2] [2484.94s - 2485.68s] enkapsül etmek.
+[Speaker 1] [2487.24s - 2488.32s] Bununla alakalı,
+[Speaker 1] [2488.60s - 2488.90s] aslında,
+[Speaker 1] [2488.98s - 2490.06s] dokumentasyona da bakacağım,
+[Speaker 1] [2490.14s - 2490.74s] bu yayından sonra.
+[Speaker 1] [2490.92s - 2491.04s] Cidden,
+[Speaker 1] [2491.16s - 2491.96s] yani merak ettim,
+[Speaker 1] [2492.04s - 2492.84s] Heystack tarafını.
+[Speaker 1] [2493.10s - 2493.92s] Rock ile alakalı,
+[Speaker 1] [2493.94s - 2495.12s] o kadar çok yayın var ki,
+[Speaker 1] [2495.18s - 2495.86s] Heystack'te.
+[Speaker 1] [2497.22s - 2497.78s] Şeyi,
+[Speaker 2] [2497.84s - 2498.94s] sormak istiyor insan,
+[Speaker 1] [2499.10s - 2499.50s] iste iste,
+[Speaker 1] [2499.50s - 2500.30s] ben şu an,
+[Speaker 1] [2500.48s - 2501.30s] rock yapmaya kalksam,
+[Speaker 1] [2502.04s - 2502.66s] işte bunu,
+[Speaker 2] [2502.86s - 2504.74s] en kolay ve basit şekilde,
+[Speaker 1] [2505.08s - 2505.90s] yapmanın yolu,
+[Speaker 1] [2506.00s - 2507.40s] Heystack'ten mi geçiyor şu anda?
+[Speaker 2] [2509.90s - 2510.50s] Yani,
+[Speaker 2] [2510.64s - 2511.00s] Heystack,
+[Speaker 2] [2511.12s - 2511.90s] çok basit bir,
+[Speaker 1] [2512.54s - 2513.14s] yolu.
+[Speaker 1] [2513.62s - 2513.86s] Çünkü,
+[Speaker 2] [2514.38s - 2515.84s] bir tane tutorialımız var,
+[Speaker 2] [2515.94s - 2516.46s] ilk tutorial,
+[Speaker 2] [2516.76s - 2516.88s] mesela,
+[Speaker 1] [2517.24s - 2517.48s] girip,
+[Speaker 1] [2517.58s - 2517.78s] oradaki,
+[Speaker 1] [2518.14s - 2519.20s] kodu kopyaladığında,
+[Speaker 2] [2519.28s - 2520.36s] rock pipeline'ın hazır.
+[Speaker 2] [2520.76s - 2521.12s] Zaten,
+[Speaker 2] [2521.18s - 2521.78s] rag'i yapmak,
+[Speaker 2] [2521.86s - 2522.62s] çok kolay.
+[Speaker 2] [2522.62s - 2523.50s] bir de,
+[Speaker 2] [2523.66s - 2524.66s] duyduğumuz şöyle bir şey var.
+[Speaker 2] [2526.02s - 2526.46s] Heystack,
+[Speaker 2] [2526.68s - 2526.82s] çek,
+[Speaker 2] [2527.22s - 2527.56s] konuşmayı,
+[Speaker 2] [2527.86s - 2528.50s] heystack'i,
+[Speaker 2] [2529.54s - 2530.34s] anladıktan sonra,
+[Speaker 2] [2530.62s - 2531.60s] nasıl çalıştığını,
+[Speaker 2] [2533.38s - 2534.26s] uygulamalar geliştirmek,
+[Speaker 1] [2534.40s - 2534.74s] çok kolay.
+[Speaker 1] [2534.92s - 2535.08s] Çünkü,
+[Speaker 2] [2535.46s - 2537.62s] bir rag pipeline'ını düşündüğümüzde,
+[Speaker 2] [2537.70s - 2539.34s] bir rag sistemini düşündüğümüzde,
+[Speaker 2] [2539.42s - 2539.66s] ya da,
+[Speaker 2] [2539.72s - 2541.26s] yapmamız gereken şey nedir?
+[Speaker 2] [2541.64s - 2541.82s] İşte,
+[Speaker 2] [2541.84s - 2542.92s] bir tane promptum var,
+[Speaker 1] [2543.02s - 2543.92s] ben bu promptuma,
+[Speaker 2] [2544.76s - 2546.14s] alakalı dokümanları koyacağım.
+[Speaker 2] [2546.14s - 2547.06s] sonra,
+[Speaker 1] [2547.22s - 2547.44s] bir de,
+[Speaker 2] [2547.60s - 2547.84s] işte,
+[Speaker 1] [2547.94s - 2548.28s] kullanı,
+[Speaker 1] [2548.30s - 2548.44s] yani,
+[Speaker 2] [2548.56s - 2549.68s] sorumu koyacağım ve,
+[Speaker 2] [2549.68s - 2550.24s] diyeceğim ki,
+[Speaker 1] [2550.66s - 2551.86s] bu dokümanlara bakarak,
+[Speaker 2] [2551.90s - 2553.16s] bu soruya cevap ver.
+[Speaker 2] [2553.56s - 2553.94s] Aslında,
+[Speaker 1] [2553.98s - 2554.42s] temelde,
+[Speaker 2] [2554.64s - 2556.02s] rag ile yapmaya çalıştığım şey bu.
+[Speaker 2] [2556.56s - 2556.72s] Ve,
+[Speaker 2] [2556.84s - 2557.40s] heystack'te,
+[Speaker 2] [2557.50s - 2559.72s] benim bir embedder komponentim var,
+[Speaker 2] [2560.62s - 2561.60s] verdiğim query'nin,
+[Speaker 2] [2561.74s - 2562.84s] embedding'ini yaratır.
+[Speaker 2] [2563.02s - 2565.00s] Bir retriever komponentim var,
+[Speaker 2] [2565.48s - 2566.72s] o embedding'i alır,
+[Speaker 2] [2566.90s - 2568.56s] alakalı data'yı çeker.
+[Speaker 2] [2569.20s - 2570.76s] Bir prompt builder'ım var,
+[Speaker 1] [2570.96s - 2571.42s] bu,
+[Speaker 2] [2571.62s - 2572.58s] hem kullanıcının,
+[Speaker 2] [2573.36s - 2573.90s] sorusunu,
+[Speaker 1] [2574.02s - 2574.98s] hem de alakalı,
+[Speaker 2] [2574.98s - 2576.12s] konteksi alır,
+[Speaker 2] [2576.36s - 2577.46s] promptumu oluşturur.
+[Speaker 2] [2577.56s - 2578.86s] Öde generator'ım var,
+[Speaker 1] [2579.42s - 2579.66s] o da,
+[Speaker 2] [2579.66s - 2581.36s] eleleme bağlanır ve,
+[Speaker 2] [2581.36s - 2582.68s] cevabımı oluşturur.
+[Speaker 1] [2582.78s - 2583.00s] Yani,
+[Speaker 2] [2583.72s - 2584.28s] buradaki,
+[Speaker 1] [2584.48s - 2585.56s] bunların hepsi bir komponent,
+[Speaker 2] [2585.68s - 2587.32s] her biri farklı işlevi olan şeyler.
+[Speaker 2] [2587.50s - 2588.14s] Ve bunları işte,
+[Speaker 1] [2588.82s - 2588.98s] bir,
+[Speaker 2] [2589.42s - 2590.86s] puzzle parçası gibi,
+[Speaker 2] [2591.10s - 2591.82s] birleştirdiğimde,
+[Speaker 1] [2591.88s - 2592.86s] rag pipeline'ın oldu.
+[Speaker 1] [2593.14s - 2593.40s] Hani,
+[Speaker 2] [2593.70s - 2594.96s] istersen tabii bunu çıkar,
+[Speaker 2] [2595.06s - 2595.50s] ekle, çıkar,
+[Speaker 2] [2595.66s - 2596.40s] ekle yapabiliyorsun.
+[Speaker 2] [2596.52s - 2597.32s] O yüzden de ben,
+[Speaker 2] [2597.64s - 2598.24s] bence,
+[Speaker 2] [2598.34s - 2600.20s] heystack çok kolay bir yolu.
+[Speaker 1] [2601.40s - 2601.96s] Gerçekten,
+[Speaker 1] [2602.20s - 2603.32s] bu muazzammış.
+[Speaker 1] [2603.40s - 2603.52s] Yani,
+[Speaker 1] [2603.52s - 2604.12s] puzzle gibi,
+[Speaker 1] [2604.12s - 2605.32s] birbirine çıkarıp,
+[Speaker 1] [2605.32s - 2606.00s] ekleme olayı,
+[Speaker 1] [2606.20s - 2606.50s] bu,
+[Speaker 1] [2606.52s - 2607.64s] gerçekten baya,
+[Speaker 1] [2607.82s - 2608.66s] hoş bir detay.
+[Speaker 1] [2609.50s - 2609.64s] Ya,
+[Speaker 1] [2609.90s - 2610.60s] şeyi düşündürtü,
+[Speaker 1] [2610.64s - 2611.22s] tekrardan bana.
+[Speaker 2] [2611.40s - 2611.62s] Mesela,
+[Speaker 1] [2611.68s - 2612.72s] vector store tarafında,
+[Speaker 1] [2613.32s - 2613.84s] şu an,
+[Speaker 1] [2614.30s - 2614.98s] açık kaynak,
+[Speaker 1] [2615.12s - 2615.42s] veya işte,
+[Speaker 1] [2615.58s - 2616.06s] olmayan,
+[Speaker 1] [2616.32s - 2617.20s] tüm vector store'lara,
+[Speaker 1] [2617.30s - 2618.06s] destek veriliyor mu?
+[Speaker 1] [2618.60s - 2619.46s] O tarafta nasıl?
+[Speaker 2] [2620.16s - 2622.00s] Çok büyük bir liste var,
+[Speaker 1] [2623.50s - 2624.06s] desteklenenler,
+[Speaker 2] [2624.06s - 2624.98s] içerisinde.
+[Speaker 2] [2626.48s - 2627.04s] Yani,
+[Speaker 2] [2627.48s - 2628.28s] açık kaynak olarak,
+[Speaker 2] [2628.44s - 2629.14s] VVH var,
+[Speaker 1] [2629.28s - 2630.00s] quadrant var.
+[Speaker 1] [2630.22s - 2630.36s] Eğer,
+[Speaker 2] [2630.56s - 2630.98s] daha büyük,
+[Speaker 2] [2631.12s - 2631.60s] işte,
+[Speaker 2] [2631.60s - 2632.52s] şeyler istenirse,
+[Speaker 2] [2634.26s - 2635.26s] Elastic Search var,
+[Speaker 2] [2635.36s - 2636.20s] Open Search var,
+[Speaker 2] [2637.70s - 2637.74s] şu,
+[Speaker 2] [2637.88s - 2638.74s] PostgreSQL'in,
+[Speaker 1] [2638.88s - 2639.04s] mesela,
+[Speaker 2] [2639.20s - 2640.12s] PG Vector var.
+[Speaker 1] [2641.26s - 2641.54s] Bilmiyorum,
+[Speaker 2] [2641.62s - 2642.66s] liste baya uzun yani,
+[Speaker 2] [2642.84s - 2644.10s] bunlardan hangisi lazım size?
+[Speaker 2] [2644.68s - 2646.24s] Baya büyük bir desteğimiz var.
+[Speaker 2] [2646.24s - 2646.66s] ama,
+[Speaker 1] [2646.68s - 2646.94s] mesela,
+[Speaker 2] [2647.02s - 2648.92s] bir de benim sevdiğim şeylerden bir tanesi,
+[Speaker 2] [2649.28s - 2649.74s] şimdi,
+[Speaker 2] [2649.90s - 2652.00s] normalde bir demo yapacaksın diyelim ki,
+[Speaker 1] [2652.10s - 2652.20s] yani,
+[Speaker 2] [2652.26s - 2654.02s] bir vector store'un olması için,
+[Speaker 1] [2654.16s - 2654.24s] ya,
+[Speaker 2] [2654.30s - 2654.42s] işte,
+[Speaker 2] [2654.54s - 2656.54s] lokalinde bir doku limoncu çalıştıracaksın,
+[Speaker 2] [2657.08s - 2657.32s] ya,
+[Speaker 1] [2657.42s - 2657.92s] ya da bir,
+[Speaker 2] [2658.00s - 2658.22s] işte,
+[Speaker 2] [2658.58s - 2659.54s] instance'ın olacak,
+[Speaker 1] [2660.02s - 2660.50s] cloud'da,
+[Speaker 2] [2660.64s - 2661.96s] onun API key'ini alacaksın,
+[Speaker 2] [2662.14s - 2663.02s] bir sign up olacaksın,
+[Speaker 2] [2663.20s - 2663.72s] falan filan.
+[Speaker 2] [2664.46s - 2664.98s] Eğer bunların,
+[Speaker 2] [2665.04s - 2666.14s] hiçbirini yapmak istemiyorsan,
+[Speaker 2] [2666.30s - 2666.50s] biz,
+[Speaker 2] [2666.90s - 2669.02s] in memory document store diye bir şey,
+[Speaker 2] [2669.56s - 2670.80s] bir abstraction'ımız da var.
+[Speaker 2] [2671.04s - 2672.38s] Bu tamamen demo için,
+[Speaker 2] [2672.70s - 2673.86s] senin memorinde tutuyor,
+[Speaker 2] [2673.86s - 2674.44s] data'ını.
+[Speaker 2] [2674.90s - 2675.34s] Ama,
+[Speaker 2] [2675.94s - 2677.52s] küçücük hemen bir şey deneyeceksen,
+[Speaker 2] [2677.60s - 2678.08s] en azından,
+[Speaker 1] [2678.46s - 2679.24s] bunu kullanıp,
+[Speaker 2] [2679.34s - 2681.10s] bir rag yapabiliyorsun veya,
+[Speaker 1] [2681.60s - 2681.80s] hani,
+[Speaker 2] [2681.84s - 2682.72s] hani yapmak istiyorsan,
+[Speaker 2] [2682.76s - 2683.54s] onu yapabiliyorsun.
+[Speaker 1] [2683.72s - 2683.88s] Böyle,
+[Speaker 2] [2683.92s - 2685.72s] sonrasında da o component'ı,
+[Speaker 2] [2685.88s - 2686.30s] gidip,
+[Speaker 2] [2686.34s - 2686.74s] gerçekten,
+[Speaker 2] [2686.86s - 2686.98s] işte,
+[Speaker 2] [2687.04s - 2688.32s] VV8 document store'la,
+[Speaker 1] [2688.50s - 2688.62s] veya,
+[Speaker 2] [2688.76s - 2688.86s] işte,
+[Speaker 2] [2688.94s - 2689.70s] pinecon'la,
+[Speaker 2] [2690.50s - 2690.94s] değiştirdiğinde,
+[Speaker 2] [2690.98s - 2692.12s] hiç sorunsuz bir şekilde,
+[Speaker 2] [2692.52s - 2693.54s] pipeline'in çalışıyor,
+[Speaker 1] [2693.64s - 2693.84s] oluyor.
+[Speaker 2] [2694.88s - 2695.38s] Biz de o yüzden,
+[Speaker 2] [2695.52s - 2696.62s] hep tutorya'llarda falan,
+[Speaker 2] [2696.66s - 2697.84s] onu gösteriyoruz.
+[Speaker 2] [2698.22s - 2698.60s] Çünkü,
+[Speaker 1] [2698.66s - 2699.24s] çok kolay.
+[Speaker 1] [2700.04s - 2701.04s] Tüm en beddingi,
+[Speaker 1] [2701.20s - 2702.54s] aslında benim RAM'imde mi tutuyor,
+[Speaker 1] [2703.16s - 2703.60s] o an?
+[Speaker 2] [2704.54s - 2705.30s] tam olarak,
+[Speaker 1] [2705.44s - 2706.26s] o detayını bilmiyorum.
+[Speaker 1] [2707.08s - 2707.50s] O yüzden,
+[Speaker 1] [2707.76s - 2709.20s] çok tekneye girdim ben de.
+[Speaker 2] [2709.42s - 2710.86s] Çok production'da,
+[Speaker 1] [2712.08s - 2712.64s] önermiyoruz.
+[Speaker 1] [2712.90s - 2713.06s] Çünkü,
+[Speaker 1] [2713.20s - 2713.82s] birincisi,
+[Speaker 1] [2714.38s - 2714.46s] çok,
+[Speaker 2] [2714.86s - 2715.70s] efektif olarak,
+[Speaker 2] [2715.94s - 2716.44s] bir şekilde,
+[Speaker 1] [2717.06s - 2717.22s] yani,
+[Speaker 2] [2717.30s - 2719.06s] vektör storlarının sahip olduğu gibi,
+[Speaker 2] [2720.58s - 2721.70s] similarity score,
+[Speaker 2] [2722.08s - 2722.88s] bulayım da,
+[Speaker 1] [2723.86s - 2723.98s] yani,
+[Speaker 1] [2724.12s - 2724.20s] bu,
+[Speaker 2] [2724.88s - 2726.38s] semantik search algoritmalarını,
+[Speaker 2] [2726.40s - 2728.22s] implement eden bir document store değil.
+[Speaker 1] [2728.22s - 2728.28s] değil.
+[Speaker 1] [2729.44s - 2730.72s] O yüzden de böyle,
+[Speaker 1] [2730.98s - 2731.04s] işte,
+[Speaker 2] [2731.24s - 2732.88s] yüz tane dokümanım var,
+[Speaker 1] [2733.36s - 2733.56s] bunların,
+[Speaker 1] [2733.56s - 2734.26s] embeddingleri var,
+[Speaker 1] [2734.34s - 2734.52s] bunların,
+[Speaker 1] [2734.58s - 2735.48s] embeddingini koyayım,
+[Speaker 2] [2735.60s - 2736.72s] deneyeyim dediğinizde,
+[Speaker 2] [2736.86s - 2737.44s] mantıklı bir şey.
+[Speaker 2] [2737.62s - 2737.96s] Ama işte,
+[Speaker 2] [2738.62s - 2739.78s] on milyonsa,
+[Speaker 2] [2740.04s - 2740.68s] yok,
+[Speaker 1] [2740.84s - 2741.62s] o kadarını,
+[Speaker 1] [2742.74s - 2743.18s] kaldırmayacak.
+[Speaker 1] [2743.34s - 2743.74s] Belki de orada,
+[Speaker 1] [2743.82s - 2744.16s] hani,
+[Speaker 1] [2744.78s - 2745.94s] belli bir sınırı,
+[Speaker 1] [2745.94s - 2746.80s] falan varsa,
+[Speaker 1] [2747.22s - 2747.36s] o,
+[Speaker 1] [2747.44s - 2749.22s] oraya kadar ki olan kısmı alıyordu.
+[Speaker 1] [2749.34s - 2751.60s] Veya senin RAM'ine göre bir kısıt atabiliyorsan,
+[Speaker 1] [2751.86s - 2752.02s] hani,
+[Speaker 1] [2752.12s - 2752.42s] belki,
+[Speaker 1] [2753.00s - 2753.44s] bilmiyorum,
+[Speaker 1] [2753.80s - 2753.84s] ama,
+[Speaker 1] [2753.86s - 2754.60s] çok tahmin ediyorum.
+[Speaker 2] [2755.90s - 2756.78s] Büyük ihtimalle,
+[Speaker 1] [2756.90s - 2757.62s] RAM'ine göre,
+[Speaker 1] [2757.82s - 2758.02s] yani,
+[Speaker 2] [2758.12s - 2758.22s] işte,
+[Speaker 2] [2758.30s - 2759.06s] senin ne kadar,
+[Speaker 1] [2760.72s - 2761.16s] cihazında,
+[Speaker 2] [2761.34s - 2762.22s] RAM'in varsa,
+[Speaker 2] [2762.30s - 2763.64s] o kadar ekleyebiliyorsun,
+[Speaker 2] [2763.78s - 2764.06s] tabii ki.
+[Speaker 1] [2764.18s - 2764.32s] Yani,
+[Speaker 2] [2764.38s - 2764.92s] biz burada,
+[Speaker 2] [2765.20s - 2766.02s] şu kadar,
+[Speaker 2] [2766.40s - 2767.60s] 60 GB koyabilirsin,
+[Speaker 2] [2767.70s - 2768.74s] 4 GB koyabilirsin,
+[Speaker 2] [2768.86s - 2769.96s] gibi bir sınır koymuyoruz.
+[Speaker 2] [2769.96s - 2770.86s] Ama,
+[Speaker 2] [2770.86s - 2772.02s] bir noktada,
+[Speaker 2] [2772.14s - 2773.16s] memori hatası alınca da,
+[Speaker 2] [2773.22s - 2773.96s] anlıyorsun zaten,
+[Speaker 1] [2774.02s - 2774.92s] çok koymuşum diye.
+[Speaker 1] [2776.58s - 2777.12s] Aynen.
+[Speaker 1] [2777.68s - 2778.18s] Burada,
+[Speaker 1] [2778.44s - 2779.14s] hashtag tarafını,
+[Speaker 1] [2779.20s - 2780.40s] ben biraz daha deşebilirim,
+[Speaker 1] [2780.60s - 2780.76s] ama,
+[Speaker 1] [2781.34s - 2782.52s] chat'teki sorulara da,
+[Speaker 1] [2782.56s - 2782.70s] şöyle,
+[Speaker 1] [2782.80s - 2783.54s] çok hızlıca bir,
+[Speaker 1] [2784.50s - 2785.22s] tekrardan ben,
+[Speaker 1] [2785.44s - 2787.10s] hashtag'i döndürebilirim olayı.
+[Speaker 1] [2787.52s - 2787.78s] Burada,
+[Speaker 1] [2788.04s - 2789.36s] Göker Güner'in bir sorusu var,
+[Speaker 1] [2789.42s - 2790.10s] Göker abinin.
+[Speaker 1] [2790.66s - 2791.62s] 4-5 gün önce,
+[Speaker 1] [2791.72s - 2792.84s] çağı yakalamak önemliydi.
+[Speaker 2] [2793.06s - 2793.58s] Şimdi,
+[Speaker 1] [2793.60s - 2794.46s] hızla gelişiyor,
+[Speaker 1] [2794.68s - 2795.58s] her şey ve yakalamak,
+[Speaker 1] [2795.62s - 2796.30s] imkansız gibi.
+[Speaker 1] [2796.72s - 2797.10s] Artık,
+[Speaker 1] [2797.20s - 2798.10s] çağı yakalamak yerine,
+[Speaker 1] [2798.26s - 2799.26s] fundamental bilgisi,
+[Speaker 1] [2799.40s - 2799.94s] daha önemli değil.
+[Speaker 1] [2799.96s - 2800.58s] diyebilir miyiz,
+[Speaker 1] [2801.00s - 2802.10s] günceli adapte olmak için?
+[Speaker 2] [2803.50s - 2804.06s] Bence,
+[Speaker 1] [2804.30s - 2804.88s] hani,
+[Speaker 1] [2805.06s - 2805.86s] bu temel bilgi,
+[Speaker 1] [2806.08s - 2807.40s] biraz önce de konuştuk zaten,
+[Speaker 1] [2807.50s - 2807.56s] hani,
+[Speaker 2] [2807.64s - 2808.76s] NLP bilgisi gerekiyor ama,
+[Speaker 2] [2808.84s - 2809.88s] bence her şekilde önemli.
+[Speaker 2] [2811.84s - 2812.40s] Ve,
+[Speaker 2] [2812.52s - 2814.00s] günceli adapte olmak,
+[Speaker 1] [2814.26s - 2814.80s] bence bunun,
+[Speaker 2] [2815.28s - 2815.50s] artık,
+[Speaker 2] [2816.06s - 2817.26s] tek bir tanımı yok.
+[Speaker 1] [2817.54s - 2817.74s] Yani,
+[Speaker 1] [2818.28s - 2818.72s] bundan,
+[Speaker 2] [2818.94s - 2819.02s] işte,
+[Speaker 2] [2819.10s - 2819.72s] iki sene önce,
+[Speaker 2] [2820.58s - 2821.14s] Transformers,
+[Speaker 2] [2821.86s - 2822.98s] mimarisini biliyorsan,
+[Speaker 2] [2823.20s - 2824.68s] günceli adapteydin,
+[Speaker 1] [2824.80s - 2825.70s] günceli hakimdin.
+[Speaker 1] [2825.70s - 2826.04s] ama,
+[Speaker 1] [2826.34s - 2826.58s] şu an,
+[Speaker 1] [2827.82s - 2828.44s] günceli,
+[Speaker 1] [2828.66s - 2828.70s] ne?
+[Speaker 1] [2828.90s - 2829.02s] Yani,
+[Speaker 1] [2829.38s - 2830.26s] çok fazla alana,
+[Speaker 2] [2830.40s - 2832.28s] çok fazla birden araştırma yapılıyor.
+[Speaker 2] [2832.46s - 2833.56s] Çok geniş şeyler çıkıyor.
+[Speaker 1] [2833.88s - 2834.02s] Yani,
+[Speaker 2] [2834.10s - 2834.64s] hangisi,
+[Speaker 2] [2835.06s - 2835.76s] en iyisi,
+[Speaker 2] [2837.02s - 2837.64s] en,
+[Speaker 2] [2838.30s - 2838.50s] işte,
+[Speaker 2] [2838.60s - 2839.14s] ilerisine,
+[Speaker 1] [2839.32s - 2840.42s] ileriye gidebilecek,
+[Speaker 2] [2840.58s - 2841.38s] yöntem,
+[Speaker 2] [2841.50s - 2842.08s] bilmiyoruz.
+[Speaker 2] [2843.28s - 2844.36s] O yüzden de,
+[Speaker 2] [2844.40s - 2846.32s] biraz ikisi de diyebilirim ya,
+[Speaker 2] [2846.42s - 2847.94s] ben biraz da ikisini de diyorum burada.
+[Speaker 1] [2848.02s - 2848.12s] Yani,
+[Speaker 2] [2848.20s - 2849.12s] temel bilgi gerekli,
+[Speaker 2] [2849.30s - 2849.84s] ama,
+[Speaker 2] [2850.12s - 2851.46s] günceli adapte olmak için de,
+[Speaker 2] [2851.62s - 2852.38s] biraz seçerek,
+[Speaker 2] [2852.64s - 2853.44s] doğru insanlardan,
+[Speaker 2] [2853.56s - 2854.52s] doğru kaynaklardan,
+[Speaker 2] [2855.00s - 2855.40s] belki,
+[Speaker 2] [2856.50s - 2857.36s] bilgileri hala,
+[Speaker 2] [2857.52s - 2858.60s] öğrenmek gerekiyor.
+[Speaker 1] [2858.76s - 2859.44s] Hala onların,
+[Speaker 2] [2859.66s - 2860.66s] ne iş yaptığını,
+[Speaker 2] [2860.76s - 2861.94s] takip etmek gerekiyor yani.
+[Speaker 1] [2863.56s - 2864.04s] Kesinlikle.
+[Speaker 1] [2864.40s - 2864.48s] Yani,
+[Speaker 1] [2864.58s - 2865.78s] şu an günceli yakalamak da,
+[Speaker 1] [2866.18s - 2866.44s] aslında,
+[Speaker 1] [2866.54s - 2867.28s] bir o kadar da zor.
+[Speaker 1] [2867.74s - 2867.82s] Ve,
+[Speaker 1] [2868.02s - 2869.26s] sadece yakalamaya çalışsan,
+[Speaker 1] [2869.40s - 2869.80s] herhalde,
+[Speaker 1] [2869.96s - 2871.14s] bütün gün yakalamaya çalışırsın,
+[Speaker 1] [2871.18s - 2871.84s] gibi bir durum var.
+[Speaker 1] [2872.40s - 2872.96s] yakalayamazsın da,
+[Speaker 1] [2873.16s - 2873.48s] kaçıyor.
+[Speaker 2] [2874.24s - 2875.54s] Aynen öyle bu arada.
+[Speaker 1] [2875.76s - 2875.82s] Yani,
+[Speaker 1] [2876.28s - 2877.58s] bunun bir sonu yok.
+[Speaker 1] [2877.76s - 2877.88s] Yani,
+[Speaker 1] [2877.94s - 2878.62s] imkanı yok.
+[Speaker 1] [2880.78s - 2881.60s] Hatta bir de,
+[Speaker 1] [2882.30s - 2882.78s] şey,
+[Speaker 1] [2882.96s - 2883.38s] durumu var.
+[Speaker 1] [2883.56s - 2883.62s] Yani,
+[Speaker 1] [2883.72s - 2883.98s] olayı,
+[Speaker 1] [2884.14s - 2885.92s] üç boyutlu görme durumu var aslında.
+[Speaker 1] [2886.24s - 2886.38s] Sen,
+[Speaker 1] [2886.54s - 2887.24s] bundan önceki,
+[Speaker 1] [2887.52s - 2889.36s] o hard NLP dediğimiz kısımda,
+[Speaker 1] [2889.52s - 2890.30s] oraya bilirsen,
+[Speaker 1] [2890.56s - 2891.30s] daha da,
+[Speaker 1] [2892.04s - 2892.52s] projenle,
+[Speaker 1] [2892.64s - 2893.12s] daha verimli,
+[Speaker 1] [2893.46s - 2893.84s] daha böyle,
+[Speaker 1] [2894.60s - 2895.52s] ne denir ona,
+[Speaker 1] [2896.86s - 2897.82s] kapsamlı düşünebiliyorsun.
+[Speaker 1] [2897.92s - 2898.00s] Hani,
+[Speaker 1] [2898.04s - 2899.04s] sen de bahsetmiştin ya,
+[Speaker 1] [2899.40s - 2900.28s] o iş büyüdüğü zaman,
+[Speaker 1] [2900.34s - 2901.42s] aslında o NLP tokenlar,
+[Speaker 2] [2901.42s - 2901.58s] işte,
+[Speaker 1] [2901.72s - 2902.04s] bilmek,
+[Speaker 1] [2902.20s - 2903.40s] aslında olayı,
+[Speaker 1] [2903.72s - 2904.72s] çözdüren kısım oluyor.
+[Speaker 1] [2905.26s - 2905.40s] Ya,
+[Speaker 1] [2905.46s - 2905.68s] aslında,
+[Speaker 1] [2905.86s - 2906.78s] hep kıymetli ya.
+[Speaker 1] [2907.50s - 2907.74s] Önce,
+[Speaker 1] [2907.74s - 2908.36s] öncesi.
+[Speaker 2] [2909.14s - 2910.50s] bu temel bilgiler,
+[Speaker 1] [2911.50s - 2911.60s] yani,
+[Speaker 1] [2911.64s - 2912.70s] kodlama yaptığımızda da,
+[Speaker 1] [2912.82s - 2913.00s] mesela,
+[Speaker 1] [2913.34s - 2914.00s] her zaman çok,
+[Speaker 2] [2915.04s - 2917.78s] iyi bir matematik bilgisine sahip olmak gerekmiyor,
+[Speaker 2] [2918.68s - 2920.04s] kodlama yapabilmek için.
+[Speaker 2] [2920.20s - 2920.96s] Ama sonrasında,
+[Speaker 2] [2921.08s - 2922.04s] önünde bir iş geliyor,
+[Speaker 2] [2922.36s - 2922.88s] ve sen,
+[Speaker 2] [2923.14s - 2924.84s] matematik bilgisine sahip olduğun için,
+[Speaker 2] [2925.10s - 2927.00s] o işi çok kolaylıkla çözebiliyorsun.
+[Speaker 1] [2927.62s - 2927.76s] Hani,
+[Speaker 2] [2928.14s - 2930.10s] çok küçük anlarda belki,
+[Speaker 2] [2930.20s - 2931.76s] önüne çıkıyor bu temel bilgiler.
+[Speaker 2] [2931.94s - 2932.40s] Ama,
+[Speaker 2] [2932.62s - 2933.78s] o noktada da,
+[Speaker 2] [2934.00s - 2935.72s] işini gerçekten çok kolaylaştırıyor.
+[Speaker 1] [2935.72s - 2936.48s] Yine aslında,
+[Speaker 2] [2936.66s - 2937.92s] temel NLP bilgisi de,
+[Speaker 2] [2938.04s - 2938.24s] bence,
+[Speaker 2] [2939.02s - 2940.44s] bu şekilde diyebiliriz.
+[Speaker 1] [2942.18s - 2942.74s] Kesinlikle.
+[Speaker 1] [2942.90s - 2943.72s] Bir sonraki soruda,
+[Speaker 1] [2944.92s - 2946.34s] Hayati Can Aydın'ın bir sorusu var,
+[Speaker 1] [2946.42s - 2947.10s] Hayati Abinin.
+[Speaker 1] [2948.02s - 2948.96s] Veri bilme alanında,
+[Speaker 1] [2949.08s - 2951.16s] ileri seviyeleri kendimize atabilmemiz için,
+[Speaker 1] [2951.26s - 2952.40s] önerileriniz nelerdir?
+[Speaker 2] [2952.74s - 2953.02s] Yani,
+[Speaker 1] [2953.04s - 2953.54s] güzel bir soru,
+[Speaker 1] [2953.58s - 2954.32s] beklenen bir soru.
+[Speaker 1] [2956.36s - 2956.92s] Yani,
+[Speaker 1] [2956.96s - 2957.82s] ben şu anda biraz daha,
+[Speaker 2] [2957.88s - 2959.78s] generatif veya çalıştık alanında çalışıyorum.
+[Speaker 1] [2959.90s - 2960.14s] O yüzden,
+[Speaker 1] [2960.16s - 2960.42s] belki,
+[Speaker 1] [2960.42s - 2962.60s] bu açıdan bakabilirim,
+[Speaker 1] [2962.82s - 2963.82s] veri bilimine.
+[Speaker 2] [2966.32s - 2967.04s] Bence,
+[Speaker 2] [2967.78s - 2969.02s] şeye bakmak gerekiyor.
+[Speaker 2] [2969.24s - 2970.78s] Büyük şirketler,
+[Speaker 2] [2971.64s - 2973.64s] nasıl modeller çıkarıyorlar?
+[Speaker 1] [2974.40s - 2975.60s] open source alanında da,
+[Speaker 2] [2976.84s - 2978.18s] çalışmalar yaptıklarında,
+[Speaker 1] [2978.30s - 2979.38s] bunları yayınlıyorlar.
+[Speaker 1] [2979.62s - 2980.10s] Ve bunların,
+[Speaker 2] [2980.32s - 2981.40s] hala takip edilmesi,
+[Speaker 1] [2981.42s - 2982.14s] bence çok önemli.
+[Speaker 2] [2983.26s - 2983.98s] Yani,
+[Speaker 1] [2984.14s - 2984.42s] RELG,
+[Speaker 2] [2984.80s - 2986.26s] çok önemli dedik mesela.
+[Speaker 1] [2986.44s - 2986.50s] Yani,
+[Speaker 1] [2986.56s - 2987.58s] çok kullanılan bir,
+[Speaker 2] [2987.72s - 2989.66s] mimari artık bu noktada.
+[Speaker 1] [2989.82s - 2989.90s] Ve,
+[Speaker 2] [2990.42s - 2990.72s] artık,
+[Speaker 2] [2990.72s - 2993.26s] büyük şirketler de modellerini,
+[Speaker 2] [2994.16s - 2995.32s] RELG üzerinde eğitiyorlar.
+[Speaker 1] [2995.42s - 2995.56s] Yani,
+[Speaker 1] [2995.78s - 2996.10s] RELG'e,
+[Speaker 2] [2996.18s - 2998.40s] RELG için kullanılabilecek modeller,
+[Speaker 2] [2998.46s - 2999.40s] üretmeye çalışıyorlar.
+[Speaker 1] [2999.58s - 2999.74s] Veya,
+[Speaker 2] [2999.98s - 3001.00s] bazı şirketler,
+[Speaker 2] [3001.40s - 3004.08s] daha çok agentlarda kullanılabilecek modeller,
+[Speaker 2] [3004.16s - 3005.02s] eğitmeye çalışıyor.
+[Speaker 2] [3005.20s - 3005.36s] İşte,
+[Speaker 2] [3005.36s - 3006.56s] bazı şirketler çok,
+[Speaker 2] [3007.04s - 3008.66s] ya da bazı topluluklar,
+[Speaker 1] [3008.80s - 3008.98s] diyeyim,
+[Speaker 2] [3009.56s - 3012.58s] daha çok multilingual olabilecek modeller eğitiyor.
+[Speaker 1] [3012.66s - 3013.28s] Bazıları,
+[Speaker 2] [3013.36s - 3016.10s] multimodal olabilecek modeller eğitiyor.
+[Speaker 2] [3016.42s - 3016.82s] Yani,
+[Speaker 2] [3018.58s - 3019.82s] yine de bu,
+[Speaker 2] [3019.82s - 3021.26s] paperlara bakmak,
+[Speaker 2] [3021.44s - 3023.76s] buradaki mimarileri anlamak,
+[Speaker 1] [3025.88s - 3026.04s] yani,
+[Speaker 2] [3026.22s - 3027.98s] generatif AI alanında da olsa,
+[Speaker 2] [3028.34s - 3029.56s] çünkü farklı modellerin,
+[Speaker 1] [3029.68s - 3031.06s] farklı kullanım alanları var.
+[Speaker 1] [3031.24s - 3032.20s] Bunları bilmek,
+[Speaker 2] [3032.20s - 3032.76s] bence,
+[Speaker 1] [3033.56s - 3034.50s] veri biliminde de,
+[Speaker 2] [3034.68s - 3036.46s] çok önemli olacak.
+[Speaker 1] [3036.80s - 3037.02s] Yani,
+[Speaker 2] [3037.26s - 3039.16s] şu noktada da zaten çok önemli.
+[Speaker 2] [3039.46s - 3040.32s] Ama ileride,
+[Speaker 2] [3040.66s - 3041.64s] çok daha hayati bir şekilde,
+[Speaker 2] [3041.94s - 3043.14s] hayati olacak yani.
+[Speaker 1] [3044.58s - 3045.24s] Kesinlikle.
+[Speaker 1] [3045.96s - 3046.78s] Bu arada,
+[Speaker 1] [3046.94s - 3047.40s] son olarak,
+[Speaker 1] [3047.68s - 3048.60s] hain tavşanların,
+[Speaker 1] [3048.80s - 3050.34s] şeyine değinmek istiyorum.
+[Speaker 1] [3050.88s - 3052.02s] Nükteli yorumuna,
+[Speaker 1] [3052.14s - 3053.06s] ben de tanıdığım için,
+[Speaker 1] [3053.32s - 3054.06s] biliyorum onu.
+[Speaker 1] [3054.30s - 3054.44s] Olur.
+[Speaker 2] [3055.02s - 3055.72s] şey de,
+[Speaker 1] [3055.82s - 3057.04s] güldür güldür plaza diline,
+[Speaker 1] [3057.16s - 3058.12s] hoş geldiniz arkadaşlar.
+[Speaker 1] [3059.24s - 3059.38s] Evet,
+[Speaker 1] [3059.50s - 3059.66s] yani,
+[Speaker 1] [3060.10s - 3061.04s] white bar,
+[Speaker 1] [3061.14s - 3061.88s] bir durum var.
+[Speaker 2] [3063.00s - 3063.56s] Maalesef.
+[Speaker 1] [3063.74s - 3063.88s] Yani,
+[Speaker 1] [3064.06s - 3064.22s] çünkü,
+[Speaker 1] [3066.46s - 3067.80s] generatif modeller değil,
+[Speaker 1] [3067.80s - 3069.18s] üretken modeller,
+[Speaker 2] [3069.76s - 3070.80s] diyebilirim belki ama,
+[Speaker 1] [3070.84s - 3071.00s] hani,
+[Speaker 2] [3071.20s - 3072.52s] benim alıştığım bir terim değil.
+[Speaker 2] [3073.20s - 3074.40s] Ve günlük hayatımda da,
+[Speaker 2] [3074.40s - 3076.70s] İngilizce devam ettirdiğimden dolayı,
+[Speaker 2] [3076.82s - 3077.38s] bu konuşmalara,
+[Speaker 2] [3077.50s - 3078.68s] gerçekten de terimler,
+[Speaker 2] [3079.90s - 3080.46s] Türkçeleşmiyor,
+[Speaker 2] [3080.62s - 3081.06s] benim için.
+[Speaker 2] [3081.26s - 3082.14s] Ne kadar denesem de,
+[Speaker 1] [3082.90s - 3083.64s] bazılarını da,
+[Speaker 2] [3083.76s - 3084.60s] bulamıyorum.
+[Speaker 2] [3084.78s - 3084.98s] Mesela,
+[Speaker 2] [3085.36s - 3087.56s] Vector Store'u nasıl çevireceğiz?
+[Speaker 2] [3087.84s - 3088.76s] Bilmiyorum açıkçası.
+[Speaker 1] [3089.22s - 3090.48s] Vector Bankası.
+[Speaker 1] [3091.70s - 3092.24s] Yani,
+[Speaker 1] [3092.96s - 3093.10s] olmuyor.
+[Speaker 1] [3093.38s - 3094.12s] Vector Store,
+[Speaker 1] [3094.22s - 3094.98s] Vector Store'dur.
+[Speaker 1] [3095.46s - 3096.22s] embedded model,
+[Speaker 1] [3096.52s - 3097.48s] gömme vektörü.
+[Speaker 1] [3097.48s - 3097.66s] yani,
+[Speaker 2] [3097.82s - 3098.62s] hiç olacak iş değil.
+[Speaker 2] [3099.04s - 3099.72s] çok hiç olmuyor.
+[Speaker 1] [3099.72s - 3099.92s] Evet,
+[Speaker 1] [3099.92s - 3100.50s] ben bunları,
+[Speaker 2] [3100.60s - 3101.92s] biraz düşündüm açıkçası,
+[Speaker 1] [3101.98s - 3103.22s] nasıl yapabilirim diye,
+[Speaker 2] [3103.58s - 3104.58s] bir halden sonra dedim ki,
+[Speaker 2] [3104.62s - 3105.50s] yapamazmışım.
+[Speaker 1] [3106.50s - 3106.98s] Evet.
+[Speaker 1] [3107.38s - 3107.56s] Ya,
+[Speaker 1] [3107.72s - 3108.16s] aslında orada,
+[Speaker 1] [3108.20s - 3109.58s] Hayati Hocanın da dediği gibi,
+[Speaker 1] [3109.74s - 3111.06s] bu da bir gerek dedik yani.
+[Speaker 1] [3111.26s - 3111.64s] Bunu da,
+[Speaker 1] [3111.80s - 3112.78s] temel seviyede,
+[Speaker 1] [3112.96s - 3114.30s] edinmeniz gereken bir şey yani.
+[Speaker 1] [3114.54s - 3114.86s] 101,
+[Speaker 1] [3114.88s - 3115.18s] o,
+[Speaker 1] [3116.20s - 3117.16s] sözlükteki kavramların,
+[Speaker 1] [3117.24s - 3118.42s] aslında ne anlama geldiğini,
+[Speaker 1] [3118.54s - 3120.02s] İngilizce'de de bilmek gerekiyor.
+[Speaker 1] [3120.26s - 3120.36s] Yani,
+[Speaker 1] [3120.40s - 3122.06s] bunlar zaten Türkçesi çok anlamsız oluyor.
+[Speaker 2] [3123.66s - 3124.14s] Evet.
+[Speaker 1] [3124.14s - 3124.24s] Evet.
+[Speaker 2] [3126.76s - 3127.28s] Şimdi,
+[Speaker 1] [3127.50s - 3127.86s] o zaman,
+[Speaker 1] [3128.02s - 3128.60s] gene,
+[Speaker 1] [3129.02s - 3130.14s] çok öyle şey bir soru,
+[Speaker 1] [3130.76s - 3131.26s] madem,
+[Speaker 1] [3131.38s - 3132.46s] açık kaynak bunlar,
+[Speaker 1] [3132.64s - 3133.44s] GitHub'ta yürüyor,
+[Speaker 1] [3133.60s - 3133.86s] işçiler,
+[Speaker 1] [3134.34s - 3134.56s] ne bileyim,
+[Speaker 1] [3134.62s - 3135.42s] dokumentasyon,
+[Speaker 2] [3135.50s - 3136.06s] her şey açık,
+[Speaker 1] [3136.62s - 3136.92s] bu,
+[Speaker 2] [3137.10s - 3137.38s] Haystack,
+[Speaker 1] [3137.44s - 3137.76s] Deepset,
+[Speaker 1] [3137.84s - 3138.70s] nereden para kazanıyor?
+[Speaker 2] [3139.84s - 3141.30s] Çok sevdiğim bir soru,
+[Speaker 1] [3141.38s - 3141.50s] bunu,
+[Speaker 2] [3142.52s - 3144.08s] düzenli olarak geliyor bu soru.
+[Speaker 2] [3146.44s - 3147.00s] Şimdi,
+[Speaker 2] [3147.14s - 3148.76s] Deepset'in çıkışı,
+[Speaker 2] [3148.78s - 3148.96s] işte,
+[Speaker 2] [3149.04s - 3149.76s] Haystack'la oldu.
+[Speaker 2] [3149.92s - 3150.98s] Haystack ilk ürünü,
+[Speaker 1] [3151.08s - 3151.32s] fakat,
+[Speaker 2] [3151.34s - 3152.04s] tek ürün değil.
+[Speaker 2] [3152.82s - 3153.82s] Haystack dışında,
+[Speaker 1] [3154.20s - 3154.32s] bizim,
+[Speaker 2] [3154.50s - 3155.44s] Deepset Cloud dediğimiz,
+[Speaker 2] [3155.62s - 3156.54s] başka bir ürünümüz var.
+[Speaker 1] [3156.68s - 3156.76s] Bu,
+[Speaker 2] [3156.90s - 3158.28s] biraz daha büyük şirketlere,
+[Speaker 2] [3158.58s - 3159.76s] proje bazlı,
+[Speaker 2] [3160.12s - 3161.30s] ve yanında,
+[Speaker 2] [3161.40s - 3161.70s] işte,
+[Speaker 2] [3162.28s - 3163.28s] destek olabilecek,
+[Speaker 2] [3163.42s - 3164.60s] mühendislerimizle beraber,
+[Speaker 2] [3165.40s - 3166.88s] verdiğimiz bir ürün aslında.
+[Speaker 1] [3167.98s - 3168.48s] para,
+[Speaker 2] [3168.48s - 3169.50s] buradan geliyor,
+[Speaker 1] [3169.64s - 3170.26s] diyebilirim.
+[Speaker 1] [3171.00s - 3171.16s] Yani,
+[Speaker 2] [3171.80s - 3172.26s] tabii bu,
+[Speaker 2] [3172.44s - 3173.46s] Deepset Cloud dediğimiz,
+[Speaker 1] [3173.84s - 3174.00s] ürün,
+[Speaker 2] [3174.06s - 3174.68s] altında,
+[Speaker 2] [3174.74s - 3176.86s] Haystack kullanıyor.
+[Speaker 2] [3177.66s - 3178.12s] Ama,
+[Speaker 1] [3178.14s - 3178.76s] bunun üzerine,
+[Speaker 2] [3178.98s - 3179.56s] tabii ki de siz,
+[Speaker 2] [3179.68s - 3179.84s] işte,
+[Speaker 2] [3179.92s - 3180.40s] Haystack,
+[Speaker 2] [3180.46s - 3181.66s] pipeline'larınızı,
+[Speaker 2] [3181.84s - 3182.40s] bu,
+[Speaker 2] [3182.64s - 3183.70s] SAS platformunda,
+[Speaker 2] [3184.44s - 3184.94s] yaratabiliyorsunuz,
+[Speaker 2] [3185.02s - 3186.08s] deploy edebiliyorsunuz,
+[Speaker 2] [3186.16s - 3187.02s] kullanabiliyorsunuz,
+[Speaker 2] [3187.16s - 3187.62s] isterseniz,
+[Speaker 1] [3187.74s - 3187.84s] işte,
+[Speaker 2] [3187.88s - 3188.68s] test ediyorsunuz,
+[Speaker 2] [3188.86s - 3190.12s] farklı parametrelerle,
+[Speaker 2] [3190.22s - 3191.24s] farklı promptlarla.
+[Speaker 2] [3192.22s - 3192.72s] Ve,
+[Speaker 2] [3192.84s - 3193.68s] birden çok kişi,
+[Speaker 2] [3193.80s - 3195.42s] bunun üzerinde çalışabiliyorsunuz.
+[Speaker 1] [3195.48s - 3195.64s] Yani,
+[Speaker 1] [3195.72s - 3196.20s] biraz daha,
+[Speaker 2] [3196.88s - 3198.48s] data takımları için,
+[Speaker 2] [3199.34s - 3200.60s] küçük data takımları için,
+[Speaker 2] [3200.70s - 3203.40s] büyük projeler geliştirebilmelerinde,
+[Speaker 2] [3203.46s - 3204.38s] yardımcı olacak.
+[Speaker 1] [3204.68s - 3205.12s] Onların,
+[Speaker 1] [3205.36s - 3205.40s] işte,
+[Speaker 2] [3206.06s - 3206.26s] neyi,
+[Speaker 2] [3206.48s - 3207.62s] datamı nereye deploy,
+[Speaker 2] [3207.88s - 3208.00s] işte,
+[Speaker 2] [3208.10s - 3209.36s] datamı nerede tutuyorum,
+[Speaker 2] [3209.94s - 3210.48s] modelimi nasıl,
+[Speaker 2] [3210.64s - 3211.56s] nerede deployladım,
+[Speaker 2] [3211.76s - 3212.48s] diye düşünmeden,
+[Speaker 2] [3213.70s - 3215.06s] uygulamaları geliştirmelerine,
+[Speaker 2] [3215.22s - 3216.50s] odaklanabilecekleri bir,
+[Speaker 2] [3217.72s - 3218.40s] uygulama.
+[Speaker 1] [3219.54s - 3220.18s] ve,
+[Speaker 2] [3220.58s - 3221.36s] şu anda da yeni,
+[Speaker 2] [3221.62s - 3222.10s] yeni,
+[Speaker 1] [3222.24s - 3222.28s] yeni,
+[Speaker 1] [3222.50s - 3222.56s] yeni,
+[Speaker 2] [3223.36s - 3225.10s] waitliste insanları aldık,
+[Speaker 2] [3225.36s - 3226.64s] almaya devam ediyoruz.
+[Speaker 1] [3226.92s - 3227.00s] Ve,
+[Speaker 2] [3227.12s - 3228.62s] birkaç hafta içerisinde de,
+[Speaker 2] [3229.64s - 3230.28s] bu,
+[Speaker 2] [3231.08s - 3232.88s] herkese açık olacak bir ürünümüz var,
+[Speaker 2] [3232.98s - 3234.06s] Deepset Studio diye.
+[Speaker 2] [3234.50s - 3234.96s] Bu,
+[Speaker 2] [3235.02s - 3235.82s] Deepset Studio,
+[Speaker 2] [3236.06s - 3237.10s] Deepset Cloud'un,
+[Speaker 2] [3237.26s - 3239.32s] biraz daha basitleştirilmiş,
+[Speaker 2] [3240.22s - 3240.86s] versiyonu,
+[Speaker 2] [3240.96s - 3241.54s] diyebiliriz.
+[Speaker 2] [3242.36s - 3242.78s] Siz,
+[Speaker 2] [3242.78s - 3244.78s] tamamen ücretsiz bir platform,
+[Speaker 2] [3245.10s - 3246.22s] siz Deepset Studio'ya,
+[Speaker 2] [3246.38s - 3247.20s] üye olarak,
+[Speaker 1] [3247.88s - 3248.22s] yani,
+[Speaker 2] [3248.34s - 3249.00s] giriş yaparak,
+[Speaker 2] [3249.18s - 3249.98s] kendiniz,
+[Speaker 2] [3251.26s - 3253.26s] görsel bir editör sayesinde,
+[Speaker 2] [3253.64s - 3253.80s] işte,
+[Speaker 1] [3254.12s - 3254.22s] hani,
+[Speaker 2] [3254.30s - 3255.20s] Embedded Retriever,
+[Speaker 2] [3255.64s - 3256.64s] Prompt Builder,
+[Speaker 2] [3256.70s - 3257.74s] Generator gibi dediğim,
+[Speaker 1] [3258.00s - 3258.46s] komponentleri,
+[Speaker 2] [3259.26s - 3260.84s] Sürükle Burak gibi bir UI ile,
+[Speaker 2] [3261.24s - 3262.48s] kendi pipeline'ınızı oluşturabiliyorsunuz,
+[Speaker 2] [3263.16s - 3264.88s] kendi sisteminizi yaratabiliyorsunuz.
+[Speaker 2] [3265.10s - 3265.34s] Ve,
+[Speaker 2] [3265.40s - 3266.20s] sonrasında da işte,
+[Speaker 2] [3266.42s - 3267.52s] bir butona basarak,
+[Speaker 2] [3268.94s - 3269.24s] kendi,
+[Speaker 2] [3269.56s - 3271.08s] Hashtag pipeline'ınızı deploy edip,
+[Speaker 2] [3271.68s - 3272.68s] sonrasında bir UI,
+[Speaker 1] [3272.78s - 3273.08s] ile beraber,
+[Speaker 2] [3273.24s - 3274.40s] kullanabiliyorsunuz aslında.
+[Speaker 1] [3274.60s - 3274.70s] Yani,
+[Speaker 2] [3274.76s - 3275.50s] yaptığınız tek şey,
+[Speaker 2] [3276.06s - 3277.42s] bir REST API ile,
+[Speaker 2] [3278.40s - 3280.22s] Hashtag pipeline'ınızı deploy etmek,
+[Speaker 2] [3280.40s - 3281.46s] bir endpoint almak,
+[Speaker 2] [3281.60s - 3283.20s] ve bu endpoint'ı request atarak da,
+[Speaker 2] [3283.88s - 3284.98s] Hashtag pipeline'ınızı,
+[Speaker 2] [3285.24s - 3286.20s] query'inizi yollayıp,
+[Speaker 2] [3286.36s - 3288.46s] sonucunuzu alabilmenizi sağlamak.
+[Speaker 2] [3289.40s - 3290.44s] Bu da işte,
+[Speaker 2] [3291.68s - 3294.06s] bizim özellikle Hashtag kullanıcıları için,
+[Speaker 2] [3294.18s - 3294.88s] yapmak istediğimiz,
+[Speaker 2] [3295.00s - 3296.08s] onların işlerini,
+[Speaker 2] [3296.14s - 3297.42s] birazcık daha kolaylaştıracak,
+[Speaker 2] [3297.44s - 3298.16s] bir ürün olacak.
+[Speaker 2] [3298.56s - 3300.30s] O yüzden de ben bayağı heyecanlıyım.
+[Speaker 1] [3301.16s - 3301.98s] Böyle yani,
+[Speaker 2] [3301.98s - 3303.54s] böyle işliyor Hashtag'de,
+[Speaker 1] [3303.54s - 3304.68s] değilse de bir şey.
+[Speaker 1] [3304.98s - 3306.54s] no code tool'u dedin,
+[Speaker 1] [3307.50s - 3308.10s] orada bir,
+[Speaker 1] [3308.22s - 3310.62s] bizi bitirdim falan diye.
+[Speaker 1] [3311.20s - 3311.64s] Yok yok.
+[Speaker 2] [3313.80s - 3315.08s] Yani aslında şey,
+[Speaker 2] [3315.36s - 3315.80s] şu da var,
+[Speaker 2] [3315.90s - 3316.44s] orayı sadece,
+[Speaker 2] [3316.66s - 3317.74s] görsel bir şey de kullan,
+[Speaker 2] [3317.92s - 3318.76s] görsel olarak da,
+[Speaker 2] [3319.00s - 3319.64s] kullanmak mümkün.
+[Speaker 2] [3319.74s - 3319.92s] Çünkü,
+[Speaker 2] [3320.26s - 3321.50s] hala data'ını sen,
+[Speaker 2] [3322.74s - 3323.52s] dışarıda bir yerde,
+[Speaker 2] [3323.54s - 3324.22s] tutmak istemiyor,
+[Speaker 2] [3324.32s - 3324.88s] olabilirsin.
+[Speaker 2] [3324.88s - 3326.34s] veya bir endpointi,
+[Speaker 2] [3326.36s - 3327.42s] orada çalıştırmak istemiyor,
+[Speaker 2] [3327.50s - 3328.02s] olabilirsin.
+[Speaker 1] [3328.24s - 3328.34s] Ama,
+[Speaker 2] [3328.44s - 3329.48s] küçük demolar için,
+[Speaker 2] [3329.52s - 3330.48s] bunu isteyen,
+[Speaker 2] [3330.58s - 3331.66s] çok fazla insan vardı.
+[Speaker 2] [3331.90s - 3333.04s] Hani ben bir şey geliştireyim,
+[Speaker 2] [3333.10s - 3333.98s] hemen deploy edeyim,
+[Speaker 2] [3334.06s - 3334.92s] küçük bir UI yapayım,
+[Speaker 2] [3335.00s - 3335.76s] göstereyim mesela,
+[Speaker 2] [3335.92s - 3337.38s] managerıma diyen insanlar vardı.
+[Speaker 2] [3337.64s - 3338.06s] Veya,
+[Speaker 2] [3338.18s - 3339.28s] bir süre test etmek isteyen,
+[Speaker 2] [3339.54s - 3340.24s] insanlar vardı.
+[Speaker 2] [3340.80s - 3341.34s] Ama tabii ki,
+[Speaker 2] [3341.44s - 3342.58s] bu Deepset Studio'da,
+[Speaker 2] [3342.84s - 3343.34s] Hashtag'i,
+[Speaker 2] [3343.94s - 3344.70s] görsel olarak,
+[Speaker 2] [3345.30s - 3346.16s] tasarladıktan sonra,
+[Speaker 2] [3346.40s - 3347.54s] export'a basıp,
+[Speaker 2] [3347.58s - 3348.36s] Python olarak,
+[Speaker 2] [3348.58s - 3349.42s] kodu da direkt almak,
+[Speaker 1] [3349.46s - 3349.98s] mümkün.
+[Speaker 1] [3350.42s - 3350.64s] Yani,
+[Speaker 2] [3351.16s - 3351.24s] işte,
+[Speaker 2] [3351.64s - 3352.88s] ben kod yazmayı seviyorum.
+[Speaker 2] [3353.10s - 3353.56s] Ama,
+[Speaker 1] [3353.88s - 3354.78s] UI'da da böyle,
+[Speaker 2] [3354.94s - 3356.10s] drag drop yapmak da,
+[Speaker 2] [3356.34s - 3357.56s] bence eğlenceli bir şey.
+[Speaker 2] [3357.66s - 3359.22s] Özellikle o bağlantılarını görmek,
+[Speaker 1] [3359.32s - 3359.40s] yani,
+[Speaker 2] [3359.62s - 3361.46s] o komplike pipeline'ları aslında,
+[Speaker 2] [3361.82s - 3362.82s] daha rahat,
+[Speaker 2] [3365.28s - 3366.20s] geliştirmeyi sağlayacak,
+[Speaker 2] [3366.20s - 3367.52s] bir sistem olarak da düşünüyoruz.
+[Speaker 2] [3367.64s - 3367.70s] Biz,
+[Speaker 1] [3367.82s - 3368.06s] hani o,
+[Speaker 2] [3368.16s - 3368.82s] işte şey dedik,
+[Speaker 2] [3368.92s - 3370.38s] graflar çok komplikeleşiyor,
+[Speaker 2] [3370.58s - 3371.12s] vesaire diye.
+[Speaker 2] [3371.34s - 3371.70s] Çünkü,
+[Speaker 2] [3371.88s - 3372.72s] görsel olarak da,
+[Speaker 2] [3372.72s - 3374.12s] onları çok fazla görmüyoruz.
+[Speaker 1] [3374.62s - 3375.68s] Ama bu uygulamayla beraber,
+[Speaker 2] [3375.74s - 3376.84s] belki biraz göreceğiz.
+[Speaker 1] [3377.30s - 3378.66s] Direkt ihtiyaç bence,
+[Speaker 1] [3378.68s - 3379.92s] hani sen bunu söyleyince,
+[Speaker 1] [3380.68s - 3382.72s] graf yapısında ben tasarladım,
+[Speaker 1] [3382.96s - 3383.30s] bütün,
+[Speaker 1] [3384.26s - 3384.76s] komponentları,
+[Speaker 1] [3384.96s - 3385.78s] işte pipeline'ı.
+[Speaker 1] [3386.32s - 3386.62s] Bunu,
+[Speaker 2] [3387.30s - 3388.30s] Hashtag içerisinde,
+[Speaker 1] [3388.46s - 3388.64s] benim,
+[Speaker 1] [3388.94s - 3389.72s] code base'ime,
+[Speaker 1] [3390.16s - 3390.44s] atıyorum,
+[Speaker 1] [3390.56s - 3391.68s] işte bir şeyi import ettim,
+[Speaker 2] [3391.74s - 3392.36s] küçük bir kodu,
+[Speaker 1] [3392.48s - 3393.10s] ve dedim ki,
+[Speaker 1] [3393.30s - 3394.20s] al bu code base'i,
+[Speaker 1] [3394.32s - 3396.12s] anla ve direkt bana o graf yapısını,
+[Speaker 1] [3396.20s - 3397.20s] az önce bahsettiğin,
+[Speaker 1] [3397.26s - 3398.56s] o sürükle bırak yapısındaki,
+[Speaker 1] [3398.72s - 3399.14s] görseli,
+[Speaker 1] [3399.20s - 3400.54s] pıt diye çıkartan bir şey var mı?
+[Speaker 2] [3402.58s - 3403.54s] şey var,
+[Speaker 1] [3403.82s - 3403.98s] yani,
+[Speaker 2] [3404.14s - 3406.04s] tam olarak bunu mu soruyorsun,
+[Speaker 1] [3406.18s - 3407.08s] pek anlamadım ama,
+[Speaker 2] [3407.72s - 3408.60s] Hashtag'de zaten,
+[Speaker 2] [3408.78s - 3409.62s] sen Python olarak,
+[Speaker 2] [3409.64s - 3410.88s] kodu yazdığında,
+[Speaker 2] [3411.20s - 3412.36s] direkt görselini,
+[Speaker 2] [3412.58s - 3413.34s] oluşturabiliyorsun.
+[Speaker 2] [3413.58s - 3415.14s] Ama bu çok statik bir görsel,
+[Speaker 1] [3415.24s - 3415.36s] yani,
+[Speaker 2] [3415.38s - 3416.24s] dinamik bir görsel,
+[Speaker 2] [3416.28s - 3417.66s] değiştirebileceğin bir görsel değil.
+[Speaker 2] [3417.98s - 3419.18s] Ama senin aradığın,
+[Speaker 2] [3419.34s - 3420.38s] sanırım daha fazla,
+[Speaker 2] [3420.56s - 3421.18s] böyle şey gibi,
+[Speaker 1] [3422.24s - 3422.76s] ben,
+[Speaker 2] [3423.02s - 3425.08s] natural language query olarak,
+[Speaker 1] [3425.26s - 3425.38s] yani,
+[Speaker 2] [3425.50s - 3425.60s] işte,
+[Speaker 2] [3425.84s - 3426.42s] yazarak,
+[Speaker 2] [3426.58s - 3428.30s] nasıl bir pipeline istediğimi,
+[Speaker 2] [3428.30s - 3429.14s] söyleyeyim,
+[Speaker 2] [3429.72s - 3431.64s] o da o pipeline'i yaratsın,
+[Speaker 2] [3431.72s - 3432.68s] ve bana göstersin,
+[Speaker 2] [3432.72s - 3433.48s] gibi bir şey mi?
+[Speaker 1] [3433.66s - 3434.02s] Yok,
+[Speaker 1] [3434.20s - 3434.70s] aslında hani,
+[Speaker 1] [3434.76s - 3435.68s] yaptım ürünü,
+[Speaker 1] [3436.00s - 3436.36s] ve hani,
+[Speaker 1] [3436.50s - 3437.44s] sen de dediğin ya,
+[Speaker 1] [3437.54s - 3437.90s] veya işte,
+[Speaker 1] [3437.94s - 3438.54s] benim sorduğum,
+[Speaker 1] [3438.66s - 3439.94s] diğer önceki soruda da vardı,
+[Speaker 1] [3440.74s - 3440.92s] yani,
+[Speaker 1] [3441.14s - 3442.74s] gerçek proddaki ürünlerin,
+[Speaker 1] [3442.86s - 3443.36s] gereksinimleri,
+[Speaker 1] [3443.50s - 3444.14s] biraz çok oluyor,
+[Speaker 1] [3444.32s - 3444.54s] ve,
+[Speaker 1] [3444.80s - 3445.86s] kod karışabiliyor,
+[Speaker 1] [3446.02s - 3446.86s] oradaki düğümler,
+[Speaker 1] [3446.94s - 3447.30s] ejder,
+[Speaker 1] [3447.58s - 3448.04s] çok,
+[Speaker 1] [3449.16s - 3450.10s] gittikçe gidiyor,
+[Speaker 1] [3450.30s - 3450.74s] ve bunun,
+[Speaker 1] [3450.80s - 3451.34s] aslında,
+[Speaker 2] [3451.42s - 3452.14s] çizilmesi,
+[Speaker 1] [3452.88s - 3454.00s] kendi başımıza,
+[Speaker 1] [3454.24s - 3454.48s] durup,
+[Speaker 1] [3454.60s - 3454.68s] böyle,
+[Speaker 1] [3454.78s - 3455.34s] analiz edip,
+[Speaker 1] [3455.44s - 3456.24s] kodu çıkarmak,
+[Speaker 1] [3456.34s - 3457.00s] zor olabiliyor.
+[Speaker 1] [3457.56s - 3457.82s] Bunu,
+[Speaker 1] [3458.14s - 3459.08s] bir kod base'i,
+[Speaker 1] [3459.20s - 3459.88s] otomatik tarayıp,
+[Speaker 1] [3459.94s - 3461.08s] çıkartan bir ürün var mı,
+[Speaker 1] [3461.16s - 3461.96s] hastak tarafında?
+[Speaker 2] [3462.66s - 3462.90s] Yani,
+[Speaker 2] [3462.96s - 3464.42s] hastak ile yazdıysanız,
+[Speaker 1] [3464.56s - 3464.62s] yani,
+[Speaker 2] [3464.62s - 3466.14s] hastak pipeline'ınız varsa,
+[Speaker 2] [3467.20s - 3468.68s] pipeline.show diyorsun,
+[Speaker 2] [3468.98s - 3470.52s] zaten sen onu gösteriyor.
+[Speaker 2] [3470.90s - 3471.06s] Yani,
+[Speaker 2] [3471.12s - 3472.28s] o graf yapısının,
+[Speaker 1] [3472.52s - 3472.86s] nasıl olduğunu,
+[Speaker 1] [3473.02s - 3473.38s] nodları,
+[Speaker 2] [3473.48s - 3473.96s] ejder işte,
+[Speaker 2] [3474.40s - 3474.90s] sen buradan,
+[Speaker 2] [3475.02s - 3475.98s] embedding'ini almışsın,
+[Speaker 1] [3476.04s - 3476.28s] buradan,
+[Speaker 2] [3476.30s - 3477.10s] doküman gelmiş,
+[Speaker 2] [3477.10s - 3477.84s] onlar,
+[Speaker 2] [3477.84s - 3478.26s] onlar işte,
+[Speaker 2] [3478.42s - 3478.96s] şuna çıkmış,
+[Speaker 2] [3479.08s - 3479.96s] buna bağlanmış diye,
+[Speaker 2] [3480.06s - 3480.60s] hatta bütün,
+[Speaker 2] [3481.28s - 3481.80s] ejderdeki,
+[Speaker 2] [3482.18s - 3482.46s] hani,
+[Speaker 2] [3482.56s - 3483.26s] ejderle beraber,
+[Speaker 2] [3483.48s - 3484.32s] hangi bilgileri,
+[Speaker 2] [3484.42s - 3485.64s] hangi komponansı aktardığında,
+[Speaker 2] [3485.70s - 3486.92s] net bir şekilde görebiliyorsun.
+[Speaker 1] [3487.98s - 3488.62s] Buradan da,
+[Speaker 1] [3488.72s - 3489.74s] hastak cahili olduğumuz,
+[Speaker 1] [3489.76s - 3490.30s] ortaya çıktı.
+[Speaker 1] [3490.80s - 3491.74s] yayından sonra,
+[Speaker 1] [3491.92s - 3492.22s] bir tane,
+[Speaker 1] [3492.76s - 3493.94s] rak yapmaya gidiyorum.
+[Speaker 2] [3494.96s - 3495.48s] Ben,
+[Speaker 2] [3495.66s - 3496.78s] bunun için uyurum işte,
+[Speaker 1] [3497.04s - 3497.30s] burada,
+[Speaker 2] [3498.22s - 3499.56s] hastak öğretmek için,
+[Speaker 2] [3501.32s - 3501.84s] normal,
+[Speaker 2] [3502.02s - 3502.46s] çok şey,
+[Speaker 2] [3502.84s - 3504.06s] bunu da anlayabiliyorum.
+[Speaker 1] [3504.16s - 3504.26s] Çünkü,
+[Speaker 2] [3504.34s - 3504.94s] bu olan çok yeni,
+[Speaker 2] [3505.00s - 3505.94s] yeni gelişen bir alan.
+[Speaker 2] [3507.60s - 3508.86s] ve çok farklı da,
+[Speaker 2] [3508.86s - 3509.80s] etrafta ürün var.
+[Speaker 2] [3511.38s - 3512.48s] O yüzden de,
+[Speaker 2] [3512.50s - 3513.40s] bence çok normal,
+[Speaker 2] [3513.52s - 3514.18s] hiç şey düşünme.
+[Speaker 1] [3514.94s - 3516.16s] Bu arada,
+[Speaker 1] [3516.38s - 3517.08s] Hayati Hoca,
+[Speaker 1] [3517.30s - 3518.84s] cevaplar için teşekkür etmiş,
+[Speaker 1] [3519.06s - 3520.18s] biz teşekkür ederiz.
+[Speaker 2] [3520.90s - 3521.54s] teşekkürler,
+[Speaker 2] [3521.68s - 3522.12s] soru için.
+[Speaker 1] [3523.44s - 3524.54s] Şunu sorayım o zaman,
+[Speaker 1] [3524.66s - 3525.90s] senin bir günün nasıl geçiyor?
+[Speaker 1] [3526.80s - 3526.96s] Şimdi,
+[Speaker 1] [3526.96s - 3528.22s] sen uzaktan çalışıyorsun,
+[Speaker 1] [3528.40s - 3529.00s] çoğunlukla.
+[Speaker 1] [3529.24s - 3530.18s] Arada sırada,
+[Speaker 1] [3530.36s - 3530.80s] gidiyorsun,
+[Speaker 1] [3531.18s - 3531.94s] yurt dışına,
+[Speaker 1] [3532.00s - 3533.14s] çeşitli etkinliklere,
+[Speaker 1] [3533.44s - 3534.22s] hatta böyle,
+[Speaker 1] [3534.46s - 3535.58s] farklı yerlere,
+[Speaker 1] [3535.68s - 3537.20s] böyle büyük organizasyonlara da,
+[Speaker 1] [3537.44s - 3538.64s] konuşmalara gittiğini biliyorum.
+[Speaker 2] [3539.64s - 3540.20s] tam,
+[Speaker 1] [3540.36s - 3541.28s] bunlar böyle,
+[Speaker 2] [3541.48s - 3542.28s] nasıl gerçekleşiyor?
+[Speaker 2] [3542.58s - 3544.04s] Standart bir günün nasıl geçiyor?
+[Speaker 1] [3544.14s - 3544.46s] Biraz böyle,
+[Speaker 1] [3544.66s - 3546.62s] ekstrem bir günün nasıl geçiyor?
+[Speaker 2] [3548.92s - 3550.36s] Standart bir günümde,
+[Speaker 2] [3550.54s - 3551.32s] genelde işte,
+[Speaker 2] [3552.26s - 3553.38s] bilgisayarı açıyorum,
+[Speaker 2] [3555.22s - 3556.02s] bir selecte işte,
+[Speaker 2] [3556.08s - 3557.04s] mesajlara bakma,
+[Speaker 1] [3557.22s - 3557.46s] ve biz,
+[Speaker 2] [3557.58s - 3558.86s] işte takım olarak artık,
+[Speaker 2] [3559.00s - 3559.92s] şey yapmayı bıraktık.
+[Speaker 2] [3560.20s - 3561.02s] Burada biraz daha,
+[Speaker 1] [3561.10s - 3561.20s] hani,
+[Speaker 2] [3561.48s - 3562.50s] şey tarafına girmiş oldum.
+[Speaker 1] [3562.70s - 3562.98s] Bir,
+[Speaker 2] [3563.10s - 3564.26s] mühendislik takımımla,
+[Speaker 2] [3564.48s - 3565.34s] nasıl çalışıyorum diye.
+[Speaker 2] [3565.60s - 3566.28s] Biz artık,
+[Speaker 1] [3566.38s - 3566.48s] hani,
+[Speaker 2] [3567.50s - 3569.98s] günlük stand-up'ları yapmayı bıraktık.
+[Speaker 2] [3570.26s - 3570.86s] Sadece,
+[Speaker 2] [3571.04s - 3571.52s] ama işte,
+[Speaker 2] [3571.56s - 3572.96s] uzaktan da çalışan bir takımız var,
+[Speaker 2] [3573.02s - 3573.70s] birbirimizin aslında,
+[Speaker 2] [3573.98s - 3575.34s] neler yaptığını,
+[Speaker 2] [3575.36s - 3576.64s] biliyor olmamız gerekiyor.
+[Speaker 1] [3576.74s - 3577.30s] Hatta benim,
+[Speaker 2] [3577.78s - 3578.94s] devral engineer olarak,
+[Speaker 2] [3579.24s - 3580.52s] mühendislik takımındaki,
+[Speaker 2] [3580.76s - 3581.70s] herkesin ne yaptığını,
+[Speaker 2] [3581.80s - 3582.90s] iyi biliyor olmam gerekiyor.
+[Speaker 2] [3583.04s - 3583.22s] Çünkü,
+[Speaker 2] [3583.94s - 3584.12s] iki,
+[Speaker 2] [3584.18s - 3584.70s] üç gün sonra,
+[Speaker 2] [3584.76s - 3585.54s] belki biz o,
+[Speaker 2] [3586.02s - 3586.28s] işte,
+[Speaker 2] [3586.38s - 3587.48s] feature'i yayınlayacağız,
+[Speaker 1] [3587.54s - 3588.50s] ve benim bunu,
+[Speaker 1] [3589.06s - 3589.80s] bilmem ve bunu,
+[Speaker 2] [3590.26s - 3591.76s] iletişimin yapabiliyor olmam,
+[Speaker 2] [3591.84s - 3592.12s] belki,
+[Speaker 2] [3592.90s - 3594.54s] oradaki bazı eksiklikleri,
+[Speaker 2] [3594.62s - 3595.94s] tamamlayabiliyor olmam lazım.
+[Speaker 2] [3597.24s - 3597.76s] işte,
+[Speaker 2] [3598.00s - 3599.72s] Slack'ta bir şeyimizi yazıyor işte,
+[Speaker 2] [3599.86s - 3600.78s] dün bunları yaptım,
+[Speaker 2] [3600.86s - 3601.88s] bugün bunları yapacağım,
+[Speaker 1] [3602.44s - 3603.40s] bloggerlarım buydu,
+[Speaker 2] [3603.56s - 3604.06s] vesaire diye,
+[Speaker 2] [3604.14s - 3605.88s] böyle küçük bir brief veriyoruz kendimize.
+[Speaker 2] [3606.10s - 3607.20s] Kendi o brief'ümü yazıyorum,
+[Speaker 2] [3607.28s - 3608.26s] insanlarinkini okuyorum.
+[Speaker 2] [3608.56s - 3609.08s] Ve,
+[Speaker 2] [3609.08s - 3609.64s] her gün,
+[Speaker 2] [3609.90s - 3610.46s] biraz,
+[Speaker 2] [3610.58s - 3610.96s] bir vakit,
+[Speaker 2] [3611.04s - 3612.52s] Discord'ı ayırmaya çalışıyorum.
+[Speaker 2] [3613.20s - 3613.34s] İşte,
+[Speaker 2] [3613.40s - 3614.64s] yeni gelen insanlar var,
+[Speaker 2] [3614.84s - 3616.10s] onlar neler yapıyorlar,
+[Speaker 2] [3617.80s - 3618.94s] bir feedback'ları var mı,
+[Speaker 1] [3619.08s - 3619.18s] veya,
+[Speaker 2] [3619.42s - 3620.74s] özellikle aradıkları bir şeyler.
+[Speaker 2] [3620.74s - 3621.72s] çünkü bazen,
+[Speaker 2] [3621.80s - 3622.32s] işte,
+[Speaker 2] [3622.42s - 3623.52s] ben bir tane sunumumda,
+[Speaker 2] [3623.54s - 3623.74s] şöyle,
+[Speaker 2] [3623.88s - 3625.48s] çok önemli bir şey bahsetmiş oluyorum,
+[Speaker 1] [3625.60s - 3625.66s] yani,
+[Speaker 2] [3625.68s - 3627.08s] çok küçük bir şey bahsetmiş oluyorum.
+[Speaker 2] [3627.54s - 3628.98s] Aradıkları şey tam o.
+[Speaker 2] [3629.66s - 3630.68s] Onun linkini işte,
+[Speaker 2] [3630.78s - 3631.78s] onlarla paylaşıyorum.
+[Speaker 2] [3631.98s - 3632.46s] Gerekse işte,
+[Speaker 1] [3632.62s - 3633.04s] bazen,
+[Speaker 2] [3634.38s - 3635.58s] uzunca mesajlar yazıyorlar,
+[Speaker 2] [3635.84s - 3636.70s] uzunca onlara,
+[Speaker 2] [3636.98s - 3638.10s] geri dönüşler yapıyorum.
+[Speaker 2] [3638.52s - 3639.32s] Ve bazen de,
+[Speaker 2] [3639.44s - 3640.48s] çok güzel feedback'ler alıyor.
+[Speaker 2] [3640.60s - 3641.28s] Feedback'leri alıp,
+[Speaker 2] [3641.32s - 3642.22s] takımıma iletiyorum.
+[Speaker 2] [3642.34s - 3642.94s] Diyorum ki işte,
+[Speaker 2] [3643.54s - 3644.82s] şunu şöyle yapmak istemiş,
+[Speaker 2] [3644.96s - 3645.62s] ama yapamamış.
+[Speaker 2] [3645.70s - 3646.90s] Bence bunu düzeltmemiz gerekiyor.
+[Speaker 2] [3646.90s - 3647.02s] İşte,
+[Speaker 2] [3647.02s - 3648.22s] oradan belki bir,
+[Speaker 2] [3648.22s - 3648.60s] bug,
+[Speaker 2] [3649.34s - 3651.00s] report açıyoruz beraber.
+[Speaker 1] [3652.04s - 3652.62s] Bu,
+[Speaker 2] [3652.62s - 3653.48s] işimin bir tarafı.
+[Speaker 2] [3653.56s - 3654.54s] Sonrasında tabii ki,
+[Speaker 2] [3654.70s - 3655.14s] yani,
+[Speaker 2] [3656.54s - 3657.90s] devrelde çalışmak demek,
+[Speaker 2] [3658.12s - 3658.40s] biraz,
+[Speaker 2] [3658.62s - 3659.44s] aynı anda,
+[Speaker 2] [3659.60s - 3660.86s] birçok farklı işin,
+[Speaker 2] [3660.98s - 3662.32s] yürümesi demek oluyor.
+[Speaker 2] [3662.64s - 3663.02s] Yani,
+[Speaker 1] [3663.02s - 3663.78s] bir noktada,
+[Speaker 2] [3663.98s - 3664.20s] işte,
+[Speaker 2] [3664.38s - 3666.46s] birileriyle bir blog post yazıyor oluyorum.
+[Speaker 2] [3666.62s - 3667.84s] Onlardan bir review istiyorum.
+[Speaker 2] [3668.12s - 3668.86s] Bir noktada,
+[Speaker 1] [3669.48s - 3669.58s] bir,
+[Speaker 2] [3669.62s - 3669.98s] işte,
+[Speaker 2] [3670.24s - 3671.42s] bir PR açılmış oluyor.
+[Speaker 2] [3671.62s - 3672.46s] O PR'a bakıyorum.
+[Speaker 2] [3673.60s - 3674.18s] Gerçekten,
+[Speaker 2] [3674.32s - 3675.46s] çok fazla şey,
+[Speaker 2] [3675.70s - 3676.32s] aynı anda,
+[Speaker 2] [3676.32s - 3677.24s] ilerliyor.
+[Speaker 2] [3677.52s - 3678.36s] Günüme böyle,
+[Speaker 2] [3678.78s - 3679.26s] bir saatlik,
+[Speaker 2] [3679.32s - 3679.98s] iki saatlik,
+[Speaker 2] [3680.02s - 3681.74s] bloklar halinde oluyor.
+[Speaker 2] [3682.14s - 3683.56s] Ama bazen de oturuyorum,
+[Speaker 2] [3683.76s - 3683.88s] mesela,
+[Speaker 1] [3684.18s - 3685.08s] tüm gün tamamen,
+[Speaker 2] [3685.08s - 3686.82s] tutorial yazmaya odaklanıyorum.
+[Speaker 2] [3687.18s - 3687.50s] İşte,
+[Speaker 2] [3687.52s - 3689.08s] kendi kendime bir tane diyorum ki,
+[Speaker 2] [3689.32s - 3690.02s] hashtag kullanarak,
+[Speaker 2] [3690.02s - 3691.04s] şunu yapmaya çalışacağım.
+[Speaker 2] [3691.64s - 3692.16s] Oturup,
+[Speaker 2] [3692.18s - 3693.20s] onu yapmaya çalışıyorum.
+[Speaker 1] [3694.18s - 3694.70s] Tamamen,
+[Speaker 2] [3694.82s - 3696.20s] kod yazdığım bir günde oluyor.
+[Speaker 2] [3696.36s - 3697.30s] Ama bazen de bakıyorsun,
+[Speaker 2] [3697.42s - 3697.94s] sürekli,
+[Speaker 2] [3697.98s - 3699.28s] chat GPT ile beraber,
+[Speaker 2] [3699.54s - 3700.24s] sohbet ediyorum.
+[Speaker 2] [3700.50s - 3701.62s] şurasını biraz daha böyle yap,
+[Speaker 2] [3701.70s - 3702.04s] bu tekstin.
+[Speaker 2] [3702.14s - 3703.40s] Burasını biraz daha şöyle yap.
+[Speaker 1] [3703.92s - 3704.32s] Burada,
+[Speaker 2] [3704.32s - 3705.24s] bunu da bahsedeceğim,
+[Speaker 2] [3705.28s - 3705.82s] unutma gibi.
+[Speaker 2] [3706.32s - 3707.44s] chat GPT'den,
+[Speaker 2] [3707.54s - 3709.96s] bayağı uzunca bir destek aldığım günler oluyor.
+[Speaker 2] [3710.98s - 3711.78s] Yani,
+[Speaker 2] [3712.24s - 3713.26s] çok kısaca,
+[Speaker 2] [3713.28s - 3714.44s] özetlemek gerekirse,
+[Speaker 2] [3714.64s - 3716.12s] mühendislik takımı ile beraber,
+[Speaker 1] [3716.74s - 3717.32s] yan yana,
+[Speaker 2] [3717.48s - 3718.00s] dip dibe,
+[Speaker 2] [3718.86s - 3719.66s] çalıştığım,
+[Speaker 2] [3720.12s - 3721.56s] şey oluyor yani.
+[Speaker 2] [3721.72s - 3722.12s] Genelde,
+[Speaker 2] [3722.28s - 3723.44s] bu sandalye deyim,
+[Speaker 1] [3723.62s - 3724.26s] bu odadayım.
+[Speaker 2] [3727.48s - 3728.28s] online olarak,
+[Speaker 2] [3728.30s - 3728.96s] bu,
+[Speaker 1] [3730.76s - 3731.16s] bu,
+[Speaker 1] [3731.34s - 3731.42s] bu,
+[Speaker 1] [3731.42s - 3731.70s] bu,
+[Speaker 1] [3731.90s - 3732.02s] bu,
+[Speaker 1] [3732.02s - 3732.10s] bu,
+[Speaker 1] [3732.10s - 3732.14s] bu,
+[Speaker 1] [3732.14s - 3732.26s] bu,
+[Speaker 1] [3732.26s - 3733.18s] bu süreç,
+[Speaker 1] [3733.34s - 3734.18s] şeye hissettirdi,
+[Speaker 1] [3734.30s - 3736.06s] böyle devral olmak demek.
+[Speaker 1] [3736.46s - 3737.00s] Biraz böyle,
+[Speaker 1] [3737.42s - 3738.68s] senin kendi inisiyatifinde gibi,
+[Speaker 1] [3738.68s - 3739.54s] böyle yapacağın işte,
+[Speaker 2] [3739.68s - 3739.84s] işte,
+[Speaker 1] [3739.96s - 3741.10s] bir yerde bloktasın,
+[Speaker 1] [3741.22s - 3741.30s] bir,
+[Speaker 1] [3741.36s - 3741.96s] bir gün diyorsun,
+[Speaker 1] [3742.16s - 3743.80s] ya şöyle bir tutorial'ı yapayım.
+[Speaker 1] [3743.80s - 3746.62s] Bu acayip bir özgürlük.
+[Speaker 1] [3746.78s - 3758.16s] Normalde devrel olmasan herhalde bir takımın bir parçası olsan, teknik bir takımın X bir şirkette yani böyle bir framework şirketinde olmasan herhalde böyle bir özgürlük de olmazdı.
+[Speaker 1] [3758.24s - 3764.24s] Biraz önceki işlerinle şu anki yaptığın işi özgürlük anlamında da kıyaslarsan ne dersin?
+[Speaker 2] [3765.06s - 3767.66s] Evet aslında güzel bir noktaya değin.
+[Speaker 2] [3767.76s - 3768.72s] Hiç böyle düşünmemiştim.
+[Speaker 2] [3768.90s - 3769.66s] Şöyle bir şey var.
+[Speaker 2] [3770.44s - 3783.38s] Yani tabii ki de bir mühendis olarak çalıştığında genellikle yapılması gereken tasklar eğer bir proje bazlı bir şeyde çalışıyorsa müşteriden geliyordur bu veya bir üründe çalışıyorsan ürünün zaten roadmap'ı bellidir.
+[Speaker 2] [3783.72s - 3789.62s] Yani nelerin yapılacak en yakın zamanda hangi bugların çözülmesi gerekiyor, hangi feature'ların çıkması gerekiyor.
+[Speaker 2] [3789.82s - 3793.44s] Bunlar aslında bir product manager tarafından net belirlenmiştir.
+[Speaker 2] [3793.74s - 3799.02s] Ve sen sadece işte bir task alırsın onu bitirsin, diğer task alırsın onu bitirsin belki böyle ilerler.
+[Speaker 2] [3799.02s - 3801.54s] Benim açımdan da aslında buna benzer bir süreç var.
+[Speaker 2] [3802.52s - 3804.90s] Benim de işte yanmayı hedeflediğim şeyler var.
+[Speaker 2] [3805.86s - 3813.04s] Ama bu yanmayı hedeflediğim şeyleri günün sonunda tespisini yapan da ben ve takımdaki insanlar.
+[Speaker 2] [3813.56s - 3820.22s] Yani bizim bir mühendislik takımı kadar net bir timeline'ımız yok.
+[Speaker 2] [3820.44s - 3825.02s] Hatta tam tersine çok daha dinamik bir şekilde ilerliyor çoğu zaman.
+[Speaker 2] [3825.02s - 3828.46s] Ben diyelim ki bir tutorial üzerinde çalışıyorum.
+[Speaker 2] [3829.04s - 3832.00s] Bu evet şu noktada bitirmem gereken bir task olmuş oluyor.
+[Speaker 2] [3832.26s - 3838.26s] Ama bakıyorum ki işte iki hafta sonra çok işte güzel bir meetup'a bir davet almışız.
+[Speaker 2] [3838.40s - 3842.12s] O zaman her bütün önceliklerimi bir kenara bırakıyorum.
+[Speaker 2] [3842.24s - 3844.86s] Diyorum ki benim önceliğin demek ki bu etkinliğe gitmek.
+[Speaker 2] [3844.86s - 3849.48s] İşte o zaman yolculuk da dahil oluyor içerisinde ve öncelikler birden çok değişmiş.
+[Speaker 2] [3849.56s - 3851.46s] Yapan bir kenarçler birden çok değişmiş oluyor.
+[Speaker 2] [3851.72s - 3853.20s] Biraz dinamik olmak gerekiyor.
+[Speaker 2] [3853.30s - 3855.94s] Bu da yanında da birazcık da serbestliği de getiriyor.
+[Speaker 2] [3856.04s - 3856.90s] Evet kesinlikle.
+[Speaker 1] [3858.02s - 3859.52s] Bu arada çok güzel bir rol.
+[Speaker 1] [3859.52s - 3861.08s] Ben her dinde dindim.
+[Speaker 2] [3861.30s - 3862.18s] Ben de çok güzel ediyorum.
+[Speaker 2] [3865.70s - 3867.76s] Seni de alalım intern olarak.
+[Speaker 1] [3869.58s - 3871.54s] Valla bilmem ne tıp olur mu?
+[Speaker 2] [3872.40s - 3874.96s] Biraz da böyle alan dışı nelerle uğraşıyorsun?
+[Speaker 2] [3876.04s - 3880.46s] Mesai bitirdikten sonra işte bilgisayarın kapağını indirdikten sonra neler yapıyorsun?
+[Speaker 1] [3880.64s - 3881.42s] Hobilerin neler?
+[Speaker 2] [3883.02s - 3886.68s] Son bir senedir çok aktif olarak dans ediyorum ben.
+[Speaker 2] [3887.26s - 3888.46s] Sosyal latin yapıyorum.
+[Speaker 2] [3888.76s - 3890.10s] Biraz salsa, biraz baçata.
+[Speaker 2] [3890.26s - 3890.84s] Daha çok salsa.
+[Speaker 2] [3892.68s - 3897.20s] Yani geri kalan vaktimde bir de çok fazla oturarak çalıştığımdan dolayı ister istemez.
+[Speaker 2] [3897.36s - 3900.36s] Artık oturarak bir şey yapmak istemiyorum.
+[Speaker 2] [3901.56s - 3903.96s] Ve dans böyle bunun tam zıttı gibi.
+[Speaker 2] [3904.50s - 3911.08s] Hiç oturmadığın hatta çok aktif bir şekilde hareket ettiğin bir etkinlik.
+[Speaker 2] [3912.04s - 3916.06s] O yüzden en yükabim bu aralar son bir senedir.
+[Speaker 2] [3916.30s - 3917.20s] Dans diyebilirim.
+[Speaker 2] [3917.50s - 3925.92s] Bunun dışında işte biraz daha stres yönetimini yapabilmek için yürüyüşü, yogayı, meditasyonu da hayatıma katmaya çalışıyorum.
+[Speaker 2] [3926.02s - 3928.58s] Bunlar biraz daha sabah kattığım şeyler.
+[Speaker 2] [3930.08s - 3935.24s] Genelde Avrupa'yla, Amerika'yla çalıştığımdan dolayı benim sabahlarım biraz daha geç başlıyor.
+[Speaker 2] [3936.04s - 3942.14s] Türkiye saatiyle on buçuk, on bir, on bir buçuk gibi aslında mesaiye başlıyorum.
+[Speaker 2] [3942.50s - 3946.70s] Bu da bana sabahları aslında kendime ayırabileceğim güzel bir vakit veriyor.
+[Speaker 2] [3947.00s - 3950.24s] İşte bir yürüyüş yapabileceğim belki bir yoga yapabileceğim.
+[Speaker 2] [3951.14s - 3953.78s] Sabahları da böyle değerlendirmeye çalışıyorum aslında.
+[Speaker 2] [3954.36s - 3955.66s] Onun dışında da klasik işte.
+[Speaker 1] [3956.30s - 3958.42s] Gene bir gıpta geldi benim taraftan.
+[Speaker 2] [3960.32s - 3963.28s] Ama hiç akşamlarımı konuşmadık.
+[Speaker 2] [3963.46s - 3969.72s] Hiç akşam saat sekizde, dokuzda, onda benim hala masa başımda olduğum zamanlar da var.
+[Speaker 2] [3970.06s - 3971.32s] Bunlar konuşulmuyor.
+[Speaker 2] [3971.40s - 3974.16s] Hafta içleri nasıl sosyal hayatımın sıfırlandığı.
+[Speaker 2] [3976.96s - 3980.14s] Bunlar gıpta edilmez herhalde bunlara.
+[Speaker 1] [3980.34s - 3982.00s] Onu da ediyoruz, onu da ediyoruz.
+[Speaker 1] [3982.10s - 3984.22s] Benim normalde full time yani.
+[Speaker 1] [3984.48s - 3986.94s] Her dakika buradayız gibi bir durum var şu sıralar.
+[Speaker 2] [3989.22s - 3991.16s] Evet yani işte şey olunca.
+[Speaker 1] [3992.84s - 3995.60s] Ya uzaktan çalışma ve işte hep buradayım.
+[Speaker 1] [3996.08s - 3997.66s] Dans ediyorum, işte yoga yapıyorum.
+[Speaker 1] [3997.76s - 3999.40s] Biraz hani mental için yürüyorum dedim.
+[Speaker 1] [3999.54s - 4000.84s] Bunlar ya o kadar kıymetli ki.
+[Speaker 1] [4001.12s - 4005.06s] Ve aslında uzaktan çalışan kişiler için de ben de full uzaktan çalıştığım için biliyorum.
+[Speaker 1] [4005.60s - 4007.58s] Yapması bir o kadar zor yani.
+[Speaker 1] [4008.14s - 4012.10s] Uzaktan çalışıyorsa mesai bitince zaten böyle bir enerji çekiliyor.
+[Speaker 1] [4012.50s - 4016.92s] İnsanın böyle kendini atın atın atamadın çıkamazsın.
+[Speaker 1] [4017.58s - 4019.90s] Zaten akşam olmuş oluyor bir noktada.
+[Speaker 1] [4020.54s - 4022.18s] Ya o taraf için bir önerin olur mu ya?
+[Speaker 1] [4022.34s - 4024.70s] Bu benim için de önemli bir nokta.
+[Speaker 1] [4025.14s - 4027.32s] Bunları nasıl yapacağız bu tarafa?
+[Speaker 2] [4028.02s - 4030.44s] Ya şimdi ben işini seven bir insanım.
+[Speaker 2] [4031.16s - 4032.94s] Maalesef bu her zaman iyi bir şey değil.
+[Speaker 2] [4033.22s - 4038.90s] Çünkü öyle olunca özellikle evdeysem de yani mesaim bitti diye benim kavamda böyle bir kavram yok.
+[Speaker 2] [4039.06s - 4040.22s] Ben bir iş üzerindeyim.
+[Speaker 2] [4040.42s - 4041.94s] Mesela şu an çok iyi odaklandım.
+[Speaker 2] [4042.04s - 4044.88s] Saat yedi buçuk oldu, sekiz oldu, dokuz oldu fark etmez.
+[Speaker 2] [4045.02s - 4047.58s] Ben ondan zevk alıyorsam yapmaya devam ediyorum.
+[Speaker 2] [4047.58s - 4051.10s] Ve bu kesinlikle sağlıklı bir şey diye kimseye önermiyorum.
+[Speaker 2] [4051.74s - 4055.22s] O yüzden de benim yaptığım taktik ve ben de işe yarayan şey
+[Speaker 2] [4056.88s - 4061.12s] başka bir plan yani beni evde tutmayacak bir plan yapmak.
+[Speaker 2] [4061.12s - 4065.60s] Mesela benim dans dersim akşam saat dokuzda.
+[Speaker 2] [4065.96s - 4068.08s] Bunu da bulduğum için gerçekten çok şanslıyım.
+[Speaker 2] [4068.18s - 4070.14s] Bu kadar geç bir saatte dans dersi bulduğum için.
+[Speaker 2] [4070.58s - 4071.92s] Ama hani bu bana şeyi veriyor.
+[Speaker 2] [4072.06s - 4074.66s] Tamam sekizde mesaim benim bitecek en geç.
+[Speaker 2] [4074.86s - 4077.00s] Ve sonra hemen evden çıkmam lazım.
+[Speaker 2] [4077.14s - 4078.16s] Yoksa dansı kaçıracağım.
+[Speaker 1] [4078.84s - 4081.28s] Böyle olunca o laptop kapanıyor.
+[Speaker 2] [4081.40s - 4084.72s] O mesai gerçekten kafada da fiziksel olarak da bitiyor.
+[Speaker 2] [4085.06s - 4087.58s] Ben bundan başka bir çözüm bulamadım açıkçası.
+[Speaker 2] [4087.82s - 4088.62s] Kendi içimde.
+[Speaker 2] [4088.62s - 4091.22s] İster istemez devam ediyorum çünkü.
+[Speaker 2] [4091.52s - 4092.82s] Bunu da yapayım bunu da yapayım.
+[Speaker 2] [4093.10s - 4096.24s] Çok iyi şu an maktum varken bunu yapayım diyorum.
+[Speaker 2] [4097.96s - 4098.64s] Olmuyor.
+[Speaker 2] [4098.98s - 4102.66s] Ama sabahları da değerlendirmek gerekiyor.
+[Speaker 1] [4103.46s - 4104.64s] Öte yandan da.
+[Speaker 1] [4106.02s - 4106.92s] Kesinlikle ya.
+[Speaker 1] [4107.72s - 4111.38s] Bu uzaktan çalışmanın laneti gibi bir şey yani.
+[Speaker 1] [4113.94s - 4115.88s] Bir tarafı da var bu işin.
+[Speaker 1] [4116.02s - 4118.22s] Bundan çok bahsedilmiyor.
+[Speaker 1] [4118.62s - 4121.12s] Ama bu çok çok önemli bir kısmı bence.
+[Speaker 1] [4121.88s - 4125.04s] Bilek ağrıları, boyun ağrısı ve bel ağrısı.
+[Speaker 1] [4125.16s - 4128.56s] Uzaktan çalışıyorsanız bunlar da başınıza gelebilir.
+[Speaker 1] [4128.70s - 4132.96s] Hani sen zaten düzenli spor yaptığın için orayı biraz elemine ediyorsun değil mi?
+[Speaker 1] [4133.06s - 4135.90s] Ama mesela senin de bu tarz durumları oluyor mu?
+[Speaker 1] [4135.98s - 4137.36s] Nasıl bunlarla başa çıktın?
+[Speaker 2] [4138.30s - 4140.82s] Yok o konuda baya yardımcı oluyor aslında.
+[Speaker 2] [4140.82s - 4146.50s] Yani özellikle fiziksel ağrıları dindirmek anlamında.
+[Speaker 2] [4146.72s - 4150.38s] Çünkü otur otur artık kaslar da kısalmaya başlıyor.
+[Speaker 2] [4150.68s - 4151.58s] Bel ağrısı oluyor.
+[Speaker 2] [4152.68s - 4154.62s] Dans da bu konuda yardımcı oluyor açıkçası.
+[Speaker 2] [4154.80s - 4156.62s] Hani biraz postürün düzelmesiyle.
+[Speaker 2] [4156.62s - 4162.86s] Ama oturan arkadaşlara herkese gerçekten pilates tavsiye ederim.
+[Speaker 2] [4163.26s - 4164.26s] Aletli pilates.
+[Speaker 2] [4165.08s - 4167.04s] Bir ara yaptığım vakit vardı.
+[Speaker 2] [4167.34s - 4168.96s] Düzenli olarak haftada iki kere.
+[Speaker 2] [4169.22s - 4170.88s] Gerçekten çok büyük etkisini görmüştüm.
+[Speaker 2] [4171.00s - 4174.06s] Hem kuvvetlenmek anlamında hem de ağrılarım anlamında.
+[Speaker 2] [4174.28s - 4175.74s] Yardımcı olmuştu bana.
+[Speaker 2] [4175.74s - 4178.96s] Bir de ben bunu arkadaşımdan görmüştüm.
+[Speaker 2] [4179.14s - 4180.14s] Şimdi yazayım şöyle bir şey.
+[Speaker 1] [4181.22s - 4182.52s] Bu Decathlon'da satılıyor.
+[Speaker 1] [4183.10s - 4184.56s] Umarım reklama girmedi bu ama.
+[Speaker 2] [4185.70s - 4190.28s] Bu şekilde hani toplantılarda işte bileğimi bununla çalıştırıyorum.
+[Speaker 2] [4191.48s - 4200.74s] Bunun gibi işte küçük küçük fiziksel sağlığı koruyabilecek şeyler eklemek gerekiyor.
+[Speaker 2] [4202.16s - 4203.62s] Bende bunlar var.
+[Speaker 1] [4203.88s - 4204.70s] Sende neler var?
+[Speaker 1] [4204.70s - 4206.12s] Böyle şeyler var mı bilmiyorum.
+[Speaker 1] [4206.28s - 4207.88s] Bende çok şey var yani.
+[Speaker 1] [4209.00s - 4212.22s] Şöyle ben bir ara hatta Karpal Tünel'e doğru gittim.
+[Speaker 1] [4212.48s - 4215.22s] O kadar çok elim şeyde duruyordu ki.
+[Speaker 1] [4217.32s - 4219.30s] Mouse'da ve mouse'un da şeydi.
+[Speaker 1] [4219.50s - 4220.90s] Böyle küçük bir mouse'du.
+[Speaker 1] [4221.16s - 4222.84s] Bu mouse'u kullanıyordum o dönem.
+[Speaker 1] [4223.46s - 4225.66s] Bu mouse beni Karpal Tünel yaptı arkadaşlar.
+[Speaker 1] [4225.86s - 4227.24s] Kimseye önermiyorum bu mouse'u.
+[Speaker 2] [4228.06s - 4229.68s] Şuna geçtim şu anda.
+[Speaker 1] [4230.20s - 4231.34s] Dikey mouse'a geçtim.
+[Speaker 1] [4231.94s - 4232.60s] Ha evet.
+[Speaker 1] [4232.60s - 4232.78s] Evet.
+[Speaker 1] [4234.50s - 4236.88s] Ve gerçekten çok etkili.
+[Speaker 1] [4236.88s - 4245.58s] yani egzersiz yapamasanız bile dikey mouse'a tek başına geçmek bende Karpal Tüneli büyük oranda çözüyor gibi bir durum var.
+[Speaker 1] [4245.96s - 4247.42s] Tabii ki de egzersiz önemli.
+[Speaker 1] [4247.56s - 4250.52s] Onu yapmadığınız zaman her türlü başınıza dertler açılıyor.
+[Speaker 2] [4251.26s - 4252.12s] Aynen öyle.
+[Speaker 1] [4255.16s - 4257.54s] Burada Gökher abinin gene bir yorumu var.
+[Speaker 1] [4257.90s - 4264.56s] Bir hashtag değil ama Enes hocam senin el eden bu proje evvelerator da open source'dan katkı istemelisin bence.
+[Speaker 1] [4265.52s - 4268.00s] Bu proje şöyle bir proje.
+[Speaker 1] [4268.12s - 4270.08s] Feedback agent diye bir şey yapmıştım.
+[Speaker 1] [4270.58s - 4272.30s] Onu da hatta atayım.
+[Speaker 1] [4273.00s - 4282.52s] Bu arka planda Gemini ve open AI apılerini kullanarak bir gitaptan bir projenin linki alındığı vakit.
+[Speaker 1] [4282.62s - 4284.66s] Bu işte private olmaması lazım.
+[Speaker 1] [4284.78s - 4285.54s] Public bir link.
+[Speaker 1] [4285.68s - 4286.84s] Jüpiter notebook da olabilir.
+[Speaker 1] [4287.40s - 4288.66s] Pay'ye uzantılı da olabilir.
+[Speaker 1] [4288.80s - 4292.26s] Onu oraya attığınız vakit direkt size otomatik geri bildirim veriyor.
+[Speaker 1] [4292.44s - 4294.30s] İşte bu projenin amacı bu.
+[Speaker 1] [4294.50s - 4295.98s] Şu teknolojiler kullanılmış.
+[Speaker 1] [4295.98s - 4298.44s] Bu projede şu noktalar iyileştirilebilir.
+[Speaker 1] [4298.64s - 4300.12s] Direkt orada kod örneğini de veriyor.
+[Speaker 1] [4300.52s - 4302.18s] Şunları şunları iyileştirebilirsin diye.
+[Speaker 1] [4302.76s - 4304.30s] İşte güvenlik önerisi söylüyor.
+[Speaker 1] [4304.44s - 4310.70s] Belki hani şunları egzersiz bunları atarak veya işte şu daha şeyleri ekleyerek daha da güvenli hale getirebilirsin.
+[Speaker 1] [4310.86s - 4313.38s] Ve işte bunun gibi böyle uzunca bir ilk mesaj veriyor sana.
+[Speaker 1] [4313.80s - 4318.46s] Sonrasında da sen bu projenin X-Y kısmıyla alakalı sorular sormaya devam edebiliyorsun.
+[Speaker 1] [4318.74s - 4319.98s] Bu böyle bir projeydi.
+[Speaker 1] [4320.86s - 4321.76s] Ona diyor.
+[Speaker 2] [4322.64s - 4324.70s] Evet bak güzel demiş.
+[Speaker 2] [4324.88s - 4325.86s] Gökher'e teşekkürler.
+[Speaker 2] [4325.98s - 4332.42s] Bizim Heystack Cookbooks diye bir repozitorimiz var.
+[Speaker 2] [4333.38s - 4335.22s] Ve bunlar aynı zamanda web sitemizde de var.
+[Speaker 2] [4335.76s - 4342.24s] Ve buraya mesela bu örneğini Heystack'la yapıp sen de katkıda bulunabilirsin.
+[Speaker 2] [4342.52s - 4345.52s] İstiyacın olan tek şey aslında bir tane Python notebook.
+[Speaker 2] [4346.44s - 4349.96s] Buna eğer yani bu proje anladığım kadarıyla baya kapsamlı bir şey.
+[Speaker 2] [4352.04s - 4360.36s] Bunu eğer Heystack'la yazmak istersen de Cookbook'a katkıda bulunmak istersen bana ulaş.
+[Speaker 2] [4360.50s - 4362.72s] Ben sana her türlü yardımı veririm zaten.
+[Speaker 2] [4362.92s - 4366.34s] Çünkü orası tamamen aslında topluluğa ayırdığımız bir yer.
+[Speaker 2] [4366.34s - 4368.38s] Bir örneğin varsa onu oraya koy.
+[Speaker 2] [4368.60s - 4370.08s] Sonra insanlarla paylaş.
+[Speaker 2] [4370.30s - 4371.98s] Çünkü sen böyle bir şey geliştirdin.
+[Speaker 2] [4372.10s - 4373.90s] Ne güzel işte benim ilgimi çekti.
+[Speaker 2] [4374.76s - 4376.90s] Topluluktaki başka birinin ilgisini çekebilir.
+[Speaker 2] [4378.14s - 4380.26s] Open Source biraz da paylaşmak zaten.
+[Speaker 1] [4381.42s - 4383.70s] Hatta şöyle bir iş şu var Repo'da.
+[Speaker 1] [4384.30s - 4385.86s] Jason odayak haberleşiyor.
+[Speaker 1] [4386.44s - 4389.96s] Direkt hatta cevabı Jason vermeye zorluyorum ben prompta.
+[Speaker 2] [4390.88s - 4395.00s] Onu Jason'dan çıkartıp işte unstructure desteğe gelmiş de şu an.
+[Speaker 1] [4395.12s - 4396.94s] Open AI'ın destekleri var.
+[Speaker 1] [4397.02s - 4400.86s] Biraz hani o kısmı inceleyip oradaki hataları mesela elimine edecektim.
+[Speaker 1] [4401.22s - 4405.80s] Şu an hani sen hashtag ve graph işte o yapıyı deyince belki onu da geçirebiliriz.
+[Speaker 1] [4405.86s - 4407.00s] O daha kolay olursa.
+[Speaker 1] [4408.12s - 4409.14s] Bunlar hep emek.
+[Speaker 2] [4409.14s - 4411.10s] Evet tabii ki.
+[Speaker 2] [4411.56s - 4411.88s] Tabii ki.
+[Speaker 2] [4412.10s - 4413.96s] Ama ileriye dönük bir emek.
+[Speaker 2] [4414.18s - 4416.38s] Yani geri dönüşü olabilecek bir emek.
+[Speaker 2] [4416.62s - 4418.48s] Güzelmiş ama fikrini beğendim.
+[Speaker 1] [4419.50s - 4420.24s] Ya evet.
+[Speaker 1] [4420.34s - 4422.24s] Bunun çıkış noktası da şeydi yani.
+[Speaker 1] [4422.52s - 4428.26s] İşte mesela insanlar projesiyle alakalı mentorluk için bana yazabiliyor LinkedIn'den.
+[Speaker 1] [4429.18s - 4432.26s] Veya X başka platformlarda ben gönüllü mentorluk yapıyorum.
+[Speaker 1] [4432.88s - 4434.82s] Oralarda işte projeler atanıyor.
+[Speaker 1] [4434.92s - 4436.62s] Biz onları değerlendirmek gerekiyor falan.
+[Speaker 1] [4436.62s - 4439.48s] Ya bu çok maliyetli uzun sürüyor.
+[Speaker 1] [4439.70s - 4444.50s] Yani bir de base eleleme bunu açıklamaya çalışsam bile projeyi gene çok uzun sürüyor.
+[Speaker 1] [4444.60s - 4445.66s] Tek tek her şeyi kopyalama.
+[Speaker 1] [4445.66s - 4449.92s] Macdano ayrı, şeyi ayrı, kodu ayrı, amacı yaz falan.
+[Speaker 1] [4450.72s - 4453.56s] Ya diyeyim şu linki atayım bana direkt her şeyi veriver.
+[Speaker 1] [4453.92s - 4455.60s] Bunun çıkış noktası buydu.
+[Speaker 1] [4455.80s - 4457.10s] Tabii yapması da çok uzun sürüyor.
+[Speaker 2] [4458.24s - 4459.82s] Peki şeyi soracağım.
+[Speaker 2] [4460.62s - 4463.58s] Linki verdiğin, link herhangi bir link olabiliyor mu?
+[Speaker 2] [4463.82s - 4465.30s] Nasıl bir link vermem gerekiyor?
+[Speaker 1] [4465.40s - 4466.76s] Web sitesinin linkini mi biliyorum?
+[Speaker 1] [4466.90s - 4468.06s] Yok web sitesi olmuyor.
+[Speaker 1] [4468.18s - 4473.78s] Ya Jupyter notebook uzantılı, IPYNB uzantılı ya da .py uzantılı olması gerekiyor.
+[Speaker 1] [4473.98s - 4477.50s] Yani direkt bir reponun linkini verdiğin zaman sana exemption fırlatır.
+[Speaker 1] [4477.98s - 4478.76s] Geçersiz diye.
+[Speaker 2] [4480.92s - 4488.98s] Sadece kodunla yani bu projeyle geliştirilmiş bir şeyin koduna bakarak bu yargıya varıyor.
+[Speaker 2] [4489.26s - 4489.74s] Yani aslında.
+[Speaker 1] [4489.90s - 4490.08s] Evet.
+[Speaker 2] [4490.34s - 4491.12s] A küreye.
+[Speaker 1] [4491.44s - 4492.26s] Şey yapıyor.
+[Speaker 1] [4492.44s - 4494.18s] Mesela notebook format diye bir kütüphane var.
+[Speaker 1] [4494.44s - 4500.62s] Oradan direkt kodları bir de işte onu formatladıktan sonra markdownları içerisine çıkartıyorum.
+[Speaker 1] [4500.72s - 4501.56s] Notebook için konuşuyorum.
+[Speaker 1] [4501.72s - 4502.76s] Yani kod kısmı zaten kolay.
+[Speaker 1] [4502.94s - 4503.22s] Kod yani.
+[Speaker 1] [4503.44s - 4505.86s] GitHub API'den direkt Python koduna yaşayabiliyorsun.
+[Speaker 1] [4505.86s - 4511.14s] Onları formatladıktan ve uygun formata getirdikten sonra LLM'in promptuna gidiyor.
+[Speaker 1] [4511.76s - 4516.38s] İşte LLM orada senior bir Python developer veya işte data science olabilir.
+[Speaker 1] [4516.58s - 4520.34s] O promptu birazcık da testke göre özelleştirilebilir.
+[Speaker 1] [4520.64s - 4521.30s] Bakıyor.
+[Speaker 1] [4521.52s - 4522.60s] Projeyi değerlendiriyor.
+[Speaker 1] [4522.82s - 4527.62s] İşte çeşitli kriterlere göre işte amacı, kapsamı, geliştirme önerilerini falan filan.
+[Speaker 1] [4527.70s - 4530.34s] Bunları çıkarttıktan sonra sana böyle kapsamlı bir ilk mesaj dönüyor.
+[Speaker 1] [4530.36s - 4531.10s] Bu arada diploida.
+[Speaker 1] [4531.56s - 4534.92s] Yani direkt about kısmındaki linkten gidip deneyebilirsiniz.
+[Speaker 1] [4536.60s - 4537.20s] İzlediğiniz için teşekkür ederim.
+[Speaker 2] [4537.20s - 4537.60s] Güzelmiş.
+[Speaker 2] [4537.76s - 4542.42s] Hemen bu yayından sonra bir tane hastakin notbooklarından birini deneyeceğim.
+[Speaker 1] [4542.56s - 4543.16s] Bakayım ne diyor.
+[Speaker 1] [4544.26s - 4545.82s] Yani İngilizce mi notebook?
+[Speaker 2] [4546.44s - 4546.88s] Evet.
+[Speaker 1] [4547.42s - 4547.80s] Evet.
+[Speaker 1] [4547.80s - 4548.90s] O da sorun yaratmıyor.
+[Speaker 1] [4549.06s - 4549.98s] Onu da şey yapıyor.
+[Speaker 2] [4551.60s - 4553.06s] Normalde Türkçe mi peki?
+[Speaker 1] [4554.06s - 4556.04s] Şu anda cevapları Türkçe veriyor.
+[Speaker 1] [4556.18s - 4557.54s] İlk şeyi Türkçe veriyor.
+[Speaker 1] [4557.66s - 4558.76s] İlk cevabı.
+[Speaker 1] [4558.90s - 4561.98s] O da onun sebebi de ben arkaya bir switch mekanizması koymadım.
+[Speaker 1] [4561.98s - 4566.98s] Yani hatta bunu yabancı bir forumda paylaştım ve adam bana şey döndü.
+[Speaker 1] [4567.02s - 4569.96s] İngilizce istediğim zaman İngilizce verdi sonrasındaki konuşmada.
+[Speaker 2] [4570.14s - 4571.30s] Ama Türkçe yazmışsın.
+[Speaker 1] [4571.72s - 4574.50s] Hani bak şey yaptım manipüle ettim dedi.
+[Speaker 1] [4575.10s - 4577.26s] Bende doğrudur ediliyor yani dedim.
+[Speaker 1] [4577.96s - 4578.94s] Ama switch'i koyacağım.
+[Speaker 1] [4579.06s - 4580.36s] İstiyorsan bir issue aç dedim.
+[Speaker 2] [4583.70s - 4584.34s] Okey.
+[Speaker 1] [4584.72s - 4585.06s] Anladım.
+[Speaker 2] [4585.16s - 4586.12s] Güzel bir projeymiş.
+[Speaker 1] [4586.24s - 4586.60s] Beğendim.
+[Speaker 1] [4587.98s - 4590.62s] Yani bu çok da şey değil ama güzel.
+[Speaker 1] [4590.70s - 4591.66s] Evet güzel diyorlar.
+[Speaker 1] [4591.80s - 4593.72s] Ama ben çok da bayılmadığım bir projeyi.
+[Speaker 1] [4596.22s - 4599.44s] O zaman çok güzel bir noktaya geldik.
+[Speaker 1] [4599.94s - 4604.34s] Burası bizim Maltı Grup'ta bir kaynak olarak da yaptığımız bir yer.
+[Speaker 1] [4604.34s - 4607.24s] Bizim şu anda üzerinde uğraştığımız bir repo var.
+[Speaker 1] [4607.72s - 4610.12s] İşte DMC Data Science Evesim diye.
+[Speaker 1] [4610.66s - 4621.12s] Burada Data Science ile alakalı yeni başlayan veya işte middowel hatta ileri seviye insanlara dahi çeşitli guide'ler kaynaklar barındıran bir Evesim reposu inşa ediyoruz.
+[Speaker 1] [4621.60s - 4623.68s] Datacombit için de burada bir sekme açtık.
+[Speaker 1] [4623.68s - 4628.54s] Yani şu anda ben hani bilgiye çeşitli bu alandaki tavsiye etti.
+[Speaker 1] [4628.74s - 4632.46s] İşte güncel kalmak için kullandığı kaynaklar, siteler, frameworkler.
+[Speaker 1] [4632.64s - 4633.64s] Hani bunları soracağım.
+[Speaker 1] [4634.08s - 4636.26s] Burada hani bilgi bunları sözlü olarak söyler.
+[Speaker 1] [4636.48s - 4640.14s] Fakat hani devamında bu linkleri ondan alıp repoya da ekleyeceğim ben.
+[Speaker 1] [4640.28s - 4641.92s] Hani orada şeyiniz olmasın.
+[Speaker 1] [4642.62s - 4645.74s] Hatta reponun linkini de şeye atayım.
+[Speaker 1] [4647.62s - 4648.82s] Çete atayım.
+[Speaker 1] [4649.02s - 4651.62s] Şimdi o zaman bu kısma geçebiliriz.
+[Speaker 1] [4651.74s - 4652.94s] Kendini nasıl geçtiriyorsun?
+[Speaker 1] [4652.94s - 4654.64s] Güncel kalmak için neler yapıyorsun?
+[Speaker 2] [4656.68s - 4658.70s] Bu konuda birazcık şanslıyım.
+[Speaker 2] [4658.80s - 4660.94s] Çünkü bu alanda çalışıyorum.
+[Speaker 2] [4661.76s - 4666.24s] Ve ister istemez bu bilgi bana iş yerindeki Slack'ta çok rahat bir şekilde dönüyor.
+[Speaker 2] [4666.54s - 4668.88s] Ama ben çok LinkedIn'e de bakıyorum.
+[Speaker 2] [4669.10s - 4679.22s] Ve özellikle takip ettiğim insanlar diğer büyük şirketlerin ve büyük egzersizlere dedim.
+[Speaker 1] [4679.46s - 4681.98s] Onu kaçırmışım aradan da şu an fark etti.
+[Speaker 2] [4682.94s - 4687.40s] Diğer büyük şirketlerin devrellerinde çalışan insanlar.
+[Speaker 2] [4687.40s - 4702.84s] Çünkü günün sonunda ben hashtag'i anlatıyorsam sosyal medyada o insanlar da aslında amaçları kendi yaptıkları çalıştıkları şeyi yine benim anlayacağım seviyeyi indirip benim anlayabileceğim şekilde anlatmak.
+[Speaker 2] [4702.84s - 4710.84s] O yüzden de ben özellikle büyük şirketlerin, mesela Hugging Face'den de çok fazla insan takip ediyorum open source dünyasından.
+[Speaker 2] [4710.84s - 4715.18s] Bu insanları LinkedIn'den ve Twitter'dan takip ediyorum.
+[Speaker 2] [4716.46s - 4721.26s] Onları da eklerim yani sosyal medya hesaplarını da paylaşırız şeyde.
+[Speaker 2] [4723.18s - 4726.02s] Çünkü daha geçenlerde mesela bir şey gördüm.
+[Speaker 2] [4726.28s - 4727.72s] Çok güzel görselleri var.
+[Speaker 2] [4727.86s - 4729.24s] Çok net bir şekilde anlatmış.
+[Speaker 2] [4729.66s - 4731.30s] Aa dedim öyle çok iyi bir yöntem bu.
+[Speaker 2] [4731.94s - 4734.02s] Mükemmel bir anlatış yani.
+[Speaker 2] [4734.48s - 4736.52s] Biraz kendime de ilham olsun diye baktım.
+[Speaker 2] [4736.52s - 4740.86s] Bir de benim takip ettiğim newsletter'lar var.
+[Speaker 2] [4741.10s - 4742.64s] Yani üye olduğum diyeyim.
+[Speaker 2] [4742.90s - 4748.28s] Bunlar bana işte haftalık veya iki üç günde bir e-posta yolluyorlar.
+[Speaker 2] [4748.40s - 4752.28s] Ve biraz daha böyle her şeyin özeti gibi oluyor.
+[Speaker 2] [4752.52s - 4755.54s] Orada eğer detay öğrenmek istersem linklerine girip bakıyorum.
+[Speaker 2] [4755.88s - 4763.24s] Ama genel hatlarıyla ya neler olmuş ne alanda ne bitmiş bizim topluca görebilmem için çok yardımcı oluyorlar.
+[Speaker 2] [4763.88s - 4765.78s] Diğer türlü çünkü gerçekten...
+[Speaker 1] [4765.78s - 4768.98s] Bu arada kullandığın newsletter'ların ismini de söyleyebilir misin?
+[Speaker 1] [4769.18s - 4770.46s] Ben o tarafa bayılıyorum çünkü.
+[Speaker 2] [4771.36s - 4774.32s] Bir tanesi AI News diye bir şey.
+[Speaker 2] [4774.54s - 4775.92s] Onun linkini de paylaşırım.
+[Speaker 2] [4776.04s - 4779.18s] Çok rahat üye olunabilecek bir şey.
+[Speaker 2] [4779.42s - 4781.00s] Birisi de bir tane adamdan.
+[Speaker 2] [4781.20s - 4782.64s] Adamın ismini şu anda hatırlamıyorum.
+[Speaker 2] [4783.00s - 4784.36s] Ama onu da paylaşırım.
+[Speaker 2] [4785.84s - 4791.18s] Çünkü yani onlar ister istemez seçerek de koyuyorlar.
+[Speaker 2] [4791.18s - 4794.72s] Yani aslında bir filtreden de geçmiş oluyor çoktan bana ulaşana kadar.
+[Speaker 2] [4796.96s - 4803.44s] Yani biraz bu alandaki öncüleri takip ederek ben kendimi şey tutuyorum.
+[Speaker 2] [4803.56s - 4804.28s] Güncel tutuyorum.
+[Speaker 2] [4804.62s - 4806.84s] Güncel tutmaya çalışıyorum diyelim.
+[Speaker 2] [4807.20s - 4810.64s] Burada bir varış noktası olduğunu düşünmüyorum.
+[Speaker 1] [4813.54s - 4817.58s] Burada mesela şu anda lokal elelemler falan da çok popüler.
+[Speaker 1] [4817.74s - 4818.76s] Bu o Lama tarafı.
+[Speaker 1] [4818.76s - 4822.68s] O da bir işte Lama'yı kullanmak için bir framework esasen.
+[Speaker 1] [4823.52s - 4825.52s] O taraftaki şeylere de bakıyor musun?
+[Speaker 1] [4825.76s - 4827.72s] Hani Lankchain tarafından çok bakmıyorum dedim.
+[Speaker 1] [4827.88s - 4831.42s] Biraz hani aklımda karışmasın diye direkt rakibimiz olduğu için.
+[Speaker 1] [4831.74s - 4833.24s] Ama bu tarz şeylere bakıyor musun?
+[Speaker 2] [4834.10s - 4834.90s] Tabii ki de yani.
+[Speaker 2] [4835.04s - 4838.92s] Çünkü o Lama ile Hashtag'in integration'ı var.
+[Speaker 2] [4839.60s - 4842.72s] Daha hatta hafta sonu bir sunum yaptım o Lama ile alakalı.
+[Speaker 2] [4842.72s - 4851.46s] O Lama'da hani neredeyse bütün popüler open source modelleri çalışılabilecek bir software.
+[Speaker 2] [4851.86s - 4854.90s] Öyle olunca da oradaki modellerde bakıyorum.
+[Speaker 2] [4855.08s - 4858.06s] Ve hani benim için de böyle bir yine oradan şeyden geçmiş oluyor.
+[Speaker 2] [4858.24s - 4864.74s] Ya tamam bu O Lama'ya girdiyse bu model tamamen ki bu model gerçekten alanında iyi bir model.
+[Speaker 2] [4865.36s - 4866.52s] Şu noktada.
+[Speaker 2] [4866.52s - 4869.74s] Ve ben bunu kullanabilirim gibi de aslında bir filtreleme olabiliyor.
+[Speaker 2] [4870.94s - 4873.68s] O Lama bu arada çok sevdiğim uygulamalardan da bir tanesi.
+[Speaker 2] [4874.06s - 4875.64s] Open source alanında çünkü.
+[Speaker 2] [4875.90s - 4879.04s] Hani API kullanmak hepimizin çok daha işinde geliyor.
+[Speaker 2] [4879.18s - 4882.52s] Ama open source olunca böyle bir ne kullanacağım ben şimdi oluyor.
+[Speaker 2] [4883.58s - 4885.70s] O Lama bu problemi bayağı iyi çözüyor.
+[Speaker 1] [4886.76s - 4887.36s] Kesinlikle.
+[Speaker 1] [4887.58s - 4891.18s] Orada hatta O Lama'da işte terminalde çalışıyor.
+[Speaker 1] [4891.18s - 4896.14s] Onun için de böyle bir sürü O Lama tarafında entegre frontend şey var.
+[Speaker 1] [4896.56s - 4897.42s] Toolu var.
+[Speaker 1] [4897.58s - 4899.72s] Orada mesela kullandığım bir frontend toolu var mı?
+[Speaker 2] [4900.94s - 4903.58s] Frontend olarak ben Gradio'yu çok seviyorum.
+[Speaker 2] [4905.32s - 4908.62s] Gradio ile böyle bir kendime UI yapma iyi.
+[Speaker 2] [4908.96s - 4909.40s] Çünkü işte.
+[Speaker 2] [4909.60s - 4912.14s] Çünkü collab'de de çalışabiliyor Gradio.
+[Speaker 2] [4913.32s - 4919.58s] Ve hani sadece bir environment içerisinde hem uygulamamı da yapmış oluyorum.
+[Speaker 2] [4919.72s - 4921.10s] Hem UI'mı da yapmış oluyorum.
+[Speaker 2] [4921.34s - 4925.24s] Ve lokalime de hiçbir yük bindirmemiş oluyorum aslında.
+[Speaker 2] [4925.38s - 4927.76s] Her şeyi Google collab'de yaptığımdan dolayı.
+[Speaker 2] [4928.46s - 4929.58s] Ve şey de var.
+[Speaker 2] [4929.68s - 4932.12s] Ya ben bunu kime yollarsam yollayayım.
+[Speaker 2] [4932.20s - 4933.66s] Kiminle paylaşırsam paylaşayım.
+[Speaker 2] [4933.80s - 4935.36s] Onlar da bunu çalıştırabilecek.
+[Speaker 2] [4936.04s - 4939.00s] Bütün çünkü çalışmaları gereken kodlar orada.
+[Speaker 2] [4939.00s - 4942.02s] O yüzden de Gradio benim çok işime geliyor.
+[Speaker 2] [4943.22s - 4945.82s] Bunun dışında tabii daha custom bir şeyler yapmam.
+[Speaker 2] [4946.12s - 4948.44s] İstersem Streamnet'i de kullanıyorum.
+[Speaker 2] [4948.62s - 4951.80s] Ama ben biraz daha çok Gradio tarafı benim çok işimi görüyor.
+[Speaker 2] [4952.06s - 4954.00s] O yüzden de oradan çok ayrılmıyorum.
+[Speaker 2] [4954.90s - 4959.66s] Yani bana çünkü interface olarak da çok kolay geliyor.
+[Speaker 2] [4959.92s - 4963.24s] Yani kod tarafındaki developer experience'i de rahat geliyor.
+[Speaker 2] [4964.28s - 4966.06s] Eski bir frontend'ci olarak.
+[Speaker 1] [4967.22s - 4970.32s] O detay unutuluyor ama öyle bir şey var.
+[Speaker 2] [4970.92s - 4974.28s] Ya tabii daha böyle ileri seviye bir şeyler yapmak istediniz.
+[Speaker 2] [4974.46s - 4976.54s] Hani React'a kadar gidebilir bunun ucu.
+[Speaker 2] [4976.90s - 4979.06s] Ama hadi yani Python'da kalayım.
+[Speaker 2] [4979.16s - 4982.24s] Ben farklı şeyler dahil etmeyeyim dediğimde.
+[Speaker 2] [4982.30s - 4985.46s] Gradio ve Streamnet arasında gidip geliyorum aslında ben.
+[Speaker 1] [4986.80s - 4987.98s] Güzel öneriler.
+[Speaker 1] [4988.16s - 4989.90s] Ya burada başka baktığım framework var mı?
+[Speaker 1] [4989.98s - 4993.18s] Mesela ben Gradio'nun notebook'ta çalıştığını bilmiyordum.
+[Speaker 1] [4993.18s - 4997.82s] Senden öğrendim ve şu an inanılmaz ufkumu açtı diyebilirim.
+[Speaker 1] [4998.08s - 4999.48s] Gradio'una da hiç bakmamıştım yani.
+[Speaker 1] [4999.62s - 5000.86s] Direkt Streamnet yapıyordum ben.
+[Speaker 2] [5002.20s - 5009.04s] Gradio'da hatta mesela o linkini paylaşılabilir hale getirip direkt bir link de yollayabiliyorsun.
+[Speaker 2] [5010.12s - 5013.16s] Arkadaşına işte veya müdürüne.
+[Speaker 2] [5013.98s - 5016.50s] Her şey kolabda hallolmuş oluyor.
+[Speaker 2] [5016.88s - 5021.18s] Ben lokalimde bir şeyler çalıştırmayı şu noktada sevmiyorum.
+[Speaker 2] [5021.36s - 5023.84s] Çünkü sonrasında hafaza doluyor.
+[Speaker 2] [5023.98s - 5025.00s] Yani ne vardı burada?
+[Speaker 2] [5025.10s - 5026.16s] Hangi modeli indirmiştim?
+[Speaker 2] [5026.24s - 5028.94s] Ya bu model, şimdi olamayla indirdiğim model nerede?
+[Speaker 1] [5029.18s - 5029.74s] Git onu bul.
+[Speaker 2] [5029.96s - 5031.68s] Sil artık kullanmayacağım derken.
+[Speaker 2] [5031.68s - 5035.76s] Çok fazla bir şeyler yük biniyor gibi hissediyorum bilgisayarın üzerine.
+[Speaker 2] [5036.26s - 5040.50s] Ama kolabda olunca her şekilde orada hiçbir sıkıntısız.
+[Speaker 2] [5040.74s - 5041.88s] Onu çok seviyorum.
+[Speaker 1] [5042.72s - 5043.80s] Evet böyle.
+[Speaker 1] [5044.94s - 5046.74s] Çok haklısım yaptım.
+[Speaker 1] [5046.92s - 5050.12s] O kadar çok environment var ki benim bilgisayarda da öyle.
+[Speaker 1] [5050.24s - 5051.38s] Environment'dan şey de oldu.
+[Speaker 1] [5051.38s - 5057.38s] Ve bir environment sadece torçu indirmek bile o kadar büyük bir yer kaplıyor ki.
+[Speaker 1] [5058.30s - 5062.26s] Environment'lar lokalde çok büyük sorunlar yaratıyor.
+[Speaker 2] [5062.66s - 5065.30s] Orada kendinseler şey oluyor işte.
+[Speaker 2] [5065.50s - 5072.50s] Onun eski versiyonu varmış ama onu güncellememiş de orada konflikt yaratıyor falan.
+[Speaker 2] [5073.34s - 5075.36s] Ben çok gelemiyorum.
+[Speaker 1] [5076.96s - 5078.90s] Ya öyle gerçekten ya.
+[Speaker 1] [5080.36s - 5082.96s] Senin açık kaynağa yaptığın katkılar var.
+[Speaker 1] [5083.40s - 5086.70s] Burada tabii direkt olarak bir devrel olduğun için
+[Speaker 1] [5086.70s - 5090.38s] hashtagde her şeyi böyle açık kaynağa koyuyorsun.
+[Speaker 1] [5090.66s - 5092.08s] Yaptığın tüm sunumlar olsun.
+[Speaker 1] [5092.26s - 5094.90s] Yani sunumların linkleri bile açık kaynak olarak internette.
+[Speaker 1] [5095.72s - 5098.10s] İşte yaptığın tüm uygulamalar, kitapta.
+[Speaker 1] [5099.04s - 5101.06s] Bu konu hakkında işte cookbook yazmak,
+[Speaker 1] [5101.28s - 5104.18s] işte dokumentasyon yapmak, yaptığın her şeyi böyle açık kaynağa koymak.
+[Speaker 1] [5104.34s - 5105.92s] Bu konu hakkında ne dersin?
+[Speaker 2] [5105.92s - 5135.92s] 
+[Speaker 2] [5135.92s - 5139.16s] Burada bir emek koyuyorum ve sonrasında bu koyduğum ürünü,
+[Speaker 2] [5139.46s - 5144.78s] yani bu yarattığım ürünü insanlar kullansın diye açık kaynak bir şekilde insanlarla paylaşıyorum.
+[Speaker 2] [5146.14s - 5150.78s] O yüzden de open source'u genellikle seviyorum.
+[Speaker 2] [5151.68s - 5155.56s] Kendim de zaten bu alanda para ödendiğimden dolayı bana
+[Speaker 2] [5157.22s - 5159.22s] sonsuza dek gidebilirim sanırım.
+[Speaker 2] [5159.46s - 5165.64s] Yani işimin bir parçası çünkü bu şekilde buralara katkı yapmak.
+[Speaker 2] [5166.14s - 5169.10s] Ama şurada şöyle de geliyor.
+[Speaker 2] [5170.42s - 5173.56s] En başından beri ben kendim de büyük bir open source kullanıcısıydım.
+[Speaker 2] [5176.77s - 5179.23s] ve çok şeyler öğrendim.
+[Speaker 2] [5179.45s - 5183.91s] İşimi çok kolaylaştıran şeyler kullandım.
+[Speaker 2] [5184.25s - 5189.21s] Öyle olunca da birazcık da böyle geri verme isteği var içimde.
+[Speaker 2] [5189.55s - 5194.51s] Yani işimin bir parçası olmasa bile sanırım kendim yine bağımsız bir şekilde gider.
+[Speaker 2] [5194.71s - 5200.81s] İşten arta kalan zamanında ve işimin yine günlük bir saatimi ayırarak bir katkıda bulunmak isterdim elimden geldiğince.
+[Speaker 2] [5202.87s - 5204.81s] Çünkü topluluk bu şekilde büyüyor.
+[Speaker 2] [5204.97s - 5206.25s] İnsanlar bu şekilde gelişiyor.
+[Speaker 2] [5206.69s - 5211.29s] Ve herkes olabildiğince katkıda bulunduğunda böyle oluyor zaten.
+[Speaker 2] [5212.35s - 5214.05s] Bir open source sevgim var içimde.
+[Speaker 1] [5215.71s - 5216.49s] Kesinlikle ya.
+[Speaker 1] [5216.59s - 5218.99s] Ben de çok bayılıyorum open source tarafına.
+[Speaker 1] [5219.67s - 5222.07s] Burada bir de onun güzelliği şu ya.
+[Speaker 1] [5222.15s - 5224.63s] Yaptığın her şeyi bir fiil gösterebiliyorsun.
+[Speaker 1] [5225.65s - 5225.99s] Aynen.
+[Speaker 1] [5226.89s - 5228.13s] Mesela bahsettin ya.
+[Speaker 1] [5228.13s - 5235.65s] Tezini şirketle yaptın ve aslında orada paytoş kullandığını bir noktada kanıtlayamamışsın gibi bir durum oluşmuş.
+[Speaker 1] [5236.05s - 5238.27s] Aslında burada her şey ortada yani.
+[Speaker 1] [5238.35s - 5239.55s] Muazzam bir şey o yüzden.
+[Speaker 1] [5240.07s - 5240.35s] Evet.
+[Speaker 1] [5241.19s - 5241.29s] Evet.
+[Speaker 2] [5241.81s - 5246.33s] Yani işte keşke mesela lisans zamanında da kalan bir şeydi.
+[Speaker 2] [5248.35s - 5252.63s] Bütün projelerimi keşke yaptığım her şeyi GitHub'a koysaydım zaten orada olurdu.
+[Speaker 2] [5253.07s - 5256.69s] Çünkü zamanında hani ben de çok oradaki kaynakları da çok kullandım.
+[Speaker 1] [5256.79s - 5258.31s] Lisans zamanında da kullandım.
+[Speaker 2] [5258.43s - 5260.57s] İnsanlar çünkü işte notlarını paylaşıyorlardı.
+[Speaker 2] [5261.63s - 5266.57s] Yani bu tamamen bu konuşmadık open source kavramının içerisine girmiyor belki ama.
+[Speaker 2] [5267.65s - 5271.93s] günün sonunda herkes bir şeyler paylaştığından dolayı bir yere gelmiştim.
+[Speaker 2] [5272.05s - 5276.13s] Ve ben de o yüzden de hep insanlarla paylaşma şeyindeydim.
+[Speaker 1] [5276.51s - 5276.91s] Niyetindeyim.
+[Speaker 1] [5277.53s - 5278.25s] Kesinlikle.
+[Speaker 1] [5278.69s - 5281.13s] Ya buna ben de o kadar katılıyorum ki.
+[Speaker 1] [5281.23s - 5285.75s] Hatta ben kendi aldığım notlarımı da GitHub'a koymuştum.
+[Speaker 1] [5285.87s - 5287.07s] Bölüm dersi notlarımı.
+[Speaker 1] [5287.67s - 5290.83s] Hatta alt dönemlerime falan atıyorum şey grubundan.
+[Speaker 2] [5290.85s - 5292.69s] Böyle insanları çok seviyoruz işte.
+[Speaker 1] [5294.89s - 5298.69s] Hatta yani şey elimle yazdığım notları bile fotoğrafını çektim.
+[Speaker 1] [5298.97s - 5301.45s] Onları bile GitHub'a koydum yani.
+[Speaker 1] [5301.73s - 5303.11s] O kadar atıyorum ya.
+[Speaker 1] [5303.19s - 5304.01s] Alın kullanın ya.
+[Speaker 1] [5304.13s - 5305.91s] Yani bir tek bende kalmasın yani.
+[Speaker 1] [5305.99s - 5306.91s] O kadar emek vermiş.
+[Speaker 2] [5307.09s - 5310.83s] Bunu herkes yapsa var ya o kadar büyük bir dokümentasyon oluşacak ki.
+[Speaker 1] [5311.59s - 5311.97s] Evet.
+[Speaker 2] [5313.75s - 5317.05s] Evet evet ders notları birçok farklı hocadaki ders notları.
+[Speaker 2] [5317.07s - 5320.25s] Bir de hani insanın anlama yöntemi de farklı.
+[Speaker 2] [5320.89s - 5321.35s] Kesinlikle.
+[Speaker 1] [5322.01s - 5322.75s] Yani kesinlikle.
+[Speaker 1] [5322.83s - 5324.85s] Bir de örnek sınavlar buradan hani.
+[Speaker 1] [5325.61s - 5327.57s] Yakaladığınız sınav tiyolarını yani.
+[Speaker 1] [5327.73s - 5330.07s] Herkes yazsa şu şişitleri paylaşsa.
+[Speaker 1] [5331.17s - 5333.33s] Yani kimsenin derdi kalmayacak gerçekten ya.
+[Speaker 2] [5333.81s - 5334.95s] Evet doğru.
+[Speaker 2] [5335.67s - 5337.99s] Zamanında benim de çok kullanmışlığım vardı.
+[Speaker 2] [5338.21s - 5340.33s] Tabi biraz öncedendi.
+[Speaker 2] [5341.27s - 5344.49s] Şu an üniversite okumak çok farklı bir konsept benim için.
+[Speaker 1] [5345.47s - 5346.39s] Bir de.
+[Speaker 1] [5346.83s - 5347.63s] Bir de.
+[Speaker 1] [5347.63s - 5349.43s] Şimdi dur bir şey geldi.
+[Speaker 1] [5350.45s - 5352.75s] Biz haftamıza yaklaşıyorken böyle şey çok.
+[Speaker 1] [5354.23s - 5356.05s] Ya kesinlikle Zeyda.
+[Speaker 1] [5357.79s - 5359.43s] Bunu ya teşvik.
+[Speaker 1] [5359.61s - 5360.49s] Teşvik et ya sınavındakileri.
+[Speaker 1] [5361.99s - 5365.31s] Özellikle bilgisayar mühendisleri bu tarafa daha yatkın oluyor.
+[Speaker 1] [5365.59s - 5367.29s] Hani kitap kullanımına şey kullanımına.
+[Speaker 1] [5367.71s - 5369.03s] Teşvik edebiliriz anca.
+[Speaker 1] [5369.19s - 5371.39s] Yani başka türlü bunu nasıl arttırabiliriz bilmiyorum.
+[Speaker 1] [5371.39s - 5373.03s] Evet.
+[Speaker 2] [5373.69s - 5376.19s] Bir bilinçle hareket etmek gerekiyor.
+[Speaker 1] [5377.65s - 5378.59s] Kesinlikle.
+[Speaker 1] [5378.75s - 5381.71s] Şimdi o zaman en güzel, benim en sevdiğim yere geldik.
+[Speaker 1] [5382.15s - 5385.41s] Bu kamu spotu noktası bir noktada.
+[Speaker 1] [5386.25s - 5395.19s] Şimdi senin alanınla alakalı yeni başlayanların başladıkları vakit doğru zannederek yaptığı fakat aslında yanlış olan.
+[Speaker 1] [5395.19s - 5397.81s] Bu tarz senin gözlemlerin var mı?
+[Speaker 1] [5397.87s - 5398.45s] Bunlar neler?
+[Speaker 2] [5400.25s - 5405.21s] Ya şimdi bu alanda aslında biraz herkes yeni başlayan.
+[Speaker 2] [5405.39s - 5409.17s] Yani çünkü çok yeni bir alan.
+[Speaker 2] [5409.17s - 5411.57s] çok hızlı ilerliyor.
+[Speaker 2] [5411.67s - 5414.63s] Belki o yüzden sadece yeni başlayanlar diyebiliriz.
+[Speaker 2] [5414.67s - 5420.39s] Yoksa bu alanda da en uzun süre çalışan insanlar genellikle iki senedir maksimum.
+[Speaker 2] [5420.47s - 5421.29s] Ondan önce çünkü.
+[Speaker 2] [5421.93s - 5426.15s] Yani genetip eğer bu kadar yaygın bir alan değildi.
+[Speaker 2] [5426.15s - 5440.95s] Benim en çok gördüğüm şey bir insanlarda çok fazla her şeyi öğrenmeye çalışma ve her şeyi öğrenemeyip panik olup korkma durumu var.
+[Speaker 2] [5442.77s - 5446.07s] Ben de bu pozisyondaydım ilk zamanlarda.
+[Speaker 2] [5446.29s - 5447.77s] Böyle yeni modeller çıkıyor.
+[Speaker 1] [5447.87s - 5449.17s] O modeli denemem lazım.
+[Speaker 1] [5449.31s - 5450.77s] Ne yaptığını öğrenmem lazım.
+[Speaker 2] [5451.31s - 5455.03s] İşte paper'ın okumam lazım gibi bir şeydeydim.
+[Speaker 2] [5455.43s - 5457.17s] Bunun sonra mümkün olmadığını gördüm.
+[Speaker 2] [5459.37s - 5464.85s] Her alanda olduğu gibi bu alanda da küçük küçük hype'lar var.
+[Speaker 2] [5464.85s - 5467.19s] Yani işte bir şey ortaya çıkıyor.
+[Speaker 2] [5467.33s - 5468.33s] Çok büyük hype yaratıyor.
+[Speaker 2] [5468.59s - 5470.87s] İnsanlar o alanda çalışmaya başlıyor falan.
+[Speaker 2] [5471.75s - 5477.45s] Ve sonrasında bakıyorsun ki bir yerde çalışmıyor ve o hype'ı gidiyor ve kayboluyor.
+[Speaker 2] [5477.73s - 5479.57s] Bir zamanlar çok ünlü olan şey.
+[Speaker 2] [5479.83s - 5483.19s] O yüzden biraz daha her şeyin olgunlaşmasına bakmak lazım.
+[Speaker 2] [5483.97s - 5485.57s] Yeni bir şey çıkmış olabilir.
+[Speaker 2] [5485.79s - 5486.25s] Çok güzel.
+[Speaker 2] [5486.61s - 5488.45s] Bir bakalım insanlar nasıl kullanıyorlar.
+[Speaker 2] [5488.67s - 5489.95s] Ne diyorlar onun hakkında.
+[Speaker 2] [5490.17s - 5491.09s] Bunu görmek lazım.
+[Speaker 2] [5492.65s - 5494.37s] Birinci gördüğüm en büyük şey.
+[Speaker 1] [5494.85s - 5495.01s] Bu.
+[Speaker 2] [5495.19s - 5500.55s] Ve ikincisi de bu daha genel bir gördüğüm şey.
+[Speaker 2] [5501.81s - 5504.95s] Yani large language modeller bu büyük dil modelleri yani.
+[Speaker 2] [5505.59s - 5507.85s] Her şeyi yapmaya çok yetenekliler.
+[Speaker 2] [5508.89s - 5512.13s] Çok güzel böyle bir baseline oluşturabiliyorlar.
+[Speaker 2] [5512.47s - 5513.45s] Herhangi bir task için.
+[Speaker 2] [5513.79s - 5518.65s] Ama bu demek değildir ki o task için en uygun model onlar.
+[Speaker 2] [5518.65s - 5519.49s] Genelde.
+[Speaker 1] [5520.77s - 5521.63s] Genelde.
+[Speaker 2] [5522.41s - 5528.31s] O task için daha küçük ve aynı işleri yapabilecek modeller bulmak mümkün olabiliyor.
+[Speaker 2] [5528.31s - 5535.59s] O yüzden de hani evet hiçbir fikriniz yoksa bir large language modeller kullanım o taskı tamamlamaya,
+[Speaker 2] [5535.67s - 5540.57s] bir sonucu görmeye, bir şey gerçekten bu yapılabiliyor mu bakmaya değer.
+[Speaker 2] [5540.85s - 5544.59s] Evet ama sonrasında biraz daha küçük modelleri bakmak lazım.
+[Speaker 2] [5544.59s - 5559.65s] Hatta bazen aslında ihtiyaç olan tek şey çok sofistike bir regex veya uzunca yani birkaç tane else'ten oluşan bir if else statementları.
+[Speaker 2] [5559.65s - 5564.81s] Her zaman yapay zeka olacak o iş modelleri çözülecek diye bir şey yok.
+[Speaker 2] [5565.05s - 5568.83s] Bazen küçük modellere bazen de sadece koda ihtiyacımız var.
+[Speaker 2] [5569.53s - 5580.59s] Bu çok hypeken şirketler de böyle sürekli yapay zeka yapay zeka diye kendileri bir şekilde entegre etmeye çalışırken bunu çok gözden kaçırıyorlar.
+[Speaker 2] [5581.09s - 5588.29s] Her şirketinde, her ürününde, her use case'inde yapay zekaya ihtiyacı yoktur.
+[Speaker 2] [5588.29s - 5592.63s] Bunu da kamu spotu olarak da buraya koyabiliriz sanırım.
+[Speaker 1] [5594.19s - 5602.05s] Ya en net anladığım şey, şu oldu hani bir tane de görsel var ya, adam pastayı böyle kocaman bir kılıçla kesmeye çalışıyor.
+[Speaker 1] [5602.95s - 5605.61s] Bu deep learning de çok bellen bir görseldi.
+[Speaker 1] [5605.67s - 5607.93s] Şu anda da o işte CNA'ya döndüğü gibi bir şey oldu.
+[Speaker 1] [5607.93s - 5624.65s] CNA'ya haypına kapılan aslında API'ye birkaç sorgu atan herkes bir noktada anlık olarak o haypa kapılıp ya her şeyi bununla çözebiliriz gibi aslında bir noktada bir prompt yazıyorsun arkada biliyor onu falan gönderiyorsun çözüyor.
+[Speaker 1] [5625.43s - 5626.61s] Hissiyatı çok güzel.
+[Speaker 1] [5626.81s - 5630.33s] Hissiyatı çok güzel ama efektif olmayabilir gerçekten de.
+[Speaker 2] [5630.83s - 5634.97s] Çünkü gerçekten de direkt olarak şöyle bir problemle ortaya çıkıyor aslında.
+[Speaker 2] [5634.97s - 5642.23s] Bu modellerin özellikle çok büyük şirketlerin modellerinin datalarını bilmiyoruz.
+[Speaker 2] [5642.35s - 5643.71s] Nasıl datalarla eğitildiler?
+[Speaker 2] [5644.13s - 5648.13s] Yani bir ırkçı söylemleri olabilir mi bunun?
+[Speaker 2] [5648.53s - 5650.47s] Cinsiyetçi söylemleri olabilir mi?
+[Speaker 2] [5650.95s - 5653.03s] Taraflı bir data mı var içerisinde?
+[Speaker 2] [5653.79s - 5658.65s] Veya yani bir şekilde bir promptla bu model manipüle edilebilir mi, edilemez mi?
+[Speaker 2] [5658.65s - 5677.65s] Yani aslında direkt hani evet bir ürün yapmaya çalıştığımızda bir prototip oluşturmaya çalıştığımızda aslında çok kolay evet ama biz biliyormuz ki her zaman bizim kullanıcılarımız çok iyi niyetli insanlar olacak ve bu modelleri her zaman bizim istediğimiz yani düşündüğümüz şekilde kullanacaklar.
+[Speaker 2] [5677.89s - 5694.81s] Hayır yani nasıl bir SAS platformu geliştirirken de yani bir frontend zamanlarımda vardı mesela kullanıcının o butona basacağını düşünürsün ve ona göre şey yaparsın ama kullanıcı işte doldurması gereken yerleri doldurmadığı zaman o butona basar.
+[Speaker 2] [5695.29s - 5701.15s] Kullanıcı çok farklı şekillerde yani çok farklı şeyler yapmaya çalışabilir ve sen test case'lerini bunları da eklersin.
+[Speaker 2] [5701.93s - 5704.13s] Ve bunlara göre de sürekli test edersin sistemini.
+[Speaker 2] [5704.13s - 5715.25s] Yapay zekada da aslında bu şekilde yani bu modellerin test etmek de gerekiyor ve sonrasında bakıyorsun ki aslında yani evet prototipi çok kolay çıktı ama günün sonu diye ben bu modeli test edeceğim.
+[Speaker 2] [5716.29s - 5727.53s] Her şekilde güncelleyeceğim belki bir gardıya koyacağım çünkü kendi bilgim çıksın istemiyorum veya işte rakibimin bilgisini versin istemiyorum benim kullanıcıma vesaire gibi çok farklı şeylere devriliyor.
+[Speaker 2] [5727.53s - 5740.55s] Bu biraz daha ürünü artık canlıya alma pozisyonunda ama yine de bu da ilk başta düşünülmeyen şeyler ve insanların sonrasında süreçle beraber öğrendiği bir şeyler.
+[Speaker 2] [5741.75s - 5748.81s] İlk başlayan arkadaşlarda da bu önemli bence ileriyi düşünmek gerekiyor yani.
+[Speaker 1] [5749.73s - 5757.51s] Kesinlikle özellikle godreal dedin ya yani bu herhalde ilk başlayan kimse bunu düşünmez ya yani aklına bile gelmeyebilir yani.
+[Speaker 1] [5757.85s - 5758.91s] Çok önemli bir keyword.
+[Speaker 2] [5759.99s - 5760.65s] Evet.
+[Speaker 1] [5761.21s - 5763.33s] Peki senin en çok geliştiren proje neydi?
+[Speaker 1] [5763.71s - 5767.17s] Şöyle baktığın vakit aslında yaptığın projelere.
+[Speaker 1] [5767.69s - 5771.67s] Burada benim mesela kırılma noktam hani şu geliştirme kısmında şeydi.
+[Speaker 1] [5771.67s - 5773.31s] chatbot yapmak.
+[Speaker 1] [5773.47s - 5780.63s] İlk yaptığım chatbot bu hekatonlara katılıyorum böyle düzenli olarak gördüğüm işte her TV yabancı neyi görürsün.
+[Speaker 1] [5781.61s - 5784.37s] O anki müsaitliğe göre bir şekilde başvuruyoruz.
+[Speaker 1] [5784.63s - 5786.41s] Bizim ekiple birlikte tavuk pilav ekibi.
+[Speaker 1] [5787.09s - 5790.49s] Orada ilk yaptığım hekaton şeydi.
+[Speaker 1] [5790.99s - 5792.03s] Anadolu sigorta hekatonu.
+[Speaker 1] [5792.23s - 5795.93s] Orada Raza'yla yani o zamanlar CNA yeni yeni popüler oluyordu.
+[Speaker 1] [5796.15s - 5797.13s] Raza diye bir şey vardı.
+[Speaker 1] [5797.93s - 5800.41s] Öldü belki şu anda hala ben bilmiyorum ama.
+[Speaker 2] [5800.41s - 5803.29s] Yani Raza'yla bir chatbot yapmıştım.
+[Speaker 1] [5803.59s - 5806.43s] O dönemden beridir de chatbot yapıyorum.
+[Speaker 1] [5807.01s - 5809.15s] CNA HP ile birlikte daha da arttı.
+[Speaker 1] [5809.27s - 5812.59s] Yani belki 10 tane yapmıştınız farklı farklı hekaton ve firma için.
+[Speaker 1] [5813.21s - 5817.87s] Senin böyle bir geliştiren böyle tam bir kırıldığın bir nokta var mı?
+[Speaker 1] [5818.17s - 5819.39s] Proje anlamında.
+[Speaker 2] [5820.31s - 5828.13s] Ya mesela tam geçen hafta bitirdiğim bir blog post için yaptığımız bir proje var aslında.
+[Speaker 2] [5828.13s - 5831.21s] Bunu başka bir şirketteki bir arkadaşımla beraber yaptık.
+[Speaker 2] [5831.33s - 5833.11s] Yani yine iş için yaptık aslında.
+[Speaker 2] [5833.49s - 5837.51s] Ama beni bu alanda en çok geliştiren şeylerden bir tanesi diyebilirim.
+[Speaker 2] [5837.71s - 5840.11s] Çünkü işte şeyler çok önemliydi.
+[Speaker 2] [5840.63s - 5844.13s] Bu proje bir multimodal agentti.
+[Speaker 2] [5844.33s - 5852.57s] Yani benim bir agentim var ve bu hem text datasını alabiliyor hem de görsel datayı anlayabiliyor.
+[Speaker 2] [5853.19s - 5856.61s] Ama işte bu buradaki bilgi yakışı nasıl olacak?
+[Speaker 2] [5856.93s - 5858.73s] Ben bu sistemi nasıl tasarlayacağım?
+[Speaker 2] [5858.73s - 5863.21s] Bu modelin özellikle eğitildiği promptlar var.
+[Speaker 2] [5863.45s - 5865.73s] Ben işte o zaman o şeyi anlamıştım.
+[Speaker 2] [5866.93s - 5875.05s] Şimdi Hugging Face'e gittiğinizde mesela open source modellerin bazılarında size örnek olarak prompt templatelerini paylaşırlar.
+[Speaker 2] [5875.17s - 5877.97s] Çünkü işte sizin kullanmanız gereken bazı tagler vardır.
+[Speaker 2] [5880.01s - 5888.41s] Ve yani şu anki şey modellerinde bizim API'lerle kullandığımız modellerde bunu çok fark etmiyoruz.
+[Speaker 2] [5888.51s - 5891.99s] Çünkü o arkada çalışan bir logic.
+[Speaker 2] [5892.61s - 5898.39s] Ama open source modellerini kendimiz kullanmaya başladığımızda bunun önemini çok fazla fark ediyoruz.
+[Speaker 2] [5898.39s - 5908.87s] Çünkü bazen mesela çok basit bir task veriyorum ama promptunu o kadar yanlış yani o taglerini yanlış kullanmış oluyorum ve bana aynı şeyi 500 kere basıyor.
+[Speaker 2] [5909.15s - 5912.11s] Çünkü hani nerede duracağını nasıl duracağını bilmiyor model.
+[Speaker 2] [5912.59s - 5914.41s] Ve sonrasında promptu düzeltiyorum.
+[Speaker 2] [5914.87s - 5918.37s] Modelin birden çok doğru bir şekilde çalışmaya başlıyor.
+[Speaker 2] [5918.77s - 5924.03s] Bu örneğe geri dönecek olursam da bu model işte bunu bu sistemi yaratırken de
+[Speaker 2] [5924.03s - 5932.15s] bu prompt yani prompt templateini çok sıkı bir şekilde takip etmemiz gerekiyordu.
+[Speaker 2] [5932.37s - 5937.73s] Çünkü işte bir yere bir istek atıyoruz ve o istekten bize bir görsel geliyor.
+[Speaker 2] [5937.85s - 5941.89s] Ve o görseli benim doğru şekilde promptumun içerisine koymam lazım.
+[Speaker 2] [5942.17s - 5947.15s] Ki benim modelim de o görseli anlayabilsin ve sorduğum soruya cevap verebilsin.
+[Speaker 2] [5947.33s - 5953.63s] Ve tırnak içerisinde hani reasoning yapabilsin onun içerisinde gibi.
+[Speaker 2] [5954.53s - 5959.19s] Bu benim mesela en çok geliştiren projelerden biri oldu.
+[Speaker 2] [5959.43s - 5966.05s] Böyle hani modeller nasıl çalışıyor, bir agent nasıl yapılıyor ve birçok parçası var bunların hepsini nasıl bir araya getiriyorum diye.
+[Speaker 2] [5967.03s - 5973.59s] Merak eden insanlar için de hastak blogunu da en son blog post olarak paylaştık.
+[Speaker 1] [5974.97s - 5975.61s] Bakabilirler.
+[Speaker 1] [5976.39s - 5979.13s] Hatta onun linkini de repo'ya ekleyelim.
+[Speaker 2] [5980.03s - 5980.71s] Olur.
+[Speaker 2] [5980.91s - 5982.41s] Ben onu da yollarım.
+[Speaker 2] [5983.01s - 5984.71s] Onu da repo'ya ekleriz.
+[Speaker 1] [5986.27s - 5988.55s] Kesinlikle çok güzel bir nokta.
+[Speaker 1] [5988.67s - 5996.31s] Birçok farklı birleşenin aslında nasıl birleştiğinin anlaşılması gene olayı üç boyutlu görmeye geliyor aslında.
+[Speaker 1] [5996.59s - 5998.63s] Çok kıymetli ya bu olayı üç boyutlu görmek.
+[Speaker 1] [5999.41s - 6001.65s] Yeni baştanların en çok sorduğu soru bu arada.
+[Speaker 1] [6002.05s - 6004.69s] Nasıl yapacağız sorusunun arkasında o var aslında.
+[Speaker 1] [6004.69s - 6008.95s] Yani önünü arkasını göremediği için hep böyle bir nasıl yapacağız diye kendimden biliyorum.
+[Speaker 1] [6009.95s - 6010.23s] Evet.
+[Speaker 1] [6010.61s - 6010.69s] Evet.
+[Speaker 2] [6011.15s - 6013.59s] Ya bu noktada işte birazcık şey yapmak gerekiyor.
+[Speaker 2] [6013.69s - 6021.29s] Ya bir örnek alıp bir kendin gerçekten o kodları denemen, her kodu anlamaya çalışman gerekiyor.
+[Speaker 2] [6021.37s - 6024.55s] Sonrasında belki küçük küçük kendi projelerini geliştirmen gerekiyor.
+[Speaker 2] [6025.15s - 6027.99s] Sonrasında zaten bir yerden sonra akıyor burası.
+[Speaker 1] [6029.03s - 6029.75s] Kesinlikle.
+[Speaker 1] [6029.87s - 6031.17s] Çok güzel bir açıklamaydı.
+[Speaker 1] [6032.71s - 6036.49s] Şimdi sen yabancılarla birlikte çalışıyorsun.
+[Speaker 1] [6036.95s - 6038.29s] Uzaktan çalışıyorsun.
+[Speaker 1] [6038.55s - 6039.99s] Büyük oranda İngilizce konuşuyorsundur.
+[Speaker 1] [6042.09s - 6045.05s] O taraflar senin için nasıl?
+[Speaker 1] [6045.47s - 6047.37s] Türkiye'de çalıştığın bir dönem vardı.
+[Speaker 1] [6047.51s - 6049.01s] Şu an yurt dışında çalışmak nasıl?
+[Speaker 1] [6049.35s - 6051.55s] Bu ikisini kıyasladığın zaman neler söylersin?
+[Speaker 2] [6054.97s - 6059.41s] Türkiye'de çalıştığım zamanlarda müşterilerimiz sadece yabancıydı.
+[Speaker 2] [6059.49s - 6061.77s] Biz kendi aramızda Türkçe konuşuyorduk.
+[Speaker 2] [6063.67s - 6064.51s] Güzeldi.
+[Speaker 2] [6066.05s - 6069.11s] Oradaki insanlarla kafam çok iyi uyuşuyordu.
+[Speaker 2] [6069.25s - 6071.97s] O yüzden de çok güzel bir ortamımız vardı.
+[Speaker 2] [6072.31s - 6076.73s] Şu noktada Deepset çok uluslararası bir şirket.
+[Speaker 2] [6077.03s - 6079.31s] Yani zaten bütün takım uzaktan çalışıyor.
+[Speaker 2] [6079.31s - 6082.91s] Bizim ofislerimiz olsa da kimse ofise gitmek zorunda değil.
+[Speaker 2] [6084.27s - 6088.75s] Böyle olunca çok farklı milletten insanla beraber çalışıyorsun.
+[Speaker 2] [6090.27s - 6093.35s] Çok farklı kültürler işin içerisine giriyor.
+[Speaker 2] [6093.57s - 6098.05s] Ve bu bazen şirket içerisinde çok fazla hoşgörülü olmanı da gerektiriyor.
+[Speaker 2] [6098.05s - 6115.19s] Çünkü bir Türk ile iletişim kurduğunla ondan beklediğin tepkiyle herhangi bir başka bir milletteki bir insanla iletişim kurduğundaki beklediğin tepki senin aynı olsa da verilen tepki aynı olmuyor.
+[Speaker 2] [6115.53s - 6118.39s] Ve bu yüzden de bir şeylere giriyor.
+[Speaker 2] [6118.75s - 6122.37s] Yani benim şu an davranışımda bir sıkıntı var.
+[Speaker 2] [6123.17s - 6124.35s] Şu an problem ne?
+[Speaker 2] [6124.79s - 6126.71s] Gibi bir soru işaretleri oluşabiliyor.
+[Speaker 2] [6128.35s - 6131.11s] Çok farklı kültürlerle çalışmanın böyle bir şeyi var.
+[Speaker 2] [6131.25s - 6134.13s] Ama bir noktada da çok iyi bir yanı var.
+[Speaker 2] [6134.17s - 6137.61s] Çünkü çok farklı bakış açıları devreye girmiş oluyor.
+[Speaker 2] [6138.77s - 6142.25s] Ve hiç düşünmediğim şekilde beni düşünmeye sevk ediyor.
+[Speaker 2] [6142.65s - 6145.21s] Bu şeyini de seviyorum açıkçası.
+[Speaker 2] [6147.23s - 6149.55s] Yani farklı milletlerden insanlarla çalışmanın.
+[Speaker 2] [6149.55s - 6155.89s] Ama günün sonunda insanlarla nasıl çalışacağını belirleyen şey şirketin kültürü oluyor.
+[Speaker 2] [6157.17s - 6162.17s] Ve şunu diyebilirim ki Deepset'in kültürü benim önce çalıştığım şirketin kültürüne çok benzer.
+[Speaker 2] [6162.97s - 6169.51s] O yüzden de aslında çalıştığım insanlarla kurduğum iletişim dili dışında çok da fazla bir şey değişmedi benim hayatımda.
+[Speaker 2] [6169.51s - 6173.19s] Yine aynı şekilde işlerimizi hallediyoruz.
+[Speaker 2] [6173.45s - 6179.19s] Sadece işte bunu kilometrelerce öteden ve İngilizce şekilde yapıyoruz.
+[Speaker 1] [6180.13s - 6182.65s] Gene bir gıpta geldi benim taraftan diye falan.
+[Speaker 1] [6185.15s - 6190.31s] Çeşitlilik yani çeşitli insanların olması, farklı milletlerden kişilerin olması çok kıymetli.
+[Speaker 1] [6190.43s - 6191.53s] Yani böylece işte değerli bir şey.
+[Speaker 1] [6192.23s - 6193.71s] İngilizce konuşmak da çok kıymetli.
+[Speaker 2] [6194.69s - 6199.45s] Yani evet unutmamak anlamında kıymetli.
+[Speaker 2] [6199.97s - 6207.93s] Ama yani bir 8-9 saat gün içerisinde geçirdikten sonra insan gerçekten Türkçe konuşmayı özlüyor.
+[Speaker 1] [6212.83s - 6214.77s] Nazlıcan'ın bir sorusu var.
+[Speaker 1] [6215.47s - 6218.19s] Ben bilim sınıf bir yazılım mühendisliği öğrencisiyim.
+[Speaker 1] [6218.35s - 6219.79s] Algoritmayı nasıl hallettiniz?
+[Speaker 1] [6220.37s - 6221.21s] Güzel soru.
+[Speaker 2] [6222.01s - 6223.81s] Benim en sevdiğim şeydi.
+[Speaker 2] [6224.17s - 6232.57s] Yani ben sanırım, benim sanırım koddan daha çok sevdiğim şey algoritmasını düşünmekti.
+[Speaker 2] [6233.17s - 6238.21s] Yani kafamdaki o problemi nasıl çözerim diye düşünüyorum.
+[Speaker 2] [6238.21s - 6245.27s] Sonrasında algoritmaya döndürmek, yani kodu döndürmek en sevdiğim şeydi.
+[Speaker 2] [6246.11s - 6248.09s] Bunu nasıl hallettim?
+[Speaker 2] [6249.15s - 6253.61s] Ya ben sanırım bu biraz yatkınlıkla çok fazla alakalı.
+[Speaker 2] [6253.71s - 6255.45s] Ben böyle bir zeka oyunlarıydı.
+[Speaker 2] [6255.71s - 6257.69s] İşte sudoku çözmek mesela çok severdim.
+[Speaker 2] [6258.87s - 6260.71s] Üniversiteden önce.
+[Speaker 2] [6261.13s - 6263.53s] Ama pratikle de çözülebilecek bir şey.
+[Speaker 2] [6263.83s - 6265.65s] En büyük etken pratik.
+[Speaker 2] [6265.65s - 6276.67s] Yani farklı problemler bulup bunları aslında koda hiç dökmeden sadece algoritmayla nasıl çözebilirim diye düşünüp
+[Speaker 2] [6279.27s - 6281.77s] bu şekilde ilerlemek gerekiyor.
+[Speaker 2] [6283.23s - 6285.59s] Diyebileceğim en kısa şey pratik sanırım ya.
+[Speaker 2] [6286.27s - 6288.07s] Benim senin ne cevabın var Enes?
+[Speaker 1] [6289.31s - 6291.63s] Ben de tam arkada kitap bakıyordum.
+[Speaker 2] [6293.07s - 6294.79s] Şöyle benim cevabım da.
+[Speaker 2] [6295.47s - 6298.49s] Bu biraz algoritma denizm bir şey aslında biraz sistem tasarım gibi bir şey ya.
+[Speaker 1] [6298.77s - 6301.03s] Yani kafada o yolu tasarlamak.
+[Speaker 1] [6301.27s - 6303.37s] Bundan gerçekten ben de çok keyif alıyorum.
+[Speaker 1] [6303.57s - 6306.57s] Ve hatta yaptığımız projelerin o akış diagramını,
+[Speaker 1] [6307.31s - 6310.91s] işte ne bileyim, geçen işte Hecaton'da şey vardı, EWS vardı.
+[Speaker 1] [6311.23s - 6314.75s] Oradaki lambdalar birbiriyle nasıl bağlanıyor.
+[Speaker 1] [6314.75s - 6317.73s] İşte DynamoDB'ye ne gönderiyor, ne geliyor.
+[Speaker 1] [6318.07s - 6319.19s] Oradan o nereye gidiyor.
+[Speaker 1] [6319.29s - 6321.05s] Ya bunu çizmek bile o kadar keyifliydi ki.
+[Speaker 2] [6322.11s - 6327.25s] Oradaki işte kendi içerisindeki hatta ben tek tek hepsinin nasıl çalıştığının algoritmasına bile girerim.
+[Speaker 1] [6327.33s - 6329.07s] Akış diagramı tarafını ben de çok seviyorum.
+[Speaker 1] [6329.45s - 6333.11s] Hatta ben de bir Python eğitimi vermiştim 5 hafta.
+[Speaker 1] [6333.49s - 6337.55s] Yani orada 2 hafta full algoritma tarafını böyle kasmıştık yani.
+[Speaker 1] [6337.67s - 6339.09s] Çok eğlenceliydi o taraf.
+[Speaker 1] [6339.87s - 6341.99s] Bir tane kitap var bununla alakalı.
+[Speaker 1] [6342.97s - 6347.17s] Kitabın şimdi PDF'ine ulaşırsam atacağım hemen.
+[Speaker 1] [6347.77s - 6349.93s] Biraz kapsamlı bir kitap.
+[Speaker 1] [6351.41s - 6353.05s] Bu kitaba bakabilirsin.
+[Speaker 2] [6353.61s - 6358.03s] Yazı mühendisi öğrencisi olduğun için de şey yapacaktır.
+[Speaker 1] [6358.33s - 6363.31s] Şu an direkt hani PDF'nin linkini atsam sorun yaratır mı diye düşünüyorum da.
+[Speaker 1] [6363.75s - 6365.57s] Yaratmaz herhalde diye düşünüyorum.
+[Speaker 1] [6366.17s - 6368.93s] Yollayamıyor olabilirsin ama dene bakalım.
+[Speaker 1] [6372.25s - 6376.81s] Kitabın ismi Data Structure and Algorithm in Python.
+[Speaker 1] [6377.55s - 6379.21s] Bu kitaba bakabilirsin.
+[Speaker 1] [6379.37s - 6382.19s] Bu biraz fazla kapsamlı bir de hocaların yazdığı bir kitap.
+[Speaker 1] [6384.01s - 6385.79s] Biraz hani şey olabilir.
+[Speaker 1] [6386.17s - 6387.19s] Ağır da gelebilir.
+[Speaker 1] [6387.33s - 6389.11s] Ama böyle yavaş yavaş gittiğin zaman.
+[Speaker 1] [6389.65s - 6391.69s] Çok da hoşuna.
+[Speaker 1] [6392.45s - 6394.09s] İkilecektir seni ciddi derecede geliştirecektir.
+[Speaker 1] [6394.32s - 6397.50s] Orada bir de MIT'nin hocalarının yazdığı bir kitap vardı.
+[Speaker 1] [6397.82s - 6400.96s] Benim de kitaplığında olan şey algoritmalara giriş.
+[Speaker 1] [6401.18s - 6403.18s] Hatta bende parlunmeden çıkmış Türkçesi var.
+[Speaker 1] [6404.80s - 6405.78s] Ona da bakabilirsin.
+[Speaker 1] [6406.06s - 6407.68s] Ama çok Türkçe önerme vermedi.
+[Speaker 2] [6409.54s - 6413.26s] Ama bunlar yine de şey olmayacak kaynaklar.
+[Speaker 2] [6413.46s - 6416.70s] Yani iki üç yıl sonra eskimeyecek kaynaklar.
+[Speaker 1] [6416.88s - 6417.08s] Evet.
+[Speaker 2] [6418.14s - 6421.92s] O yüzden de yani Türkçesi de iyidir diyebilirim.
+[Speaker 2] [6421.96s - 6425.56s] Özellikle İngilizce yani bir engelse.
+[Speaker 2] [6425.56s - 6428.22s] Ya şey sorun ne?
+[Speaker 1] [6428.40s - 6430.34s] O konuştuğumuz plaza deri sorun oluyor.
+[Speaker 1] [6430.98s - 6433.52s] Kabarcık sıralanması diye bir şey görüyorsun.
+[Speaker 1] [6433.78s - 6434.12s] Evet.
+[Speaker 1] [6436.18s - 6436.88s] Doğru.
+[Speaker 2] [6437.00s - 6439.34s] Sonrasında Türkçesini anlamamaya başlıyorsun bu sefer.
+[Speaker 2] [6439.44s - 6441.76s] O kadar terim İngilizce kalmış ki kafandan.
+[Speaker 1] [6441.94s - 6442.52s] Evet doğru.
+[Speaker 1] [6443.38s - 6444.74s] Güdümlü öğrenme.
+[Speaker 1] [6445.14s - 6446.64s] Çok on kilitli.
+[Speaker 2] [6448.08s - 6449.66s] Ben anlamam zaten.
+[Speaker 2] [6449.82s - 6452.40s] Bana ne demek istiyorsun şu anda diye bakarım sana.
+[Speaker 1] [6453.78s - 6456.64s] Supervisor'a güdümlü diye çevirmişler.
+[Speaker 1] [6456.80s - 6458.28s] Yani o kadar şey ki.
+[Speaker 1] [6458.54s - 6460.22s] Kulağa da komik geliyor ki.
+[Speaker 1] [6460.98s - 6462.10s] Ne diyelim yani.
+[Speaker 1] [6463.02s - 6464.78s] Şimdi Gökher abi şey demiş ki.
+[Speaker 1] [6465.44s - 6469.94s] Code Wars, Lead Code, Hacker'ınki platformuna iş görebilir mi algoritma için giriş seviyesinde?
+[Speaker 1] [6470.42s - 6472.00s] Yani girişinde ötesi bence.
+[Speaker 2] [6472.92s - 6474.90s] Lead Code'da bayağı evet insanlar.
+[Speaker 2] [6475.30s - 6477.40s] Mürakatları hazırlanmak için de kullanıyorlar.
+[Speaker 2] [6477.62s - 6479.76s] Ben aktif olarak açıkçası hiç kullanmadım.
+[Speaker 2] [6481.66s - 6484.02s] Birkaç kere girdiğim vardı sanırım.
+[Speaker 2] [6484.48s - 6489.52s] Bazı şirketlerin mülakatları için birkaç task çözmem gerekmişti.
+[Speaker 2] [6490.06s - 6492.72s] Ama evet Lead Code'da insanlar bayağı şey yapıyorlar.
+[Speaker 1] [6493.36s - 6497.78s] Ben Lead Code'u çok az çözdüm ama HackerRank'i bayağı çözdüm.
+[Speaker 1] [6497.96s - 6500.16s] Oradaki Python'ın bayağı ilerledi hatta.
+[Speaker 1] [6500.46s - 6506.62s] Hatta bana iş yerindeki şu an çalıştığım yerdeki task de algoritma sorusu da HackerRank'ten geldi.
+[Speaker 1] [6506.62s - 6510.64s] O dönem çözmüyor olsaydım aktif olarak muhtemelen çözemezdim.
+[Speaker 1] [6511.54s - 6512.72s] O açıdan iyi oldu.
+[Speaker 1] [6512.82s - 6516.16s] Bence o tarafı eş geçmeyip çözmek güzel olur.
+[Speaker 1] [6518.50s - 6518.82s] Aynen.
+[Speaker 2] [6519.34s - 6522.18s] Yani işin şeyi sadece pratiğe bağlanıyor ya.
+[Speaker 2] [6523.78s - 6525.98s] Farklı karnaktan farklı şeylere bakmaya.
+[Speaker 1] [6530.06s - 6531.20s] Haklısın Zeyla.
+[Speaker 1] [6531.70s - 6532.30s] Haklısın.
+[Speaker 1] [6532.38s - 6533.28s] Ben de okuyamıyorum yani.
+[Speaker 1] [6533.54s - 6535.94s] Çok çağırlık bir heves ama okunmuyor yani.
+[Speaker 1] [6536.06s - 6537.00s] İnsanın gözüne batıyor.
+[Speaker 1] [6542.46s - 6544.82s] Burada soru almayı devam edebiliriz.
+[Speaker 1] [6545.14s - 6548.60s] Artık hani yavaş yavaş kapanışa doğru da geçiyoruz.
+[Speaker 1] [6548.94s - 6551.76s] Yani çok gerçekten uzun doyurucu bir yayındı.
+[Speaker 1] [6552.34s - 6554.38s] Yani dolu dolu sürdü diyebilirim.
+[Speaker 2] [6554.86s - 6556.62s] Neredeyse iki saate yaklaştık yani.
+[Speaker 1] [6556.76s - 6557.76s] Bir saat elli dakika olmuş.
+[Speaker 1] [6559.42s - 6562.16s] Son soruları artık alabiliriz sorularınız varsa.
+[Speaker 2] [6564.52s - 6565.16s] Evet.
+[Speaker 2] [6565.46s - 6568.48s] Sohbet ederken biraz gitmiş.
+[Speaker 1] [6570.40s - 6571.04s] Gerçekten.
+[Speaker 1] [6572.74s - 6574.34s] Yunus Emre'nin bir sorusu var.
+[Speaker 1] [6574.52s - 6575.06s] Selamlar.
+[Speaker 1] [6575.18s - 6576.40s] Sektörde üçüncü yılım olacak.
+[Speaker 1] [6576.62s - 6578.44s] Şu an kurumsal bir firmada çalışmaktayım.
+[Speaker 1] [6578.68s - 6580.90s] Artık yapılan işlerin tekrara düştüğünü görüyorum.
+[Speaker 1] [6581.10s - 6582.96s] Bu tür durumlarda karşılaştınız mı?
+[Speaker 1] [6583.10s - 6584.30s] Neler önerirsiniz?
+[Speaker 2] [6587.42s - 6589.00s] Yani şeyi merak ediyorum.
+[Speaker 2] [6589.00s - 6592.26s] Mesela kurumsal bir firmada ne olarak çalışıyor?
+[Speaker 2] [6592.54s - 6595.46s] Hani tamam tam hangi pozisyondan çalışıyor?
+[Speaker 2] [6595.56s - 6600.00s] Çünkü benim birazcık farklı alanına yönelmemin sebeplerinden biri de buydu.
+[Speaker 2] [6600.24s - 6601.56s] Yani her şeyi bildim.
+[Speaker 2] [6601.70s - 6605.08s] Ben çok iyi bir front-end enginyerim gibi değildim.
+[Speaker 2] [6605.24s - 6606.74s] Ama birazcık şeyi görmüştüm.
+[Speaker 2] [6606.84s - 6609.18s] Tamam bir projeyi bitirdim.
+[Speaker 2] [6609.34s - 6610.74s] Şimdi yeni bir proje gelecek.
+[Speaker 2] [6611.16s - 6614.38s] Ve işte bu projede belki buna benzer bir şey yapacağım.
+[Speaker 2] [6614.48s - 6616.08s] Ve buna benzer teknolojileri kullanacağım.
+[Speaker 2] [6616.08s - 6620.34s] Ya da bundan en son çıkan React versiyonunu kullanacağım.
+[Speaker 2] [6620.62s - 6622.06s] Hookları kullanacağım vesaire.
+[Speaker 2] [6622.32s - 6626.84s] Ve hani sonra ne olacak falan gibiye bağlanmıştı.
+[Speaker 2] [6629.04s - 6632.08s] Biraz böyle oluyor benim gözlemimle.
+[Speaker 2] [6636.65s - 6637.21s] Aynen.
+[Speaker 2] [6637.47s - 6638.51s] Aynen yani.
+[Speaker 1] [6638.51s - 6639.15s] Çok büyük ihtimalle.
+[Speaker 2] [6640.47s - 6641.57s] Büyük ihtimalle.
+[Speaker 1] [6641.79s - 6641.83s] Büyük ihtimalle.
+[Speaker 2] [6641.83s - 6643.75s] Hatta senin karşılaştığın problemler.
+[Speaker 2] [6643.83s - 6647.85s] Benim karşılaştığım problemlerden daha aynı bile ilerliyor olabilir.
+[Speaker 2] [6648.05s - 6648.87s] Çok hakim değilim.
+[Speaker 1] [6648.97s - 6649.71s] Datnet alanına.
+[Speaker 2] [6650.15s - 6652.33s] Nasıl, ne tür şeylerle karşılaşıyorsun diye.
+[Speaker 2] [6653.43s - 6656.77s] Ama işte bu yani bir noktalar da iyi bir şey.
+[Speaker 2] [6656.97s - 6663.75s] Çünkü artık iş hayatı yani işin zorlukları hayatında bir yer kaplamamaya da başlıyor.
+[Speaker 2] [6663.93s - 6666.09s] Eğer seçmek istediğin yöntem buysa.
+[Speaker 2] [6666.33s - 6670.33s] Veya işte o alandan başka bir alana da evrilmeye başlıyorsun.
+[Speaker 2] [6670.33s - 6673.35s] Çünkü içinde hala bir öğrenme isteği.
+[Speaker 2] [6673.49s - 6679.83s] Hala böyle bir zorlukla karşılaşayım ve bu zorluğu çözmeye çalışayım isteği oluyor.
+[Speaker 2] [6680.97s - 6683.77s] O zaman da işte Datnet alanından atıyorum.
+[Speaker 2] [6683.99s - 6686.27s] Bamba Flutter öğrenmeye geçiyorsun.
+[Speaker 2] [6686.87s - 6689.87s] Belki işte yapay zekaya geçiş yapıyorsun.
+[Speaker 2] [6690.29s - 6692.81s] Veya ikisini birleştiriyorsun belki de.
+[Speaker 2] [6694.67s - 6700.31s] Yani ben kendimce böyle bir yol izledim.
+[Speaker 2] [6700.45s - 6703.67s] Ama herkesin tabii ki istekleri, hedefleri farklı.
+[Speaker 1] [6705.77s - 6708.93s] Böyle bir durumla benim mentorum karşılaşmıştı.
+[Speaker 1] [6709.15s - 6711.81s] O da biraz şöyle durumu kaydırmıştı.
+[Speaker 1] [6712.65s - 6716.07s] Yaptığı iş artık hani onun da böyle standartlaşmıştı.
+[Speaker 1] [6716.23s - 6717.45s] Ve yani bildiği bir noktaydı.
+[Speaker 1] [6717.83s - 6720.37s] Ve yani onun girdiği tarafla da şirket şey diyordu.
+[Speaker 1] [6720.37s - 6721.83s] Sen bu taraflı alakalı girdin.
+[Speaker 1] [6722.09s - 6723.57s] Bu taraflı alakalı işlere bakacaksın.
+[Speaker 1] [6724.15s - 6725.67s] Ama o da NLP'ye kaymak istiyordu.
+[Speaker 1] [6726.25s - 6727.49s] Nasıl yapacak bunu falan.
+[Speaker 1] [6728.05s - 6730.15s] Biraz orada şey gerekiyor.
+[Speaker 1] [6730.35s - 6731.71s] Anlayışlı bir yönetici.
+[Speaker 1] [6732.15s - 6739.33s] Yani o taraf biraz yoksa cidden hani seni şirkette zorlayabilir o kısım kayma tarafı.
+[Speaker 1] [6739.89s - 6745.59s] Orada işte ilgili kişilere belki hani şirket için bir problemi çözebileceğini gösterebilirsin.
+[Speaker 2] [6745.65s - 6746.75s] O biraz öyle yapmıştı yani.
+[Speaker 1] [6746.75s - 6759.97s] Şirket için bir problem buldu ve hani o keyfi çözebileceğini dokümanta ederek, üst yönetimine giderek bunu somut bir şekilde gösterdiği için aslında girdiği işten bağımsız bir keyfi alabildi.
+[Speaker 1] [6761.17s - 6763.37s] Ve onunla beraber de değişti bu arada.
+[Speaker 1] [6763.71s - 6764.41s] Yani geçti.
+[Speaker 1] [6764.57s - 6765.39s] NLP'ye geçti.
+[Speaker 2] [6767.15s - 6770.77s] Başarılı bir girişimmiş demek ki.
+[Speaker 2] [6771.69s - 6772.37s] Güzelmiş.
+[Speaker 2] [6772.61s - 6773.87s] Bir de mesela şey de var.
+[Speaker 2] [6774.43s - 6783.81s] Yani artık bir süre developer olarak çalıştıktan sonra insanlar hani bir managerlık ya da bir leadlik pozisyonuna da geçiş yapabiliyor.
+[Speaker 2] [6784.07s - 6789.01s] Hani alandan çok kopmadan ama belki sorumluluklarının bir noktada birazcık daha değiştiği.
+[Speaker 2] [6790.29s - 6793.45s] Bu da yine bir şey olabilir belki.
+[Speaker 2] [6793.73s - 6800.39s] Şirkette böyle bir imkan varsa tabii ki ama evet dediğin gibi şirketine yöneticine göre çok değişiyor.
+[Speaker 1] [6801.51s - 6803.07s] Bir de kurumsal demiş.
+[Speaker 1] [6803.67s - 6808.99s] Kurumsalda lead ve manager olmak için biraz sene doldurmak gibi bir durum var.
+[Speaker 1] [6810.41s - 6813.27s] Veya yeni bir yapılanmaya gitmesi lazım şirketin.
+[Speaker 1] [6813.47s - 6819.21s] İşte tribe yapılanmasına falan ancak giderse senin oradaki küçük takımın lead'i olman olası olabilir.
+[Speaker 1] [6819.43s - 6820.91s] O da düşük bir ihtimal.
+[Speaker 1] [6821.41s - 6823.99s] Galiba yine sene doldurman gerekecek gibi bir durum var.
+[Speaker 1] [6824.41s - 6825.63s] Lead olacaksan.
+[Speaker 1] [6825.75s - 6829.85s] Tabii şirketi tanı bilmiyorum ama benim gördüğüm yüzde 80 böyle.
+[Speaker 1] [6833.25s - 6834.21s] Evet.
+[Speaker 1] [6837.23s - 6839.35s] Var mıdır başka soru?
+[Speaker 1] [6840.81s - 6847.75s] Ya bu arada Ceneye tarafında bilgi gerçekten herhalde TRD bakıldığı vakit
+[Speaker 1] [6849.87s - 6853.89s] Ceneye ile alakalı soru sorulabilecek en uygun insanlardan biri.
+[Speaker 1] [6854.31s - 6855.89s] Yani ulaşabiliyorsunuz.
+[Speaker 1] [6857.07s - 6858.41s] O ulaşılma tarafı var.
+[Speaker 1] [6858.41s - 6860.49s] Gerçekten değer veriyor böyle şeylere.
+[Speaker 1] [6860.93s - 6862.45s] İnanılmaz ya çok kıymetli.
+[Speaker 1] [6862.63s - 6865.55s] Yani zor bulunan insanlardan biri diyebilirim.
+[Speaker 2] [6867.23s - 6871.49s] Bu konu çok yeni bir konu ve şeyi de gözlemleyebiliyorum açıkçası.
+[Speaker 2] [6871.99s - 6875.75s] Buraya biraz daha yani Türkiye'ye biraz daha geç geliyor.
+[Speaker 2] [6876.01s - 6878.23s] Çünkü yani şöyle bir şey var.
+[Speaker 2] [6878.35s - 6879.97s] Her şey tabii ki İngilizce ilerliyor.
+[Speaker 2] [6880.49s - 6883.45s] Ve orada daha hızlı ilerliyor.
+[Speaker 2] [6883.45s - 6886.33s] Hem Türkçe model bulmak çok zor oluyor.
+[Speaker 2] [6886.57s - 6890.45s] Bu mesela benim çok sık karşılaştığım sorularından bir tanesi.
+[Speaker 2] [6890.53s - 6891.97s] İnsanlar bununla çok karşılaşıyor.
+[Speaker 2] [6893.57s - 6904.71s] O yüzden de burası biraz daha yani Ceneye'yi ürüne katmakla, şirkette adopt etme ile alakalı birazcık gerideyiz.
+[Speaker 2] [6905.57s - 6913.39s] Ama benim de işte isteğim bu konuda da birazcık daha olabildiğince, elimden geldiğince destek olabilmek.
+[Speaker 2] [6914.17s - 6916.33s] Böylelikle paylaşımlar yapabilmek.
+[Speaker 2] [6916.79s - 6920.03s] Umarım ileride Türkçe içerik de çıkartacağım biraz daha.
+[Speaker 2] [6920.39s - 6926.59s] Böylelikle daha fazla herkese bu noktada hitap eden şeyler olmuş olacak.
+[Speaker 1] [6927.59s - 6930.49s] Bu aslında benim soracağım sorulardan biriydi.
+[Speaker 1] [6930.65s - 6933.11s] Sen de tam bunu söyleyince aklıma geldi.
+[Speaker 1] [6933.53s - 6936.53s] Aslında bu da hatta son sorumuz olsun benim taraftaki.
+[Speaker 1] [6937.55s - 6941.31s] Türkçe içerik dokumentasyon kısmı ne olacak yani?
+[Speaker 1] [6941.81s - 6946.21s] Burada Langchain rakibimiz, ben de benimsedim yani rakip Langchain.
+[Speaker 1] [6949.19s - 6950.99s] Bunların Türkçe içeriği var.
+[Speaker 1] [6951.15s - 6953.17s] Bunlar yapılmış bir sürü yayın var.
+[Speaker 1] [6953.65s - 6954.53s] Hashtag de yok.
+[Speaker 1] [6954.91s - 6955.25s] Nerede?
+[Speaker 1] [6955.31s - 6956.47s] Hashtag yayınları gelecek.
+[Speaker 1] [6956.59s - 6958.83s] Bilgi makalesi de olur bu.
+[Speaker 1] [6958.95s - 6960.09s] Dokumentasyon da olur.
+[Speaker 1] [6960.51s - 6961.07s] Nasıl yapacağız?
+[Speaker 2] [6962.23s - 6965.35s] Hashtag gerçekten bir niyetim var açıkçası.
+[Speaker 2] [6965.57s - 6968.47s] Yani tabii ki her şeyi çevirmen mümkün değil.
+[Speaker 2] [6968.71s - 6976.49s] Ama temel anlamıyla Hashtag işte nedir, nasıl kullanılır diye bir içerik çıkarmak istiyorum.
+[Speaker 2] [6976.89s - 6981.55s] Ama tabii şeyden de birazcık korkuyorum bu plaza İngilizcesi modundan.
+[Speaker 2] [6982.19s - 6985.85s] Çünkü ne kadar Türkçeleştirmeye çalışsam da bazı terimleri tutmak istiyorum.
+[Speaker 2] [6987.75s - 6993.95s] Burada da bir elimi kirletebilirsem, bir niyet edebilirsem ben de istiyorum öyle bir şeyler paylaşmayı çıkarmayı.
+[Speaker 2] [6994.01s - 6997.77s] O zaman da hemen bu toplulukla da paylaşacağım.
+[Speaker 2] [6998.55s - 7001.37s] İsteyen arkadaşlar okuyabilirler.
+[Speaker 1] [7003.17s - 7004.45s] Valla bekliyoruz.
+[Speaker 1] [7005.09s - 7010.77s] Hatta bu plaza dili kısmına da bence kalmalı yani burada yapacak bir şey yok.
+[Speaker 1] [7011.25s - 7013.15s] Şöyle bir, benim çekincem de şu oluyor.
+[Speaker 1] [7013.45s - 7015.73s] Mesela konuşurken sorun olmuyor bu.
+[Speaker 1] [7016.89s - 7018.79s] İngilizceden Türkçe bir ek koymak.
+[Speaker 1] [7018.79s - 7023.19s] İşte ne bileyim burada nasıl bir örnek verebilirim tam açıklanabilmesi için.
+[Speaker 1] [7024.79s - 7025.55s] Elelemden.
+[Speaker 1] [7026.31s - 7033.91s] Mesela bunu hani konuşurken güzel ama bu kavramı ekleyip böyle yazarken çok absürt oluyor.
+[Speaker 1] [7034.41s - 7035.31s] Yani notebooka falan.
+[Speaker 1] [7035.89s - 7036.89s] Yani garip oluyor.
+[Speaker 1] [7036.89s - 7037.41s] Evet.
+[Speaker 2] [7037.95s - 7046.05s] Maalesef yani şöyle işte Fransızlar her terim için bir Fransızca karşılık üretiyorlar.
+[Speaker 2] [7046.13s - 7047.87s] Ve kendi dillerini bu şekilde kullanıyorlar.
+[Speaker 2] [7050.23s - 7053.83s] Almanlarda bu birazcık daha karışık anladığım kadarıyla.
+[Speaker 2] [7054.03s - 7057.35s] Hani her kelimeyi çevirmeseler de bazılarını çeviriyorlar.
+[Speaker 2] [7057.43s - 7059.73s] Mesela İtalyanlar bizim yaptığımız gibi işte.
+[Speaker 2] [7062.25s - 7066.67s] Hani embeddinglerini yaratmak gibi bir şey diyebiliyorlar.
+[Speaker 2] [7066.79s - 7068.95s] Yani onu biraz Türkçeleştiriyorlar da.
+[Speaker 2] [7070.61s - 7072.81s] Her dilin işte farklı bir şeyi var.
+[Speaker 2] [7072.91s - 7074.05s] Biz de böyle yapıyoruz.
+[Speaker 2] [7074.89s - 7076.57s] İşte diploylamak diyoruz mesela.
+[Speaker 1] [7077.27s - 7077.87s] Mesela.
+[Speaker 2] [7079.63s - 7080.83s] Dilin şeyi de böyle.
+[Speaker 2] [7081.07s - 7084.35s] O yüzden de ister istemez bu da yazılı şeye de böyle geçecek.
+[Speaker 1] [7085.33s - 7087.73s] Ya biraz da hani yedirildi artık.
+[Speaker 1] [7087.91s - 7089.81s] Hani bu durumlar dilin içerisine yedirildi.
+[Speaker 1] [7090.07s - 7091.97s] Burada bizim yapacağımız bir şey yok.
+[Speaker 1] [7092.07s - 7095.53s] Artık Türkçe kurumu devreye girip bunu onlar Türkçe değiştirecek.
+[Speaker 1] [7095.83s - 7099.25s] Yani ancak bu şekilde çözülür yani bu olay.
+[Speaker 1] [7099.37s - 7105.09s] Şu an baktığım zaman developer tarafından bunun çözülmesi mümkün değil gibi duruyor.
+[Speaker 2] [7105.09s - 7110.53s] Yani hani olabildiğince tabii bazı terimlerin yerine gerçekten de Türkçeleri kullanılabilir.
+[Speaker 2] [7110.75s - 7114.11s] Üretken modeller bence çok absürt durmuyor.
+[Speaker 2] [7114.33s - 7117.43s] Ama gerçekten embedding için benim bir çözümüm yok.
+[Speaker 2] [7117.69s - 7124.57s] Veya işte vektör store'a ne diyebilirim açıkçası gerçekten bilmiyorum.
+[Speaker 2] [7124.57s - 7127.87s] Belki biraz düşünsek araştırsak buluruz.
+[Speaker 2] [7128.03s - 7130.77s] Ama bu sefer ben bunu dediğimde sen onu anlayacak mısın?
+[Speaker 2] [7131.17s - 7132.27s] Orası da var.
+[Speaker 2] [7133.79s - 7135.29s] Evet destekliyorum ben.
+[Speaker 2] [7135.39s - 7138.01s] Olabildiğince Türkçe'ye dönmek lazım.
+[Speaker 2] [7138.55s - 7141.47s] Ama elimizden de bir yere kadar geliyor.
+[Speaker 1] [7142.45s - 7144.09s] Yapacak bir şey yok diyelim.
+[Speaker 1] [7144.39s - 7145.35s] Ve ağzına sağlık.
+[Speaker 1] [7145.83s - 7146.93s] Gerçekten çok keyifli.
+[Speaker 1] [7147.03s - 7148.63s] İnanılmaz bir yayın oldu.
+[Speaker 1] [7148.63s - 7150.35s] Yani benim için de inanılmaz dolu doluydu.
+[Speaker 1] [7150.43s - 7151.89s] Birçok şey öğrendim yani.
+[Speaker 1] [7152.25s - 7157.01s] Hatta bazı yerlere gidip tekrar tekrar dinleyeceğim yerler var böyle aklımda.
+[Speaker 1] [7157.45s - 7159.07s] Geldiğin için çok teşekkür ederim.
+[Speaker 2] [7159.67s - 7161.75s] Ben teşekkür ederim davetin için.
+[Speaker 2] [7161.87s - 7163.99s] Benim için de çok eğlenceli bir sohbet oldu.
+[Speaker 2] [7164.15s - 7165.89s] İki saat böyle nasıl geçti?
+[Speaker 2] [7166.13s - 7167.11s] Hiç bilmiyorum.
+[Speaker 2] [7168.31s - 7169.53s] Görüşmek üzere diyeyim.
+[Speaker 1] [7170.17s - 7171.51s] Görüşmek üzere arkadaşlar.
+[Speaker 1] [7175.31s - 7176.71s] İzlediğiniz için teşekkür ederim.
