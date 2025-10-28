@@ -1,0 +1,972 @@
+
+[Speaker 1]:
+selamlar herkese hoş geldiniz selamlar maltı grubun bir canlı yayına daha hoş geldiniz
+
+[Speaker 2]:
+diyelim bugün gerçekten biz bizeyiz 3 maltı grubu üyesi aynı zamanda 3 bu alanda daha
+
+[Speaker 1]:
+daha doğrusu 2 bu alanda çalışan bir dijital management kısmında olan insanla birlikteyiz
+
+[Speaker 2]:
+yavaş yavaş insanlar toplanırken biz de arada sohbetimize devam edelim bir 5 dakika 6
+
+[Speaker 1]:
+dakikaya toplanmasını bekleyelim isterseniz siz de düğürlerinizi yapın benim canlı yayın da açılmış arkada ses geldi mi bilmiyorum ama size düğürlerinizi yapın isterseniz şöyle bu yayında nelerden bahsedeceğiz biraz onlardan konuşabiliriz Göker abinin geçmişinden başlayacağız bu data bir alanına nasıl girdi Aslında onu ve bu tarafa ne sürükledi biraz okul hayatı biraz böyle kişisel olayları daha sonrasında komünitelerde çok aktif bu komünitelerdeki aktifliğinde neler yapıyor iş hayatında işte emelops olarak çalışıyor emelops enteresan bir taraf özellikle TRD çok bulunabilen kişiler değil bu meslek çok bulunabilen meslek değil bu mesleğin biraz cilvelerinden konuşuyoruz neler var neler yok daha sonrasında artık yeni başlayanlara çeşitli öneriler çetten gelen sorular yeni yeni başlayanların keza doğru bildiği ama aslında yanlış olan bir takım noktalara değinerekten sohbeti ettikçe ederiz yani zaten konuştukça açılır hatta direkt Göker abinin şöyle bir geçmişi de başlayabiliriz abi sen biraz öncelikle hoş geldin tabiki adama bir söz verelim ya nasıl gidiyor
+
+[Speaker 2]:
+neler yok olsun iyiyim sevdiğimiz bir canlı yayında da beraberiz topluluklarda enesinde dediği gibi mümkün olduğunca aktif olmaya daha çok katkı veren tarafta olmaya alışkınım ama arada bir böyle işte yayınlara konuk daveti geldikçe de katılıp bildiklerimi çok paylaşmak istiyorum ya paylaşmak çok şeyim var yapay zeka ile alakalı bu alanda da birazcık azız biz daha böyle bir mobil kadar bir vef kadar olamadık o yüzden ufak ufak bu tarafları da geliştirmeye uğraşıyoruz zaten sende dediğin gibi de var mutlu bir bünyesinde geçtiğimiz yıl güzel etkinlikler yaptık yazın ortasında da yaptık daha sonrasında yaptık önümüzdeki yılda umarım yine yüz yüze etkinliklerle yapay zeka komitesini inşallah büyüteceğiz yazın ortasında çok üzdü ya böyle ter dökerek ya gerçekten çok sıcak bir günde hatta bizim etkinliklerin böyle bir talihsizliği vardır o yılın en sıcak gününde etkinlik yapmışız konferansı da o kadar sıcaktı ki gerçekten o kadar sıcak hala böyle bahsedince bir tane bir şey öneriyorum senin malç gruba katılışında biraz şey de hani eğlenceli de böyle hani yazdım dedin ki aktif bir topluluk göremiyorum burada bir şeyler yapacak mısınız diye yapacağız dedik
+
+[Speaker 1]:
+ama biraz beklemedik 4 ay sonra ben sana geri döndüm o süre zarfında böyle bir burada post çıktı falan
+
+[Speaker 2]:
+demiş miydin bu arada öyle yapacak gelmiş miydi demedim Çünkü tabi o zamanlar güzel günler discord falan açık Türkiye'de erişime hani Discord'da zaten hep böyle bir etkileşim dönüyordu ufak ufak. Hani sabırsızlıkla böyle e-etkinlikleri başlasın bir an önce diye bekliyordum. Çok acayip bir etkinlik oldu. Yani insanlar İzmir'den falan geldi Temmuz'un ortası ve geldiler yani baya baya sağ olsunlar. Katılışım öyle bir şenlikli olmuştu. Şubat'ta ilk böyle mesajlaştık sonra Temmuz'da ilk etkinlik oldu. Güzeldi yani. O sırada da gerçekten
+
+[Speaker 1]:
+bizim data tarafımız biraz böyle acaba yapabilir miyiz? Multi Group bilmeyen arkadaşlar için çoğunlukla kendi içinde organizatörlerinin yöneldiği alana doğru etkinlik
+
+[Speaker 2]:
+yapan multi-disitler bir topluluk.
+
+[Speaker 1]:
+Ama kurulduğumuz zamandan bu yana sürekli organizatörler değiştiği için içerideki dinamikler de değişti. Benim alanım mobil olduğu için mobil her zaman canlıydı birazcık daha. Datada biraz sorun yaşıyorduk. Göker yazmıştı o zaman ve hani böyle bir insan var ve bir şeyler yapmamız lazım ama ben hiç data ile alakalı değilim. Ne yapacağız? Falan filan muhabbetinden ya dedim bir şey olmaz hadi bir yola çıkalım. Bir şekilde hallederiz diye ve güzel şeyler yaptık bence. Çok güzel aktifleştirdik. Daha da ileri götürebileceğimizi
+
+[Speaker 2]:
+düşünüyorum.
+
+[Speaker 1]:
+Keza Enes'in de katılma öyleydi. Enes de başka bir etkinlik serisinden görüp bizi ben aslında geliyordum ama diyerek girmişti. Bugün güzel
+
+[Speaker 2]:
+toplanmalarla bir canlı yayın oldu diyebiliriz.
+
+[Speaker 1]:
+Mesela bu aradaki konuşmadan hemen böyle aklıma takılan ve benim de zaman zaman çokça düşündüğüm bir şey. Evet mobil tarafta güçlü bir komünite var. Evet ne bileyim işte başka frontend de başka backend de birçok yazılımcı böyle hızlıca örgütlenip güzel etkinlikler çıkıyor. Ama data tarafında gerçekten de bir olmayışlık var. Bir toplanamıyoruz. Bunun sebebi ne sizce?
+
+[Speaker 2]:
+Abi ben bunun sebebini çok kendi bakış açımla anlattığımda
+
+[Speaker 1]:
+yani ben 2020 yılından beri sektöre bir içerik çıkartmaya çalışıyorum. 2020 yılında profesyonel olarak başladım diyebiliriz şirketlerle falan. Ve benim en şaşırdığım noktalardan biri
+
+[Speaker 2]:
+ben hep bunu soruyorum. Ya mobilde etkinlik
+
+[Speaker 1]:
+yapıyoruz. Android'te işte böyle bir şeye ihtiyacım var diyorum. Birine gidiyorum
+
+[Speaker 2]:
+birinin kapısını çalıyorum. O
+
+[Speaker 1]:
+müsaade değilse bile beni başka birine gönderiyor. Süper bir şey bu. Harika bir şey. Hiç unutmuyorum. İkinci projem webde. Webde de böyle çok büyük bir hevesle başladık. Direkt böyle birkaç kişiye yazmaya başladım. Sektöründe çok
+
+[Speaker 2]:
+üstü bir rakam teklif etmeye çalışıyordum
+
+[Speaker 1]:
+çalışırken freelance birleriyle. Webde hiç kimse cevap bile vermiyor. Dönmüyor bile. Ve gerçekten komünitilerin kendi içinde birazcık daha mesela atıyorum Gökhan burada inanılmaz güzel bir şey yapıyor. Öğrencilerini etkinliklere davet ediyor. İşte mentorluk verdiği kişi etkinliklere davet ediyor. Ben eminim ki
+
+[Speaker 2]:
+onun bağlantıda olduğu insanlar da böyle konuşmaya çıkmak isteyecektir. Buna bir
+
+[Speaker 1]:
+heves edecektir. Ve bu bir yerden sonra kültüre dönüşecektir. Mobilde bu biraz var. Mobilde bu biraz oturmuş. İşte Google topluluklarının yaptığı şeyler veya işte ne bileyim diğer alanlardaki durumlar yüzünden belki olabilir. Ama belki data da bu eksiktir. Diğer birçok alanda da birazcık eksiklik var gibi duruyor şu anlık. Ama mobilde o konu hiç sıkıntı yaşamadık. Android de aktif olan. Şimdi IES'e geçti. Öyle ilerliyoruz bakalım. Sizin Gökhan senin görüşün ne? Enes'e de buradan cevap vermiş olurum.
+
+[Speaker 2]:
+Ya bence şöyle. Yine topluluk deneyimlerinden bahsederken daha geniş değiniriz. Bundan birkaç sene önce aslında yapay zekaya dair böyle inanılmaz bir topluluk ortamı vardı. Ama bu topluluk genelde şey böyle bir 5-6 tane süperstar bir şeyler üretiyorlar ve işte benim gibi o zaman öğrenmeye çalışanlar da diyelim takip ediyorlar şeklinde. Hiçbir zaman bir topluluk böyle karşılıklı bir paylaşım gibi bir durum olmadı. Biraz da pandemiden kaynaklı yani yapay zekanın hype'ı Türkiye'de pandemiye biraz denk geliyor sektöre anlamda. Bir noktadan sonra herkes kendi yoluna yöneldi. Yani bir şekilde böyle kişisel bir takım çatışmalar olabilir. Belki biraz bilmiyorum ego olabilir. Twitter'da arada bir denk geliyor. Birisi bir yorum yapmak istiyor. İşte o öyle değil. Sen boş yapıyorsun. Sen boş konuşuyorsun. Lara çok çabuk geliyor konu. Olmuyor yani. Yapay zekacılar böyle biraz çok biliyoruz gibi oluyor böyle her şeyi. O yüzden biraz bence dağıldık gibi oldu. Toparlamaya çalışıyoruz yavaştan.
+
+[Speaker 1]:
+Mikrofonu alayım. Bunu bir yapay zekacı söyledi. Bunu bu alandan biri söyledi. Duymuş olun arkadaşlar. Sonunda bunu ne diyen biri oldu. Ben en abuzit yaşadığım şeylerden biri mobil bootcamp'inde gelen konuklarımızdan biri. Canlı yayını açmaya gelen konuklarımızdan biri şey demişti. Mobil bootcamp'i öğrenciler seçilerek geldi falan. Biri çıkıp şey demişti ya mobil biraz boş her şey yapay zekaya dönecek. Abi mobil bootcamp'i insanlar heves etmiş. Bir kariyer oluşturmaya çalışıyor. Geliyor ve böyle bir şey duyuyorsun.
+
+[Speaker 2]:
+Ne olmaz tadımız kaçmıştı bizim. Ne oluyor ya falan. Biz de ne oluyor falan demiştik organizatör olarak.
+
+[Speaker 1]:
+Evet biraz garip o durumda var. Katılıyorum. Şöyle garip bir döngü var hatta içeride. Yani yapay zekacılar yapay zekacılara bu meslek bitecek. Kendi kendimize yaptığımız bir şey var. Zorbalık var. Gerçekten çok enteresan. Abi zorbalığın daha kötü bir nokta var. Siz birbirinize bu meslek bitecek diyorsunuz.
+
+[Speaker 2]:
+Başka alanlara sizin mesleğiniz bitti diyorsunuz.
+
+[Speaker 1]:
+Yani o noktalarda başkaları bitti biz de biteceğiz. Bizi bir karamsarlıkla evet.
+
+[Speaker 2]:
+Bizi bir iş biliyoruz.
+
+[Speaker 1]:
+O zaman yavaştan artık konumuzu tanımakla başlayabiliriz. Abi senin sektöre girişin, bu alanla tanışman, çalıştığın şirketler, yaptığın iş. Biraz böyle bunlardan bize şöyle bir bahsedebilir misin?
+
+[Speaker 2]:
+Tabii bahsedeyim.
+
+[Speaker 1]:
+Bir dakika araya gireyim. Ben zaten giriş kısmı için gelmiştim.
+
+[Speaker 2]:
+Birazcık da uzakta kaldım. O yüzden de size daha odaklı bir canlı yayın için.
+
+[Speaker 1]:
+Ben ayrılayım buradan. Hepinize şimdiden iyi yayınlar dilerim. Görüşmek üzere.
+
+[Speaker 2]:
+Teşekkürler. Görüşmek üzere. O zaman ben yavaştan 2011'den hatta alayım üniversiteye giriş kısmından. Yıldız Teknik Üniversitesi Kontrol ve Otomasyon Mühendisliği mezunuyum ben. 8 yıllık böyle aşırı eğlenceli bir lisans hayatım oldu. Benden sonra zaten 7 yılda mezun olamayan atıyoruz gibi bir şeye girdiler. Ben bu kadar uzun okuyan son insanlardan biriyim hakikaten. Benim Kontrol ve Otomasyon Mühendisliğine girişim şöyle oldu. O sene yeni açılıyordu bölüm. Türkiye'de tekti. Zaten böyle Türkiye'de tek olan şeylere denk gelmek biraz kaderim oldu. Yani bölümüm de öyle, mesleğim de öyle oldu birazcık. Hani şans belki de. Yıldız Teknik Üniversitesi'nde bilgisayar mühendisliğine o zaman puanım yetmiyordu. İşte Marmara, İstanbul gibi alternatiflerim vardı. Bölüm yerine üniversite tercih ettim. Şu anda hani bizi izleyen ya da daha sonra YouTube'da izleyecek olanların büyük kısmı üniversitelidir ya da yeni mezundur diye tahmin ediyorum. Ama en azından çevrenizde belki sizlerden yönlendirmeyi isteyen olursa hele ki şu dönemde artık böyle üniversite sayılarının çok arttığı bir noktada bölüm yerine üniversite tercihi yapılmasını şiddetle tavsiye ederim. Bölüme başladım. Sene böyle 2016 galiba. Hani biraz böyle yazılım öğrenmek istiyorum ama bölüm çok hitap etmedi bana. Çünkü kontrol otomasyon birazcık böyle ağır sanayiye dönük gömülü programlama içeren tipte bir yazılım öğretiyor öğrencilerine. Bu da bana çok gelmedi. Yani benim yapmak istediğim şey şu an yapıyor olduğum gibi bir bilgisayar ekranının arkasında sanal bir takım yazılımlar aslında sanal değil mi dijital bir takım yazılımlar kodlama. 2016'da bir yarışmaya girdim bölümüm dahilinde. Daha sonra o yarışmada yaptığım proje benim bitirme tezime dönüştü. Çok bereketli oldu aslında. Bu yarışmada ikinci oldum. Basit çapıda bir firma otomasyon firması vardı. Onun tool'larını kullanarak bir otomasyon çözümü geliştirmemiz bekleniyor. İkinci olduk. Ödül törenine gittik. Ben CEO'suna dedim ki hani part time ben çalışmak istiyorum. Okulum devam ediyor ama yazılım geliştirmeyi seviyorum. Hani yapmışım da ürünlerinizle kullanabiliyorum. O da belli. Ben dedim part time çalışmak istiyorum. Bana dedi ki Türkiye'de biz dedi RG mühendisi almıyoruz.
+
+[Speaker 1]:
+RG yapmıyoruz.
+
+[Speaker 2]:
+Yazılımı geliştirmiyoruz. Sadece satış yapıyoruz. Onda da 5 sene tecrübe istiyoruz. İlk psikolojik kırılma bende orada oldu. Yani bu yarışmayı niye düzenliyorsunuz o zaman diye soramadım tabii ama. Dedim herhalde buradan çok bana ekmek çıkmayacak. Daha sonra ismini vermeyin. Bir firmanın ilanını gördüm link edinde. Otomasyon mühendisi arıyor ama elektrik veya makine mezunu. Ben de daha o zamanlar mezun değilim ama yine de bir mail attım. Daha sonra galiba telefonda konuştuk. İşte bana dedi ki siz dedi hani elektrikaya makine okumuyorsunuz. Neden buraya başvurdunuz gibi bir şey sormuştu. Ben de dedim ki bunun eğitimini alıyorum. Bu bölümdeyim zaten biliyorum da hani PLC programı vs. Biz dedi ama işte donanım bilgisi yüksek birini arıyoruz. Sizin bölümünüzde de hani bu eğitim verilmiyor. Elektrik ve makineyi bu yüzden tercih ediyoruz ki hakikaten öyle. Yani bir PLC programlama bilen bir elektrik mühendisi ya da otomatik kontrol dersi almış bir makine mühendisi bizim yaptığımız şey yapabiliyordu o dönemler. O da beni birazcık küstürdü. Daha sonra birazcık 2018 yazına kadar böyle bir savrulduğum bir dönem oldu. Hani ne yapmam lazım şeklinde. Beni Python öğrenmeye iten dürüst konuşayım. Öğrenmesinin basit olması oldu. Yani bu dedim hani kolay bir yazılım dili. Ben bunu öğrenip devamlı bir şeyler yapabilirim. En kolay öğrenebileceğim o vardı. Onu öğrendim. Daha sonra işte ufak tefek o zamanlar tabii böyle bootcamp'ler eğitimler vesaire yok. Yüde mi vardı? Ama tabii işte 15-20 liralara eğitim alabiliyorduk. Yani öğrenim kredimizin onda biri belki daha düşük bir paraya böyle her ay bir eğitim alabiliyordu. Böyle güzel zamanları olmuştu ekonomimizin. Onlarla işte birazcık haşır neşir olmaya başladım. Derken 2018 yazında yapay zeka üzerine bir staj buldum. O staj programı İTÜ Teknopark'ta Miletos diye bir firma. Şu an hala oradalar mı bilmiyorum. Bana göre o dönemin çok çok ötesinde bir staj programıydı. Şu anda da eğer hala yapıyorlarsa Türkiye'nin en iyi staj programlarından biri kesinlikle. Çünkü bizi böyle Linux'tan başlattılar. Linux öğrettiler. Daha sonra Python programını öğrendik. Yapay zekaya giriş yaptık ve bir derin öğrenme projesiyle bitirdik staj programını. Baya dolu dolu bir programdı. Onunla beraber yapay zeka.
+
+[Speaker 1]:
+2018'de Linux'e başlayıp derin öğrenmeyle bitiyor. Derin öğrenme stajda 2018'de muazzam bir kesişme olmuş gerçekten.
+
+[Speaker 2]:
+Ya şu an zaten öyle şeyler kalmadı artık. Yani dönüp bakıyorum böyle hani chat GPT falan hak getirdi zaten.
+
+[Speaker 1]:
+Kaynak yok.
+
+[Speaker 2]:
+Bir şeyleri böyle stack overflow'dan arayıp bulmuşuz. Şeyi hatırlıyorum ama PyTorch framework'ı kullanıyorduk ve PyTorch'un dokümanından okuyarak böyle bir şeyleri yapamadığımız şeyleri çözerek ilerliyorduk. İlerliyorduk baya baya harika bir staj programıydı.
+
+[Speaker 1]:
+O zamanlar PyTorch da yenidir bu arada. PyTorch ne zaman çıkmıştı? 2016 falan olabilir PyTorch'un çıkışı.
+
+[Speaker 2]:
+Mümkün mümkün. Yani yeniydi tabii daha yapay zeka eder. Her şey çok yeniydi. Şey hatta işte bu bilmem kaç bin tane fotoğrafla eğitilmiş o Imaginet modelinin daha yeni zamanlarıydı. Biz de stajda iki tane mimari kullanmıştık. Biri DenseNet, biri ResNet. Onların katmanlarını falan Coursera'daki Deep Learning kursundan önce kendimiz yazmıştık. Şu an bilmem kaç trilyon parametre bir eleleme oturup kendiniz yazmışsınız gibi o mimariyi hayal edin. Hani öyle bir şey yapıyorduk. Oturup katmanlarını da kendimiz yazmayı öğrendik. Modeli de kendimiz işte train ettik vesaire. Yani şu an bilmiyorum ya o kadar böyle çok şey öğreten bir program var mıdır ama o zamanlar öğrenmek güzeldi. Yani geri dönüp hani ben nasıl öğrenmişim bütün bunları diyorum yani hakikaten. Bilgiye erişmenin zor olduğu bir dönemdi. Hele ki yapay zeka konusunda. Kesinlikle.
+
+[Speaker 1]:
+Burada bu konuşmadan benim özellikle aklıma takılan senin okulunun bir uzaması. Hani o tarafta sen bölüm değil işte üniversite tercih edin dedin. Sence buradaki tercihlerden kaynaklı olarak aslında bölüm birazcık uç kaldığı için mi? Yani özel bir neden değilse oradaki bölümün uzaması nasıldı? Ve işte ondan sonraki kayma işleminde Yıldız Teknik'in rolü nasıl oldu? Farklı bir üniversitede olsaydın sence bu şekilde bir kayma data tarafına olur mu?
+
+[Speaker 2]:
+Evet. Yani çok fazla şey kurcalayıp böyle kendimi öğrenmek zorunda kaldım. Hem bölümüm çok yeni. Yani mezunu bırak ikinci sınıf bile yok ben girdim. Hani öyle düşün. Dolayısıyla orada birazcık kendim tırmalamak zorunda kaldım ama Yıldız Teknik bana o imkanı da verdi. Yani başka bir üniversitede bu kadar fazla kulüp olmayabilirdi. Tanıştığım insanlar belki bu kadar vizyoner olmayabilirdi. Yani bu anlamda bana aslında birazcık çok şey kattığını düşünüyorum. Mesela şu an herhangi bir Anadolu Üniversitesi'nde bir GDG topluluğunun o insana etkisini ben aslında Yıldız Teknik'te hissettim. Yani bir Anadolu Üniversitesi sana katılacak hiçbir şey yok ama giriyorsun işte o GDG'ye ve onların etkinliklerine katılıyorsun online veya yüzde işte bir şeyler öğreniyorsun. Bir anda vizyonun değişiyor, hayatın değişiyor. Çünkü bütün üniversitelerimiz artık belli yüksek kalibreli üniversiteler hariç çok birbirine benziyor. Ama o dönemler tabii bu kadar üniversite enflasyonunun olmadığı bir dönemde Yıldız Teknik daha parlıyordu. Hani başka bir üniversiteye gitsem ve bilgisayar mühendisi okuyor olsam hiç yapay zekaya girmeyip belki hani software developer olurdum ve olabilir miydim? Hani Python öğrenmeyip başka bir dil öğrensem bilmiyorum şu an hani nerede nasıl çalışıyor olurdum, yaptığım işten mutlu olur muydum? O tabii birazcık şey yani çok böyle o dönemler bana zorluk çıkartıyormuş gibi görünüyordu. Hani bir şeyler öğrenememek böyle ama geriye dönüp baktığımda belki de şanstı.
+
+[Speaker 1]:
+Burada senin şu anda öğrenimin de hala devam ediyor. Hem Anadolu Üniversitesi'nde bir yönetim bir işim sistemleri var bir de Bahçeşehir'de yapay zekada yüksek lisansın var. Özellikle bu Anadolu'daki yönetim bir işim sistemleri okumanın amacı nedir? Yani bunu okuyan ben başka tanıdıklarım da var. Niye bu okunuyor bilmiyorum. Senin taraftan neden okuyorsun? Ve özellikle de Türkiye'de şey var. Yapay zeka şey yüksek lisans. Şimdi isme bak yapay zeka yüksek lisans. Bu Bahçeşehir bunun öncülerinden miydi? Oradaki dersler falan nasıldı? Biraz da böyle bunlardan bahsedebilir misin?
+
+[Speaker 2]:
+O dönemler bence öncülerinden olabilir. Sene 2020 galiba yazılmıştım. 2021'de pardon yüksek lisansa girmiştim. Önce şeyden alayım. Yönetim bir işim sistemleri okuma sebebim. O dönemler böyle bir hype vardı. Hani sınavsız ikinci üniversite. Hani girelim okuyalım yandan bir şeyler oluyordu ama benim sebebim şuydu. Ben dedim ki ben bu bölümden mezun olamayacağım herhalde. Çünkü yani dersler bir elektrik devre temellerine çok takılmıştım. Ve geçebilecek gibi durmuyordum. O derse bağlı başka bir ders daha vardı. Ona bağlı iki ders daha vardı. Bir de hani ne zaman mezun olacağım belli değil. Ne iş yapacağım hiç belli değil. Dedim hani yönetim bilişim biraz bilgisayarla alakalı bir şey olsun. Belki hani o sayede sevimde onu göstererek iş bulurum. İş bulur muyum acaba? Diye başladığım bir şeydi bölümde. Ama zaten onu bitirene kadar yapay zeka alanında kariyerime de başlamış oldum. Yüksek lisans yapmayı isteme sebebim şuydu. Ben kendimi hala alaylı görüyorum bu sektörde. Yani kontrol otomasyon çıkışlıyım. Bilgisayar mühendisliği çıkışlı olmam lazım. O zamanlar en azından öyle düşünüyordum. Dedim ki hani birazcık teorik temelimi kuvvetlendireyim. Hem bilgisayar bilimleri hem yapay zeka konusunda. Yarın bir gün bu karşıma çıkar sıkıntı olur. Ama o da hani öyle bir noktaya geldi ki zaten yüksek lisansı bitiremedim. Bitiremedim gerçi ama onu bitirene kadar zaten artık 5 yılı aşkım mesleki tecrübe edinmiş oldum. Başlama sebebim oydu. Bu aralar bir düşünüyorum tekrardan yüksek lisansa geri dönmeyi. Çünkü seviyorum. Yani teorik olarak kendimi beslemeyi, akademik olarak kendimi beslemeyi daha doğrusu. Belki yüksek lisansıma bahçe şehre veya başka bir yerde devam ederim. Pandemide başlamıştım yüksek lisansa ve dersler nasıldı? Ya aslında yapay zekanın bence şu an tabii lisans düzeyinden hani ne kadar zor dersler veriyorlar ya da ne veriyorlar çok bilmiyorum ama birazcık yüksek lisans olması lazım. Yapay zeka lisansı ben mesela çok şey buluyorum. Yapay zeka mühendisi 4 senelik bölümleri birazcık yanlış buluyorum. Yani yüksek lisans olması gereken bir alan. Ama dersler çok böyle şeydi. O zamanlar genel geçerdi. Yani işte bir derin öğrenme dersi var. Bir makine öğrenmesi dersi var. İşte big data dersi var. Hiç yapay zeka ile alakası olmayan işte network falan gibi dersler var.
+
+[Speaker 1]:
+Bu dersler hands-on dersler mi? Yani işin sonunda sizden kod yazarak bir şey yapmanızı mı bekliyoruz? Yoksa gene kağıt üstünde mi bir şeyler yapıyorsunuz?
+
+[Speaker 2]:
+Düşünüyorum. Kağıt üstünde sınava girdiğimiz oldu. Zaten pandemide birazcık böyle online'di ama bir finallerimiz galiba böyle. O pandeminin hafiflediği bir zamana denk gelmişti. Bir dersin sınavına böyle yazılı olarak girdiğimi hatırlıyorum. Ama onun dışında çoğunlukla zaten bizim derin öğrenme dersimizde mesela her hafta böyle işte bir quiz, ufak bir proje. Ertesi hafta işte o projeyle alakalı yine ufak bir quiz falan gibi gittiğimiz bir süreç olmuştu. O quizler projelerde hep şey hani Torch Framework ile yaptığımız şey projelerdi. Dolayısıyla hands-on oluyordu. Bir tane bulut bilişim dersimiz vardı mesela. Daron yönden giriyordu derse. Orada mesela birkaç haftada bir proje veriyordu yani bize. Ya projeler soyut projelerdi. Hani özellikle bir cloud platform kullandırtmıyordu. Ama eğlenceliydi yani.
+
+[Speaker 1]:
+Ya inanılmaz bir denk geliş olmuş oldu. Daron Hoca'ya da buradan selam olsun.
+
+[Speaker 2]:
+Selamlar gerçekten. Çok böyle bireysel olarak çok severim, çok takip ederim. Böyle ismini bir görünce hani şey yani direkt tıkladım dersi. Yani ne anlattığına çok bakmadan.
+
+[Speaker 1]:
+Güzel iş. O cloud dersini hangi bu arada cloud provider üzerinden veriyordu? O da bir merak konusu.
+
+[Speaker 2]:
+Biz hiç proje yapmadık Azure üstünde. Ama tabii kendisinin Azure tarafında hani benim çocukluğuma falan dayanan bir tecrübesi olduğu için. O genelde oradan örnekler veriyordu. Ama yaptığımız projeler birazcık soyuttu. Yani işte bir müşterin var. O müşterin verisini bir yerde tutacak. Bir yerden bir yere aktaracak. İşte o veri güvenliğini nasıl sağlarsın? Ya da işte o aktarımı nasıl sağlarsın? Oraya işte Azure'da bunu kullanırım. Ya da işte GCP'de bunu kullanırım gibi cevaplar veriyordu. Biraz öyle hani şey ilerliyordu. Soyut ilerliyordu. Mimari tasarımı gibi ilerliyordu. Ama Azure üstünde biraz takılıyorduk.
+
+[Speaker 1]:
+Daha böyle konsept bazlı. Hani daha temellere yönelik bir şey gibi.
+
+[Speaker 2]:
+Aynen.
+
+[Speaker 1]:
+Peki abi senin bayağı bir gönüllü deneyimin var. Bu tarafta topluluklarda gerçekten aktifsin. Geçmişte işte Deep Learning Türkiye, Software Development Türkiye, gene keza Yıldız Teknik'in Mentorluk Kulübü'nde, keza burada, Developer Multi Group'ta, işte Global AI Hub'ta ve LinkedIn'e yazmayan bir de söylenti dergide bir yazarlığın var. Tüm bunları nasıl götürüyorsun? Buradaki motivasyonun ne? Bunu niçin yapıyorsun bu kadar gönüllü deneyimi? Ya şundan dolayı yapıyorum.
+
+[Speaker 2]:
+Ben gerçekten üniversite hayatımı az önce de dedim. Yani birçok şey böyle kendi kendime öğrenmek zorunda kaldım. İstiyorum ki başkaları bunu yaşamasın. İlk motivasyonum o. Şimdi de mesela yani öğrenecek çok şey var. Çok kaynak var. Ama inanılmaz bir bilgi kirliliği de var. İşte yayının başında birazcık Twitter'dan bu bahsediyorduk. Yani giriyorsun Twitter'a böyle bir şeyler öğretmeye çalışan kadar, işte heves kırmaya çalışanlar da var. Heves kırmasının doğuruculuk olduğunu, hani bunlar doğru şeyler, doğruları söylüyorum, gençler doğruları bilsin şeklinde yaklaşanlar var. Birazcık hani gençler o şeyde kaybolmasınlar istiyorum. O kalabalıkta kaybolmasınlar istiyorum. Çünkü yapay zeka hani çok popüler bir alan, ama çok fazla alt iş dalı var. Yani yapılabilecek çok fazla şey var aslında. Çünkü sadece ML Engineer ya da AI Engineer ile kısıtlandığı zaman, yani senede Türkiye'de bu alanda 100 kişi belki, 100 kişilik bir kadro bile açılmıyor. Ama işte bilgisayar mühendisi, yazılım mühendisi, yapay zeka mühendisi derken yüzlerce mezun var. Bunların yani hepinizin aynı yere girmenize gerek yok. Ama hani birinin yol açması lazım. Bunu böyle öğrenebilirsin. Mezun olduktan sonra bu işleri yapabilirsin. Kendi kendine bir şey öğrenebilir bir insan ama hani neyi bilmediğini bilmen lazım bir, bilmediğini nasıl öğreneceğini bilmen lazım iki. Ben genelde hani hep böyle webinarlarda, eğitimlerde bunların üstünde çok duruyorum. Yani neyi bilmediğini ve nasıl öğreneceğini bilirsen, bir şekilde yolunu bulursun. Beni de topluluklara dair motive eden en büyük şey bu. Ben gençlere hani bildiklerimi aktarayım, neyin nereden öğrenebileceklerini, birazcık rehberlik ediyor olayım. Ve hani bir komünite olalım. Çünkü ben de bu yolun başında Deep Learning Türkiye'de üye olarak girmiştim oraya. Hakikaten çok iyi bir kurucu kadrosu vardı. İşte şu an hepimiz birçoğumuzun adını bildi. İşte Merve Noyan, Mert Çobanoğlu, İrem Kömürcü. Daha işte bir dünya insan oralardan çıkıp, işte İNZVA diye bir topluluk var. Orada da mesela yine iyi eğitmenlerimiz vardı. Buralardan hani bir şeyler kaptım. Şimdi bunları hani madem ben aldım, bu insanlar da neticede bana bu bilgileri gönüllü olarak verdiler. Gönüllü olarak bir şeyler üretmek istediler. Topluluklar birazcık böyle büyüyor. Yani benim de aldıklarımı birilerine vermem lazım ki, böyle böyle büyüyelim.
+
+[Speaker 1]:
+Kesinlikle yani. O dediğin dönem zaten muazzamdı. O 2014'den aslında 2016-2017'lere kadar uzanan dönem. Benim de o dönem çok şey öğrendiğim. Hatta bu programların motivasyonunu da çıkaran güzel bir dönemdi. Keşke devam edebilseydi daha uzun süre. Şimdi chatten bir soru var. Big Boss 55'den gelmiş. İsmi çok iyi. Ben yönetim bilişim ile ön lisans programcılık arasındayım. İkinci ünü için hangisini önerirsiniz?
+
+[Speaker 2]:
+Kendi bakış açımdan bakacağım. Hani programcılık, yönetim bilişime ben dediğim gibi hani birazcık böyle onu kullanarak iş bulurum belki ve sınavsız girebiliyordum diye başvurmuştum. Programcılık diye bir şey görseydim. Belki ona başvururdum. O yüzden özellikle de ya hani ben bilgisayarla ilgili bir şeyler yapmak istiyorum ama backend mi geliştireyim, mobil mi geliştireyim, ne yapayım kararsızlığındaysan eğer
+
+[Speaker 1]:
+ben programcılık okurdum herhalde ya. Hani hepsini bir görürdüm bir bahaneyle.
+
+[Speaker 2]:
+Bir derstir, ödevdir, stajdır, projedir, bir şeydir. Ön lisans programcılık okuduğunda bunu daha sonra hiç böyle fizik, kimya, biyoloji vs. sorularına maruz kalmadan sadece Türkçe matematik çözdüğüm bir DGS ile bilgisayar mühendisini tamamlayabiliyorsundur. Belki çok hani şey yapmayayım bilmediğim için bir araştırmanı öneririm sadece. Hani bilgisayar mühendisini tamamlanabiliyorsa öyle de bir güzellik olabilir. Hani ön lisans programcılıktan başlayıp daha sonra 4 senelere tamamlarsın. Öyle devam edersin yapabiliyorsan eğer ama bence programcılık. Bir de hani yeri gelmişken şunu söyleyeyim. Burada sorulan soruları vereceğim bütün cevaplar benim şahsi düşüneceğim, şahsi fikrim hiç öyle hani doğrusu budur böyle yapın diye bir şey yok. Türkiye'de teknoloji yapı sistemi çok geniş. Her şeyinde onlarca doğrusu var yani. Twitter'da falan böyle bir şey gördüğünüzde aklınızda olsun.
+
+[Speaker 1]:
+Kesinlikle. Yani benim bu soruda aklıma takılan şey mesela yönetim biçim sistemleri 4 yıl okunan bir bölüm ama ön lisans programcılık 2 yıl okunuyor değil mi?
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Bunu düşündüğümüzde özellikle kurumsalda şu anda mevcut tane 4 yıllık bir üniversite okuyorsan ve hani bilişim sektöründe IT tarafında değer geçen bir üniversite ise ikinci üniversiteye gerek var mı aslında?
+
+[Speaker 2]:
+Yani şöyle gerek işte hani dediğim gibi teknoloji ekosistemi Türkiye'de çok geniş var. Ne tip firmalarda iş bulacağını bilmediğim için bir start upta çalışıp yolunu bulacaksan birinci üniversiteye bile gerek olmayan şeyler var, senaryolar var yani. O yüzden ama biraz daha böyle kurumsal çalışan ama küçük. Böyle çalışmayı çok sevmediğimiz, çalışış şirketinden kurumsala evrilmiş tarzda firmalarda belki diploma biraz daha önemli olabilir. Biraz daha programcılık en azından o sektöre yaklaştırır diye düşünüyorum. Benim yönetim, bilişim, derslerim tabii açık öğretim. Bu bir kıyas değil ama çok da fazla öyle yazılımla haşır neşir olmamıştık.
+
+[Speaker 1]:
+Ya burada ben de şeyi düşünüyorum. 2 yıl ve 4 yıl olayı aslında önemli bir nokta diye düşünüyorum. Çünkü özellikle daha böyle bilindik büyük şirketler, daha böyle kurumsal olan şirketler aslında 2 yıldan ziyade 4 yıllık bölümlere bakıyorlar. Burada da aslında senin eğer böyle daha kurumsal bir şeye girmek istiyorsan programcılıktan ziyade aslında yönetim, bilişim sistemleri eğer şu anda IT tarafında bir bölüm okumuyorsan bence daha mantıklı olur yani. Eğer öyle bir kurumsallık istiyorsan.
+
+[Speaker 2]:
+Tabii şöyle, şunun da notunu vereyim. Ben şu an kariyerimde 6. yılıma girmem. 5,5 yıl geçti gibi stajlarla beraber 6 oluyor. Bunların tamamı startuplarda geçti. Kurumsal hayata dair gerçekten hiç böyle bir hands on info yok. Information yok elimde, bilgim yok. O yüzden hani o anlamda yanıltıyor olmayayım. Ama hani öğrenme olarak bakıyorum konuya. Önlensiniz programcılık. Ama hani bitireyim, bir yere gireyim diyorsan 4 yıllık diploma. Enes'in dediği gibi her zaman daha fazla iş yapar tabii ki.
+
+[Speaker 1]:
+Yani burada şey gibi, kurumsal dikanın önüne CV geldiği zaman hemen bir bakıyor. Orada zaten hani deneyimin yoksa hemen bölüme gidecek. bakacak orada işte x bilmem ne tarım bölümünden mevzusunu atıyorum. Bir de yönetim bilişim var. Okey diyecek. Ama işte önlensiniz programcılık olursa 2 yıllıksa seni eleyebilir orada.
+
+[Speaker 2]:
+Benim mesela şeydi. İlk böyle stajımı buldum dedim. Miletos stajıma mesela. Ben yıldız teknik öğrencisi olduğum için biraz kabul aldığım gibi oldu.
+
+[Speaker 1]:
+Çünkü sıfırdım.
+
+[Speaker 2]:
+Hiçbir şey bilmiyordum. Hatta onu da anlatayım yere gelmişken. bir başvuru formu vardı. Ben de hani yapay zekarele ilgili hiçbir şey bilmiyorum. Ama öğrenmek istiyorum. Hani ne iş olsa yaparım minvarinde. Böyle cevaplar verdim. Bayağı ciddi ciddi sormuşlar. Hani hangi altta aldı çalışmak istersin? Nasıl bir proje geliştirmek istersin? Ben tabii hani sıfırım. Ve sadece staj arıyorum aslında. Başvurduktan birkaç gün sonra şirketin CEO'su beni aradı. Yani.
+
+[Speaker 1]:
+Şirket tam kaç kişi çalışıyordu CEO arıyor?
+
+[Speaker 2]:
+209 kişi falan ya çok da değil yani. Tabii ama CEO neticede. Ya şöyle oldu. Ben ses tondan anladım. Beni fırça atmak için aradı. Hani bu formu böyle doldurmaya utanmadım mı diyecekti aslında belki. Bir de hani senden dinlemek istedim. Cevaplarını hani tam ne arıyorsun gibi sorular sordu. Ben de hani anlattım. Ben dedim hiçbir şey bilmiyorum ama. öğrenme yeteneğime çok güveniyorum. İşte kendi kendime bir şeyler öğrenmeye çalışıyorum. Ama biraz da böyle şey cümleler kurdum. Hoşuna gidecek cümleler kurdum. Hani iş en güzel işte öğrenilir. Artık proje yapmam lazım. Yüdemeden eğitimler bir yere kadar falan diye. Neyse kabul aldık. İçeri bir girdim abi böyle. İşte koç üniversitesinde. Öğrencimi ararsın ki bir tanesi böyle stajı yarıda bırakıp Amerika'da bir üniversiteye falan gitti. Bir tane Bilkentli, bir tane İTÜ'lü çok zeki bir çocuk vardı. Bir Bilkent mezunu bir kız vardı. Tek mezunumuz oydu galiba. Baya böyle şey bir ekipti. Hani çok kalifiye bir ekip ve ben.
+
+[Speaker 1]:
+Ya böyle. Estağfurullah.
+
+[Speaker 2]:
+Ya o zamanlar en azından öyleydi. Birkaç hafta geçti aradan. Bir de tabi bunlar çok küçükler. Böyle 20-21 yaşında falanlar. Ben o zaman 25 yaşındaydım. Bizim işte o CEO'muz da biraz böyle sohbet muhabbeti seviyor. İTÜ'de o zamanlar doktorasını bitirmişti. Herhalde böyle hocalık yapıyordu. Hocam dedim beni niye aldınız? Yani hani bu insanlardan ben kalite olarak çok ayrışıyorum sonuçta. O zaman söylemişti. Hani zaten okuduğun üniversite bize bir şey yaptı fikir verdi diye. Çünkü hep böyle top class üniversiteler dendik. Sonra şöyle güzel bir şey anlatmıştı.
+
+[Speaker 1]:
+Bir tane böyle tahtası var.
+
+[Speaker 2]:
+Oraya böyle yaza çizi anlatmayı da çok sever. Bir tane piramit çizdi böyle. En alta bilgi yazdı galiba. Onun üstüne akıl yazdı. En üstte de karakter mi yazdı? Öyle bir şey. Pardon tam tersi.
+
+[Speaker 1]:
+En alta karakter.
+
+[Speaker 2]:
+Onun üstüne akıl. En üstte bilgi. Ondan sonra işte karakter kısmına böyle bir şey yaptı. Biz dedi seni çok sevdik dedi. O günleri telefon konuşmasında. Hani ben dedi çok etkilendi falan. Akıllı biri olduğunda belli. Tek eksiğin bilgiydi. Onu da biz verdik zaten falan gibi böyle bir güzel bir felsefe yapmıştı. Yani o şeyde telefon konuşmasında böyle bilmediğim şeyleri biliyormuşum gibi davransam belki de olmayacaktı. Hani bir samimiyetimle. Ama tabii şu an bilmiyorum böyle imkanlarınız var mı? Yani bir staja başvuracaksınız ve staja başvurduğunuz yerin işte genel müdürü CEO'su neyse sizi arayıp telefonda mülakat yapacak. O zamanlar hani öğrenmek zordu. Bu kadar bootcamp topluluşu bu yoktu ama tabii işte iş staj bulma imkanı bugüne göre daha kolaydı.
+
+[Speaker 1]:
+Ya şu anda herhangi bir gönüllü yani paralı olmayan bir staja bile gerçekten binlerce insan başvuruyor. Ve şaşırıyor yani insan yani. Çok çok büyük bir rekabet var. Gönüllü işlerde bile bu kadar kişinin başvurması insanını da bir düşündürtüyor. Mesela yeri gelmişken şunu sorayım ben o zaman. Üniversitede öğrenciler nasıl kendini keşfedip de yapay zekacı olmaya karar verip ilgili alt dalana yönlenebilir. Yani şimdi benim gittiğim böyle topluluk buluşmalarında falan da sürekli böyle işte ben böyle işte staj yaptığımı işte çalıştığım falan söylediğim zaman. Aa nasıl buldun? İşte nasıl şey yaptın? Nasıl karar verdin? Neye bakayım falan. Ondan sonra veya şöyle bir şey geliyor bana sürekli. Daha böyle birinci sınıfta kişilerden falan. Senin yaptığın iş yapay zekanın neresinde? Yani mesela bu sorulara nasıl cevap verilir? Ve kişi kendini nasıl keşfedip ilgili alana yönelebilir? Üniversite öğrencisiyken.
+
+[Speaker 2]:
+Ya tabii burada stajlar her yer bulmakta zorlanıyoruz tabii onu anlıyorum ama. Stajlar bu işin gerçekten çok önemli bir parçası. Hazırlıktan ya da yapabiliyorsak birinci sınıftan itibaren. Böyle hani gönüllü stajları birazcık kovalamak lazım. Çünkü hangi alanda çalışacağımızı olmasa bile en azından hangi alanda çalışmayacağımızı kavramamıza yardımcı olabilir. Yani benim yaptığım staj mesela görüntü işleme üzerineydi. Ya çok da hoşuma gitmemişti açıkçası. Çünkü görüntü işleme yapay zeka diye bir şey hiç var olmasaydı bile hayatımızda olacaktı. Yani çok böyle bir sihri varmış gibi gelmiyordu. Ya biraz daha ben mesela NLP'ye yönelmiştim. Çünkü metin datasıyla bir şeyler yapmak bana daha böyle bir yapay zekaymış gibi geliyordu. Ya bugünkü LLM'lerin yaptığı şeyler hani. Görüntü işleme dediğin ya bir fotoğraf var kayıp piksel var. Etrafındaki piksellerin ortalamasını alıp oraya koyunca işte fotoğrafı tamir etmiş oluyordum falan. Hani bir üniversitede dersini almıştık. Bu şekildeydi. Şimdi stajlara geri dönecek olursam yapay zeka tarafında karar vermeniz gereken nihai şey. Hangi data alanında aslında çalışacaksınız? Yani görüntü mü, metin mi, ses datası mı, zaman serisi mi gibi gibi hani böyle çoğaltılabilir bu örnekler.
+
+[Speaker 1]:
+Buna bir karar vermek lazım önce.
+
+[Speaker 2]:
+Buna da yani staj bulmadan nasıl yapılır sorusu birazcık zor. Ama bir şey, bir yolu bunun şu olabilir. Aldığınız bootcamplerde yaptığınız projeler, o aldığınız şeylerde, eğitimlerde yaptığınız projeler bir miktar çok değil fikir verecektir. Bundan sonra asıl bence olayın kopacağı yer. Senin zaten çok böyle haşır neşir olduğun kegol platformu var. Bilmiyorsanız da hani öğrenciğiniz ilk yer orası. Çünkü hangi alttağda çalışmaya karar verebileceğinizin cevabını en kolay orada bulursunuz. Yani orada işte text datası da var. Görüntü datası var. Ses datası var mı kegol da bilmiyorum. Birazcık bunları kurcalayarak. Yani çok böyle endüstriyel projeler yapamasanız ya da yarışmalarda dereceler elde edemeseniz bile. En azından native data ile uğraşmayı sevdiğinizi keşfedersiniz. Daha sonra tabii mecburen artık günümüzde yapay zeka da artık generatif. Generatif EE evrildi aslında. Artık yani yapay zekay değil sadece generatif EE konuşur olduk. Generatif EE tarafında işte Hugging Face platformu şu an ön plana çıkıyor. Oradaki modellerle işte oradaki modellerin API'lerini kullanarak. Yine görüntüyle ya da işte metinle vesaireyle uğraşarak bir takım ufak da bir projeler yapıp. Kendinize bir direksiyon çizmeniz maalesef gerekiyor. Bundan çok kaçış yok. Ne kadar erken bunu yapabilirseniz o kadar iyi. Staj konusunda şöyle bir şey yapabilirim. Tabii dediğim gibi benim zamanıma göre çok daha zor artık ama bazen mesela mentörlük görüşmesi yaptığım öğrencilerden şey geliyor. Yani zaten çok fazla ilan da olmuyor. Yaptığım, başvurduğum ilanlara da dönüş olmuyor. Staj ilanı genelde olmaz zaten. Ya böyle çok büyük firmalar staj programları açarlar. Ya da benim yaptığım şey şuydu. Bir Türkiye Yapay Zeka İnisiyatifi var. Bu arada bu programda, bu yayında bahsettiğimiz linkleri belki işte videonun açıklamalarına koyarız.
+
+[Speaker 1]:
+Ya da ben linkinde... ...birine bilirsin abi. Ben direkt buraya veririm.
+
+[Speaker 2]:
+Tamam. Onu da az sonra ufak tefek bir aramaya başlarım o zaman linklerimi. Türkiye Yapay Zeka İnisiyatifi diye bir platform var. Türkiye.ai.com
+
+[Speaker 1]:
+...birine bilirsin.
+
+[Speaker 2]:
+Bu platformda, bu platformdaki bütün girişimlerin listesine erişebiliyorsunuz. Ne tip bir data ile çalışmaya karar verdiğiniz noktada, hangi tip data ile çalışmaya karar verdiyseniz artık... ...o platform içerisinde o girişimleri ayrılmış bir şekilde görebiliyorsunuz. Kim hangi data ile çalışıyorsa. Orada tek tek mail atarsınız. Ben öyle yapmışım. O zamanlar, tabii işte yüz küsur firma vardı. Her birine başvurup her birine spesifik mailler attım yani bu arada. Ben dediğim gibi çok böyle sıfır sayılabilecek bir düzeydeydim. Beni hani neresi kabul ederse noktasındaydım biraz. Görüntü işleme çalışan firmalara mail atarken, işte görüntü işleme ile çok ilgiliyim diye mail attım. NLP çalışan firmalarla mail atarken de NLP ile ilgileniyorum diye mail atmıştım. Ben stajımı açıkçası öyle buldum. Yani startuplar bir kısmının İK departmanı yok. Bir kısmı hiç böyle ilana çıkmaz, dışarı ile işi olmaz firmalar. Ama siz gidip başvurduğunuz zaman sizi değerlendirebilirler. Hani ne biliyorsun, ne öğrenmek istiyorsun. Bir 3-5 muhabbetten sonra siz de onlara bir şeyler verebilecekseniz sizi staja kabul edebilirler bu şartla. Çünkü biraz hani işin karanlık bir tarafı ama yani biz öğrenci olarak ya da yeni mezun olarak bu tip startuplar için ucuz iş gücüyüz bir yerde. Yani onların hani çok böyle büyük bütçeleri yok, yazılımcılara, mühendislere vs. verebilecek. Ya da işte bizim zaten böyle 3-4 asgari ücret talep edebilecek kadar bilgi birikimimiz yok. O noktada dolayısıyla çok böyle eşleşiyoruz startuplarla. Benim ilk çalıştığım şirketin işte bir teknoloji hukuk diye iki ayrı şey vardı. Bir çatı şirket var, onun altında iki şirket daha var. Teknoloji tarafında 7-8 kişi falandık biz. Ben zaten oraya girerken düşük bir maaş alacağımı biliyordum. İşte ilk stajlı olarak başladığımda asgari ücretin altındaydım. Full time'a geçin de işte birazcık arttı ama yine de az kazanıyordum. Bir buçuk sene orada çalıştıktan sonra işte katlana katlana maaşım artmaya devam etti. Yani şu an hani gayet iyi şartlarda çalışıyorum. Dolayısıyla startuplarda başlarsanız ve birazcık siz kendiniz ararsanız bence bulursunuz. Diyeyim staj için. Bu arada şey, evet o linki verebiliriz yayına.
+
+[Speaker 1]:
+Tamam, ben linki veriyorum. Benim tarafta da gelişim şöyle olmuştu. Hekaton ve datatonlara aslında çok katılmıştım. Özellikle işte datatonlarda çeşitli TR dereceleri işte finale kalma. Gene hekatonlarda birkaç sefer Türkiye'de dereceye girdik. Yani şimdi orada size problem direkt olarak veriliyor. Ve işte elinizde çoğu zaman datatonlar bir data oluyor. İşte hekatonda bir materyal oluyor, bir API oluyor. Onun üzerinden aslında size ilgili probleme bir yenilikçi katma değerli bir çözüm üretmeniz isteniyor. Senin elinde bir problem var, bir materyal var. Mecbur bunları kesiştirip üzerine katma değerli bir şey inşa etmeye çalıştığın vakit aslında kendiliğinden portfolyo inşa olmaya başlıyor. Bir yarışma girdin, iki yarışma girdin falan filan. Sonra aklında fikirler daha da gelişiyor. Bu yarışmalara gittikçe çeşitli networklere ediniyorsun. Aslında böyle yani. Yarışmaya girmekten çekinmeyin.
+
+[Speaker 2]:
+Yani evet bu arada hani çok öyle derece beklentiniz de olmasın ya da ne bileyim işte ben rezil olurum gibi beklentiniz de olmasın bu iş veya staj başvurularında da çok oluyor. Ya zaten beni almazlar. Yani eleneceksen eğer, İK seni zaten eler. Hiç öyle kafanızda kendiniz elemeyin. Biraz güçsüz olmak lazım.
+
+[Speaker 1]:
+Aynen. Ya hatta benim bugüne kadar gelen stajlardaki veya iş taraflarındaki dönüşler hep böyle beklemediğim yerlerden geldi. En böyle beklediğim yerlerden hiç dönüş gelmezken en böyle beklemediğim yerlerden böyle dönüş geldi falan. O dönemlerde. Hiç beklemediğiniz yerden geliyor yani çekinmeden.
+
+[Speaker 2]:
+Aynen öyle. Benim yani Türkiye'nin çok kurumsal firmalarından birinden dört sene sonra red yemiştim falan var ya böyle bir staj programına başvurdum. Dört sene sonra mail attılar.
+
+[Speaker 1]:
+O da abart olmuş yani. Dört sene neyi bekledi?
+
+[Speaker 2]:
+Biraz daha fazla mesafeliyim ya.
+
+[Speaker 1]:
+Evet. Ya benim merak ettiğim şeylerden biri bu Yıldız Teknik Mentorlik Kulübü'nde ne yapıyorsun abi? Orada neler yapıyorsun?
+
+[Speaker 2]:
+Orada şöyle güzel bir yapı var. Bunlar ilk başta endüstri mühendisinin altında bir topluluk olarak yola çıkmışlar. Yavaş yavaş böyle bölümlere yayılıyorlar. Orada da aslında herkesin ana fikir şey herkesi o bölümden mezun birileriyle eşleştirelim. Ben ama şey yapıyorum yani ben hani kontrol otomasyon mühendisliği mezunuyum ama bu alanda çalışmıyorum. Benim bu bölümde öğrencilerine verecek bir şeyim yok. Beni bunlarla eşleştirmeyin. Endüstri mühendisliği, bilgisayar mühendisliği, matematik mühendisliği, matematik bölümü. Bir de işte şimdi yapay zeka yeni açıldığı için yapay zeka bölümündeki arkadaşlarla eşleşmek istiyorum falan demiştim ben. İşte senede iki veya üç öğrencin oluyor. O öğrencilerin iki sene önceki mentilerini mesela bitirme tezlerin üzerine falan çalışmıştık. Yapay zeka üzerine çalıştıkları için. İşte nereden staj bulurum, nasıl staj bulurum? CV'yim iyi mi? Nasıl iyileştirebilirim? İşte nereden proje yapacak bir proje bulabilirim? İşte gitabımı nasıl geliştirebilirim? Nereye nasıl projeler koyabilirim? Gibi gibi böyle sorular oluyor. Aslında senede böyle birkaç defa görüşüp o öğrencilere bilgi deneyimini aktardığım bir süreç. Senede iki kere galiba yüz yüze etkinlikleri oluyor. Orada hem işte mentorlar geliyor, mentiler geliyor. E güzel oluyor bir yandan yani. Üniversite mezunlarıyla da biraz görüşmüş oluyoruz. Orada da dediğim gibi yani biraz hani böyle bildiklerimi aktarma konusunda bir motivasyonu var yine. Bir de hani şeye çok inanıyorum. Yani üniversite mezunlarının iş hayatında böyle birbirine destek olması gerektiğine, o network'ün gücüne inanıyorum. Ve Yıldız Teknik biraz işte ODTÜ, İTÜ gibi teknik üniversitelerinin gerisinde bence bu konuda. Biraz da hani orayı kapatmaya vesile olabilmek için giriştiğim bir şeydi, projeydi diyebilirim orada da.
+
+[Speaker 1]:
+Ya bu mentiler için de inanılmaz büyük şans. Özellikle data tarafında hani yazılım taraflarındaki yönlendirmeler için de önemlidir tabii ki. Ama data tarafında bir mentorun olması ve şimdi yazılımda yaptığın projede çok yanlış yapma olasılığın olmaz. Hani ya çalışıyordur ya çalışmıyordur aslına bakarsan. Ama data tarafında bir machine learning pipeline'da onlarca hata yapabilirsin. Yani orada veri sızıntısıdır, çeşitli bir takım yanlış periyotlamalardır. Yani bunların sonucunda ortaya bir skor çıkar. Ama işte bu skorun yorumlanması bile ayrı bir olaydır. Bunu aslında birinin size doğru mu yapıyorsun, yanlış mı yapıyorsun diye bir geri bildirim vermesi gerekir. Bu bağlamda aslında data tarafı için mentorluk daha ayrı bir öneme sahip. Keza kendimden de üniversite ikinci sınıfta data committee'nin altıncı konuğu olan Taner Sekmen'le tanışmıştım.
+
+[Speaker 2]:
+Yani bizim aynı bölümdendi.
+
+[Speaker 1]:
+O dönem o getirde çalışıyordu. Yani bana bayağı yani gerçekten mentorluk yapmıştı ve beni de bayağı boostlamıştır. Bu bağlamda ben şey sorabilirim. Senin bir mentorun var mıydı ve kişiler nasıl mentor bulabilir buradaki üniversite öğrencileri?
+
+[Speaker 2]:
+Güzel soru. Benim mentorum yoktu. Yani çok uzun bir süre olmadı. Hayatımda bir kere mentorluk aldım. O da Daron Yöndem'den almıştım. Böyle bir saatlik falan. Çünkü o mentorluğu alma sebebim de şeydi. O zamanlar Codeway'de daha yeniydim. ML Ops çok yeni bir kavram. Ben eski şirketimden title'ım ML Ops'tu ama yaptığım iş birazcık böyle ML Ops'tan artık çıkıp DevOps'a döndü diye ayrılmıştım. Biraz beni yoruyordu. Yani bölümüm çok yeniydi. O yeniliğe adapte olmaya çalıştım. Sonra mesleğe atıldım. Ki ilk çalıştığım şirkette de aslında ML Engineer olarak girmiştim. Ama daha sonra dediğim gibi çok küçük bir şirkettik. Şirket ihtiyaçları gelebiliyor. Böyle software developer'a döndüm. Yani sürekli böyle bir yerlere sürükleniyorum ama bir şirkete giriyorsun mesela çok büyük bir şirket, kurumsal bir şirket, bankada çalışırsın. Önünde her zaman bir proje olur. Yapacak bir taskın olur. Sen bilirsin bundan 3-5 ay sonra bile neyle uğraşıyor olacağını. Ama böyle hep startup'larda çalışınca birazcık da böyle şey oluyor. Ne yapman gerektiğini senin kendin keşfetmen gerekiyor. Yani bir ürün üstünde de çalışıyorsan veya arka planda bir sistem üzerine çalışıyorsan burada ne eksik? Ben burada neyi geliştirebilirim? Nasıl geliştirebilirim? Bu da beni yordu bir yerden sonra. Yani sürekli böyle bir önümü görme ihtiyacı hissediyorum. O dönemler işte üstünde çalıştığım bir proje vardı Broadway'de mesela. Ve o proje o gün bitse, bir şekilde nihayete erdirsek, ertesinde yapacak işim yoktu.
+
+[Speaker 1]:
+Böyle böyle psikolojik... Çok enteresan bir senaryo. Bu hatta geçen de ben İzmir'de bir buluşmaya gitmiştim. Yazılımcı buluşmasına. Oradaki startup'ta çalışan insanlar da böyle boş kaldığından bahsetmişti. Şaşırmıştım yani mesela. Bayağı hani evet bir stajyerdir. Kurumsalda ne bileyim boş kalabilir. Ama genel olarak hani tam zamanlı kişilerin bir işi oluyor kurumsalda. Evet proje var, task belli. Devam ediyor süreçler bir şekilde. Toplantılar oluyor. Ama dediğim gibi böyle bir startup'ta senin bulman gereken bir süreç varsa gerçekten de boş kalmak mümkün. Yani o enteresan bir şey.
+
+[Speaker 2]:
+Bunu nasıl yapayım? Ya bundan birkaç sene önce, sene 2020 miydi? 2020'ydi herhalde. Demek ki pandemi daha ya olmadı o dönemler ya da işte yazın böyle birazcık tokağa çıkma hesağının gevşediği zamanlarda Vakıfbank'ta çalışan biriyle tanışmıştım. Ona böyle hikayemi anlatıyorum. O zamanlar Alterna'da çalışıyordum. İkinci şirketimde. İlk şirketimden dedim yani ürünü geliştirdik, bir noktaya getirdik ama artık hani yapacak bir şey kalmadı. Çünkü hani böyle productçı biri yok başımızda, bir product ekibi yok. Ürüne ben bakıp ya burada ne eksik, ne geliştirebilirim diye bakıp geliştiriyordum yani öyle bir süreçti. Bir yerden sonra bitti o da. Ona da öyle söyledim ya yapacak iş kalmadı, ben de ayrıldım dedim. Şaşırdı adam yani yapacak iş kalmadı ne demek hani iş bitebiliyor mu? O yani startuptayken gayet şey kalabiliyorsun, boş kalabilirsin yani öyle bir tehlike var diyeyim en azından. Bu çok da bir şey değil hani istediğiniz bir durum değil. O işte psikolojik şeyler beni çok yormuştu. Böyle bir saat bir konuşmak istedim yani. Nasıl geliştiririm ben bu kariyeri diye güzel bir sohbet olmuştu. İnsanlar nasıl mentor buluyor ya gelince? Ya bir topluluklardan buluyor açıkçası. Yani LinkedIn'in feed'inize bir şeyler düşüyor olabilir. En basitinden arama çubuğuna bir mentor, AI mentor falan yazıyor olabilirsiniz. Bana mesela bugüne kadar hep gelen böyle bireysel gelenler genelde topluluk dışından gelen insanlardı. Yani işte ben LinkedIn'de gezinirken profilinizde gördüm. İşte siz mentor veriyormuşsunuz. Benim sorularım var bir yarım saat konuşabilir miyiz? Diye bana gelen insanlar ki genelde hani öğle aralarında falan vaktim oluyor. Yani herkesle bir yarım saat meet yapmaktan benim bir kaybım olmaz açıkçası. Birazcık CV'lerine bakıyoruz. Aklında sorular varsa onları cevaplıyoruz. Genelde onlara da söylediğim şeyler aynı şeyler oluyor bu arada. Hani önce bir çalışacağın data alanına karar vermen lazım. İşte bunun için Cagle'da birazcık vakit geçirip oradan Hacking Face'e geçersin. Hem bir portfolyo inşa etmiş olursun. Hem de işte kafanda biraz bir şeyler şekillenmiş olur diye şekilleniyor muhabbetler. Genelde böyle yani mentorluğe dair en büyük yanılgılardan biri şeydir. Bir mentor-menti ilişkisinde hep böyle mentordan menti'ye bir şeyler gider diye bekliyor insanlar. Böyle olmaz. Her zaman için menti'nin mentöre soracak bir sorusunun olması lazım. Danışacak bir şeyinin olması lazım. Menti mentöre gelir.
+
+[Speaker 1]:
+Evet yani bir de arayan buluyor aslında. Aynen öyle.
+
+[Speaker 2]:
+O yüzden ben kimseyi geri çevirmiyorum. Herkeste bir konuşacağımız bir şeyler vardır bilhaki.
+
+[Speaker 1]:
+Çok değerli. Çok değerli.
+
+[Speaker 2]:
+Kesinlikle.
+
+[Speaker 1]:
+Şimdi o zaman senin bir sektörün girişinden konuşabiliriz. Senin sektörün girişi LinkedIn'de Software Engineer olarak yazıyor. Aslında yazımcı olarak mı girdin sektöre sonradan mı işte bu AI taraflarına kaydın o içerideki durumlar nasıldı? Birazdan o taraflardan bahsedelim.
+
+[Speaker 2]:
+Şöyle oldu. Tam böyle bir ilan mı gördüm ya da nasıl girdiğimi hatırlamıyorum ama ML Engineer olarak girmiştim. İlk çalıştığım şirket Virkon diye bir şirket. Evet şu an FirstBatch ismiyle blockchain temelli bir ürün çıkartıp o ürünle şirketleştiler galiba. Yani LinkedIn'de böyle Virkon diye arayınca bir şey çıkmıyor ama FirstBatch diye aratırsanız görürsünüz. Oraya ML Engineer olarak girmiştim. Ama dediğim gibi 7-8 kişilik bir ekiptik. Yaptığımız işte şuydu. Sosyal medya, Instagram, Twitter, YouTube'u anlık olarak dinliyorduk. Kim hangi postu like'lamış? Kim hangi işte YouTube videosunu, tweet'i neyse beğenmiş? Ne yorum yazmış? Ne paylaşmış? Bunları anlık olarak dinleyen bir yazılım geliştirmiştik. Albatros isminde oradaki yani tek çalışan ben değilim tabii ama tek software developer diyebileceğim. Bendim. Part-time çalışan bir devopsumuz vardı. Yapay zeka tarafında bir senior'um vardı. Yine data tarafında çalıştığım bir arkadaş, birlikte çalıştığım bir arkadaşım daha vardı. Ve C-Level diğer yöneticiler vardı. Hani işte CTO'muz. Yapay zeka tarafını drive eden biri daha. Bu şekilde bir ekibimiz vardı. Orada tabii birkaç ay böyle link edinimde ML Engineer olarak kaldı title'ım. Sonra baktım yaptığım iş bu değil. Yani software geliştiriyorum ben dümdüz. O yüzden ben de software developer'a çevirmiştim title'ımı. Start-up'larda birazcık öyle şeyler oluyor. Ama geldiğim noktayı bugün olduğum insanı hala çok büyük ölçüde o projeye borçluyum. Çünkü harika bir projeydi. Yani geliştirmesi çok zordu, drive etmesi çok zordu. Çünkü sosyal medya platformları sürekli seni bloklamaya çalışıyor. Yani ona böyle çok değişik çözümler geliştiriyorduk. Coğrafi bazlı gidip böyle farklı lokasyonlardan veri çekmeye çalışıyorduk. Baya baya böyle çalışırken zevk aldığım bir projeydi. İşte Twitter'da şirketlere kriz yönetimi danışmanlığı veriyorduk. Yani anlık olarak böyle işte kimsenin hakkında ne konuşuyorsa önüne geliyor. Diyelim ki o köfteci Yusuf bir ara böyle hype oldu ya. Ne domuz eti mi çıkmış? Ürünlerine bir şeyler. Köfteci Yusuf diyelim müşterimiz. İnsanlar hakkında olumsuz konuşunca ara yüzde böyle bir uyarı veriyordu. Bir bildirim veriyordu. Hani senin hakkında olumsuz konuşuluyor haberin olsun aksiyon al diye. Ya da bir diğer hizmetimizde şeydi. Influencer marketing konusunda da hizmet veriyorduk. Yani senin bir markan var ve sen o markayla yapacağın reklamlarla diyelim ki vegan basketbol severleri hedefleyeceksin. Biz baya o business ekibinin tabi iyi bir çalışması vardı orada. İnsanları bu alt kırılımlara kadar ayırabiliyorduk. Yani Twitter'da kim vegan basketbol sever abi. Bunun kitlesini çıkartıp şey yapabiliyorduk. Yani bu kitleye kim hitap ediyor? Diyelim ki işte en üst sırada Cem Yılmaz var. Ama Cem Yılmaz hani bütçesi yüksek bir profil. Onun altında kim var başka? Diyelim ki Batura Özdemir var. Tamam diyorlardı o zaman buna gidelim. Hani o kitleyi böyle başka kim match ediyor? Onu bulup şirketlere bunu sunuyorduk. Gibi böyle değişik bir projeydi.
+
+[Speaker 1]:
+İnanılmaz. Buradaki kullandığınız tekstek neydi? Özellikle sen ne kullanıyordun abi? Bu arada yazılımcım diyorsun.
+
+[Speaker 2]:
+Ne kullanıyordum? Backhand olarak Python kullanıyordu ağırlıklı olarak. O dönemler işte CTO'muzun da şey bir görüşü vardı. Hani Golang çok böyle hızlı. YouTube'dan daha kolay veri çekebiliriz. Hani web arayüzüyle de etkileşimi daha iyi. Python yerine Go kullanalım gibi bir fikri vardı. İki hafta. Bir sprintimiz iki hafta sürüyordu galiba. Ve o iki hafta içerisinde işime yarayacak kadar diyeyim. Tabii böyle çok akşam kesiyor gibi olmayayım. Golang'i öğrenip YouTube'dan ilgili verileri çekip projeyi şey yapmıştım. Kapatmıştım ben iki haftada. Golang biliyor muyum şu an bilmiyorum. Unuttum ama o zamanlar en azından statik bir arayüzden veri çekecek kadar öğrenmiştim. Python, Golang birazcık. MongoDB kullanıyorduk. Sabit şeyimiz olarak. Veri tabanımız olarak. NoSQL. Bunun haricinde web arayüzüyle etkileşim için Redis kullanıyorduk. Veriyi cache de tutmak için. O da yine bir tür database formatı. Tabii işte Linux, DevOps tarafında. DevOps tarafında çok şey kullanıyorduk ama direkt olarak benim kullandığım şeyler değildi. O yüzden çok onlara girmeyeyim. Cloud tarafında bir Türkiye'de böyle bir Cloud Provider'ımız vardı. Oradan sadece VM kullanıyorduk. Bunun dışında çıkmadan birkaç ay önce böyle AWS'den bir startup kredisi almıştık. İşte Instagram scrap ettiğimiz serverları mesela AWS'den alıyorduk. O zamanlar Kubernetes falan kullanmıyordum. Bilmiyordum çünkü hani öyle bir sistemin var olduğunu. Docker'da Docker Swarm diye bir tane tool vardı. Onu kullanıp böyle aynı anda 150 küsur server'ı orkestre ettiğim bir şey geliştirmiştim. Platform geliştirmiştim diyeyim. Hani ufak bir script aslında. Böyleydi hatırlayabildiğim kadarıyla. Tabii yine kimse şey yapmadığı için hani benden önce de biri yok. Projede ilk çalışan benim bana geldiler. Bize böyle bir şey lazım dediler. Ben de giriştim yani. O zaman hani ben ne biliyorsam ya da neyi araştırıp öğrenebiliyorsam tek stack'imiz de oydu.
+
+[Speaker 1]:
+Bakıldığında baya büyük işler aslında bakınca. Yani şu anda da düşündüğünde de büyük işler yani. Uçtan uca her teknolojiye dokunuyor yani.
+
+[Speaker 2]:
+Yani bir mesela her şey için her platform için bir tane klasım vardı. Şeyi hatırlıyorum Instagram klasıma 1500 küsur satırdı. 1500 satırlık tek bir klas yani. Şu an yazsan çok böyle şey görünür. Kötü gözükür belki hani yani. Bunu arkadaş bir ayırsaydın modüllerin hani mikroservis çalışsaydı bir şeyler ama. O dönemler bilmiyorum tabii. Yani yeniydim yaptım oldu.
+
+[Speaker 1]:
+Bundan alakalı çok güzel bir sorun var. Chat'teki sorudan sonra o zaman buna kayalım. Fivnif ismindeki kişinin bir sorusu var. Merhaba alaylı olarak data analiz tarafına geçmek isteyen birisine neler önerirsiniz? Bir roadmap veya işte kaynak söyleyebilir misiniz? Teşekkürler demiş.
+
+[Speaker 2]:
+Tabii sana bir tane şey atayım ben. Bu arada ben direkt buranın chatinden yazabiliyor muyum? Çok yemin değilim. Frival Chat'ten attım sana. Onu bir...
+
+[Speaker 1]:
+Bu da oraya da yazabiliyorsun abi.
+
+[Speaker 2]:
+Ben git göndereyim bunu. Basınca galiba katılıyorum herhalde oraya. Öncelikle diyeyim hani roadmap.sh sitesinde gerçekten böyle şeyler var. Her mesleğe dönük güzel roadmap'ler var. Direkt oradan böyle görsel olarak da bakıp ilerlenebileceğini düşünüyorum. Bunun dışında yine data analiz tarafında ama en nihayetinde bir portfölyo oluşturman gerekeceği için yine Kaggle'dan başlamanı ama tavsiye olarak söylemek isterim. Kaggle dışında belki şu da olabilir. Kaggle'da hani hangi veri setiyle ne gibi analizler yapıldığını görmek güzel. Ama veri analizi sektörü nereye gidiyor? Buradaki trendler neler? İnsanlar neler kullanıyor? Ya da Kaggle'daki ya da Kaggle'dakine benzer veri setleriyle insanlar ne gibi problemleri çözüm üretiyor? Görmek için Medium platformunu da kullanmanı tavsiye ederim. Özellikle böyle mobilden üye olunca daha uyguna geliyor galiba aylık üyeliği. Üye olmadan da okuyabiliyorsunuz makalelerin bir kısmını ama bir kısmı paralı. Bir insanın böyle bir öğrenci ya da yeni mezun bir profesyonelinin kendine yapabileceği en iyi yatırımlardan biri bence Medium platformuna üye olmak. Oradaki makaleler de biraz insight veriyor. İçgörü veriyor. Bazen İngilizce konuşuyor kusura bakmayın. Böyle söyleyebilirim kısaca. Ama tabii o roadmap üzerinde ilerledikten sonra hani Kaggle'da bir şeyler kurcaladım, kendimi geliştiriyorum, bir takım tool'lar öğrendim noktasına gelindikten sonra bu alanla alakalı hala daha spesifik soruların varsayına link edinler her zaman yazışabiliriz diyeyim. Bu arada bu soru şöyle güzel bir soru. Az önce bahsederken hani yapay zeka ile alakalı yapılabilecek çok şey var dedim ya. Hani bir veri tipi seçip işte o veri tipinde özelleşin diye. Bu aslında işin ML Engineer kısmı için. Yani ML Engineer olabilirsiniz. Tamamen akademik böyle paper okuyup implementer etmeli bir kariyer istiyorsanız ML Scientist olabilirsiniz. Yapay zekayı işinde kullanan işte ne bileyim bir LLM'i kullanıp bir ürün geliştiren bir software developer veya bir mobil developer da olabilirsiniz. Yani yapay zekaya dahil olmak istemezseniz. Ama yine de hani bir şekilde yapay zeka alanında kalacaksanız data analist, business analist, data scientist gibi roller var. Bunun dışında yine yapay zeka temelli bir product owner, product manager vs. de olabilirsiniz. Productçı rolleri de var. Hani Yelpazeyi birazcık geniş tutmak lazım bu anlamda. Sadece ML Engineer olmayı hedeflememek lazım bence.
+
+[Speaker 1]:
+Bence de. Hatta benim naçizane gözlemim. Sanki Data Science'dan veya ML Engineer'den ziyade Türkiye'nin daha çok veri analizcisine ihtiyacı var gibi. Daha çok onlar aranıyor gibi hissediyorum ben. Özellikle gördüğüm ilanlarda. Junior veri analizcisi ilanı daha çok görüyorum. Yani Science'da hiç görmezken veri analizinde çok görüyorum.
+
+[Speaker 2]:
+Ya onun şöyle bir güzelliği var. Data çok eski bir alan. Yani benim abim telekomünikasyon sektöründe çalışıyor mesela. 20 küsur sene diyeceğim herhalde SQL yazıyor bir fiil. 20 küsur sene çok ciddi bir şey. Belki daha öncesi de var bilmiyorum. Dolayısıyla veri alanı bu kadar eski olduğu için FinTech'te mesela data analiz temelli roller çok var. Başka perakende sektöründe olabilir belki. Böyle büyük veri hacmine sahip olabilecek şirketler. Genel telekomünikasyon keza öyle. Dolayısıyla data analiz tabii şey bir kadro. Yani çok eski ve her daim ihtiyaç olacak bir kadro.
+
+[Speaker 1]:
+Buradaki aslında kullanılan tool'ları anlamak için de mevcutta çıkan ilanları okumak, incelemek de bir noktada çok güzel bir içgörü değil mi?
+
+[Speaker 2]:
+Kesinlikle, kesinlikle. Şu an mesela yani Hayatı Hocam'ın bir sorusu var. İyi bir veri analizisi olmamız için önerileriniz nelerdir diye. İlk önerileceğim şey olur. Yani özellikle böyle şeylere, öğrencilere.
+
+[Speaker 1]:
+İyi akşamlar hocam bu arada.
+
+[Speaker 2]:
+Hani aklınıza gelebilecek, bir alana girmek istiyorsunuz ama ne öğrenmem lazım? LinkedIn'deki iş ilanlarına bakın abi. Ne arıyorlar, ne istiyorlar? Çok güzel fikir veriyor gerçekten. Çünkü genelde yani o ilana kabul aldıktan sonra dönüp bakarsanız aslında o ilandaki bütün kriterleri de belki karşılayamayabiliyor olduğunuzu görürsünüz. Yani orada çizilen profil ideal. Hani işin en ideali. En idealinde ne bilmeniz gerekiyor o rol için? Çok güzel öğrenirsiniz. Yani bir oyun şirketinin ML Engineer'dan beklentileri farklı. Bankaya girerseniz farklı. Başka bir sektörde farklı. Güzel bir bilgi edinme yöntemidir yani o ilanlar.
+
+[Speaker 1]:
+Kesinlikle yani oradaki ilanlardan da yola çıkarak ben kendi analizimi yaptım bu konularda. Daha üniversite birinci sınıftan bu yana. Şöyle bir şey söyleyebilirim. Hani genel yaptığım analizlerde gördüğüm kadarıyla veri analizi kısmı için. Yani bir veri analizcisinin tool stackinde işte neler olmalı? En başta SQL geliyor. Gerçekten de SQL denince eşittir veri analizcisi gibi bir şey oluyor. SQL data eşittir temel gibi bir şey oluyor. SQL bilgisi önemli. Ama SQL de çok abartılıyor. Bilmiyorum niye bu kadar abartılıyor. Baktığın zaman basit bir şey çünkü.
+
+[Speaker 2]:
+Ama çok kullanılıyor ve hani şey bir şey. Yani nasıl diyeyim? Komplike projelerde gayet komplike sorgular yazman gerekebiliyor. Yani yapacağın en ufak bir hatanın milyon dolarlara mal olabileceği cinsten. Yine işte abimden biliyorum birazcık. Hani oradaki SQL sorgularını belki böyle 3-4 günde falan tasarlıyorsun. Hani test ortamında önce bir testi var. Düzgün çalışmayan bir şey var. Onu düzeltiyorsun. Tablo sayısı arttıkça işler daha karmaşıklaşıyor. Bir de hani dediğim gibi veri çok eski bir teknoloji. SQL çok eski bir şey. Yazılım dilim denir SQL'e bilmiyorum. Eski bir teknoloji diyeyim ama. Dolayısıyla talibi de çok işlevi de çok. SQL yerleştiyse bir kere. İnsanlar bundan niye vazgeçsin? Biz de biliyorsun bir şey yerleşince Türkiye'de kolay kolay vazgeçilmiyor ondan. Bu arada hani şeyi söyleyeyim. İlanlara bakın dedim mesela az önce. Ama ben de hani eskiden ilanlara bakardım. İşte hep orada bir SQL şeyi vardı. Machine Learning Engineer'lar için de. SQL bilsin denirdi. Şu an çok denmiyor ama. Ben mesela hiç SQL yazmadım hayatımda. Hiç gerekmedi.
+
+[Speaker 1]:
+Biz baya yazıyoruz.
+
+[Speaker 2]:
+Biz baya yazıyoruz.
+
+[Speaker 1]:
+Çünkü DB'den başka nasıl çekeceksin datayı?
+
+[Speaker 2]:
+Yani işte ben MongoDB tabii şey. NoSQL bir veri tabanı. Orada Python kütüphanesiyle MongoDB'nin veri çekip manipüle edebiliyorduk. SQL'e ya bu anlamda hani bu yüzden hiç işim düşmedi. Yarın bir gün böyle Twitter'da görürseniz SQL bilmeyen AI'cım olduk diye. Oluyor yani. İşte. Hani çok öyle demoralize de olmayı.
+
+[Speaker 1]:
+Temel SQL de şey zaten yani. Gerçekten şu an bence bir günde öğrenebileceğim bir şey yani. Bildiğin İngilizce gibi bir şey aslında baktığımda.
+
+[Speaker 2]:
+Bu arada gerçekten de çok kolay öğrenilebilecek bir şey.
+
+[Speaker 1]:
+İkinci olarak da herhalde en önemli şeylerden biri Excel'dir. Direkt yani. Excel olmadan olmaz gibi. Orada da işte temel Excel kullanımı ve bazı fonksiyonlar var ya. Mesela ben ilk işe girdiğimde VLOOKUP'ı bilmiyordum. Ve yapamamıştım böyle. VLOOKUP kullanılan bir şeymiş. Hiç de duymamıştım bu arada yani bugüne kadar VLOOKUP diye bir şey. VLOOKUP fonksiyonu önemliymiş arkadaşlar. Bilmek gerekiyormuş onu. Böyle birçok şey var. Excel'de atraksiyon var böyle. Kullanılan çok kullanılan formüller. İşte VLOOKUP tablolar yine çok önemli falan. Ama baktığın zaman baya basit şeyler var yani.
+
+[Speaker 2]:
+Ya Excel böyle çok ilginç geliyor ya. Yani ben hiç Excel kullanıldığına denk gelmedim. Ama çok kullanıldığını da biliyorum. Ve böyle iyi öğrenirsen işlediğim sistemi falan yazabildiğin kadar böyle güçlü bir şey aslında Excel. Ama ne bileyim ya hiç böyle öğrenmeye de hevesim olmadı. İhtiyacım zaten olmadı da hani Emel Engineer tarafında Excel'lik bir şey yok çünkü. Ama enteresan bir platform yani hakikaten.
+
+[Speaker 1]:
+Biz kullanıyoruz ya bankada baya hani her şey Excel üzerinden dönüyor. Son raporlar falan böyle Excel'den atıyorsun. Excel'de şey yapıyorsun falan. Herkes Excel kullanıyor yani banka tarafında.
+
+[Speaker 2]:
+Şey de Excel destekliyor.
+
+[Speaker 1]:
+İşte Outlook. Oraya böyle hızlıca Excel'den kopyaladığın zaman format düzgün geliyor. Teams gene Keza. Ya orada kullanılan tek stekle Microsoft'un olduğu için. Yine şeydesin yani. Üçüncü olarak da bir BI tool'udur muhtemelen. Bu işte Tableau olur. İşte Power BI olur. Temel Python ve istatistik bilgisi de olsa hani güzel olur. Ama bunlar hani olmadan da işe girilebiliyor diyebiliyorum ben.
+
+[Speaker 2]:
+Yani işte benim şey case'mda mesela hani temel Python biliyorum sadece o kadar. Power BI falan yok bende mesela. Ama oluyor yani.
+
+[Speaker 1]:
+Biz teşekkür ederiz. Gene biz teşekkür ederiz.
+
+[Speaker 2]:
+Evet.
+
+[Speaker 1]:
+Ben şimdi balıklarımı atladım. İçeride öğreniyorum. SQL eğlenceli bu arada. Veri SQL ile çağırıyoruz sürekli.
+
+[Speaker 2]:
+SQL eğlenceli. Yani tam eğitim platformu hatırlamıyorum ya. Ya Data Camp ya Kod Akademi. İkisinden birinden bir ara öğrenmeye niyetlenmiştim. Sonra hani şey mesleki hayatımda kullanmıyorum diye bıraktım. Çünkü unutuluyor öğrensen de. Ama yani veriyle uğraşmak öğrenmek eğlenceli tabii.
+
+[Speaker 1]:
+Ya şu anda da Hayati Hocanın da dediği gibi. Gerçekten elelemler SQL çok başarılı yazıyor. Yani tam tablo isimleri gizlilik istiyorsan hani onlara tablo bir ne bileyim kolon bir kolon iki de. At isteknat aksiyonu söyle. Sana gerçekten SQL'i çat diye veriyor yani.
+
+[Speaker 2]:
+Orada işte SQL'in eski bir teknoloji olmasının faydası. Yani trade setinde çok fazla SQL'e ilgili şey var muhtemelen. Oralardan kaynaklı olarak iyi öğreniyor yani SQL'i.
+
+[Speaker 1]:
+Mesela şey konusu çok konuşulabiliyor SQL'le alakalı. Query optimizasyonu. İşte mevcut SQL'ler bir DBS orga atıyorsun yarım saat bekliyorsun. İşte query'yi daha küçük parçalara böl. Ne bileyim iç iç hesap query'ler oluştur falan filan. Valla her şeyi yapıyor. Elelem gerçekten çok iyi çalışıyor bu tarafta. Bir şekilde gizliliği koruyarak kullanmakta fayda var diyeyim. O zaman ben soruma geçiyorum.
+
+[Speaker 2]:
+Yani nasıl yapıyormuşuz bunları acaba? Gerçekten kendim de düşünüyorum. Stack Overflow'dan bir şeyleri nasıl arayıp buluyordun diye. Valla aklıma gelmiyor.
+
+[Speaker 1]:
+Şimdi Ozan günceli de düşünerek şöyle bir şey sorarsam. Bir startup da joker eleman. Bunu ikiye bölelim. Bir startup bir de kurumsal taraf olsun. Şu anda senin daha çok startup deneyimli olduğu için. Bir startup da işsiz kalmamak. Yapacak işinin olmamasından bahsediyorum burada. Bunun için bir joker eleman olmak için. Ne gibi bir tool stack'e ihtiyaç var? Tech stack'e ihtiyaç var? Data science ve ML engineer tarafı için.
+
+[Speaker 2]:
+Güzel soru. Yapacak işinin kalmaması için. Kendi özelimde esasen. Yani benim şu an ML Ops olarak tech stack'im. Cloud, AI ve Python. Bu üçünü bildikten sonra bir startup içerisinde. Yani yapay zekanın herhangi bir alanına özelleşmiş de olabilir bu startup. Yani bir NLP ürünü de çıkartıyor olabilir. Computer Vision çıkartıyor olabilir. Mesela bir önceki şirketinde, Alterna'da bir dönem data scientistimiz işten ayrıldı. ML tarafına bakan senyorumuz da askere gitmişti. Ben tek kaldım mesela. Normalde ML Ops'cuyum. Sadece Cloud tarafına bakıyorum. Ama öyle bir an geldi ki data scientist tarafı da bana düştü. ML tarafında böyle bir hata oldu. Bir şey böyle istediğimiz gibi çalışmıyordu. Ona gereken update'i de ben yaptım. Dolayısıyla hani AI'cı da olsanız, AI'cı olmasanız da Cloud bilmeniz zaten gerekiyor. Çünkü aklınızdaki bir fikrin, yaptığınız bir ürünün para etmesi için bunu deploy edip canlıyı almanız, insanlara sunmanız lazım. Dış dünyayı açmanız lazım. Bunun için Cloud bilmeniz gerekiyor.
+
+[Speaker 1]:
+Daha böyle detaylı girip Cloud konusuna. Cloud bilmek ne demektir? Temelde hangi konuları içerir? Ve bir noktada da artık hani nerelere bakarak öğrenebiliriz? Bundan da böyle çok kısa bir şey söyleyebilir misin?
+
+[Speaker 2]:
+Cloud tarafında genelde, diyelim buna, dokümentasyonlar iyidir. Yani Google'la alakalı bir şeyler öğrenmek istiyorsanız, sadece böyle oturup bir gün Google'ın bu alanda neleri var? İşte AI temelli olarak hangi dokümanları var? Nasıl ürünleri var? Ya da işte Cloud'a dair. Google'ın da çünkü birkaç tane böyle eğitim platformu var. Buralara bir bakıp kendinize bir şey oluşturup, hani böyle bakabileceğiniz 6-7 tane link oluşturup, içine balıklama daldığınızda zaten ufak tefek demolarla size öğretiyor aslında. Yani öğretiyor dediğin neyi öğretiyor? İşte bir VM nasıl ayağa kaldırılır? O VM'in dışarıyla bağlantısı nasıl sağlanır? Ya da dışarıyla bağlantısı nasıl kısıtlanır? İşte IP bazlı, bölge bazlı vs. Bir veri tutmak istiyorsunuz. O veriyi bir bakıta nasıl yazarsınız? Oradan geri nasıl çağırırsınız? Ya da tamamen böyle bir dahili bir tool'a bir web sitesi nasıl ayağa kaldırırsınız? O web sitesinden o veriye nasıl ulaşırsınız? Gibi gibi böyle şeyleri var. Yani tutoryalları diyeyim var. Ama yani cloud bilmek tabii bütün bu arada hem Google için hem Azure için hem AWS için. Öğrenmeniz gereken çok fazla şey var. Yani çok fazla şeyden kastım. Çok fazla ürün var. Yani Google'ın ne bileyim işte VM'i için ayrı, vakıtı için ayrı, IP'leri, network'leri için ayrı, yapay zeka için ayrı. Şimdi Generative AI için çok ayrı şeyler çıktı. Dolayısıyla birazcık tecrübeyle olacak bir şey. Yani böyle Junior Cloudçu, Junior DevOps, Junior Emelops diye çok roller görmezsiniz mesela. Bunlar birazcık tecrübeyle çekilen şeyler çünkü. Ama hani başlangıçta Google'ın mesela çeşitli ürünleri için böyle 300 dolarlık galiba bir kredisi var böyle yeni hesap açıldığında. Hani kendinize böyle bir deneme mailleri açıp 300 dolar, 300 dolar tükenince diğer hesaba, o da tükenince diğer hesaba geçip. Döküman okuyarak bir noktalara varabilirsiniz. Döküman okumanın haricinde belki en azından şey neyi bilmediğinizi bilmeniz önemli demiştim yayının başında. Neyi bilmediğinizi bilmek için YouTube'da Free Code Camp diye bir kanal var. Free Code Camp'in neredeyse her konuyla alakalı tek parçalık çok uzun videoları var böyle birkaç saatlik. Yani siz oraya işte GCP Free Code Camp yazdığınız zaman YouTube'a arama çubuğuna muhtemelen ilgili bir takım eğitimler bulursunuz. Hani baştan sona o eğitimi bir izleyip, GCP'ye örnek verdim şu an biz içeride Google kullandığımız için. AWS da olabilir bu fark etmiyor çok. Bir hani böyle baştan sona bir inceleyip ya burada neler varmış, hangi ürünleri var bu platformların. Bir onları inceledikten sonra dokümanlara dalmanız belki daha faydalı olur ama Cloud öğrenmek birazcık şey istiyor, doküman okuyabilmek istiyor. Dokümanlar iyi bu arada gerçekten. Yani öğrenmek istemiş herhangi bir şeyin Python kodunu falan böyle direkt hazır yazılı bir biçimde bulursunuz çoğu dokümanda. Biraz vakit isteyen bir şey yani işin Cloud tarafı.
+
+[Speaker 1]:
+Bir şey var Cloud'da bu hands-on lab tarafları var ya. İşte bütün Cloud şeylerinin lab olayı var. Sana işte belli to the point'ler böyle işte yapılacak noktalar. Tek tek bunları orada yarattığı lab ortamında ne bileyim değişiyor labın süresi bir saat oluyor, iki saat oluyor. Orada bu görevleri gerçekleştirip aslında bir Cloud'daki olayı öğreniyorsun orada deneyimleyerek. Onlar da çok değerli özellikle Google tarafında, AWS tarafında ben bayağı bir laba girip bir şeyler öğrendim o tarafta. Ücretsiz kredi de veriyor Google. Bayağı bir veriyor hem de. Edu Mail'ine falan da veriyor.
+
+[Speaker 2]:
+Edu Mail'i olabilir o uçaklığına gelmedi. Yani kullanmadım bu arada. Ama şeyi biliyorum hani yeni Gmail hesaplarına böyle bir 200-300 dolar veriyor olması lazım. Şeyi bilmiyorum hani o Edu Mail'ini bilmiyorum.
+
+[Speaker 1]:
+Şu an AWS'de yeni bir Amazon hesabı açtığın zaman içeride ciddi bir kredi veriyor sana. Yani herhangi bir Lambda'ya, herhangi bir oradaki API Gateway'e nereden baksan 10 milyon, 1 milyon listeye kadar falan para ödemiyorsun. Hani o da gözüküyor orada. Da yani bitirmen çok zor zaten onu.
+
+[Speaker 2]:
+Yani aynen öyle. Şimdi AI dedin.
+
+[Speaker 1]:
+AI demek ne demek? Yani çok geniş bir kapsam.
+
+[Speaker 2]:
+O da basitçe şöyle. Yani tabii ki NLP ya da Computer Vision alanına yöneldiğinde çok fazla teorik hani böyle akademik okuma yapmanı gerektirecek şey var ama en azından bir NLP modelini bu LLM'den önceki süreçler için işte Transformer'lar, Bertler'ler modelleri kullanıp bu modellerle basitçe hani bir ne diyeyim bir proje yapmak olabilir. Bu en azından şeyi görürsün yani bir tekst verisi nasıl pre-proses edilir, nasıl training hazırlanır, training süreçlerinin çıktılarını nerede tutman gerekir ya da işte nasıl yorumlaman, değerlendirmen gerekir. O modeli tekrar tekrar kullanmak istediğinde bunu nasıl yaparsanını öğrendiğin bir süreç. Baktığın zaman Transformer'ın mimarisine dair hiçbir şey yapmadın, hiçbir şey çalışmadın belki bilmiyorsun ama en azından böyle bir supervisor düzeyinde, bir yazılımcı düzeyinde o modeli kullanarak bir şeyler yapabiliyor olmayı AI bilmek olarak niteleyebilirim. Çünkü AI çok hani geniş bir alan yani AI bilmek öyle 3-5 senede de bitebilecek bir şey değil. Ya da ne bileyim bu LLM'ler için konuşuyorum bir LLM modelini fine tune etmek ya da hiç fine tune da etmeden direkt bir API ile bir ürün ayağa kaldırmak. Yine işte Hugging Face dediğimiz internet sitesinde Spaces diye bir sekme var mesela. Orada ufak tefek böyle kendi projelerini deploy edebiliyorsun. Bunları kurcalayıp bir üründe miyim bir proje ayağa kaldırmak aslında kafi yani. Çünkü şirketlerin çoğunda zaten böyle bir research yapalım ne bileyim işte hani sürekli paper okuyalım ya da kendimiz bir paper geliştirelim gibi bir şey yok. Yani hiçbir şirket kendi LLM mimarisini geliştirmiyor Türkiye'de bildiğim kadarıyla en azından. Hani var olanları fine tune kullanıyorlar genelde. Yani AI bilmek en altı seviyede böyle tanımlayabilirim.
+
+[Speaker 1]:
+Ya evet evet. Türkiye'de bir LLM geliştirme işi şimdi çok maliyetli. Galiba şeydi bu ne diyeyim T3 vakfı. T3 vakfı galiba bu işle biraz uğraşıyor diye biliyorum yanlış mı yoksa. Düşündüğümüz vakit herhalde bir şirketin altından Türkiye'deki bir şirketin altından çok kalkabileceği bir iş olmaz ya LLM geliştirme. Çok ciddi para ya.
+
+[Speaker 2]:
+Yani T3 vakfı tabii bu şeylere teknofestlere falan çok böyle katılıyorlar işte üniversite öğrencileri oralarda gönüllü bir şeyler yapabiliyor diye biliyorum. Biraz böyle devlet destekli falan bir vakıf herhalde ki zaten LLM dediğin şeyin altından kalkabilmek için de bir şey lazım yani bir devlet bütçesi diye tanımlayabildiğiniz bir şey lazım. Yapıyorlarsa güzel bu arada yani öyle bir know-how çok iş görür. Çünkü LLM geliştirmek hedefiyle yola çıkarsın ama aşağıda yaptığın başka irili ufaklı projelerle çalışmalar başka başka ürünlere bir şeylere dönüşür. Faydası dokunur yani öyle bir şey yapılırsa herhalde.
+
+[Speaker 1]:
+Ya bir de hep LLM'den bahsediyoruz ama tabii bir de görüntü tarafı var. Difizyon modelleri en bilinenler. Farklı farklı işte şimdi enteresan teknikler geldi. Ben de arada Svita'ya girip yeniler çıkmış falan böyle bir üretilen görsellere bakıyorum. İşte Lora'dır ne bileyim şu an aklıma gelmiyor başka birkaç tane daha metot. Bu taraflarda bir şeyler yapıyor musun abi sen bir çalışmaların var mı? Oraya için bir önerin olur mu?
+
+[Speaker 2]:
+Ya ben orada Codeway'e ilk girdiğim süreçte ilk bir yılında falan diyeyim birazcık çalıştım ama çalıştın derken böyle akademik olarak değil aslında. Biz Codeway olarak işte Google'la bir iş birliği içerisindeyiz Cloud tarafında. Google'ın TPU'ları üzerinde bir takım RG çalışmaları yürütmüştük. Stable Fusion modelleri nasıl TPU'larda daha hızlı ve efektif çalışır? En hızlı ve en efektif bir rolde GPU'yla kıyaslarsak işte Nvidia'nın bu çeşitli GPU'ları var. Her biriyle kıyasladığımız zaman fiyat performansı olarak hangisi daha iyi gibi bir RG yapmıştım. Orada kullandım sadece Stable Fusion ama dediğim gibi yani çok böyle işte o Lora, Impainting vs. tekniklerini kullanmam gereken bir case'im olmadı. O yüzden hani oranın o kısmın detayını bilmiyorum. Ben dediğimi az önce anlattım ya sadece kullanıp bir köyle geliştirip TPU'da bu en iyi nasıl çalışırı araştırdığım bir süreç olmuştu. Ama tabii şeyler oldu yani ilk çıktığı zaman Stable Fusion 1.5 diye bir versiyon vardı mesela. Yazdığım prompttan görüntü oluşturmak için böyle 20 step gitmesi gerekiyordu. 20 step de böyle kendi içinde öğreniyordu nasıl bir görüntü çıkartması gerektiğini. Şu an baya baya böyle hani 2-3 step de yapabilecek duruma geldiler. Yani yakın bir tarihte bir demeliyim yoksa şu anda var mı belki bilmiyorum artık. Böyle in device modeller çıkacaktır. Kendi telefonunuzda falan böyle çalışabilen ne bileyim tek step de görüntü oluşturabilen şeyler. Çıkacak yakından.
+
+[Speaker 1]:
+Çok fazla servis var da bir model çalışır mı telefonda onu bakalım merakla bekliyorum ben de.
+
+[Speaker 2]:
+Çalışır ya.
+
+[Speaker 1]:
+Çalışır mı?
+
+[Speaker 2]:
+En azından halka açık ortamlarda yok ya bu olmaz çalışmaz dememek lazım. Olur ya.
+
+[Speaker 1]:
+Çalışır çalışır çalışır. İlla ki çalışacaktır.
+
+[Speaker 2]:
+İlla ki çalışır.
+
+[Speaker 1]:
+Şimdi o zaman konu kod ve'ye geldi artık. Burada birazcık da senin MLOps title'una da gelerekten şimdi o beklenen soru MLOps nedir? Standart bir data science'dan veya machine learning engineer'den farkı nedir?
+
+[Speaker 2]:
+MLOps aslında şu. Yani DevOps diye bir title çok uzun bir süredir hayatımızda var. Temel olarak developerların yaptığı yazdığı kodu işte production'a taşımak ya da developerların yazdığı ortamları, kod ortamlarını standartize etmek gibi süreçleri toparlayan insanların bütününe biz DevOps diyoruz aslında. MLOps'çılar da bir şirket içerisindeki AI'cıların platformlarını ya da süreçlerini standartize etmekten sorumlu. Az önce bahsettiğim işte Cloud, Python ve AI'nin kesişimi gibi düşünülebilir MLOps rolü. Tabii çok yeni olduğu için şirketten şirketi MLOps'un ne ifade ettiği çok değişiyor. Yani bir banka içerisinde 20-30 tane data scientistin olduğu bir birimde MLOps yapıyor olsaydım görev içeriğim bütünüyle farklı olurdu muhtemelen. Yani Codeway'e geldiğim ilk bir yıl dediğim gibi CPU argisiyle çok büyük vakit harcadım mesela. Son 6 ayda birazcık bizim AI ekibinin geliştirme ortamlarını düzeltmek, işte sorunları varsa bunları çözmek, performans eleştirmeleri yaptık gibi işlerle uğraşıyorum. Orada da bizim şirkette yani AI ekibinde title'ı AI Research olmayan bir tek ben varım mesela. Geri kalan herkes Research Engineer ya da Research Scientist. Codeway'de işte bir takım mobil uygulamalar geliştiriyoruz. Bir kısmı yapay zeka destekli bir kısmı normal mobil uygulamalar. Yapay zeka destekli uygulamalar da işte dediğim gibi görüntü, audio, ses, tekst vs. değişiyor içeride kullandığımız data. Ben yapay zeka ekibinin kullandığı geliştirme ortamlarından dediğim gibi son 6 aydır sorunun geliştirme ortamı dediğimde şöyle. Bizim sanal makine değil aslında serverlarımızı yönettiğimiz bir Kubernetes yapısı var içeride. Diyelim ki sana bir makine lazım oldu. GPU'lu bir makine olabilir. Bu tamamen CPU'lu bir makine olabilir. Bir Jupyter Hub arayüzümüz var. Buradan sen istediğin konfigürasyonu seçiyorsun. Ve arka tarafta Kubernetes klaster'ın otomatik bir VM ayağa kalkıyor. Orada işte yaptığın geliştirmeleri tamamladıktan sonra modelini belki bir train etmeye ihtiyaç duyuyorsun. Daha doğrusu işte yaptığın geliştirmelerini test etmeye ihtiyaç duyuyorsun diyelim. Bunu da kolaylaştıran bazı tool'lar var. Bugüne kadar en bilinenleri benim açıkçası en çok bildiklerimi, duyduklarım. MLflow, kubflow gibi tool'lardı. Biz Codeway'de ClearML kullanıyoruz. Pardon. ClearML ile open source bir tool ve training süreçlerini aslında birazcık senin için bir arayüz üzerinden kolaylaştırmanı yarıyor. Yani trainingini başlattığın zaman loglarını okuyabiliyorsun, skalerlerini görebiliyorsun. İşte ne bileyim model ağırlıklarını kaydettikten sonra onları kaydettiğin yeri görebiliyorsun falan gibi böyle kolaylıklar sağlayan bir tool. Biraz da onun geliştirmesiyle uğraştım diyebilirim. Tabii uğraştım derken burada Codeway'in arka tarafta yapay zeka olmayan mobil uygulamalarından da sorumlu olan bir DevOps ekibi var. Ve çoğunlukla DevOps ekibiyle ortak çalışıyorum aslında ben. Yani yapay zeka tarafındaki ihtiyaçları da geliştirme ortamlarını standartize etme konusunda ihtiyaçları da temelde DevOps ekibi belirliyor. Ben sadece bu ihtiyaçlardan hangi kısmı ben devralabilirim, ben geliştirebilirim. Yapay zeka ekibine aktarım da benim rolüm ne olabilir? Çünkü ekibimiz günün sonunda tamamen research yapan insanlar aslında. Hani bu tool'ların hiçbiriyle muhatap olmasınlar. Kendileri böyle normal bir bilgisayarda nasıl geliştirme yapıyorlarsa temelde öyle devam etsinler. Ama DevOps tarafında da bu yönetilebilir olsun istiyoruz. Çünkü bir Nvidia'nın bir GPU'lu makinesi ciddi para. Bunun sürekli atamaması lazım en basitinden. Yani bir AIG geliştirme yapacağı zaman girecek, geliştirmesini yapacak. Ortamdan çıktığı zaman makine kapanacak. Gibi bir otomasyon olması lazım en basitinden. Birazcık bunlarla günlerim geçiyor diyebilirim.
+
+[Speaker 1]:
+Burada beni bir noktada düşündüren MLOps deyince DevOps'dan ayrıldığı nokta aslında oradaki machine learning bilgisi mi?
+
+[Speaker 2]:
+Evet. Yani bizim için en azından böyle diyebilirim. Dediğim gibi şirketten şirketi değişiyor. Ama bizim için hani AI'cıların ortamlarını standartize etmeye uğraşıyorsan MLOps'un aslında bu AI yerine software developer olduğu zaman developer'u yaşıyor.
+
+[Speaker 1]:
+Okey, okey. Burada bir de merak ettiğim noktalardan biri. Senin işte burada yapılan modeller genelde tabüler data da mı oluyor? Burada CodeVay'in tech stack'i nasıl? Hani bunlara ne kadar girebiliyorsun bilmiyorum ama. O taraftaki çalışma mantığı ve diğer AI ekiplerinin kullandığı tech stack'ler nasıl? Onlara bir MLOps'u olarak senin bir müdahalen oluyor mu bu iletişimde?
+
+[Speaker 2]:
+Genel olarak olmuyor. Dediğim gibi yani 20 küsur kişilik bir research ekibimiz var. Kendi içlerinde zaten bu işleri hallediyorlar ama tech stack'ten biraz bahsedecek olursam. Tabii böyle direkt OpenAI'e ya da HackingFace'de bulduğumuz open source modelleri kullanarak yaptığımız projeler de var. Ya da ufak defek planç yönettiğimiz diyelim. Bunun dışında bir mobil uygulamamızda mesela tamamen kendi görüntü modelimizi yazdık diye biliyorum. Hatta bunun bir makalesi yazıldı. Böyle sunumlara falan gidildi. O da böyle bir görüntü uygulaması. Temelde şey böyle bir selfie çekiyorsun. Selfie'lerin gözün kapalı çıktı. Uygulamaya 10 tane fotoğrafını yüklüyorsun. Seni öğreniyor ve senin gözlerini sana göre açıyor. Yani senin gözlerin normalde nasıl görünüyorsa öyle açıyor falan gibi böyle güzel bir teknoloji. Onu çalıştılar. Şu anda audio ekibimizin de böyle kendi modellerine dönük çalışmaları var diye biliyorum. Yani çok büyük terabaytlarca veriyle çalışıyorlar. Dolayısıyla işte hem API kullandığımız case'ler var. Hem fine tune ettiğimiz case'ler var. Hem de çok nadir de olsa kendi modellerimizi kullandığımız case'ler var. Önümüzdeki yıldan itibaren yani 2025'den itibaren daha doğrusu biz de birazcık daha kendi modellerimizi kullandığımız uygulamaların fazlalaşmasını hedefliyoruz. Ama orada hani çok böyle research'a ben girmiyorum tabii.
+
+[Speaker 1]:
+Bu arada bir de şey merak ediyorum bu işlerde. Benim şu anda yaptığım mesela EWS'de yaptığım çalışmalarda ne kadar tutacağını ben göremiyorum. Bunun bir ayarı var mı bilmiyorum. İş hatta işte belli bir ücrete alarm da kursam o alarm geçtikten sonra alarmlanıyor. O da çok enteresan bilmiyorum. Bu tahmin edemediğim için fatura geldiği zaman özellikle CNA işlerini de üzebiliyor. Bu tarafta siz nasıl bir research yapıyorsunuz? Özellikle işte machine learning, emelos deyince bunu önceden öngörebiliyor musunuz? Özellikle de fine tune dediğimiz olay baya pahalı bir şey. Bu tarafta nasıl bir yaklaşım sergiliyorsunuz?
+
+[Speaker 2]:
+Dürüst olayım generate veya tarafını bilmiyorum. Yani o finans prediksyonu nasıl yapılıyor? Ama tahminimce şöyle çünkü generate veya olmayan kısımda senin kullandığın tool'u böyle 3-5 gün diyeyim. Hani belli bir süre kullandıktan sonra kullanım yoğunluğuna göre o kullandığın cloud servisinin bir link diye ayrı bir ürünü var. Orada o prediksyon yapılıyor oluyordur mutlaka.
+
+[Speaker 1]:
+Prediksyon geliyor tabii ki oranın hep bir prediksyonu var. Orada ben hiçbir şey yapmasam da o ay gene bir prediksyon var orada. Ama o prediksyon çok mantıklı bir şey değil ki. Yani ben bir gruba ürünü atarım deneyin diye bir anda 10 dolarlık olur mu yani?
+
+[Speaker 2]:
+Yani öyle keyizler oluyor bu arada. Yani RG'sini yaptığın hani denemeye başladığın, denemek istediğin ve bir anda böyle binlerce dolar gibi bir şey olan. Ya keyizler oluyor ona yapacak bir şey yok. Para yakacaksın birazcık.
+
+[Speaker 1]:
+El elem kayakalı.
+
+[Speaker 2]:
+Ama yani işte birazcık böyle.
+
+[Speaker 1]:
+Öngöremüyor muyuz yani bunu önceden?
+
+[Speaker 2]:
+Net olarak öngöremezsin.
+
+[Speaker 1]:
+Yani bunu aslında görsek görürüz de galiba yapmıyor. Klasörler mi görmüyor bunu?
+
+[Speaker 2]:
+Şöyle görüyorsun. Token başına ne bileyim ne kadar yaktığın az buçuk bellidir. Hani ya da işte bir API request'inin ne kadara mal olduğu. Onu işte onunla çarparsın, onu onunla çarparsın derken bir fiyat ortaya çıkar günün sonunda. Ama bilmiyorum yani. Onun da çok, bence tutmuyordur ya.
+
+[Speaker 1]:
+Ya tutmuyor. Hesabı da ben elle mi yapayım kardeşim? Şunu yani şey yapıverin yani. Bana bir gösteri verin de ona göre harcayayım. Çok şey bir şey yani orası. Zor iş. Peki abi. Sen şimdi uzaktan mı çalışıyorsun Codeway'de? Hani bir günün nasıl geçtiğinden bahsettin ama işte ne kadar toplantıya giriyorsun? Ne kadar kod yazıyorsun? Ne kadar research yapıyorsun? Bunları da böldüğümüz zaman bir günün nasıl geçiyor? Bir de uzaktan çalışmanın getirdiği bazı yerin etkiler var. Belki birazcık alınlardan konuşuruz.
+
+[Speaker 2]:
+Ya şöyle. Codeway'in İstanbul'da bir ofisi var. Çok da güzel bir ofisi var. Arada böyle Twitter'da, Instagram'da, komik. Hayfolu'yu hatta. Bizim meşhur bir şey var. Fıstık ezmesi mi? Fındık ezmesi pardon. Fındık ezme makinesi. Arada böyle düşüyor şeylere, ortamlara. Ben uzaktan çalışıyorum. İstediğimiz zaman ofise gidip ofisten de çalışabiliyoruz. Öyle bir zorunluluğumuz yok. Bizim yurt dışında çalışan arkadaşlarımız da var. Günümün nasıl geçtiği? Evet yani ofisten mi uzaktan mı çalıştığıma göre birazcık değişebiliyor. Ben genelde kariyerimin başından beri tek başıma çalışıyorum. Codeway'de de bu genelde. Ben bir iş yapıyorsam o işi bekleyen, o işin sonucunu bekleyen birileri oluyor ama çoğunlukla o işi tek başıma yapıyor oluyorum zaten. O yüzden çok da öyle bir toplantıya girmem gerekmiyor. Bazen sadece böyle ufak tefek işte AI ekibinden bir feedback almam gerekiyor. DevOps ekibine bir şey sormam gerekiyor. Böyle hani pop-up toplantı mı derler onlar. Anlık bazen böyle 10 dakika, 15 dakikalık şeyler oluyor. Ama onun dışında geçen yıl işte bu TPU, RGS'i yaptığımız zamanlarda Cloud tarafında birazcık kurcaladığımız süreçlerde hem Google'la hem AWS'de yaptığımız hani hem Türkiye'de hem globalde toplantılar oluyordu. Böyle yurt dışında da birazcık şey yani yabancı dilde toplantılarımız oluyordu. Bu sene biraz daha işte böyle anlık toplantılarla geçiyor çoğunlukla. Bunun dışında günümün çoğu hani kod yazmak, yazdığım şeyi test etmek ya da işte internette bunu nasıl yaparım böyle bir sorunla karşılayıp bunu nasıl çözerim diye araştırmakla geçiyor. Ofiste de olsam bu böyle, uzaktan çalışıyor da olsam böyle. Uzaktan çalıştığım zaman biraz tabii mesaiye bazen daha geç başlayıp daha geç bitirdiğim buluyor. Bazı şeyleri gece yapıyorum çünkü ya sürekli evlisin, birbirimizi kandırmıyorsun. Evdeyken kimse sabah 8, akşam 5 bilgisayarın başında oturup kod yazmıyor. Uzaktan çalışmanın belki böyle bir handikapı var. Gece bunu telafi ediyorsun. Şirkete gittiğimde genelde sabah işte böyle bir kahvaltı, işte bir sabah meramı böyle bir sohbet muhabbet derken hani 10, 10.30, 11'lerde tam şey kapasite böyle full odak çalışmaya başlıyor oluyorum. Ofiste de birazcık İstanbul'da tabii İstanbul trafiğinden kaçmak için geç girip geç çıkıyorum. Bu da çoğu şirkette aslında olan bir şey değil bildiğim kadarıyla hani giriş saatleri esnek de olsa işte sabah 8.30 ile 9.30 arası gelin diyorlar atıyorum. Öyle bir esnek oluyor. Bizde öyle şeyler yok. Ben şirkete ofiste hani 11'de girip genelde 7'de çıkıyorum mesela. Hem sabah trafiğinden kaçıyorum hem akşam trafiğinden kaçıyorum o şekilde. Genelde hani bir günüm böyle geçiyor. Ofiste ve evde diye ayırabilirim sanırım.
+
+[Speaker 1]:
+Güzelmiş ya kod ve ortamı. Ya bu de aklıma şunu getirdi. Hani mesela kod yazıp kod araştırıyorum dedin ya. Full Python mı yazıyorsun abi yoksa Emre Ops'çıların yazdığı başka böyle haşır haşır olduğu diller oluyor mu?
+
+[Speaker 2]:
+Python ya. Yani Python gerçekten ya komünitesi geniş olduğu için böyle hani kütüphaneleri vesaireleri çok olduğu için sen nereye bağlamak istersen oraya bağlanıyor. Yani az önce işte bahsettiğim CleanML Tool'un da Python SDK'i var. Ne bileyim işte Google'un da kendi Python SDK'i var. Dolayısıyla her türlü işini görüyor. O yüzden başka bir şey yazmaya bir çok ihtiyaç duymuyoruz. Kesinlikle.
+
+[Speaker 1]:
+Peki abi şimdi neredeyse gerçekten hikayene şahit olduk. Baştan bu yana bir üniversiteden kod ve gelene kadar baya bir şeyden konuştuk. Tüm bu hikayede bir keşken var mı? Şöyle bir zamanda yolculuk yapsaydın.
+
+[Speaker 2]:
+Geçmişe dönebilseydin.
+
+[Speaker 1]:
+Neyi yapmazdın? Veya neyi farklı yapardın sence?
+
+[Speaker 2]:
+Ya ben hiçbir şeyi değiştirmezdim gerçekten. Çok böyle krişe bir cevap belki ama. Yani bizi var eden şeyler sadece böyle iyi yaptığımız şeyler ya da doğru tercihlerimiz değil. Yani bazen yanlış da yapacaksın, hata da yapacaksın. Bunlar olacak. Ne bileyim benim yerimde başkası olsa mesela işte ya yıldız teknik kontrol yazmasaydın da bilgisayar yazsaydın diyebilir. Bilgisayar yazıp işte 4 senede mezun olup ama dediğim gibi yani o senaryoda benim belki çok başka bir hayatım olacaktı.
+
+[Speaker 1]:
+Yani şu an... Belki de şu an burada değildik.
+
+[Speaker 2]:
+Belki de değildik yani hakikaten. Ve olduğum kişiden gerçekten memnunum. Yani iyi yaptıklarına, kötü yaptıklarına, doğru mu, yanlış mı, eksiğimle, her şeyimle. Olduğum kişiden memnunum. Önemli olanın da olduğunu düşünüyorum. O yüzden ben başka bir şeyi farklı yapmazdım ya. Yaşadığım hayattan hakikaten memnunum yani. Çok tabii kötü zamanlarım oldu ya işte okulun uzadığı süreçler, ne işi yapacağım bunlar. Hiç kimse için kolay psikolojiler değil. Ama geldiğim noktada iyi ki hani böyle bir yoldan geçmişim diyorum açıkçası.
+
+[Speaker 1]:
+Evet yani şu anda da mevcutta iş, staj arayan çok fazla işte yeni mezun veya son sınıf öğrencisi var. Buradan da belki onlara bir moral motive bastığım. Bu süreçler geçiyor diyebilir miyiz? Bir şekilde halloluyor diyebilir miyiz?
+
+[Speaker 2]:
+Ya halloluyor ve şöyle bir şey var. Buradan birazcık da belki sosyal medyaya da bağlırız. Twitter'da mesela şeyi çok görüyorum. İşte benim oğlum, kızım bilmem ne, bilmem üniversitesinde şu bölümü okutu. 4 senelik işte atıyorum endüstri mühendisi, bilgisayar olur neyse. İşte verdikleri bu da asgari ücret. İşte bilmem nerede bilmem temizlikçi veya bir şeyci olunca da zaten bu kadar oluyorsun gibi şeyler var. Bunlara kapılmayın. Yani benim ilk şirketimden ikinci şirketime geçişim arasında maaşım, maaş olarak 2,5 kat falan bir fark vardı. Galiba ikinci şirketimden Colby'e geçişimde de yine yalan olmasın 2-2,5 kata yakın bir fark oldu. Yani bizde maaşlar eksponansiyel artıyor. Ben tabii ki benim işe başladığım, kariyerime başladığım zamanki ekonomiyle şimdiki ekonomi çok farklı. Ben kimseye gidin asgari ücretle ya da asgari ücretin altında çalışın diyemem. Çok büyük bir vebal bu. Ama yapabiliyorsanız bunu kesinlikle yapın. Yani ilk işe girişinizde hiçbir zaman motivasyonunuz para olmasın. Yani siz bir şey öğreniyorsanız, ortamınız, ekibiniz iyiyse, sizin öğrenmenize, gelişiminize destek veriliyorsa, yaptığınız proje iyiyse hakikaten ve dediğim gibi maddi olarak tolere edebiliyorsanız en önemlisi, önemli değil yani asgari ücrete girmeniz. İnsanlar çok böyle şey, kısa vadeli bakıyorlar konuya. Yani 23 yaşında ne kazandığın önemli değil. Benim mesela dediğim gibi 5. yılım, biz işte dolarla maaş alıyoruz Colby'de. 22 yaşında mezun olup 27 yaşında dolar maaşı kazandığın bir hayat seni fazlasıyla tatmin eder. Ve yani 27 yaşında, hatta bir sene öncesine sarayım, 26 yaşında hayatının düzene girmesi bence insanlar hiçbir şey kaybettirmez. Yani 23-24 yaşında çok kazanamıyor da olabilirsin. Ama dediğim gibi maaşın az da olsa çalıştığın yerde kafanın rahat olması lazım. İnsanlar da kötüyse, yaptığın proje de sana bir şey öğretmiyorsa, yani çık oradan zaten. Ve genel olarak Twitter'da gördüğünüz olumsuz şeylere kapılmayın. Yani CV'nde bir yılı doldurman lazım. Değil abi. Değil yani. Bunu çok duyarım mesela. Daha doğrusu şöyle. Kurumsal bir şirketteysen ve oradan çıkıp başka bir kurumsal bir yere geçmek istiyorsan, evet yani bir yıl o zaman doldurman gerekebilir. Ama bu çok küçük bir case. Startuplarda da çalışabilirsin. Ya da ne bileyim senin için o bir yıl sorun etmeyecek şirketler de bulabilirsin. Çünkü bazı İK'cılar, işte ya sen burada bir yıl çalışmamışsın, biz bu kadar hızlı iş değiştiren birini alamayız diyorlar diyelim. Ama bir başka İK'cı da çıkıp, sana neden bir yılda ayrıldığını soruyor. Ve sana orada şey diyebilirsin yani, proje beni tatmin etmiyordu, işte maddi şartlarım kötüydü, iyileştireceğiz dediler, iyileştirmediler. Ya da ne bileyim hani, insanlar kötüydü, mobbinge uğruyordum gibi hani, yalan söylemeyin tabii de hani böyle bir şey varsa eğer. Bunu açık yürekli söylemeni bazı İK'cılar kabul ediyor. Hep yayının başında da söylemiştim yani, Türkiye'deki teknoloji ekositemi çok geniş. Her şeyin bir örneği var. Yani bunu kendinize bu kötülüğü yapmayın. Yani en şey olarak bunu söyleyebilirim. Twitter'da gördüğünüz şeylere gerçekten, o genel geçer sözlere kapılmayın. Ne bileyim hani, kendinizi kötü hissetmeyin. Yani yaparsanız olur, iş de bulursunuz. Python'la öğrenirsiniz. Yapay zeka da öğrenirsiniz ama, olumsuz kadar olumlulara da çok kapılmamak lazım. Ya bazen bazı böyle şeyler görürsünüz. İşte 20 dakikada Python öğreniyoruz. İşte bak yarım saatte yapay zeka. Ya öğrenemezsin, yok öyle bir şey. Daha da kötüsü şu, bir ara böyle bunun tartışmasına girmiştim. Bugün mü, dün mü ne? Hatta LinkedIn'de de benzer bir tartışma gördüm. Birisi bir video çekmiş, işte 20 dakikada oyun geliştirme diye. Birisi de onu alıntılayıp eleştirmiş. Ya 20 dakikada bu öğrenilir mi falan gibilerinden. Videoyu çeken de, kendisini eleştireni alıntılayıp, ya işte ben zaten videoda 20 dakikada öğrenilmeyeceğini anlatıyorum diyor. Abi o zaman 20 dakikada öğretiyoruz, yazmayacaksın. Yani böyle benim tartışmaya girdiğim şahıs da böyle gaming sektöründe galiba çok bilinen bir adam. Çok da böyle hani şirketleri falan var ne bileyim, böyle bayağı hani geniş netrofi olan bir şahıs, bir hocamızdı diyeyim. Ama yani hani hoca da olsan, ne kadar iyi de olsan bir şey clickbait ise clickbait'tir. Ya Python öğrenilir mi? Öğrenilir. Yapay zeka öğrenilir mi? Öğrenilir. İş, staj bulur musun? Bulursun. Ama 20 dakikada olmaz.
+
+[Speaker 1]:
+Evet. Ya buradan lafı şeye bağlayabilirim. Hani güncel şu an e-yayın, e-deremlerin gelişmesiyle birlikte sektörün durumu sence ne tarafa doğru gider? Hem Türkiye hem dünya özelinde baktığın zaman bu tarafta bir öngörün var mı?
+
+[Speaker 2]:
+Benim öngörülerim çok tutmuyor ya. Yani orada birkaç ay önce işte Global AI Hub'ın Machine Learning Bootcamp'inin açılış webinarıydı galiba. Bu açılış webinarında da epey bir kaynaktan bahsettik. Bunu bir link edin postu haline getirmiştim. İlgilileri bakabilir profilimden. Oradaydı sanırım şeyi konuşuyorduk. Örnek veriyorum Mid Journey'nin Discord'da bir tane server var ya oraya prompt yazıyorsun sana imaj üretiyor. Bir imaj üretmek için harcadığı enerji bir cep telefonunu sıfırdan yüze şarj etmek için harcayan enerjiyi eşit. E şimdi bunun başka tool'ları var. Başka işte mobil uygulamalar var. Hani var oğlu var. Dolayısıyla biz saniyede aslında böyle tonlarca cep telefonunu sıfırdan şarj ediyor gibi oluyoruz. En büyük problemlerden birinin bu enerji verimliği olacağını söylemiştim. Hatta şeydi hani kuantum kompüting gelişirse o kuantum bilgisayarları da hani böyle daha hızlı çok daha hızlı çalıştığı için belki daha az enerji tüketimiyle biz daha iyi çalıştabiliriz modelleri diye. Ama hiç öyle olmadı yani bayağı Microsoft böyle parasıyla nükleer santral falan satın aldı yani Amerika'da ve dümdüz böyle çözdüler ya. Bu inanılmaz bir şey yani hani bir insanın öngörüsü bu kadar. Ancak yani dümdüz nükleer santralleri alıp çözdüler konuyu. O yüzden hani çok öyle öngörüde bulunmayayım ama şu an mesela şeye doğru gidiyoruz. LLM'lerde bir böyle parametre olayı vardır ya işte bin parametre yok yetmiş milyar parametre yok bilmem ne diye. Artık daha fazla veriyle ve daha büyük modellerle daha iyi çalışan LLM'ler ürettiğimiz sürecin sonuna geldik gibi. Yani her şey çok hızlı gelişiyor. Yani GPT'nin geç bir işlediği belki ama.
+
+[Speaker 1]:
+Çok hızlı oldu gerçekten ya.
+
+[Speaker 2]:
+Şu an mesela şey bir süreçteyiz. Aynı sayıda parametre ve aynı veriyle nasıl biz bu modelleri daha efektif çalıştırırız. Orada işte model mimarisinde farklı yaklaşımlar var. Mimari dediğimde aslında modelin öğrenme şekliyle ilgili böyle farklı yaklaşımlar ki yine şeyde yayının başında konuştuğumuz Daron Yöndem hocamızın link edinde mesela paylaşımları var. Son birkaç gündür ben takip ediyorum. Hep böyle şeyler böyle makaleler paylaşıyor. Birazcık artık şeydeyiz yani efektivite noktasındayız. Yani o LLM'leri zaten elimizde hani bir veri de kalmadı. Bütün internet verisiyle artık eğitiyoruz neredeyse güncel LLM'lerin en büyük modellerimizi. Daha fazla parametreli daha büyük modeller yapmadan tam tersi daha küçük modellerle nasıl daha iyi efektivite sağlarız. Birazcık oraya gidiyor. Ama ben şeyi düşünüyorum yani yapay zekanın şu anki internet gibi olacağını düşünüyorum. Yani bundan bir 4-5 sene sonra belki biz chat GPT'yi kullanamıyor olabiliriz. Sam Altman'ın bu yakınlarda bir açıklaması vardı hani hala zarar ediyoruz.
+
+[Speaker 1]:
+Evet. Bundan bunu 200 dolarlık plondan da zarar ediyorlarmış. İnanılmaz yani.
+
+[Speaker 2]:
+Ben şeyi bekliyorum açıkçası. Şu an ellerindeki veri gücüyle ve maddi güçle beraber meta'nın bu alanın lideri olmasını bekliyorum. Çünkü LLM'a open source değil ama kodu açık değil ama kullanıma en azından bedava şu an için tabii. Yani chat GPT'den tamamen dışarıya kapanıp Microsoft'un işletim sistemlerine entegre olmasını falan bekliyorum ben artık. Çünkü bu böyle 200 dolarla falan da sürdürülemiyorsa Microsoft işletim sistemine entegre gelecek. Yani ben chat GPT'yi orada kullanabileceğim. İşte onun ne bileyim Edge tarayıcısında olur. Ne bileyim işte bu Excel'de Word'de prompt yazarak bir şeyler yaptırabildiğimiz senaryo olur. Böyle kullanmayı bekliyorum. Yani şu an internet dediğimiz şey de aslında basitçe böyle çalışıyor. Hani yapay zeka birazcık daha böyle genel bir hale gelir. Ama herkes hani kendi yolunu kendi tutar. Hani meta bu alanın open olarak kalır. Microsoft chat GPT'yi dışarıya kapatır gibi öyle radikal şeyler de bekliyorum yani açıkçası.
+
+[Speaker 1]:
+Ya da tüm open source'cular birleşip şöyle uluslararası büyük bir model. Meta işte ne bileyim Çin tarafındakiler. Hepsi şöyle bir birleşse ortaya şöyle sağlam bir model çıkarsalar.
+
+[Speaker 2]:
+Yani Çin tarafı çok ilginç bu arada ya. Yani Çin bir buçuk milyar da ciddi bir nüfus. Adamlar tek başına bir gezegen ve çok iyi modeller geliyor oradan da. Bilmiyorum yani onların gelecekteki rolü nasıl olacak. Bu arada o herkes birleşip bir model çıkarsın olayı bir noktada yalan oluyor ya. Çünkü Hugging Festleg çıktığında çok böyle şeydi hani kendi başlarına böyle bir ortamdı. Şu an gerçi gene hala herkese çok büyük bir alan sunuyorlar ama ne oldu o da gitti Amazon'dan yatırım aldı. İlerleyen süreçler belki birazcık daha derinleşecek onlarla iş birlikleri. Yani para olmadan olmuyor ya hakikaten.
+
+[Speaker 1]:
+Yani bir kere yapılsa şu model bir kere çıksa falan. Ama şu anda da güzel bir rekabet ortam var gerçekten de bakıldığı vakit. O rekabet ortamının gitmesi de hoş olmaz çok birleşmeli de belki şu aşamada iyi olmayabilir.
+
+[Speaker 2]:
+Aynen öyle ya bizim bugün işte interneti kasıp kavuran bu cursor denen tool'un ortaya çıkması o rekabetten tamamen yani OpenAI bir şeyler çıkardı. Oradan birileri ayrıldı antrofiki kurdu. Cursor'un da galiba en büyük sıçraması yanlış bilmiyorsan Cloud 3.5'un 10.net mi herhalde.
+
+[Speaker 1]:
+Cloud 3.5 sonunda.
+
+[Speaker 2]:
+Ya o onunla oldu. İşte rekabet güzel bir şey yani her zaman işte.
+
+[Speaker 1]:
+Ya bu güzel bir soru da orada aklında. Mevcutta yaptığın işte hangi el elemi kullanıyorsun kod yazdırmak için? Mesela işte burada cursor'da dedik Cloud var, chat GPT'si var, açık kaynak QVen'i var, deepsec var, popüler. Hangisi?
+
+[Speaker 2]:
+Ya orada böyle çok artistik bir cevap verisi var aslında ya. LLM kullanan yazılımcı değildir falan gibi ama öyle. Ben kullanmıyorum abi.
+
+[Speaker 1]:
+Hadi canım.
+
+[Speaker 2]:
+Evet yani çünkü hiç öyle sıfırdan proje yapmaya ihtiyacım olmuyor zaten. Bireysel olarak işte koparladık çıktığında kurcaladım tabii ya da işte cursor biraz ucundan kurcaladım ki hala orada. Yani her gün böyle bakmam gereken şeyler listesi çoğalıyor ve yetişemiyorum. Hani öyle bir durumdayım artık. Ama iş konusunda çok gerekmiyor ya. Yani bazen böyle bir yerde takılıyorum. Takıldığım şeyle ilgili ya gidip böyle Perfect City'de arıyorum. Dokümanı daha kolay bulabilmek için. Tarayıcı şey. Arama motoru olarak Perfect City kullanıyorum bu arada. Ya da işte benim şey var. ChatGP'te böyle custom GPT'lerim var. İşte Python sorusu için ayrı birine. Cloud için ayrı birine. MLB için ayrı birine gidiyorum. Onlara soruyorum. Onlarla öyle konuşa konuşa çözüyoruz ya.
+
+[Speaker 1]:
+Oooo yani kod yazdırma tarafında çok LLM'e gitmediğini anlıyorum.
+
+[Speaker 2]:
+Evet. Benim ihtiyacım olmuyor. Yani direkt böyle hani aşırı kod yazmalı bir iş yapmadığım için. Bana çok gerekmiyor diyeyim yani. Ama Cursor biraz böyle şey artık ya. Rakipleriyle farkı açtığı gibi.
+
+[Speaker 1]:
+Evet. Ya şimdi Cloud'un da bir tane protokol getirdi. MCP protokol müydü? Neydi tam hatırlayamadım şu an. Ben hani onu da denedim. Ama Cursor'un tadı bir başka yani. Gerçekten. Çok hızlı cevap veriyor. Bütün kod base inanılmaz değiştiriyor. Cloud'un o protokolü de kullansam tüm kodu baştan yazıyor. Ve Cloud'un bir laneti var. Belli bir yere geldikten sonra token'ı bitiyor. Mesela artık orada devamını yazamıyor. Kod yarım kalıyor. Ama Cursor'da bu sorun yaşanmıyor. Garip bir şekilde Cursor hepsini yazıyor. Ve böyle şeyde yapıyı da böyle temiz bir şekilde kuruyor falan. Acayip. Gerçekten acayip.
+
+[Speaker 2]:
+Ya işte gerçekten o böyle iyi bir product aklı var arkasında. Çünkü bildiğim kadarı baya böyle VS Code'dan forklayıp yazmışlar.
+
+[Speaker 1]:
+Aynen. Yani indirdiğim vakit benim VS Code'daki tüm eklentilerim hatta görüntüsü, görüntüsü işte kullandığım renk paletine kadar her şey otomatik geldi. Direkt sağ tarafa bir Cursor eklenmiş oldu.
+
+[Speaker 2]:
+Yani çok ilginç hakikaten ki sen de her gün Twitter feed'inde falan görüyorsundur yani. Cursor eğitimleri kaynıyor artık ortalık.
+
+[Speaker 1]:
+Bu da eğitim verecek bir şey değil bu arada.
+
+[Speaker 2]:
+Bizim için değil doğru. Ama biz şurada yanlış yapıyoruz. Mesela ya şimdi isim vereyim hadi Fatih Kadir Akın mesela bu işinden bilinen şeylerinden bir tanesi. Ya onun verdiği eğitim esasen bize değil zaten. Bir productçı olur ya da ne bileyim işte başka böyle hani bizim kadar en azından e-ac'ı olmayan ya da yazılımcı olmayan biri olur. O eğitimi onlara veriyor. Ama gerçekten de oradan aldıkları eğitimlerle bir şeyler yapıyor insanlar. Yani tabii ki şimdi aç App Store'u bak ne bileyim işte böyle sağlık takibi yapan ne bileyim işte adım sayan ya da ne bileyim görüntü üreten de tonlarca uygulama bulursun. Bu işinde böyle bir handikapı var artık herkes uygulama yazabildiği için. Çöplüğe döndü ama yani o neticede Cursor'un hatası ya da ne bileyim Fatih Kadir Akın hatası değil ki. Hani niş bir fikir bu onu yap.
+
+[Speaker 1]:
+Ya evet. Ya o tarafı da hani Cursor eğitimi deyince yani düşünüyorum hani Cursor'un neyinin eğitimi vereceksin gibi ama hani belli bir yaşın üstündeki insanlar bu tarz teknolojilere girmek için bir eğitim arıyor yani gariptir yani. Çevremden de ben görüyorum bir eğitim veya işte biri gelsin bana bir göstersin bu neymiş falan. Kendisi böyle indirip bakabilir ama bakmıyor yani.
+
+[Speaker 2]:
+Yani mesela işte Cursor Rules diye bir dosya var ya mesela işte onu da böyle oluşturmanın bir formatı var falan. O bile bir bu eğitimin içinde bir konu aslında onun için. Adamın sıfırdan ben hiç yani araştırmakla uğraşmayayım. Zaten 3-5 bin lira bir şey vereyim parasını eğitimi alayım ona bakayım şeklinde.
+
+[Speaker 1]:
+Yani benim için de düşündüğüm vakit yani indir ve zaten hani 5. dakikadan sonra hemen anlıyorsun her şeyi zaten çatır çatır devam ediyor ve Cursor'da hani bakıldığı vakit işleri kendi kendine çözen bir tool. Öyle bir tool ki kendi kendine çözüyor işleri.
+
+[Speaker 2]:
+Ya ben hani eğitim almam aramam da mesela ama eğitim almak isteyenin de eğitim vermek isteyenin de sebeplerini çok mantıklı buluyorum. Hani bu bence destekliyorum. Cursor'a eğitim verilmeli yani.
+
+[Speaker 1]:
+Ya şey ya bu arada şey de Atıl Samancıoğlu da YouTube'da ücretsiz bir pay list yayınladı bu Cursor'la ürün yapmak için. Ona da bakabilirsiniz hani gerçekten güzel ben bakmıştım.
+
+[Speaker 2]:
+Aynen öyle.
+
+[Speaker 1]:
+O da böyle baştan bir yazılım ürünü bir app yapıyordu ondan sonra da.
+
+[Speaker 2]:
+Çok enteresandı bu arada sözünü kestim. Atıl Samancıoğlu da Fatih Kadir Akın'a esasen yapay zekacı değiller. Ya ben daha çok böyle mobilci bir tarafta falan görmedim. Ama böyle bu tarafı çok iyi şey yaptılar ya. Zaten o Fatih Kadir Akın'ın bir tane şeyi vardı. Efsam Prompt.
+
+[Speaker 1]:
+Efsam Prompt aynen.
+
+[Speaker 2]:
+Öyle hani kısaltabilirim. Baya baya yıldız aldı. Baya hype oldu yani chat cepten çıktı ilk zamanlarda. Helal olsun ya hakikaten.
+
+[Speaker 1]:
+Yani hızlı adapte olup hızlı ürünleştiriyor. Gerçekten o açıdan kafa tarafında iyi bir abimiz. Şöyle şey sorayım o zaman. Cursor'la ürün yap. Yazdımca o da bir Twitter muhabbetlerine gireceğim. Yok ona demeyeceğim. Bu el elemleri kullanmanın yarattığı bir tembellik var. Nereden bakarsan bakalım. Bir var yani gerçekten de. Sence bu kod yazmaya olumlu mu etki yaratıyor? Olumsuz mu yaratıyor? Ve bu tool'un efektif kullanımı sana göre nasıl olmalı? Ben kendi yorumumu şu an şöyle yapacağım öncesinde.
+
+[Speaker 2]:
+Benim yorumum şu.
+
+[Speaker 1]:
+Cursor'u bıraktım. Yani cursora bitmiyorum. Zaten oradaki haklar da bitti. Satın almadım. Çünkü gerçekten insanı tembelleştiriyor. Saatçı konuşuyorsun. Ve koda çoğu zaman hiç girmeden bir şeyleri çözmeye çalışıyorsun. Bunun yerine sadece destek anlamında cloud, cloud'a veya chat GPT'ye duruma göre belli kodları veya bir şeyler danışmak için kullanıyorum. Öteki türlü gerçekten de insanı sadece prompt'tan konuşan bir şeye çevirebiliyor. Çok tehlikeli bence.
+
+[Speaker 2]:
+Yani bunu ben böyle sonradan fark ettim ve çok ilginç gelmişti. Beni tembelleştiriyor oldu. Bir ara çünkü şeyi denedim. Dur dedim ya hiç yapay zeka falan karıştım. Ben stack overflow'a yazıp bulacağım. Böyle hani bu hatanın iyi olduğunu falan bulamadım.
+
+[Speaker 1]:
+Ücretin. Baya komik hikaye var.
+
+[Speaker 2]:
+Çok aradım. Belki çok da aramadım. 15-20 dakika falan böyle yazınca direkt bir şeyler gelmesini bekliyordum karşıma. Bilmiyorum. Çok böyle ilginç geldi. Canım aramak da istemedi. Yani arasam böyle hani 2-3 saat ayırsam bulurdum belki ama şimdi hani niye o kadar vakit ayırayım ki oldum bir aydan sonra. Ya bu şeye benziyor. Benim çocukluğumda vardı. İşte kitaba hiç bakmadan ya da ne bileyim internete hiç şey yapmadan yazmadan böyle kod yazmak gibi. Bak kitaba bakmadan değil. İnternette aramadan.
+
+[Speaker 1]:
+Bu arada bu challenge'ı ben arada kendime yapmayı çalışıyorum. Ya dur diyorum ya. Aklımdan yazacağım şunu. Şunu fonksiyonlaştırayım. Evet buraya bunu koydum. Şimdi şunu koydum. Tamam aklımdan böyle düşünüp yapmaya çalışıyorum ölmemek için.
+
+[Speaker 2]:
+O bende hiç kalmadı artık ya. Böyle ne bileyim şu an bir scikitlerinden böyle bir model import edeyim de basit bir training kodu yazayım falan derken bile. Mutlaka hani chat GPT bir şey yazmıyorsam da bir yerden kopyalamaya ihtiyaç duyuyorum. Yani dokümanını açıyorum. Ulan bunu standartım aslında nasıl yazıyordu bu diye.
+
+[Speaker 1]:
+Şey var orada da kopyalamaya ihtiyaç duyuyorum. Şeyin içerisine çok yardımcı oluyor ya. Bir anda tahmin ediyor ve şeyi veriyor sana. Sipik bir şekilde veriyor. Tap tap diye gidebiliyorsun. Onu kullanıyorum. Onunla yalanmamışsın. O kadar da sıfırdan şey yapmıyorum. Yani bir ağaya bastım mı böyle güzel önerebiliyor. Ama tam aklındakini her zaman tahmin edemiyor. Yani basit sintaksi falan çok güzel kopyalı da çözebiliyoruz.
+
+[Speaker 2]:
+Ben kullanılması taraftarıyım da bu arada. Böyle yeniliklerden artık kaçmamak lazım. Bunun gereği yok. Kullanmayayım, etmeyeyim. Bunu kullanan yazılımcı değildir. Vay işte kürsorla yazılımcı olunmaz. Geçen gene öyle bir geyik döndü. Kürsorla yazılımcı olunmaz mıydı ya? Kod bilmeden yazılımcı olunmaz. Pardon. Çok böyle o kavramlar karışıyor birine. Yani kod bilmeden yazılımcı olunmaz. Çünkü yazılımcı dediğin adam kod bilen adamdır zaten. Ama bir ürün geliştirmek için de kod bilmen gerekiyor artık. Kürsorla yapabiliyorsun belli bir ölçüde demek ki. Yapanlar var yani. Ne bileyim ya bana böyle çok şey geliyor yani anlamsız geliyor artık yani Twitter ama hani orada şey dedi ya Twitter'da çok gömdük bu arada.
+
+[Speaker 1]:
+Hani bir atı
+
+[Speaker 2]:
+gönlünü alayım. Şey kullanma yolları var yani. Twitter'da böyle efektif kullanma yolları da var açıkçası.
+
+[Speaker 1]:
+Yani bence baya faydalı. Yani kimi takip ettiğinize göre değişiyor. As kişiyi böyle sınırlı kişiyi takip edip sadece günde yarım saat feedinde kimle paylaşmış diye baktığın zaman bence çok faydalı. Ama o tartışmaları okmaya bir başlarsan.
+
+[Speaker 2]:
+Ya o sana özel sekmesi çok büyük zehir. Yani ona tıklayınca zaman gidiyor böyle baya. ama şöyle bir şey önerebilirim. Yani biraz bir kendi reklamı yapıyor gibi olacağım ama benim mesela Twitter'ımda şey var. AI diye bir liste oluşturdum kendime. Twitter'da listeler diye bir sekme var. Oraya tıklayıp oradan listeler oluşturabiliyorsunuz. Kendinize bilmeyen varsa eğer. Sonra böyle sağ tarafında bir yerde herhalde o ekranın. O listenin yanında bir wrap diye işareti var. Ona tıklayıp başa tuttur dediğinizde feed'inizin sağ tarafına geliyor. İşte sana özel var. Takip ediliyor var. Burada da işte o AI feed'im var benim mesela. Ki AI listem herkese açık var. Siz de takip edebilirsiniz girip. Tabii ama şey hani benim kendi gönlüme göre takip etmek istediğim AI'cılardan falan oluşuyor. İşte arada bir güncelliyorum. Hani o feed önünüzde açık durursa baya Twitter'ı kullanması faydalı yani.
+
+[Speaker 1]:
+Evet bence de. Ya burada da bu cursor ile gene uygulama geliştirmekle alakalı. Yansı yoksa hani bu FK'nin gene ilk verdiği eğitimlerde yaptığı bir ürün vardı. To do o şeyi. Yani bir noktaları birbirine bağlıyordu falan. En sonunda ürün galiba sadece iOS'da çalışabilir olmuş. İşte Mac'de çalışıyor sadece. O bir iPhone'da çalışıyor. İşte Android'de deploy duyamıyor mesela. Bunu en baştan düşünmesi gerekiyordu aslına bakarsan. Orada da aslında daha böyle olayı uçtan uca bilen architecture engineer, staff engineer gibi rollere mi birazcık gelmek lazım? Bu yapay zekayı da aslında efektif kullanmak için.
+
+[Speaker 2]:
+Yani tabii yapay zeka bir noktada hepimizi ona dönüştürecek bu arada. Hani işimizi elimizden almaz. Ya da ne bileyim. Ya biraz sanayi devrimi gibi olacak. Yani sanayi devriminde işte kitaplarda okursun ya böyle kas gücünün yerini buharlı makineleri aldı falan. Yani kas gücünün yerini buharlı makineleri almış olsa bugün mavi yeka diye bir sektör olmazdı zaten. Ama bugün fabrikalarda fabrika işçisi dediğimiz kavram hala var. Ya sanayi devrimi nasıl bir etki yarattıysa yapay zeka devrimi de aynı etkiyi yaratacak. Yani kapitalizm maliyetleri minimize etmek değil de birazcık karı maksimize etmeye dayandırır. Hani seni daha çok çalıştırmaya dayandırır. O yüzden ben hani bazı sektörler illa ki ölür ne bileyim işte şehirler arası taşımacılık, uçaklar belki. Ya bu gibi şeyleri tamamen yapay zeka devredebiliriz günün birinde ama yeni mesleklerde çıkacaktır illa ki. Ben yazılımcıların zaten böyle bir korkusunun olmaması gerektiğine de inanıyorum. Ya bizim yani yapay zeka bizim arkadaş zaten. Yani biz kendimize yardımcı olsun diye ürettiğimiz bir şey günü sonradım ya. Dünyada çok büyük bir yüzler yazılımcılar kullanıyordur bence yapay zekayı.
+
+[Speaker 1]:
+Ya böyle gerçekten yani şu an yapılan araştırmalarda da gösteriyor. En çok yazılımcılar faydalanıyor yani. Yapay zekada üretilen token'a bakıldığı vakit hep kod üretti böyle büyük çoğunlukla.
+
+[Speaker 2]:
+Ve hani bu işte uygulama geliştirip epe atma çılgınlığı da bir noktada son bulacak insanlar satamayınca. Hani hype böyle bir dönemi geliyor geçiyor sonra. Bunu üzerimizden attıktan sonra yani internet nasıl bizim için bugün yardımcı bir araçsa yapay zeka da birebir aynısı olacak.
+
+[Speaker 1]:
+Ya ufak bir tartışma olarak şunu söyleyebilirim belki. Mesela bugün bir makine öğrenmesi modeli yaptınız ve bunu bir yere diploaylayacaksınız. Eskiden bir frontantçıya ihtiyaç vardı. Hani kendi başına frontant yapmaya çalışsan uğraş dur. Frontant öğreneceksin. Yapılan işte çoğu zaman az uğraşıldığı için aşırı çirkin bir şey oluyor frontant tarafı. Burada şu anda bunu yapay zeka hani al modelin bu işte şoförün verki kullanarak şuna benzer bir şeyler dediğin zaman ve işte belki de istediğin gibi bir şey çıkmadığı zaman birkaç iterasyon yaptığında aslında frontant'i kotarabiliyorsun. Şimdi bunu eski senaryoyu düşündüğümüzde freelance olarak aslında birisiyle anlaşıp belli bir ücret karşılığında bu ön yüzü yaptırabilirdin. Ama günümüzde aslında bunu yapay zeka kendi başına ücretsiz belki sadece pro aboneliğe 20 dolar vererek aylık çözmüş oldun. Şimdi bunu düşündüğümüzde belki freelance başlangıç seviyesindeki kişilerin işini alıyor diyebilir miyiz?
+
+[Speaker 2]:
+Yani tabii bunu bir de frontantçiye sormak lazım. O ne diyecek? İşte bu az önce meslekler dönüşüyor dediğim kısım da oldu ya. Bundan 20 sene önce HTML, CSS, Development bir işti yani hani ne bileyim WordPress'de bir web sitesi falan yapmak on binlerce TL kazandırabilecek. Hani yüz binler demiyorum o zaman enflansım öyle çünkü on binlerce TL büyük paralardı. E şimdi yok mesela kalmadı. Ama hani web de hala var. Frontant Development da kendi içinde değişti dönüştü. ya ileride bir günde AI ile alakalı şu an belki hiç bilmediğimiz aklımızda olmayan title'lar çıkacak. Yani bundan bir sene önce, bir buçuk sene önce diyeyim. Hadi Front Engineer diye bir şey de yoktu.
+
+[Speaker 1]:
+Evet. Bu arada hala var mı şirket? Ya ben görüyorum bazı insanlar Front Engineer ilanları açılıyor falan. Ama hani gerçekten bu insanlar şirkette ne yapıyor, bir günde nasıl geçiyor bilmiyorum. Hiç bir Front Engineer ile de tanışmadım.
+
+[Speaker 2]:
+Gel bizim şirkete bugün ben tanıştırayım.
+
+[Speaker 1]:
+Var mı sizin şirkette? Ne yapalım?
+
+[Speaker 2]:
+3 tane sanırım Front Engineer var. Şu anda da galiba bir Front Engineer ilanımız hala var.
+
+[Speaker 1]:
+Allah Allah ya ne yapıyor ki Front Engineer ya şirkette? Ama bu şey görsel tarafta mı? Mesela ConfiUI kullanmayı, onu kullanan adama Front Engineer denmesini anlarım. Ama bizde yok, bize yok. Yani valla Hayati Hoca haklısın. Yok yani. Böyle startuplarda var birazdan. Yenilikçi startuplarda var. Ama ne yapıyor ki? Yani gerçekten bir Front Engineer ne yapıyor yani? Ben biraz orada muhalif olup şey diyebilirim. Konuşabilen herkes prompta yazar diye düşünüyorum.
+
+[Speaker 2]:
+Öyle bir şey yok.
+
+[Speaker 1]:
+Şöyle yok.
+
+[Speaker 2]:
+Konuşabildan herkes prompt yazar tabii ki öncelikle. Ama işin engineering kısmında çok şey giriyor. Böyle işte zero shot learning, one shot learning yok. Chain of thought falan gibi şeyler var.
+
+[Speaker 1]:
+Zero shot dediğin, one shot ile 2-3 tane de örnek veriver yani. Yine bir şey yok ki var mı?
+
+[Speaker 2]:
+Bana öyle geliyor işte. Hani sen işin içinde olduğun için ne? Bunu yaparım abi bunda ne var diyorsun. Ama öyle değil. Halbuki ne bileyim productçı için falan böyle. Onu tasarlamak zor işler. Prompt Engineer bizde şunu yapıyor. Diyelim ki işte Hugging Face'den böyle bir yeni bir model çıkmış olsun. Sen bir chat uygulaması yazacaksın. İşte yeni yeni böyle modeller var. Ya bunları deneyip hangisinin işte productçıların belirlediği bir takım metriklere göre daha iyi çalıştığını karar vermek. Ya da en azından o test sonuçlarını productçılara sunmak. Bizde mesela şu anda Prompt Engineering görevi. Mesela bize şey yaptırmaya çalışıyorlardı. Bir böyle beslenme takip uygulamamız var. Fotoğrafını çekiyorsun tabağa. Tabakta ne var? Makarna var şu kadar kalori. Fasulye var bu kadar kalori. O var bu kadar kalori. Toplamda ise sen bu kadar kalori aldın falan gibi böyle sana çıktı veren bir uygulama. Bunun Prompt Engineering'i falan yapıldı mesela. Yani o tabak fotoğrafından o çıktığı o şekilde vermesini sağlamak için o modelin baya böyle farklı farklı promptlar denendi. Yani hem orada yazdığın cümle yazdığın cümle yazma şeklin. Yani ben bizim bir chat uygulamamız vardı. Onun bir Initial Prompt'unu gördüm. Baya böyle tam ekran hani paragraflarca bir Initial Prompt. Ya ben mesela bu işi hiç bilmeden önce bana öyle bir prompt gelse. Ya bu kadar uzun yazıyorsun ama bu model bunu anlamaz. derdim. Halbuki oymuş yani işin sıranı. Öyle bir prompt veriyorsun ve model çalışmaya başlıyor. Dolayısıyla Prompt Engineering için yine hani tutar mı bir öngörüm bilmiyorum ama ben bir 4-5 seneye belki ya da 5-10 sene aralığında Data Scientist'lik için de böyle düşünüyorum bu arada. Yani Prompt Engineering ve Data Science bir meslek, bir title olmaktan çıkıp bir yeteneğe dönüşecek bence. Ama bana birazcık öyle geliyor. Yani şu an mesela Software Developer deyince aklımızda canlanan şey. ML Engineer ya da ML Developer ya da AI Developer mu olur artık title bilmiyorum. Dediğimizde de olacak olan şeye dönüşecek. Yani işte full stack'in back-end, front-end falan biraz bilmesi, işte database falan bilmesi gibi. AI Engineer denen adamın da işte Data Science da bilmesi gerekecek. Front Engineering de bilmesi gerekecek gibi düşünüyorum ben ama tabii çok hızlı değişiyor böyle şeyler. Kesin bir şey diyemem.
+
+[Speaker 1]:
+Ya burada ben şeyi anladım, Front Engineering tarafı için. Yani şirkette CNA hard core olarak geliştirildiği için aslında oradaki Front'un bil fiil iyileştirilmesine ihtiyaç var.
+
+[Speaker 2]:
+Aynen öyle.
+
+[Speaker 1]:
+Buradaki deneme yanılmayı yapacak tırnak içerisinde buradaki ameliyeti aslında deneyecek bir kişi lazım. Ona da Front Engineer deniyor gibi bir durum var. Biraz öyle. Yani aslında Front Engineer'lerin üstüne gidiyormuş gibi oluyor ama gerçekten de öyle. bakıldığı vakit yani şu an bir Front Engineer olmak için ne gibi bir bilgiye ihtiyaç var? Mesela düşünüyorum şirkette.
+
+[Speaker 2]:
+Ya benim back-end'ini bildiğim bir, background'unu bildiğim back-end yanlış oldu. Bir promptçu var mesela o dil bilim mezunu. Ama hani bu çok böyle soyut bir şey. Yani ne bileyim işte product tarafında da mesela işte endüstri mühendisliği mezunları falan almıyor mesela. Halbuki yani bir mobile app'in productçısı olmakla endüstri mühendisliği alınan eğitimin de çok bir alakası yok. Ama hani öyle bir yerleşik bir kültür var. Dolayısıyla ne bileyim değil bilimciden değil de başka bir şeyciden de bence promptçu olur yani niye olmasın?
+
+[Speaker 1]:
+Yani yani ne bileyim ama düşündüğün zaman sadece oradaki gelen cevabı valide ediyor. Hangisi daha iyi gelmiş yani ne bileyim. Yani bunu herhangi birisi de yapabilir şirkette. CNI, Data Science, Research orada kişilerden herhangi birisi yapabilir. Ama ne bileyim bu demek ki ciddi bir iş ve çok vakit alıyor. Prompt Engine belki de biraz da hype yani o title'da olsun şirkette.
+
+[Speaker 2]:
+Tabii vakit alıyor mesela. Prompt Engine'ler olmadığında bu işi kim yapacak mesela? Productçılar mı yapacak? AI Engineer'ı mı yapacak? Onlara verirsen onların işte product ya da AI Research tarafındaki işleri aksıyor bu sefer. Ama yani şey mesela Codeway'de şeyi çok rahat görebiliyorsun sen dedin ya hani bu işi herkes yapabilir diye. Codeway'de mesela o çok var yani bir ML Engineer var, ben varırım, Devopçu var, Software Developer var, Software Engineer var daha doğrusu. Product Engineer'larımız var bir de. Yani bir işte Google arayüzünde Google'ın Generative AI Tool'ları var işte Vertex'e ait mesela Generative AI Platform'a. Orada bir demo yapılacak mesela. Bu saydığım title'ların hepsi aslında bu demoyu yapmaya teknik olarak kabul insanlar. Ama günün sonunda hani şirket içinde herkesin bir görevi var. O görevde birine veriliyor ve o yapıyor. Yani çok fazla mühendis var ve birazcık böyle hani yazılım geliştirme haşır neşir olan birisi. Ya bir API kullanıp bir demo yapacaksın alt üstten. Çok bir şey atla eve değil baktığın zaman hani herkes yapabilir. Ama işte herkes yapabilir farklı. Birinin yapması gerekiyor ve bunu bu yapmalı farklı.
+
+[Speaker 1]:
+O zaman yani çok da prona tencereleri sallamadan şeye geçeyim. Senin hobilerin neler abi? Yani bir mesai bittikten sonra şöyle bilgisayarı kapatabiliyor musun? Kapattıktan sonra neler yapıyorsun?
+
+[Speaker 2]:
+Yok yani bir kısmını biliyorsun zaten. Yani hobilerin geçen ne zamandı ya? Bir aydan fazla oluyor gene böyle bir startup'la iş görüşmesine girmiştim. Orada fark ettim. Mesela bir saat konuşturdular beni. Hobilerin neler falan böyle kişisel bir şey öğrenmeye çalışıyorlar benden aslında. Ve hobilerim bile çok işle alakalı. Onu fark ettim. Yani mesai bitiyor. İşte kalkıyorum yemek yiyorum. Çayımı alıyorum. Geliyorum bilgisayar başına. Açıyorum böyle YouTube'dan bir şeyler izliyorum gene böyle mesleğimle alakalı. Ya da benim topluluklarla alakalı yapmam gereken bir şeyler oluyor. İşte bir eğitim tasarlamak oluyor. Bir bootcamp'lerle alakalı bir şeyler oluyor. Çok böyle hani işe boğulmuşum onu fark ettim ve kendi kendime üzüldüm biraz. O şeyden görüşmeden de bu arada direkt birinci aşamada elendim mesela. İK'da elendim ki hiç başıma gelmemişti yani. Hani böyle case bile vermeden elediler. Yani birazcık şey ya bende mesleğe geç atılmanın verdiği bir şey bu. İşte kaç? 2018'de stajda 25 yaşındaydım. 2019'da çalışmaya başladım. 26 yaşındaydım. Şimdi mesela Nisan'da 32 bitecek. Beni gören böyle bana direkt sanki 10 senelik deneyimin varmış gibi yaklaşıyor. Ben de sanki 10 senelik deneyimin varmış gibi davranmaya çalışıyorum. Ama yani bu aradaki farkı da kapatmam lazım bir yerde. Onun beni çok yorduğunu fark ettim. Yani buradan hani gençlere vereceğim bir diğer tavsiyede o olur. Bende çok şey vardı. Ben geç başladım. İşte kariyerimin başına ben alaylıyım. Ben bu alanda çok şey değilim zaten. Mesela ikinci çalıştığım şirkete girdim mesela alternaya. Bir proje verdiler. Bizim orada bir anket yazılımı geliştiriyorduk. Bu anket yazılımını işte bazı şirketlerin kendi serverlerine kurmamız gerekiyor. Yani KVKK geri dışarıya açmıyorlar. Bir şirkete yaptığımız kurulum yalan olmasın 3 ay falan sürdü. Yani bir proje 3 ay süremez abi yok öyle bir şey yani. 3 ay boyunca her değili de her sabah abi bugün bununla uğraşıyorum. Abi bugün bununla uğraşıyorum. 3 ay boyunca aynı cümleyi kurdum. Ve böyle şey oldu. Ya ben o kadar da iyi değilim herhalde ya. Ve beni aldılar ama beni kovacaklar. Ona böyle çok sık yakalanıyorum. Bu hani imposter sendromu deniyor buna. Hani gençlere de şeyden bahsettik ya hani ya beni kesin elerler bu CV ile filan hani demeyin diye. Biraz belki oradan da feyiz alabilirler. Ya imposter sendromu hiç geçmiyor. Bende hala böyle arada bir oluyor yani. Bir şey yapana kadar sanki yapamayacakmışım gibi geliyor. Yaptıktan sonra da ya aslında bu çok basitti. Ben bilmediğim için bana zor geldi. Aslında bu çok da bir şey değil. Eski şirketimde senyorumun böyle haftada bir gün hiç yoktan şeyi vardı. Böyle beni övme seansı vardı. Abi çok güzel yapmışsın. Çok güzel olmuş. Hani adam beni yaptığının çok değerli bir şey olduğuna ikna etmeye çalışıyordu. Ona da çok kapınmamak lazım. Yani bir yerde bırakmak lazım. Yani hobilere vakit ayırmak anlamında söylüyorum bunu. Yani ne bileyim gidin bir oyun oynayan bir gaming hobiniz olsun. Hayati Hocam izliyorsa hala sever mesela oyun oynamayı çok. Şeyde bahsetmediğimi fark ettim. Oraya bağlayacaktım. Sohbetin başında söylenti dergi kısmından hiç bahsetmedim mesela. Film izlemeye çalışıyorum elimden geldiğince ama böyle hani sanat filmi tadına. Mubi platformuna üyeliğim var mesela. Mubi diye bir şey var. Platform var. Türkiye çıkıştı galiba. Orada böyle sanat filmleri falan izleyip söylenti dergide yazılar yazıyorum. Son birkaç aydır hani ara verdim. Şu an bir yazıyı böyle muhtemelen önümüzdeki hafta falan tekrar yazınca olurum. Geçen sene başladım. Geçen sene içinde yazdığım beş yazım var. Bir altıncısı yolda. Yani sinema böyle bu aralar en büyük hobim diyebilirim. Yani hiç böyle maddi kaygım olmasa şu an. Şey istiyorum arada böyle senaryo yazarlığı dersi alıp senaryo yazmak falan. İstiyorum yani bazen böyle. Özellikle Netflix dizilerinde izlediğim zaman bazıların senaryosunda çok ayar oluyorum. Ya böyle mi yazılır bu hikaye böyle mi devam eder diye. Belki günün birinde yaparım yani belli de olmaz.
+
+[Speaker 1]:
+Ya bu sohbetteki şu senaryo yazarlığı dersi almak isterim lafı var ya. O aslında gene aklında bu kurumsallık cursor eğitimi alanları getirdi. Yani insan acaba bilmediği alanla alakalı belli bir yaştan sonra illa bir eğitim alma durumuna mı kayıyor? Çünkü sonuçta baktığın zaman bununla alakalı da internette doğayenlerin bir sürü videosu, eğitimi bir şey var. Yani şu an senaryo yazarlığı tarafında bir şeyler öğrenmek istesen bir şekilde illa ki böyle başlayabilirsin kendin ufak ufak. Gerçi tabi orada bir feedback makarizması da olması lazım düşündüğüm vakit ama o şeyi canlandırdı aklımda.
+
+[Speaker 2]:
+Yani şöyle senaryo yazarlığı zaten işte bir şeyin var gibinin senaristi galiba. Aziz Kedi'nin böyle eğitimleri düşünüyor. O bir platform bünyesinde online eğitimler veriyor mesela. Senaryoda şey de var ya karşı tarafta. Oyuncu da okuyacak ya bu tekstin neticede. Yani onun da anlayacağı şekilde olması lazım. Olay akışının işte kopmaması lazım falan filan. Yani bir şeyleri oku mesela bu kitapçıya girip senaryo kitabını al eline. İşte hani dışarıda bilmem ne sesleri gelirken işte adam yürümeye başlar. Parantezi kapatıyor sonra repliğe giriyor falan. O ayrı bir meziyet yani o hakikaten. Onun eğitimi lazım yani. Şimdi kürsörü bilmiyorum da.
+
+[Speaker 1]:
+Baki kürsör onu da yapabilir. Kürsör'ün senaryo yazan versiyonu.
+
+[Speaker 2]:
+Yani olur bu arada.
+
+[Speaker 1]:
+Olur evet.
+
+[Speaker 2]:
+Düşününce böyle aklıma bir enteresan bir uygulama fikri olunmuş gibi geldi.
+
+[Speaker 1]:
+Tamam bunu yapalım abi. Burada herkesin de söylemiş olduk ama.
+
+[Speaker 2]:
+Biz çok içeriz ya. Böyle bir şeyle çıksak yani. Sanatçı amyası bugünlerde biliyorsun zaten kaynıyor. Bir menajer varmış bir şeyler yapmış falan. Bir kadının peşinde koşuyor.
+
+[Speaker 1]:
+Tekerleşme olayı.
+
+[Speaker 2]:
+Böyle bir şeye girsek çok üzerler bizi.
+
+[Speaker 1]:
+Ne yazayım ya amatörce kendimiz de yapmışız yani. Faydalanan faydalanasın yani. Ben de ne yapabilirim? Şimdi bu arada iki saati de devirdik. Valla çok keyifli sohbet oluyor.
+
+[Speaker 2]:
+Ya umarım sesim kısılmamıştır ya. Senin kısıldı biraz böyle su içmeye çalışıyorum ama yayına güzel geliyordu diye umuyorum.
+
+[Speaker 1]:
+Geliyor geliyor yani sıkıntı yok. Şimdi o zaman birazcık da şu kendini nasıl geliştiriyorsun kısmından bahsedersek. Güzel bir kısmı. Burada hani sürpriz bir repo tarafımız da var. Abi kendini nasıl geliştiriyorsun? İşte güncel kalmak için neler yapıyorsun? Burada takip ettiğin siteler, frameworkler, ne bileyim işte cloud servisleri var mı? Özellikle konuşma boyunca çokça konuştuk işte medium dedin. Çok önemli dedin. Kaggle'da bir şeyler yapmak dedin. İşte takip ettiğim bir sürü baktığım şey var dedin. Twitter'da AI listem varmış. Yani çoğunları da düşündüğümüzde aslında bir emelosçu da olarak kendini nasıl geliştiriyorsun? Güncel kalmak için ne yapıyorsun?
+
+[Speaker 2]:
+Ya birçok şeyin aslında ara ara böyle satır aralarında söyledik zaten. Yani link edin. Twitter'da böyle özelleştirilmiş bir feed. Ve ne dedik? A medium. Yani bunlara bakıyorum çoğunlukla. Bunun dışında kullandığım bir tane... Alın hediye. RSS Feeder uygulamam var. İsmi Feeder direkt. Orada mesela işte medium'da bazı şeyler oluyor. İşte Netflix'in blogu mesela. Adam medium yazısı yazmış ama Netflix'in kendi sitesi de var. Ya da işte AWS blogu onun kendi sitesi var. Trend yolun var. Ne bileyim böyle. RSS Feeder bulup internette. Bunları o Feeder'e attım mesela. Oraya geliyorlar. Onları okumaya çalışıyorum. Yani yapacak bir şey bulmam. Okuyacak bir şey bulmam lazım ki. Sosyal medyada hani o kaydırma şeyinden kurtulayım. Oraya gitmeyin. Ben kendimi açıkçası böyle geliştiriyorum. Bunun dışında üye olduğum AI blogları da var. Ya bu yayından önce çıkaracak mı? Aslında yetiştiremedim. Bir 6-7 tane böyle. Oradan hani mailime geliyor mail bültenleri.
+
+[Speaker 1]:
+O da yine bültenler.
+
+[Speaker 2]:
+Bir yerde paylaşırız gene. O bültenleri takip ediyorum. Yani çoğunlukla aynı şeyleri yazıyorlar tabii. Hani büyük başlık gelişmeler olarak. Ama ne bileyim bazen böyle çıkan bir modeli görüyorum. Ne bileyim. Onu işte alıp böyle ufak tefek denemeler yapıyorum ki. Bu aralar çoğunlukla yapamıyorum aslında. Ama hani İskuç tarafı çok yoğun gidiyor. Ama kendimi geliştirmek için temel olarak böyle besliyorum diyebilirim. Yani güzel mail bültenleri bulum. Zaten ben de paylaşırım. Biz de paylaşırız. Mail bültenlerinin dışında hani link edin feediniz. Ya bir de Allah rızası için hani. Ya şu link edini biraz şey kullanalım ya.
+
+[Speaker 1]:
+Yani bu bazen böyle.
+
+[Speaker 2]:
+Korkunç paylaşımlar görüyorum. Ben tabii çoğunluk tarafına çok emek veren biri olarak şeyi destekliyorum. Böyle hiç stajı falan da olmayan, çalışmayan bir öğrencinin bir bootcamp'e katılıp sertifika almasını paylaşmaya değer olarak görüyorum. Yani kimse o sertifikadan dolayısıyla anayışı vermiyor elbette. Ama en azından link edin de bir etkileşim. Hani ben bu alanda bir şeyler öğrenmeye çalışıyorum. Bu sadece şey değil hani. Potansiyel seni stajı alacak ilk acılarla etkileşim değil. Hani benle etkileşim. Seninle etkileşim. Diğer AI'cılarla etkileşim. O komüniteye dahil olmak maksat. Ama ne bileyim ya işte diferansiyel denklemlerden kaldığımı belirtmekten unutulup duyuyorum falan gibi böyle. Ya bunları yapmayın bak. Gerçekten benim şirketim olsa ben istediğin kadar böyle Kaggle'da, HubSpest'te, GitHub'da inanılmaz profiller inşa etmiş ol almam. Ya bu böyle kullanılmaz. Geyi Twitter'da yapın abi. Ama link edine biraz şey yapalım ya.
+
+[Speaker 1]:
+Ya faydalı bir paylaşım değil mi?
+
+[Speaker 2]:
+Yani link edin gerçekten çok şey bir nimet. Bulunmaz bir nimet. Yani orada ne bileyim insanların paylaşmaya değer gördükleri işte makaleler, gelişmeler, repolar, bir şeyler. Bunları takip edip bu paylaşıma dahil olmak varken insanların feedine öyle düşmek istemezsiniz. Deteransiyel denklemde kaldım. Eee? Yani.
+
+[Speaker 1]:
+Yani ne yapalım?
+
+[Speaker 2]:
+Bunu nasıl kullanabilirim ben? O yüzden hani rica ediyorum link edini güzel kullanalım ya.
+
+[Speaker 1]:
+Ya benim de o tarafta şöyle bir belki hani şey olabilir. Hönkürmem. Ya bu yarışmaya katılıp derece alanlar GitHub linkini paylaşmıyor ya. Adam gitmiş işte orada ödül almış. Ödül fotoğrafını paylaşıyor. Çok güzeldi, çok iyiydi. Abi yaptığın şeyin linkini niye vermiyorsun ya? Ben senin ne yaptığını, orada neyi çözdüğünü görmek istiyorum.
+
+[Speaker 2]:
+Link yok. Soracağım. Soracaksın.
+
+[Speaker 1]:
+Yani ben zorla senin adını tahmin edip GitHub'ta projeye ulaşmaya çalışmakla uğraşmak zorunda mıyım yani? Yani bir ver orada şeyini. Yaptığın işi, çözdüğün problemi. Benim paylaşımlara bakın. Yani her seferinde yaptığımız işi özet bir şekilde çözdüğümüz problemi söyleyip altına ben direkt GitHub reposunu koyarım abi. Çok çok değerli bir şey yani.
+
+[Speaker 2]:
+LinkedIn profilini verirsem bakarlar.
+
+[Speaker 1]:
+Vereyim LinkedIn profilini de. Yöker abinkini de vereyim. Burada yapımız var tabii ki.
+
+[Speaker 2]:
+Aynen şu repodan birazcık bahsedelim. Bu çok güzel bir, çok içme sinem bir çalışma. Tabii işte yoğunluktan şundan bundan buraya da vakit ayıramadım. ML Engine kısmını doldurdum biraz. ML Ops kısmı şu an için boş. Ama dolduracağım. Söz.
+
+[Speaker 1]:
+Bekliyoruz. Özel cloud tarafına da ben bir şeyler bekliyorum orada.
+
+[Speaker 2]:
+Aynen öyle cloud'a da yapacağım. Burada tabii repomuzu şöyle de söyleyebiliriz. Developer Multi Group tarafında. Bu yıl dijitalde birazcık daha çalışmalarımız olacak. Olacak. Fazla başlatmaya çalışacağız. Dijital çalışmaların yanı sıra arkadaşlar bu yüz yüze etkinliklere de geçen yıl olduğu gibi bu sene de ağırlık vereceğiz. Güzel etkinliklerimiz olacak. Bu etkinliklere katılmak için de bekleriz elbette. Ama hani ekibimizde yer almaya da bekleriz her zaman için. Hani AI ekibini de büyütmek istiyoruz bu yıl. Hani Enes'le beraber. Sizleri de aramızda görmek isteriz. Bize ulaşın beraber. Hani çalışalım çünkü. Bazen böyle şeyler oluyor yani. Birine bir mentorluk veriyorum. Ya işte size nasıl teşekkür edebilirim. Yani diyorum ki hani bildiğini sen de git başkalarına anlat yarın bir gün. Hani sırt çevirme. Bu şekilde teşekkür etmiş olursun. Hepiniz için geçerli bu. Yani bir topluluğa dahil değilseniz. Bu Developer Multi Group olmak zorunda değil illa ki. Ama Türkiye'de AI alanında yüz yüze düzenli etkinlik yapan. Başka da var mı bilmiyorum açıkçası böyle profesyonel olarak. Bekleriz yani açıkçası. Ekibimize dahil olup birlikte bir şeyler üretmeye.
+
+[Speaker 1]:
+Ya kesinlikle. Özellikle hani data tarafında böyle benim taraftan hani kendimce baktığım şey şey oluyor. Böyle bir yarışmalara katılıp bir kompetitif tarafı var mı acaba. O tarafta bir problem çözmeye işte elverişli mi. Şimdi ben bizimle yaptığımız toplantılarda böyle ben sürekli böyle bir ortaya bir şey sallarım yani. Gelir böyle. Ya onu arıyorum aslında yani sürekli ortaya bir fikir atıp. Onu yapılıp yapılamayacağının hızlıca tartışılması. Ortamın yaratılması. Bir de tabii Göker abiyle çalışma şansı da var. Öyle bir şey de var.
+
+[Speaker 2]:
+Topluluklar biraz öyle ya. Yani hani şirketlerde böyle ne iş yapacağın az buçuk bellidir ama topluluk seninle şekillendiriyor. Senin aklına bir fikir gelir. Hadi bunu yapalım olur. Çoğunlukla mesela bir üniversiteden mezun olup direkt kurumsalda başlayan bir insanın eksik kaldığı bir taraf bence. Hani o duyguyu da tatmak lazım. Sıfırdan benim aklıma bir şey geldi abi. Söyledim 4-5 kişi aramızda bu görev paylaşımı. Onu hayata geçirdik. Onun tadı başka. Onun da insanın bir tadını alması gerektiğine inanıyorum ben. Bu anlamda da biraz faydalı buluyorum. Projeler üretme, bir şeyler üretme ortaya koyma anlamında toplulukların faydalı olduğunu düşünüyorum. Umuyorum bu yola ekibimiz biraz büyür ya. Güzel şeyler yaparız yani.
+
+[Speaker 1]:
+Umarım yani gerçekten sağlam kişileri bekliyoruz diyelim. O tarafta da akılda güzel planlar var. Gelin beraber yapalım yani.
+
+[Speaker 2]:
+Aynen öyle.
+
+[Speaker 1]:
+Şimdi abi o zaman biraz da yeni başlayanlara öneriler diyeceğim ama gerçekten konuşmanın başından beri her konuda neredeyse öneri verdin.
+
+[Speaker 2]:
+Aynen öyle.
+
+[Speaker 1]:
+Birçok şeye girdik. Belki hani önemli bir nokta olarak işin daha da belki özetleştirdiğimiz bir kısım olarak şöyle bir soru sorabilirim. Sence senin alanına yeni başlayanların yaptığı, doğru olduğunu sandığı ama aslında yanlış olan ne gibi durumlar veya davranışlar var?
+
+[Speaker 2]:
+Yani en başından beri konuştuklarımızı toparlayarak cevap vereceğim aslında. İşte bu imposter sendromu mesela çok büyük bir yanılgı. Yani ben aslında o kadar da iyi değilim. Her zaman için senden iyi biri olacak. Yani ben aslında o kadar iyi değilim diye düşünmek, kendine o psikolojik eziyeti yapmak doğru güzel bir şey değil yani. Seni geliştirmeyen. Tabii ki hani daha iyi olmak için her gün çabalaman lazım. Ama bunu yaptığın hani şey yani kendine acımak olmamalı. Ya kendine bu kadar şey yapmamalısın. Merhamet etmemelisin. Ben bazen böyle şeyde de görüyorum. Linkedin'de de görüyorum. Hatta birisi CV'sini paylaşmıştı. CV'sinde böyle bir hakkında kısmı yazmış. İşte ailemin maddi durumundan ötürü stajlarından da bir maddi beklentim olduğunu belirtmek isterim falan yazıyor. Hakkında kısmında. Yani bu kadar hani şey olmamalı. Kendinizi acındırmamalısınız. Çünkü o CV'de de bir İK'cının ya da bir teknik lead'in görmeyi beklediği şey senin onlara ne katabileceğin. Orada birazcık kendinize güvenmeniz lazım. O güne kadar hangi okulda okumuşsanız, hangi eğitimi almışsanız, ne biliyorsanız. Yani çok bir şey bilmiyor da olabilirsin ama senin bilgin kimi şirketler için çok yetersiz gelecek. Bu doğru. Ya bu benim için de böyle. Diyorum en iş görüşmesine girdim elendim diye. Her seviyede mutlaka yetemediğiniz şeyler olacak. Ama bazı şeylere de yetebiliyor olacaksınız. Birinci olarak bunun farkında olunması gerektiğini düşünüyorum ben. Odaklanmanız gereken şey şirketlere ne verebileceğiniz. Yani benim bu işe niye ihtiyacım var değil. Senin bana niye ihtiyacın var. Ben bu şirketi o projeye ne verebilirim. Böyle yaklaşmak gerekiyor. Imposter sendromunun bir şey olduğunu düşünüyorum. Bu da bir hata yanılgı olduğunu düşünüyorum kariyerinin başındaki insanlar için. Bir ikincisi Twitter'daki işte bu karamsar ortamlara çok kaptırıyorlar kendilerini. Ben bazılarında kendini kaptırmanın ötesinde o anki sorunlardan bir kaçma yolu da görüyorum. Yani adam mesela işte geleceğine dair çok endişeli. Abi işte yapay zeka işimizi elimizden alacak mı? İşte ben yazılımı öğrenmeye başladım ama hani öğrenmeli miyim? Çok kararsızım diyor. Bakıyorsun abi adam işte üniversite ikinci sınıfta diferansiyel denklemlerden kalmış. Üçüncü sınıfta ileri programa birden kalmış. Yani bu dersleri ver bir önce. Hani git bir otur dersine çalış ya. Üniversite öğrencisin yani. Kendin yapılacağın en iyi şey iyilik o. Hani önce o dersleri bir ver. Sonra git yazılımını öğren. Bir mezun ol. Bir işe gir. Yapay zeka işini elinden alacak mıyız? Sonra düşün. Bu kadar uzun vadeli düşünmenin, bu kadar kendimizi eziyet etmenin bir manası yok. Ben hani şeyde Twitter'dan çok görüyorum gerçekten öğrencileri bu şekilde. O yüzden söylemek istedim. O karamsarlıklara kapılmamak lazım yani. Şu an için evet rekabet çok kabul ediyorum. Bu çok olumsuz bir şey. Hepimiz adına ama iş fırsatı da çok ya. Var yani. LinkedIn'de iş ilanları var. İşte Türkiye Yapay Zeka İnisiyatifinden bahsettiğim bir dolu starshoplar var. Ne bileyim başka başka web siteleri var ki benim Medium blogumda yazmıştım. Hani işimi nerede arar nasıl bulurum diye. Orada da birkaç site var mesela. Orada da işte staj programları açıyorlar. Yeni mezunlara iş programları açıyorlar. Ya birileri giriyor yani bir yerlere. Orayınca oluyor ya. Zor kabul ediyorum. Ama hani bu kadar da karamsarlıklara kapılmanın manası bence yok.
+
+[Speaker 1]:
+Ya kesinlikle. Çözecek problem de bitmiyor. Yani evet. Belki yazılımcılık bir noktada azalsa da. Problem çözdüğünüz için. Siz hani orada yazılımcı olarak bir problem çözdüğünüz için. Orada X dilini yazmasın da X tool'unu kullanarak çözersin. Sonuç olarak o problemi çözersin.
+
+[Speaker 2]:
+Aynen öyle. Yani hani MLM diye başlamıştım kariyerime. Software developer oldum. Bir anda kendimi MLOPS'ta buldum. Böyle devam ediyorum. Ki benim mesela link yerinde title'ımda AI Professional yazıyor. Onun hani şeyi o. Sebebi o yani. Bugün MLOPS'um ama yarın bugün başka bir şey de olabilir. Yani ben AI kullanarak ürün de geliştirdim. Ufak ufak böyle çok minik AI RG'leri de yaptım. Tool'lar kullanarak product canlıya da aldım. Şu an mesela hiç productla uğraşmıyorum. Yarın bugün belki başka bir yere geçeceğim. Belki kendi şirketimi kuracağım. O zaman bambaşka bir şey olacak. Yani.
+
+[Speaker 1]:
+Peki abi artık son soruma doğru gelirken. Güzel bir soru. Benim sevdiğim sorulardan biri. Sence seni en çok geçtiren proje neydi?
+
+[Speaker 2]:
+Güzel soru. Yani buna cevabım çok net. Buna da yayın içinde vermiştim aslında. İlk şirketimde yaptığım şey. Çünkü. Yani sıfırdım. Hem Python öğrendim. Database öğrendim. DevOps öğrendim. Yapay zeka öğrendim. Hani NLP falan kullanıyorduk arka tarafta. O zamanlar ne vardı ya acaba? NLTK kullanıyorduk. Kütüphane falan. Kesin.
+
+[Speaker 1]:
+Allah'ın emri böyle ilk klasik kütüphanelerden biri. Belki scipy falan vardır. Daha böyle bilinen. O zaman da Hugging Face falan yoktur.
+
+[Speaker 2]:
+Yok. Tabii. Hugging Face falan. Scipy vardı. Bir şey daha vardı ya. Gene böyle scipy'a benzer ismi olan. Böyle bir kütüphane daha vardı. Şu an ismini çok hatırlamıyorum. Sonra mesela benim artık çıkışıma doğru işte bu datacı dediğim bir arkadaş vardı ki hala aynı şirkette şu an mesela. Yazılım gerisi ekibinin başında. Orada böyle bir graf yapısı kullanıyorlardı. Neo4j diye bir tool ile. İşte bu şey influencer marketing yapıyoruz dedim ya. İnsanların birbiriyle arasındaki ilişkileri şey yapmak için. Orada bir Face diye bir framework falan kullanılır. Face pardon Face değil. Yani epey bir şeye dokunma imkanım oldu. Startup olduğu için. Ve bunun şöyle bir faydasını gördüm. Mesela ikinci çalıştığım şirkette Alterna'da yine çıkmama yakın. Bir bankayla bir kurulum toplantısına girdik. İşte ürünümüzü kuracağız. Toplantıya bir girdik abi. Toplantıda 10 kişiyiz. Ben Alterna'dan gelen tek kişiyim. Benim karşımda 9 kişi var. Yani banka içinde yani networkçisi ayrı, database'isi ayrı. Abi ne yapıyorsunuz ya? Yapacağımız işte yani bir tane portu şey yapacağız. Linux'ta işte ufv allow deyip portu veriyorsun. Ya da sudo iznin yoksa sudo ufv allow deyip ufw allow deyip portu yazıyorsun. Portu kullanımı açıyor bu kadar. Yapacağımız iş bu. Ya bunun için 10 kişi toplandık. Yani tabi banka olunca hani anlıyorum. Çünkü o portu açman ve o portu açmaman gereken bir port sayar. Maliyeti çok böyle uçuk kaçı gerlere varabilir. Ama hani startuplarda çalışmanın öyle de bir güzelliği de var. Yani ben backend'te biliyordum. Linux'ta biliyordum. Network'ta biliyordum. DevOps'ta biliyordum. Bunlar mümkün bu arada. Hani böyle insanlara zor geliyorsa. Abi hepsini birden nasıl öğreneceğim oluyorsa. Oluyor ya. Oluyor yani. Öğreniyor.
+
+[Speaker 1]:
+Valla yavaştan benimle ses gitti artık. Herhalde en uzun tarihteki yayın oldu. Dada.com'un tarihindeki.
+
+[Speaker 2]:
+Biz bu yayınlığın önce seninle şeyi konuşmuştuk hatırlarsan. Bu Cenk Erdem'in zamanında yaptığı. 24 saatlik bir yayın yapalım diye ama 24 saat konuşurken hayal edemedim kendimi şu an ya.
+
+[Speaker 1]:
+Evet orada artık nasıl yaparız? Boğaz için bir şeyler düşünmemiz lazım. Bizim herhalde yazarlıktan önce bir sesi doğru kullanım. Boğazı doğru kullanım bir şey gerekiyor olabilir.
+
+[Speaker 2]:
+Ya benden başka hiç kimse de bu olmuyor bu arada. Benim böyle bazen konferansları falan dinlemeye gidiyorum insanları. İşte 45 dakika sunum yapıyor. Soru cevap yapıyor. Bilmem ne yapıyor. Ve adamın sesi yerinde. Benim birinci saatten itibaren böyle bir sesim gitmeye başlıyor.
+
+[Speaker 1]:
+Ya evet o bende de oluyor. Niye bilmiyorum yani. Ses gidiyor. Valla dinleyen herkese teşekkürler ya. Umuyorum.
+
+[Speaker 2]:
+Bundan sonra izleyecek olanlar da hani 2,5 saatlik bir yayına oturup kim izler YouTube'da sonradan bilmiyorum ama umarım buraya kadar gelirler.
+
+[Speaker 1]:
+Ben izlerim. Ben izliyorum.
+
+[Speaker 2]:
+Ben işte birazcık konuştuğumuz kaynaklar üstünde falan da bir çalışır derler toparlarız. Post olarak da atarız çıkarız. Bu videonun açıklamalar falan da koyarız. Umuyorum faydalı olur. Daha fazlası için link adından yazışı adımı developer multi group'a buyurun gelin. Gelin yani.
+
+[Speaker 1]:
+Valla kesinlikle öyle. Hatta yani bu yayın gerçekten inanılmaz faydalı olduğunu düşünüyorum ben. Yani nelerden konuşmadık ki. Yani özellikle birinci sınıf üniversite öğrencisi birisinin yani şu yayını izlediği vakit belki kafasındaki birçok soruya cevap bulabileceğini, kendi yolunu çizebileceğini hatta belki sonrasında Gökher abi'den bir mentorluk görüşmesi bile alabileceği muazzam bir yayın oldu yani gerçekten. Çok teşekkür ederim abi geldiğin için.
+
+[Speaker 2]:
+Allah rica ederim ne demek ben teşekkür ederim beni çağırdığın için. Seviyorum konuşmayı sesim kısılsa da.
+
+[Speaker 1]:
+Tamamdır o zaman arkadaşlar. Görüşmek üzere. Sonraki yayınlarında.
+
+[Speaker 2]:
+Kendinize iyi bakın. İyi akşamlar arkadaşlar.
+
+[Speaker 1]:
+İyi akşamlar.
+
+[Speaker 2]:
+Biah kalı biay Kalimar bramвод показ'm. Altyazı M.K.
