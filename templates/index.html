@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataCommit RAG Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <div class="logo">
+                    <span class="logo-data">Data</span><span class="logo-commit">Commit</span>
+                </div>
+                <span class="tagline">RAG Chatbot</span>
+            </div>
+            <div class="header-right">
+                <div class="status-indicator" id="status">
+                    <span class="status-dot"></span>
+                    <span class="status-text">Connecting...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Chat Container -->
+        <main class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <!-- Welcome Message -->
+                <div class="message system-message">
+                    <div class="message-content">
+                        <div class="welcome-box">
+                            <h2>👋 DataCommit RAG Chatbot'a Hoş Geldiniz!</h2>
+                            <p>Bu chatbot, DataCommit podcast serisinin 8 bölümündeki içeriklere dayalı sorularınızı yanıtlar.</p>
+                            <div class="guest-grid" id="guestGrid"></div>
+                            <p class="hint">Sorularınız yanıtlanırken hangi bölüm ve konuktan geldiği belirtilecektir.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Input Area -->
+        <footer class="input-area">
+            <div class="input-container">
+                <textarea 
+                    id="userInput" 
+                    placeholder="DataCommit hakkında bir soru sorun..."
+                    rows="1"
+                    autofocus
+                ></textarea>
+                <button id="sendBtn" class="send-btn" disabled>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="input-hint">Enter ile gönder • Shift+Enter yeni satır</div>
+        </footer>
+    </div>
+
+    <!-- Loading Template -->
+    <template id="loadingTemplate">
+        <div class="message assistant-message loading-message">
+            <div class="message-avatar emoji-avatar">
+                <span>🤖</span>
+            </div>
+            <div class="message-content">
+                <div class="typing-indicator">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
