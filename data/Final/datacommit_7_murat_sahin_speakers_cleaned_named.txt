@@ -1,0 +1,1133 @@
+[Enes Fehmi Manan]: Selamlar herkese, herkese hoş geldi! DataCommit'in 7. yayını ile Murat Şahin ile birlikteyiz. Kısa bir ara vermiştik yılbaşından kaynaklı, şimdi geri döndük. Abi, öncelikle hoş geldin.
+[Murat Şahin]: Hoş bulduk, selamlar, selamlar tekrardan.
+[Enes Fehmi Manan]: Hemen o zaman konuya girip başlayabiliriz. Biraz kendinden bahsedebilir misin? Alana nasıl başladın? Şu anda çalıştığın şirket, mezuniyetin?
+[Murat Şahin]: Murat, ben Bandırmalıyım, İzmir'de yaşıyorum. Biraz daha böyle belki basic bilgilerle başlamak iyi olabilir. Alana nasıl başladım? Ya şey, aslında ilk biraz daha böyle öncesinden almak istiyorum. Benim çalışmaya simit satarak başladım. O kadar mı öncesinde başladı? Böyle o zaman simit 250 bindi. Enflasyonla sen tahmin et işte 35 kuruş oldu, sonra 350 bin oldu. O benim dünyama vurulmuş en büyük darbeydi. Çünkü 250 bin kolay hesaplanıyordu ama 350 bini çevirmek, üstünü saymak çok daha zordu benim için. 3-4 simit falan filan çok karışıyordu. İlk matematikle mücadelem öyle başladı. Okul hayatım boyunca ilkokul, ortaokul, lise matematiğim gerçekten çok kötüydü. Ben liseden sonra ancak aslında matematiğimi düzeltip de biraz daha barışıp da problem çözmeyle ilgili olmaya başlayabildim. Aslında algoritma kurma yeteneği, hani işimiz günün sonunda problem çözmek ya, ben bir yazılım mühendisiyim. O yüzden matematiği, matematikle birlikte aslında liseden sonra ilk mücadelem öyle başladı ve daha sonrasında Celal Bayar Bilimlerine giriş yaptım, Yazılım Mühendisliği bölümüne girdim. Orada yazılım mühendisliği kapsamında zaten sevdiğim bir bölüm. Zaten lisedeyken de Bilişim ve Teknolojileri bölümüydü.
+[Enes Fehmi Manan]: Benim hep ilgim vardı çünkü bilgisayar bilimlerine, özellikle böyle problem çözmeye karşı ilgim vardı. Ufak bir araya girmesi: Yazılım Mühendisliği tercih etmişsin. Ya orada Bilgisayar Mühendisliği çok popüler ve sürekli de soruluyor: Yazılım Mühendisliği, Bilgisayar Mühendisliği arasındaki fark. Yani senin buradaki yazılımı tercih etmekteki amacın neydi? Bilinçli bir tercih miydi?
+[Murat Şahin]: Abi, o matematiği çözdüm ama fiziği çözemedim. Yani bana göre değil fizik. Yani ben dedim, Bilgisayar Mühendisliği falan hayatta olmaz. Ya ben bir ders bile böyle mikroçip, bir şey, böyle bir fizik göreceğim bir şeye girmek istemedim. Yazılım zaten ya mühendislik ama hani adı mühendislik ama bir yandan soyutta bir mühendislik baktığında. Hani problem çözüyorsun falan, bu benim çok ilgimi çekmişti. O zaten sürekli ilgim de vardı. Kesinlikle bu yüzden Yazılım Mühendisliğini seçtim. Çünkü zaten bir alanda uzman olmak, yani bilgisayar hani devasa bir domain zaten. Hani ve Türkiye'de de Bilgisayar Mühendisliği, yani bir donanım üzerine bir teknolojinin aslında gideri olmadığı için ben de oradan Yazılım Mühendisliğini seçtim. Hani çünkü zaten Bilgisayar Mühendisleri de Yazılım Mühendisliği yapıyordu. Ben neden o zaman gidip de sanki işte Intel bir şey işlemci varmış, sanki Türkiye'de öyle bir istihdam varmış gibi bir şeye gireyim ki? Bana çok mantıklı geldi. Hâlâ da aynı şekilde düşünüyorum. Yaklaşık bir 4-5 sene oldu ben mezun olalı. Tabii, Korona ile birlikte mezun oldum aslında bu arada, onu da söylemiş olayım. 2020 yılı itibarıyla ben mezun olmuş oldum ve bu sebeple Yazılım Mühendisliğini seçtim. Çok mantıklı değil mi? Yani gereksiz bir ders görmek istemedim. Bir de yine vardı, Yazılım Mühendisliğinde de fizik vardı yine ilk sınıfta falan. Onlar da kötüydü, bayağı kötüydü ama bir şekilde geçti gitti.
+[Enes Fehmi Manan]: Devamında, senin bir yüksek lisans durumun var. Bir de aslında birlikte Data Science'a kayıyorsun diye biliyorum ben. Oradaki kayış lisansta mı buraya keşfediş oldu yoksa yüksek lisansta mı buraya kaydın?
+[Murat Şahin]: Aslında ben lisansın, yani Celal Bayar Üniversitesindeyken staj yeri bulamadım. Yani 3. sınıftayız, işte 3. sınıfa geldik. Artık herkes 2. sınıfta mıydı, ilk staj yeri buluyor? 3. sınıfın şeyi miydi, ortası mıydı, emin değilim. 3. sınıfın sömestri olabilir belki. Neyse, staj yeri bulamadık. Yani gittik, aradım, taradım, soruşturduk. Ben aslında o zamanlar veri bilimine meraklıydım ve zaten staj yeri bulamamın sebebi de veri bilimiydi bir bakıma. Bu arada, sene kaç o zaman? Veri bilimi işte abi, 2018 tabii. 2020'den mezun olduysam 2018'den, 2019'dan bahsediyorum. Aynen şu anda. Öyle bir dedin ki 'sene kaç' diye, yani bir şey sorguladım yani. Ya o zaman veri bilimi olgunlaşmamıştı. Yani veri bilimiymiş, yapay zekâ yok, bir şey yok. O zamanlar işte hani Udemy'de böyle doğru düzgün veri bilimi kursu bile yoktu. Yani daha böyle çok daha yeni yeni ateşlenmeye başladığı süreçte hiçbir şekilde demlenmemişti bu alan, bilinmiyordu ve ben de öyle bir arayışa girmiştim. Sağ olsun, hocalarımın kapısını çaldığımda da benle ilgilendiler vesaire ama olmadı. Yani staj yeri bulamadım. Neyse, naylon bir şeyler yaptık. Ben o yaz tatilini hatırlıyorum mesela, üniversitede geçirmiştim. Bayağı bir çalışmıştım. Çoğu istatistik konularına vesaire çalışarak geçirmiştim. Veriyle ilgili konulara bayağı bir kurslar tüketmiştim. Aslında bir yerde başlasam da muhtemelen benim için o kadar verimli olabilirdi. Kendi kendime öyle bir kapanıp çalışma sürecim olmuştu. Yani ben 3. sınıfa daha gelmeden veri bilimi tarafında çalışacağım kararını vermiştim. Aslında o taraflarla ilgiliydim ama okulun getirdiği bazı zorunlu dersler vardı, bazı bağımlı olduğum durumlar vardı ve onları da yürütüyordum diyebilirim. 4. sınıf geldi, yine ben doğru düzgün bir staj yeri bulamadım. Yani bayağı bir yerle araştırdık, konuştuk falan ama uzun dönem stajım var ortada, yine çok böyle doğru düzgün bir staj yeri bulamadım. Sonra Deniz Hoca ile birlikte, Deniz Kılıç ile birlikte çalışmaya başladık ve onun, onun yanında birlikte böyle danışmanlıklar yaptım işte ya da mesela üniversitedeydik o sırada bazı dersleri vesaire asiste ediyordum. Benim için çok verimli, çok güzel süreçlerdi. Bakırçay Üniversitesi'nde de o şekilde bazı dersleri asiste etme şansım oldu diyebilirim. Ondan sonra zaten kendi şirketimizi kurmaya doğru gidiyor ama sen ne kadar ilerlememiş diyorsan ben oralardan gideyim, senin sorularına bağımlı kalayım, bir kere anlatmayayım burada.
+[Enes Fehmi Manan]: İkinci sınıfta hani Data Science'a karar vermek ve kendini o tarafa yöneltmek bence inanılmaz bir bilinç. Yani gerçekten o, herkesin şu anda olmaya çalıştığı, böyle herkesin kafasının karışık olduğu nokta: "Ne yapacağım, hangi alana yöneleceğim?" falan. Zafer'in alakalı paralel bir sorusu var. O da demiş ki: "Zafer abi, Bilgisayar Mühendisi son sınıf öğrencisiyim ve veri analistliği bootcamp'ini tamamladım. İngilizcemi de geliştiriyorum. İş hayatına nasıl başlamalıyım?" Evet, İngilizcesini de geliştiriyor. Yok, bir okuyayım dedim yine de sanki gelmemiş gibi. "İş hayatına nasıl başlamalıyım?"
+[Murat Şahin]: Şimdi maalesef hani burada kimsenin motivasyonunu vesaire bozmak istemiyorum ama genel bir durgunluk var, özellikle şu süreçte. Mesela bu sene itibarıyla, özellikle geçen senede gördüğümüz gibi bir durgunluk var piyasada. Daha çok Bilgisayar Mühendisliği öğrencileri, yani aslında her bölüm hemen hemen böyle bir karamsarlığa başladı. Sürekli staj yeri arıyorlar, iş başlamak için bir yer arıyorlar ya da ne dal olursa olsun başlayanın kafasını alır aslında. Çünkü sektör onlara o kadar öyle bir seçenek sunmuyor. Biliyorsun, sen de zaten çok benzer aslında. Hani birlikte seninle benzer süreçlerden de geçtik, ister istemez zor bir süreç. Şimdi arkadaş Bilgisayar Mühendisliği öğrencisi, yani onun bir en azından hani bir alet kutusu var. Yani bir problem çözmek için orada Bilgisayar Mühendisliği dersleri almış. Bu arkadaş veri analistliği bootcamp'i güzel bir başlangıç olabilir eğer ki veri bilimi tarafında çalışmak istiyorsa. Yani gerçekten o veri analistliği bootcamp'i ona bir şeyler, onu heyecanlandırdıysa, biraz içinde bir şeyler kıpırdaşmasına sebep oluyorsa şayet, doğrudan veri bilimi tarafından kariyerine başlayabilir. Hani burada veriyle ilgili, yani veri mühendisliği de olabilir, belki farklı farklı alanlarda, dallarda da başlayabilir bir bakıma ama biraz daha keşfetmesini öneririm. Şimdi daha zaten son sınıf öğrencisi, bir bootcamp'i tamamladığını söylüyor. Biraz daha farklı farklı alanlarda, belki büyük veri olabilir, hani tamamen farklı teknolojilerle çalışıp da şöyle bir her şeyin tadına bakabilir neyi beğendiğini anlayabilmek için. Aslında o çok önemli. Bir de iş hayatına başlamak şu an hani biraz lüks gibi bir şeye de dönüştüğü için ister istemez hani gerçekçi olacağı için bunu söylüyorum. O yüzden nereden başlanırsa başlansın, bir yerlerden başlamakta fayda var. En azından bir çalışma kültürünü, bir şirket kültürünü, bir ekiple çalışmanın nasıl bir şey olduğunu anlamak için de çok. Orada da böyle seçici olamayabiliyoruz maalesef. İngilizcesini geliştiriyormuş zaten, yani daha da geliştirmek... Ya orada şu anda dediğim gibi, TR'de bir tık durgunluk var ya. Özellikle bence mid-level ve senior ilanlar çok çıkarken, hani ben ilanları güncel olarak sürekli takip ediyorum, junior tarafta neredeyse hiç ilan çıkmıyor gibi bir şey. Ya böyle staj programıyla gireceksin, staj programları var, yetenek programları oluyor bunlar. Yani toplu alım yapıyorlar. Ben de keza öyle girmiştim şu anki bulunduğum yere ya da işte junior ilanı yok gibi bir şey. Gerçekten de staj programına girip içeride junior oluyorsun. Şu an yeni mezun bir kişi de mecbur staj programına şey oluyor.
+[Enes Fehmi Manan]: Doğru, çok doğru, çok doğru.
+[Murat Şahin]: Mesela bizim şirketimizde de benzer durumlar olabiliyor. Şöyle ki uzun dönem staj diye bir kavram var, biliyorsundur belki. 5 ay, 5 ay boyunca mesela böyle son senenin 5 ayını bu staja ayırıyor. Bunu teknoloji fakülteleri yapıyor, belki bazı mühendislik fakülteleri de yapıyordur, emin değilim. Daha sonra geçen tanıştığım bir arkadaşım mühendislik fakültesinden, o da buna benzer şeyler söyledi. Evet, öyle olmalı. Celal Bayar'dan bir arkadaş, iki arkadaş tanıyorum hatta, aynen öyle olmalı. Onlar da Bilgisayar Mühendisliği öğrencileri. Bu çok avantajlı bir şey çünkü firmalara şunu sunuyor: Sen birlikte çalışan insanı geliştirebilirsin. 5 ay boyunca ona bir sürü şey katarsın. Onu yani bayağı aslında 5 ayını verimli geçiren birisi, tabii ki de kendisini donatır, bir sürü teknolojiyle donatır orada ve o firmaya uyumlu mu değil mi, onu da anlaması için çok çok yeterli bir süre 5 ay. Ve bu durumda sigortası da karşılanıyor. Hani müthiş bir win-win modeline dönüşüyor aslında. Hani hem şirket içinde hem o öğrenci içinde hem de aynı zamanda tahsili olan bir hani mühendis bir öğrenciyi de istihdam ediyor şirket kendisince. Şeyde değil hani, yani alaylı da olabilir mesela ama orada o şey, devletin de getirdiği katkıyla birlikte, sigortayla da birlikte çok güzel, gayet ucuza bir kaynak istihdam etmiş oluyor ve o arkadaşı da yetiştirmiş oluyor. Bu yüzden çok mantıklı bir şey baktığında. Çünkü o arkadaşı eğer onu yapmazsa, üniversiteden çıktıktan sonra maalesef ödevi dışında da çok kendisini geliştirmemiş de biriyse, abi ne oluyor aslında? Deneyimsiz, tamamen deneyimsiz, yani sıfır olan ve işe girişi çok zor olan bir insana dönüşüyor çünkü hiç kimse onu istihdam etmek istemiyor.
+[Enes Fehmi Manan]: Senin de dediğin gibi bu değişir. Yani bizim junior tarafta da mesela genel olarak hani ihtiyaçlar hep sürüyor çünkü mid-level ya da işte senior dediğin insanların da bir maliyetleri var ya da onlar genelde tek başına da çalışmıyor, hep bir junior'a bir şekilde bir insana ihtiyaç duyabiliyor. Orada yani değişir, şirketin kültürüne göre değişir. Hani genelde çok böyle deneyimli insanları istihdam eden şirketler de var ya da aralarda böyle hani junior'ları istihdam eden, junior yoğunluklu start-up'lar da var. Çok değişir oradaki stratejiye göre. Ama Türkiye'de biraz dediğin gibi belki birkaç trik şey verebiliriz: Nasıl öne çıkabilir? Yani özellikle şu anda Winter, eğer ücretli bir platform gibi bir yerinde CTO'su olarak, yani burada bir işe alım platformu yapmışsın aslına bakarsan ve bu platform belli şeylere göre, eğer yanlış mı, yoksa kişileri eleyip en nihayetinde bir değerlendirme mi yapıyor? Buradaki durumda bu kişi, Zafer, nasıl öne çıkabilir? CV'sini nasıl donatabilir?
+[Murat Şahin]: Yani aslında CV donatmaktan ziyade şey diyelim: CV bir şimdi onun yan ürünü. Hani sen bir şeyler yapıyorsun, onun sonuçta sonucu olarak CV'ne de yazmış oluyorsun bir şekilde. Dolayısıyla aslında CV'den ziyade ne yaptığı, Zafer'in ne yapacakları önemli. Biraz Zafer kovalamalı, tam şu an kovalayacağı yaşta. Hani muhtemelen yaşı da genç bir arkadaş. Yani normal şartlarda Bilgisayar Mühendisliği son sınıf öğrencisi de yaşı da bayağı genç bir arkadaş. Biraz koşturacak, konferanslara, böyle işte networking'i geliştirmek için seminerlere katılacak. Bir yerde işte sunumlar var, kongreler var, bunlara gidebilir. Akademiyi görebilir, bir şekilde orada hocalarla tanışacak. Belki Zafer muhtemelen okulundaki hocalarla da arası iyidir bir şekilde. Çünkü okulun, üniversitenin size kattığı yegane şeylerden birisi zaten o hocalarla tanışmak. Yoksa yani siz bugün tabii ki de Coursera'dan, Udemy'den, Udacity'den bir sürü yerden zaten bir sürü kurs alaraktan neredeyse bedava ya da işte YouTube'dan bile hani siz işte Stanford'un yine aynı şekilde kurslarını dinleyerekten de zaten her şeyi öğrenebilirsiniz, hemen hemen her şeyi. Okulun, üniversitenin kattığı şey size hocalarla tanıştırmak ise eğer en önemli etkenlerinden bir tanesi. En azından Zafer'in orada hocalarla da arasının iyi olduğunu düşünerek hani daha da iyileştirebilir. Yani kendisi bireysel çalışmalar yapabilir ya da işte ödevlerini biraz daha geliştirerek böyle LinkedIn'de paylaşabilir. Özellikle bunu Medium yazılarına dökebilir, yaptıklarını gösterebilir biraz. Çünkü şimdi kimse sizi keşfetmez. Sizin biraz daha tabiri caizse 'yırtık' olup hani kendinizi göstermeniz, belirtmeniz gerekiyor, ortaya çıkmanız gerekiyor. İnsanları biraz darlamanız gerekiyor. Şu 'siz kimse sizi keşfetmiyor' lafı bence motto. Yani al duvara koy. Yani size, seni kendini göstermen, yapman gerekiyor. Ya ben de eskiden hep böyle yapıp yapıp böyle, hâlâ da öyledir yani. Çoğu projeyi GitHub'ta mesela işte paylaşmam, GitHub'a koyarım, LinkedIn'de orada burada paylaşmam. Böyle inanılmaz projeler de var yani orada yaptığımız, arka planda yaptığım böyle güzel teknolojik projeler var. İşte gene GitHub'ıma koyuyorum bunları ama ama satamıyorsun, satamıyorsun. Ya satamıyorum yani. O da ayrı bir beceri yani, satmak başka bir şey. Şimdi algı, yoktan bir şey var da gibi gösterebilirsin. Sen de zaten var, var olanı olduğu gibi göstereceksin ama onu da yapamıyorsun. O biraz işte abi karakter, biraz şey meselesi yani. Kötü anlamda söylemiyorum. Ben de neyse onu söylerim mülakatlarda falan, hani çok abartmam. Yani o şey bana göre değil hani. O yüzden ama biraz satanlar kazanıyor diyebiliriz. Kesinlikle ben Winter'dan da bahsederim ya ilerleyen süreçte hani nasıl bir süreç işletiyoruz, bahsederim. Soru da geldi Winter'la alakalı. Yavaş yavaş ilerleyelim. Hani birazcık daha özellikle hani Onur Hocam'dan destek geldi, çok teşekkür ediyoruz bu arada. Sorular da gelmeye devam ediyor. Birazcık hani senin akademik kariyerinle alakalı birkaç sorularla birlikte ben durumu yavaş yavaş Winter'a doğru getireceğim. İyi yayınlar diyenler var bu arada, çok teşekkürler, selamlar, teşekkürler.
+[Enes Fehmi Manan]: Şimdi lisansla tez yapmış mıydın?
+[Murat Şahin]: Tezde aynen üretken yapay zeka birkaç üzerine çalışmıştım biraz daha...
+[Enes Fehmi Manan]: Hayır, hayır, özür dilerim. Lisans da...
+[Murat Şahin]: Lisans da yaptım, evet. Ama o şeydi, gen ekspresyon verileri vardı. Enes Orta gen ekspresyon verileriyle ilgili böyle makine öğrenmesi modellerini falan eğitmiştim. Ama lisansta o zamanlar akademi bilinci yok, bir şey yok. Hani o zaman mesela çok güzel çalışma yapmıştım. Hocam da sağ olsun şey demişti: "Murat, sen bunları çıkarsan hani birkaç tane en az makale olur, bir sürü yere yayın yaparız." falan demişti ama bende o bilinç de yoktu o zamanlar. Yani tam olarak şeyin de farkında da değildim güzel bir şey çıktığını düşünüyorum ortaya. Çünkü o gen ekspresyon verilerine kanser tespiti yapıyorum orada. R kullanmıştım. R'ın orada biyomedikal tarafında çok güzel veri tabanları vardı. Güzel bir derleme olmuştu aslında ama tabii bir yerde böyle bir yayınlanmadı, bir şey olmadı. Biraz daha içeride kaldı. Üstü orada veri bilimi üzerine çalışacağım belliydi zaten o zaman diyebilirim.
+[Enes Fehmi Manan]: Şimdi yüksek lisans tarafı var. Şeyden sonra, lisanstan sonra direkt ara vermiyorsun bildiğim kadarıyla, hani yüksek...
+[Murat Şahin]: Verdim, verdim, ara verdim ama ne kadar bir ara? Çok ara, bir yıl, bir yıl falan ara verdim diye hatırlıyorum. Vermişim, evet verdim. Tabii zaten Korona vardı çünkü. Şey bitti, hatta bizim stajımız bile yandı biliyor musun? Yani staj yaptım ben, yaptım. Neyse ki ben çok güzel bir staj süreci geçirdim. İşte sağ olsun Deniz Hocamla birlikte orada Tableau çalıştık, Kariyer.net'le çok güzel işler yaptık. Otomatik ilan generate etme, şey yapma falan filan. Tableau işte flight delay prediction yaptık mesela. Bunların bazıları bir yayına da dönüştü, yine onların da bir parçası oldu ortada. Oradan ben de şey yapan, yani aslında data scientist rolündeki arkadaştım, birkaç arkadaştan biriydim. Genelde işte Eldor'la farklı farklı çalışmalarımız oldu, çok güzel çalışmalar oldu aslında o kapsamda. Ama stajımız bile yandı çünkü Korona'dan dolayı artık dediler: "Stajını siz yaptınız ya da yapmadınız, biz sizi mezun ediyoruz." tarzına bir şeye dönüşmüştü. Ben o süreçte zaten işte şey yapmadım, yani bir sene bekledim, boşluk verdim. Daha sonra Bakırçay Üniversitesi yüksek lisansa başladım. Orada Adil Alp Koçak, Adil Hocamla birlikte çalıştık. Orada işte biraz daha veri üretme, sentetik veriler, tabular veri üretme üzerine falan çalışmıştık. Orada işte onları mukayese etme, evaluate etme gibi durumlarla ilgili de çalışmıştık bu algoritmaları. İşte GAN modellerini ya da varyasyonel otoenkodırlar üzerine falan diyebilirim. O şekilde bir yüksek lisans süreci geçirdim. Şimdi önemli soru: Yüksek lisansı yapmalı mıyız? Sen neden yaptın ve senin hani yüksek lisansından sonra doktoraya da devam ediyorsun orada, çok acayip. Çünkü sektörle o kadar iç içesin ki neden hâlâ akademide bu kadar devam ediyorsun?
+[Murat Şahin]: Aslında akademide devam ediyorsun... Şimdi mesela doktor unvanı alınca, o tüm dünyada kredibilitesi olan bir artış. Doktorsun demek bu ve bu sadece Türkiye'de işte hani Sarı Çizmeli Mehmet Ağa Üniversitesi'nden falan ziyade artık tüm dünyada senin bir böyle bir title oluyor. Bu değerli bir şey, önemli bir şey bir bakıma, dünyanın tanıdığı bir şey. Ben böyle düşünüyorum. Ben doktoranın elde edilebilecek en büyük unvan olduğunu düşünün. Ne kadar ordinary bir şey olursa, doktoranın orada çok ayrı farklı bir rolü var bence. Orası biraz kırılım noktası. Hani dolayısıyla şu anda şirketimin de bana sağladığı bazı imtiyazlar var. Yani kesinlikle şirketinin hakkını yiyemem. Çünkü bunlar hani sadece bu benimle doktora, benimle okul arasında olan bir şey değil. Benim sonuçta çalışmakta olduğum bir düzenim var ve o kişilerin de buna müsaade ediyor olması lazım. Ben de böyle bir iklimde, böyle bir ortamda olduğum için ve vizyoner insanlarla birlikte olduğum için bana hani yol gösteren, aynı zamanda benim daha iyi yerlere gelmem için bana katkı veren insanlarla olduğum için zaten her şey böyle başlıyor, doğru zamanla doğru insanlarla tanışmakla başlıyor zaten. Dolayısıyla doktora sürecim de çok kolaylaştırıcı bir hâl aldı aslında doktora sürecim. Çünkü zaten şirket Ar-Ge yapıyorsun da zaten ister istemez start-up'lar çıkar çıkarmaya çalışıyorsun ve bu çıkardığın start-up'lardan birisi senin doktora tez konum da olabiliyor. Hani çok güzel bir win-win model zaten. Bunu yapıyorsun, o zaman oradan da git. Hani bir yandan o süreç değiştirirsin. Ben şimdi DEÜ'deyim. Benim bir günüm mesela ortalama DEÜ'de geçiyor. Bu da şey demek: Hani DEÜ'de benim şirketim de DEÜ'de, orada genelde de bulabiliyoruz şu anda. DEÜ derken Dokuz Eylül Üniversitesi, İzmir'de Buca'da. Dolayısıyla kampüs de Tınaztepe Kampüsü'nde olduğu için hani okuldu orada benim için aslında çok da bir şey değişmiyor. Mesela bu çok büyük bir avantaj benim için, büyük bir olanak benim için.
+[Enes Fehmi Manan]: Ya benim aklımdaki şey şu: Hep akademiyle sektör, hem son anlamında işte kodlama anlamında biraz böyle çok farklılaşıyor gibi hissettiriyor bana. Özellikle mesela istatistik tarafını düşündüğümüz vakit, akademi tamamen kâğıtlara matematik yapmaktan ibaretken, sektör tarafı sürekli ürün çıkarma, işte kod yazma, çeşitli ekipler arası iletişimden böyle bir şeyler çıkarma, bir şeyler yaratmakken, akademide sürekli kâğıtta formül çözüyorsun gibi hissettiriyor bana. Yani formül çözmenin benim iş hayatıma bir faydası olacağını şu anda ben biraz düşünmeyen taraftayım.
+[Murat Şahin]: Aslında yaramıyor da zaten, yani yüzde 99 yaramıyor. Çok ekstrem durumlarda eğer ki sen işte DeepMind ile çalışıyorsan, evet evet, formülü falan baksan iyi olur biraz daha hani. Ama onun dışında yani yok. Tabii ki de işte nerede çalışırsan çalış aslında yine Türkiye'de bir yerde. Bunu küçümsemek için de söylemiyorum çünkü zaten o kadar büyük bir Ar-Ge seviyesine ulaşmıyoruz, ulaşmamıza gerek kalmıyor. O kadar yüksek katma değerli şeyler üretmiyoruz belki maalesef. Bunu hani şey olarak söylemiyorum çünkü ister istemez buna ayrılan bütçe belli, buna ayrılan kaynaklar ve source'lar vesaire hepsi belli ve dolayısıyla günün sonunda o kadar adanmışlıkla, o kadar büyük ekiplerle ve yatırımlarla da şeyler olmuyor baktığında. Sen yine Türkiye'nin koşullarında benzer işler yapıyorsun. Yani kâğıtta formül çözmek şey aslında, birçok akademisyen arkadaş da var böyle danışmanlık veren. Hani yani akademidekileri sadece akademide olarak da düşünmemek lazım her zaman. Gerçekten sektöre inen, sektörle el sıkışmaya çalışan, işte böyle hatlarda çalışan vesaire arkadaşlar da olabiliyor. Çünkü akademisyenler de danışmanlık çok büyük bir gelir kaynağı da olabiliyor akademisyenler için. Hani orada bilgilerini satma vesaire işi. Onun dışında akademi körelmek için de çok bence uygun bir yer bir bakıma çünkü ister istemez bir memursun yani ve günün sonunda birileri seni kamçılamıyor. Yani başında hani bir senin direktör olup da "Hadi bakalım canlıya çıkacağız, hadi bakalım şu deadline var!" ya. Tamam, tabii ki de onların da kendilerine göre süreçleri var, işte bir makale yazıyorlar, bir şeyler yapıyorlar falan ama nasıl diyeyim, aynı değil. Sen de söylemek istediğimi arkadaşlara aktarabilmişimdir. Tam olarak aynı değil. Dolayısıyla o bakımdan da tehlikeli bir yer. Mesela çünkü artık o kadar da kendini strese sokman gerekmeyebiliyor ve o stres, zararlı gibi bize görünen stres, aynı zamanda bizi geliştiren de bir unsur ya. Hani doktora zamanı mesela yapılan çalışmalar çok değerli oluyor çünkü çok büyük bir stres altında en verimli çalışmalarını o zaman gerçekleştirebiliyor insanlar o kadar çok hani uğraştıkları için bu alanda böyle diyebilirim.
+[Enes Fehmi Manan]: Burada tezlere geleceğim. Hem yüksek lisans tezleri hem şu an doktorada bir teze uğraşıyor musun onları soracağım ama...
+[Murat Şahin]: En iyi uğraşmıyorum.
+[Enes Fehmi Manan]: Kısaca çete bakarsak, bu nereden bakıyorsunuz? Chat şu an açık değil mi? Gördüm, gördüm, tamam. Private chat varmış bende. Tamam, gördüm, gördüm, gördüm, sorun yok. En üstte 'comment' yazan yerde direkt şey gelen yorumları görebilirsiniz. Ben bir chat'i, bizim kendi aramızdaki chat'i gördüm. Gördüm, gördüm, gördüm, sorun yok. Zafer'in sorusunun devamında tekrardan ona bir yorum yaparsak: "LinkedIn'de aktif olmaya, paylaşmaya çalışıyorum. Bütün staj programlarına da başvuru yapıyorum ama onay alamadım hâlen hiçbirinden. Yaptığım küçük bir hata olduğunu düşünmeye başladım. Sabır işi mi?" Sabır işi, net sabır işi. Yani tamam, LinkedIn'de aktif olarak paylaşmaya çalışıyorsun. Yani şey, Zafer, bir kendine bir aslında güzel bir portföy hazırlarsan eğer, hani en azından o zaman şansın biraz daha artmaya başlayacaktır. Farklı farklı projeler mesela ilgi çekici. Yani bilmiyorum, veri bilim alanında çalışıyorsan atıyorum, kendin yaptığı bir projeyi deploy etmeyi ve insanlara bir video çekerek bunu sunmayı düşünebilirsin. LinkedIn'de çok ilgi çeker. Yani şov haber seninle röportaj bile yapabilir yani. O kadar algı meselesi abi. Her şey algı mı? Yani işaret dilinde bir şey yaptım, şov haber geliyor işte: "Bakın şuna, liseli bir arkadaş böyle bir şey yapmış!" falan. Hani GitHub'tan bir kodunu çekebileceğiniz bir şey yapabileceğiniz şeyler basit yer ama algı meselesi. Çünkü sokaktaki insan bunu hiç bilemeyebiliyor. Yani uzaylı görmüş gibi tepki de verebiliyor. Burada işte sen ne yapacaksın? Zafer de çok girişken olacaksın. Bir sürü şeyleri araştıracaksın. Implementasyon yeteneğin gelişecek. GitHub'la çok haşır neşir olacaksın vesaire. İnsanların kodlarını inceleyeceksin, code review yapacaksın. Biraz böyle deneyimli insanların Medium yazılarını okuyacaksın. Çok tüketeceksin, sürekli tüketeceksin, tüketeceksin. Bir yerden sonra üretmeye de başlayacaksın elbette. Bu ürettiklerini de biraz olsun iyi satabilirsen insanlara böyle pekâlâ bilinir bir hâle gelirsin ve şansını artırırsın. Yoksa şu anda zaten yani sabır etmekten başka bir şey yok. Yani onu yapıp o çalışmaları yapıp tevekkül etmeyi... Ya bir de ya ben de şimdi gönüllü olarak başka platformlarda böyle mentorluklar falan yapıyorum. Orada gördüğüm arkadaşlar yaptığı işlerde falan genelde mesela bir bootcamp oluyor, atıyorum ücretsiz bir bootcamp bu ve bin kişi katılmış. Bin kişi proje yapıyor, bin kişi de aynı şeyi yapıyor. Sonuçta proje template'i aynı. Burada o bin kişiden biri oluyorsun ve yapılan iş deploy falan da edilmiyor. Yani direkt bir notebook yapıyorsun ve paylaşıyorsun. Ya aslına bakarsan bunun hiçbir değeri yok. Evet, öğrenmek açısından güzel ama çözdüğüm problem unique değil, hayata dokunan bir şey de olmuyor oradaki problem. Bunun diyor ama insan bunu kullanamıyor.
+[Murat Şahin]: Evet ama şimdi daha dur Bismillah. Yani yeni başladı insanlar, şu anda hiçbir şey bilmiyorlar. Düşün, bilmeyen birisi ilk kez daha denize atılacaksın. Hani orada tabii ki böyle basit şeylerle. Önemli olan o basiti bile sindirmek aslında biliyor musun? Sen orada ne yaptığını gerçekten yüzde yüz farkında ol. Bence o bile çok güzel bir şey. Bunu şey için demiyorum, ben de ücretsiz bootcamp veriyorum işte herkese bin kişi aynı şey yaptırıyorum diye demiyorum. Öyle bir olayım yok ama o bile değerli değil mi? Yani girdin abi, ilk kez anlıyorsun, ilk kez görüyorsun, anlamaya çalışıyorsun. Tamamen hakkını verebilmek bence o yüzden büyük bir yetenek ya. Orada o yüzden şeyi küçümsemiyorum. Yani bugün eminim çoğu insana bir şey katar o bu alanda böyle yüz bir bilgisi olan insanlara bile o büyük kezler bir şeyler katabilir. Ama işte oradan da çıkabilmek mesele ya. Orasını orasını ChatGPT bile yapıyor ya artık. Hani herkes biliyorsun bir çalışma içerisinde. Ya şu anda bizim için mesela orada değinmiş olayım, artık ChatGPT diye bir şey var. Bu tool'u artık kullanmak zorundayız. Nasıl bir işte mühendissiniz, analizsiniz fark etmez, hani istatistikçiyiz hiç fark etmez. Bunu, bu tool'u kendimiz bir şekilde çantamıza katabilmemiz gerekiyor. Ya bunu, bunu ehlileştirmemiz gereken bir varlık olarak düşünün. Şey gibi oldu bir anlamda, zaten insanlar böyle işte korku filmi, bilim kurgu izleyerekten kendilerini korkutuyor. Bunu ehlileştirmemiz gereken bir varlık olarak düşünün ve ona hükmedin. Yoksa o gelişmelerle birlikte aslında bizim çok daha zeki, çok daha onlardan akıllı olmamız gerekiyor ki sonuçta hani bir öne çıkabilelim. Şu anda ChatGPT'nin de değiştirdiği dengeler var içeride. Artık iyi kötü yeni başlamış, sektöre yeni başlamış bir insanın yapabileceği pekâlâ çoğu şeyi yapıyor ama hâlâ yapamadıkları var. Bu ne kadar hızla kapanacak, ne kadar hızla kimlerin ne kadar yerini alabilecek konusunda bizim sürekli kendimizi geliştirmemiz gerekiyor.
+[Enes Fehmi Manan]: Evet, kesinlikle.
+[Murat Şahin]: Ama ben gene de o bin kişiden sıyrılmak için bir noktada yaptığım bir şeyin deploy'unu hep araştırılması gerektiğini düşünen... Deploy bir yetenek. Şimdi adam ilk kez mesela hani formülasyonu, lineer regresyonu biliyor mesela. Onu deploy etsen, o belki deploy'dan haberdar biri, belki alan dışından geldi. Hani sonuçta evet ya, şey tek olay deploy değil. O lineer regresyona multiple mesela lineer regresyon desen onu sen ama hani yani çok değişkenli bir regresyona soksan atıyorum tamamen ya da gitsen o gün regresyonun kuzenlerini araştırsan atıyorum tamamen. Evet, katma değer vermekten bahsediyorsun. Deploy derken onun tek yolu deploy değil. Yani her şekilde orada sıyrılabilirsin aslında. Bir katma, bir katma değer yaratabilirsin mesela. Ya da işte noise'i atarsın belki bir şeyler yaparsın ve günün sonunda ya da yaptığın şeyin formülasyonunu açarsın, onu bir fonksiyona dökersin atıyorum, çok basit bir örnek üzerinden söylüyorum. Bir yandan da burada şeyi düşünüyorum aslında deploy tarafını düşünürken, ilk katmanda aslında bu kişi eleniyor ya ve ilk katmanı geçmesi lazım. İlk katmanı, o katmanı o kodlardan anlamıyor. O anca önüne bir ekran geldiği zaman, oraya birkaç bir şeyleri sürüklediği zaman belki anlayabilir, bir video gördüğü zaman anlayabilir: "Bu çocuk bunu yapıyor." diyebilir. Doğru kod verdiğin zaman anlamayacak tabii. Evet, yani yok, GitHub'ta aslında parlak bir GitHub profili bile bence çok değerli ama buna müsait olan arkadaşlar için değerli. Şimdi yani özel sektörde çalışan arkadaşların öyle GitHub'ta tabii ki de bir şey paylaşma durumları, şansları yok baktığında. Dolayısıyla parlak bir GitHub profili önemli ama ilk aşamada bundan ne kadar anlar bilmiyorum ya da işte...
+
+[Murat Şahin]: Böyle sürekli üretken olmak. Ya, üretken olmak iyidir. Hani YouTube'a video kaydedebilirsiniz, Medium'a yazılar yazabilirsiniz, bir şey yapabilirsiniz. İyi ya da kötü, bu sizin gayretinizi gösterir. Bu alanda gayretli ve niyetli olduğunuzu, en azından o başladığınızı gösterir ki üzerine bunu devam edebiliyorsanız ne âlâ. Yani o yüzden mantıklı, böyle bir donatmak gerekiyor biraz sıyrılabilmek için. Bir de belki Hackathon ve Datathon'lar, oralarda bootcamp'ten ziyade aslında daha challenge'ın olduğu yerler bakılabilir mi?
+
+[Enes Fehmi Manan]: Evet, ben bayağı da Hackathon'a, Datathon'a vesaire hiçbir şeye katılmıyorum. En son herhalde üniversitedeyken zorunlu bir şeylerimiz vardı, ona katıldım. Uykumdan feragat etmiyorum. Gece uykusu alınması gereken bir şey. Belki hani çok profesyonel bir cevap değil ama uyku önemli bence. Öyle şey sevmiyorum, biraz düzen insanıyım. Üniversitede ikide falan fark ettim ben böyle kalkülüs falan bir şeyler verip verirken böyle sabahlarken falan dedim: "Bir şey yanlış yapıyorum, bu böyle olmaz." O saatten sonra ben o günden sonra çok çok iyi hatırlıyorum, yani hiç öyle hiçbir şey için sabahlamamaya çalıştım. Gerçekten de hep böyle düzen insanı olmaya çalıştım. Sabahları falan iyi değerlendirmeye çalışıyordum, günü iyi değerlendirmeye çalışıyordum çünkü günün saatlerini değiştiremiyorsunuz. Uyku borcunuzu da bir yere kadar şey yapabilirsiniz. Benim için düzen önemli ama eminim çoğu insan için faydalı oluyordur bu Hackathon türevi şeyler. Özellikle eğer ki mentorlar varsa orada ve size mentorlar dokunabiliyorsa hani çok çok iyi olacaktır ya da sizi böyle stres bir şeyler hani kamçılıyorsa bir şeyleri kendinizi geliştirmeye, o gece gerçekten hani bir topluluk halinde bir şey yapmak sizi gerçekten motive edecek ve o "competition" şeyini yaşamaya, yaşamak istiyorsanız eğer o ruh da yani sizi geliştirecekse pekâlâ iyi olabilir.
+
+[Murat Şahin]: Mantıklı. Yani şimdi ben de biraz böyle Hackathon, Datathon şeyim, fanboy gibi bir şeyim, sürekli katılmaya çalışıyorum onlara.
+
+[Enes Fehmi Manan]: Bunlar hep sabahlamalı oluyor, değil mi? Ya hep öyle oluyor, değil mi? Ben... Hep nasıl oluyor dedim tabii, hep sabahlamalı mı oluyor?
+
+[Murat Şahin]: Ya, en son mesela Fibabanka'nın kendi internal Hackathon'u online'dı. Yüz yüze olanlar sabahlamalı oluyor, orada iki gün uyumadık yani gerçekten de. Ama şu an işte Coder Space'in falan yaptığı Hackathon'lar var Türkiye geneli, onlar birazcık daha böyle online başlayıp finali yüz yüze oluyor. Ya, o kadar da sabahlamana gerek yok aslında bakarsan. Var yani şu an hele Datathon'larda falan hiç gerek yok çünkü iki hafta falan süresi oluyor onların. Bir de Kadir'in sorusuna bakabiliriz: "Hocam, büyük şirketlere girme hedefi olanların hangi yetkinlikte gelişmesini önerirsiniz? Teknoloji de olabilir." demiş Kadir. Yani büyük şirketlerden kastı biraz daha herhalde kurumsal olan şirketlerden bahsediyor ve veri bilimi alanında bir şey muhtemelen kastediyor diye düşünüyorum. Şimdi öyle bir soru var, yani Kadir hangi okuldan okuduğu, ne olduğu hiçbir şey bilmeden konuşacağım. Bir mühendislikten vesaire mezunsa ya da böyle bir akademik geçmişi varsa, büyük şirketler için bir artı avantaj olabilir. Ama daha çok büyük şirketler, yani İngilizce üzerine belki... Ya her zaman her yerde herkesin işine yarar ama hani Kadir'in de orada İngilizce tarafına yatırım yapmasını öneririm yetkinlik bakımından. Çünkü öyle fırsatlar gelebiliyor ki önünüze, reddetmek zorunda kalırsınız. Yani eğer ki o "trade"i tamamlamamışsınız, o İngilizce yetenek setini koymamışsanız çantanıza, onu reddetmek zorunda kalırsınız. Bu da iyi olmaz. Okul tarafında eğer mümkün olduğu kadar hani bilmiyorum, kurumsal şirketler biraz takılıyor. Yani bir kere okula takılıyorlar, Türkiye'deki kurumsal şirketlerden bahsediyorum bu arada. Kadir'in sorusu o kadar büyük şirketler, yani dünyada olduğunu anlıyorum. Sadece o şirketleri çok "Meta"ya nasıl gireriz diyoruz ama onu mu diyor yoksa işte Türkiye'de atıyorum şimdi isim vermeyeyim hani çok güzel kurumsal şirketlerdi onu da anlamadım o yüzden şey yapıyorum. Evet, yani bence öyledir, Türkiye'deki bilindik kurumsal şirketlerden bahsediyordur yani o tarafta.
+
+[Enes Fehmi Manan]: Kadir, yardımcı ol bize biraz.
+
+[Murat Şahin]: Buradaysan isim ver, şirket belki... Ya mesela AWS'e girmek, atıyorum, mesela Eren'le de konuştun sen geçen baktığında. İngilizce bir kere şart, çok şart. Okul çok iyi olursa güzel olur, artı atar size. Okulun çok iyi bir okuldan mezun olmanız, hani böyle işte isim vermeyeyim şimdi ama güzel bir okulun bilgisayar mühendisliğinden mezun olmanız çok iyi olur. Varsa şansınız varsa akademik bir şekilde bir şeyler yapmış olmanız çok iyi olur. Bunun için akademisyen olmanıza gerek yok bu arada. Kendiniz çalışmanızı yaparsınız ve yayınlarsınız. Yani akademi böyle bir şey, bunu yüksek lisans yapmanıza, doktora yapmanıza gerek yok. Siz bireysel olarak evinizde oturup da yine makale yazıp istediğiniz dergide yollayabiliyorsunuz diye... İstediğiniz dergi konuşulmuyor ama yani bunu yapabiliyorsunuz. O kadar şimdi şey yapmayayım, şimdi beni düzeltirler. Bireysel olarak da sonuçta çalışma yapabilirsiniz. Akademiye gönül vermiş birisi olarak o kısımda yani faydası olabilir. Ama daha daha önemlisi, en önemlisi, onu sonra sakladım. Yani bu tarz şirketler aslında mülakat esnasında biraz kasarlar. Kasmaktan kastım işte siz bir "Hadi bir arama ağacında bir şey arayalım", "Hadi işte bir..." hani teknik, algoritmik olarak sizin becerinizi ölçerler. HackerRank soruları gibi düşünün, oralarda iyi olmak gerekiyor. Bunun için bayağı böyle işte şeye çalışır gibi... Şimdi sınavların adları nasıl değişti bilmiyorum, LYS mi? YKS falan... YKS mi artık nasıl değişti bilmiyorum o yeni sınavlar. Biraz böyle sınava çalışır gibi çalışmanız gerekebiliyor o tarzda yetkinliklerinize. Çünkü İngilizce bir şekilde online mülakatlarda onlar biraz sizin için sorgulanıyor diyebilirim.
+
+[Enes Fehmi Manan]: Ya da verilen "case"leri bitirmek için zaten deneyim edinmeniz gerekiyor ama...
+
+[Murat Şahin]: Bu ayrı bir şey söylediğim. Yani o soru çözme, veri yapıları sorusu mesela. Bu da işte bilgisayar mühendisliği gibi bir alandan alabileceğiniz dersler ya da sonradan tamamlayabileceğiniz dersler. Günün sonunda Türkiye'deki büyük şirketler bu şekilde. Yurt dışındaki büyük şirketler üzerine de zaten orada ilgili arkadaşlar cevaplamıştır. Yine benzer şekilde süreçler işliyor.
+
+[Enes Fehmi Manan]: Orada çok belki okula takılmıyorlar o kadar.
+
+[Murat Şahin]: O kadar çok bölüme, sizin mesleğinizi, "title"ınıza belki o kadar çok takılmıyor yurt dışındaki şirketlerde ama günün sonunda sizin o iş için yetkin olup olmadığınıza dair bayağı didik didik ediyorlar diyebilirim. İyi yayınlar demiş Semre, selamlar, teşekkürler. Onur Hocam'dan bir cevap: "Teşekkür ederiz." Biz teşekkür ederiz. Nuriye Dezcan da "Teşekkürler." demiş. Teşekkürler Nuriye.
+
+[Enes Fehmi Manan]: O zaman tez konusuna gelebilirim. Şu anda mevcutta yüksek lisans tezinde ne yapmıştın? Şu an doktora tarafında bir şeyler düşünüyor musun tez için?
+
+[Murat Şahin]: Evet.
+
+[Enes Fehmi Manan]: Aslında yüksek lisans tarafında üretken yapay zekanın...
+
+[Murat Şahin]: Biraz daha işte bu sentetik tabular veri üretme üzerine çalışmıştım. O zamanki konjonktürde böyle bir "start-up" girişimi vardı aslında. Hâlâ daha söz konusu tabii. Tabular veri üretmekte orada biliyorsun mahremiyet çok büyük bir sorun. Yani şirketler, departmanlar arası bile veri paylaşamıyor. Bu kapsamda biz de öyle geliştirmeler yapmıştık orada. İşte farklı farklı GAN modelleri üzerine, bunların işte mukayese edilmesi tarafında vesaire ya da bir sentetik tabular datanın "evaluate" edilmesi için bir "framework" geliştirme taraflarında benim de çalışmalarım oldu diyebilirim. Şu anda Dokuz Eylül'de yapmakta olduğum doktora henüz o aşamaya gelmedi ama tabii ki kafamda bir şeyler var ama çok netleşmeden de bir şey söylemek istemiyorum çünkü şu an çok değişiyor. Bir anda "agentic AI" çıktı. Hani burada kartları yeniden dağıtıyor. Başka bir şeyler oluyor falan. Bugün hani "çok yaşa" dediğimiz, iki gün sonra gidiyor, ölüyor gidiyor bir bakıma. Biz de çok önceden de belirlememiz gerekiyor bu arada doktora tezini vesaire. Dört sene öncesinden bir şey söylemen gerekiyor onlara. Yani baktığında saçma tabii. İlk sene doktora girdiğin sene bir konu veriyorsun ve o konuyu çok değiştiremiyorsun da böyle işte. Yine üretken, belki "agentic" taraflarda bir şeyler yapacak olduğum belli şu anda ama tam olarak kesin değil diyebilirim. Şu anda derslerimi vermeye çalışıyorum, derslerimi tamamlamak üzereyim.
+
+[Enes Fehmi Manan]: O da bir "challenge" yani. Hem doktora da büyük bir şey yani, gerçekten dört sene belli dersler devam ediyorsun falan filan. Bir yandan da yani inanılmaz bir iş yoğunluğu. Hem danışmanlık tarafın var diye biliyorum, hem de şu an çok söylemiyoruz onları, çok söylemiyoruz, taze CTO oldun yani. O da var yani, o da inanılmaz. Hepsini birlikte, hobilerini de düşününce... Tabii hobilerine daha detaylı geliriz ama zaman yönetimi nasıl yapıyorsun? Bunları nasıl bir arada götürüyorsun?
+
+[Murat Şahin]: Her şey zaman yönetiminden ibaret. Yani şu ajanda mesela, şöyle bir ajandan olacak ve bu ajandaya ne varsa yazacaksın.
+
+[Enes Fehmi Manan]: Sana birisi bir şey söyledi yol üstünde, şirkette biri görürken, koridorda biri bir şey söylüyor...
+
+[Murat Şahin]: Bir şey söylüyor, toplantıda bir şeyler oluyor falan. Her şeyi, aklıma gelen hemen hemen her şeyi sürekli yazmaya çalışıyorum. Yazmadın mı, unuttun gitti, uçtu zaten o bilgi, yok artık yani. Unuttun, o kişi bir daha geldiğinde "neden olmadı" diye o zaman hatırlıyorsun falan hani baktığında. O yüzden hemen hemen her şeyi not alarak ilerlemeye çalışmak lazım bence. O bizim RAM gibi bir şey yani. Bilgisayarın RAM'i nasıl olmazsa, bir ajandasız, bir "to-do list"siz de bir insan olmaz, savruluyordur yani. Uzay boşluğunda savrulmaktadır o insan öyle çalışan birisi. Hafta sonlarını "buffer" olarak kullanıyorum genelde. Belki bu kötü bir şey hani çünkü hafta içi yetmiyor bir bakıma, hafta sonlarına taşıyor işler bazen. Gerçekçi olayım yani, o çok iş hayatı-özel hayat dengesini çok kurabiliyor değilim şu anda çünkü başka beklentilerim var benim de hayattan. Vaktim... Onlar daha öncelikli geliyor.
+
+[Enes Fehmi Manan]: O yüzden daha çok çalışmayı tercih ediyorum şu anda.
+[Murat Şahin]: Belki bu yayın 5-10 sene sonra böyle olmaz yani.
+[Enes Fehmi Manan]: Şu an olanı söylüyorum ben, değişecektir elbette düşüncelerim, görüşlerim vesaire. Kaç saat çalışıyorsun bu arada?
+[Murat Şahin]: Ya öyle değil hani o kadar böyle işte günde 10 saat, 12 saat falan değil aslında. Verimli çalışabileceğin zaten belirli bir süreç var.
+[Enes Fehmi Manan]: Önemli olan o günü boş geçmemek, pas geçmemek. Aslında bu yüzden biraz da hafta sonu vesaire hani davasını ekliyorum oraya. Çünkü pazar günü otursam da ben 16 saat çalışamıyorum zaten. Bir yerden sonra bitiyor, sıkılıyor artık. Hani insan kusacağa geliyor bir şekilde. Tamam, yetiştirmen gereken, vermen gereken teslimatlar oluyor ama bir yerden sonra sıkılıyorsun. O yüzden cumartesi 8 saat, pazar günü 8 saat falan çalışmak gerekiyor. Hani böyle dengelemek gerekiyor. Yoksa o kadar kendime çok yüklenmek istemiyorum. Yüklenmekten sonra da bir süre şeye düşebiliyorum. Yani artık motivasyonsuz ya da "burnout"a yakalanma gibi durumum da var. Dolayısıyla çok şaşırmadan her gün böyle azar azar bir şekilde de olsa mesafe katetmek gerekli. Bilmiyorum, kendimle orada böyle beynimle biraz oyunlar oynuyorum.
+[Murat Şahin]: Bazen zor işleri sona bırakıyorum.
+[Enes Fehmi Manan]: Kolay işlerden hızlıca dopamin elde ediyorum. Mesela sabah kalktım ya, kolay böyle ufak işleri yapıyorum ki işte hani bir ivme kazansın yani. Hani en azından bir marşa basayım, bir birinci vitese, bir kalkış vitesine falan çevireyim kendimi.
+[Murat Şahin]: Bazen böyle oyunlar yapıyorum.
+[Enes Fehmi Manan]: Bazen kendime telkinler yolluyorum: "Hafta sonu bunu çalışmam lazım. Hafta sonu bu işi yapacaksın Murat."
+[Murat Şahin]: Hani onu birkaç kez hatırlatıyorum kendime. Beynimi böyle formatlıyorum bazen.
+[Enes Fehmi Manan]: "Onları bitirmem lazım" diye. Tabii bunları yapıyorum ya.
+[Murat Şahin]: Atomu parçalamıyorum günün sonunda. Teslimatlarımı yapmaya çalışıyorum. Hani bir insan olarak bir şeylere yetişip...
+[Enes Fehmi Manan]: Kimseye yüzümü kızartmadan, "Evet, ben bu isterleri yapabildim, çözüyorum bu ödevleri, teslim ettim" atıyorum. Ya da işte "bunu yolladım, yazdım, çizdim, bitti" falan. Bunu demek günün sonunda yaptığım şey. Yoksa hani uzaya roket falan da fırlatmıyorum günün sonunda. Ama sadece birden fazla işi aynı anda yapma konusunda ayrıca bir zaman yönetimi gerekiyor. Eğer zamanı çarçur edersem, gitti yani.
+
+[Enes Fehmi Manan]: Hani bir kere de ipin ucunu kaçırmamam da gerekiyor. Mesela şu anda dönemin sonlarına geliyoruz artık. Baktığında artık yüzlük yüzlük kuyruğuna geldik. Hani buradan da derslerimi tamamlamış bir şekilde çıkabilmeyi umuyorum. Onun için şey yani...
+
+[Murat Şahin]: Belki yazın falan biraz daha kendime karşı...
+
+[Enes Fehmi Manan]: Toleranslı olabilirim ama...
+
+[Murat Şahin]: Şu an öyle bir dönem değil. Okul dönemi olduğu için.
+
+[Enes Fehmi Manan]: Diyebilirim. Ya peki, gene benim de çok merak ettiğim bir şey, özellikle de yeni CTO olmanla birlikte, belki lead'ken daha fazla yapıyorsunuz bunu ama günün ne kadar saatinde koda bakıyorsun? Çok değişiyor, bayağı değişiyor mesela...
+
+[Murat Şahin]: Özellikle...
+
+[Enes Fehmi Manan]: Ya koda bakmak değil aslında, şöyle söyleyeyim. Hani CTO'luk, "CTO ne yapar, koda bakar" falan... CTO tarafında daha çok teknolojik gelişmeleri...
+
+[Murat Şahin]: Takip etmek...
+
+[Enes Fehmi Manan]: Bunu şirkete entegre etmek...
+
+[Murat Şahin]: Ekibi bu konuda bilgilendirmek, ekibe gerekli işte eğitimleri...
+
+[Enes Fehmi Manan]: Düzenlemeleri sunmak, ekibi işte hani teknolojik kapsamında aslında çok daha üst düzey bir şekilde yönlendirmek söz konusu. Hani "CTO ne yapar, kod review yapar" falan gibi de değil aslında. Yapabilir bu arada.
+
+[Murat Şahin]: Yapar, ben de yapıyorum.
+
+[Enes Fehmi Manan]: Çünkü farklı farklı işlerim doluyor ama şey değil yani.
+
+[Murat Şahin]: Burada.
+[Enes Fehmi Manan]: Nasıl diyeyim sana?
+[Murat Şahin]: Belki böyle senin arayışın, şu an sorguladığı şey, biraz daha technical guru gibi falan ama...
+[Enes Fehmi Manan]: Öyle değil biliyor musun? Daha çok soft skill. Yani belki buradan...
+[Murat Şahin]: Konuyu oraya da bağlayabiliriz. Hani...
+[Enes Fehmi Manan]: Yani muazzam ben teknoloji, muazzam işte...
+[Murat Şahin]: Kodlama tarafında yeteneklerim var. Şöyle modeller geliştiriyorum, böyle modeller eğitiyorum.
+[Enes Fehmi Manan]: İşte alıyorum, çarpıyorum.
+[Murat Şahin]: Bölüyorum işte 1500 layer'lı...
+
+[Enes Fehmi Manan]: İşte 70 milyar parametreli.
+[Murat Şahin]: Modeller eğitirim falan filan.
+[Enes Fehmi Manan]: Ziyade aslında biraz daha soft böyle yeteneklerin olması gerekiyor. İnsanları idare edebilmek, hani insanları yönetebilmek...
+[Murat Şahin]: Ekibi motive tutabilmek.
+[Enes Fehmi Manan]: Ekibin derdini anlayabilmek, gerekli teknolojik... eee... çalışma arkadaşlarım...
+[Murat Şahin]: Yani çalışma arkadaşlarım daha doğrusu.
+[Enes Fehmi Manan]: Hani personel deyince daha böyle şey oldu. Sorunları olabilir, yani ekip içi sorunlar olabilir. Aslında çok böyle karmaşık...
+[Murat Şahin]: Karmaşık ve sınıflandırılamaz bir konu, etiketlendirilemez bir konu diyebilirim.
+[Enes Fehmi Manan]: Mesela daha çok makaleye de bakabilirsin. Hani işte atıyorum, işte Forbes ne yayınlamış...
+
+[Enes Fehmi Manan]: Çok daha böyle üst düzeyde bakabilirsin olaya.
+[Murat Şahin]: Hani yapay zekada en son...
+[Enes Fehmi Manan]: Nvidia'nın işte liste fiyatlarından tut da OpenAI'ın son stratejilerine kadar, hani bunların hepsi sonuçta senin ilgi alanına giriyor. O yüzden karışık diyebilirim. Ya burada evet, birazcık ben daha teknik bir şeyler bekliyorum. Çünkü hani CTO deyince, yani açılımına baktığın zaman aslında teknolojiyle alakalı bir şey.
+[Murat Şahin]: Doğru.
+[Enes Fehmi Manan]: Evet, her şeyden sorumlu, böyle tüm teknikteki bilen, her şeyi yönlendiren böyle bir şeymiş gibi akılda canlanıyor ama daha böyle soft skiller diyorsun. Evet, kesinlikle.
+[Murat Şahin]: Kesinlikle öyle. Ben de öyle insanlarla çalışmayı tercih ederim mesela. Hani kendisini technical guru gibi gören...
+
+[Murat Şahin]: Kesinlikle öyle. Ben de öyle insanlarla çalışmayı tercih ederim mesela. Hani kendisini technical guru gibi gören ve teknik taraftan böyle...
+[Enes Fehmi Manan]: ...donatmış vesaire. İnsanlar güzeldir.
+[Murat Şahin]: İyidir hani.
+[Enes Fehmi Manan]: Ama soft skill'leri yoksa onlarla çalışmak istemem mesela. Mesela kriz kaldıramıyorsa, eğer ki bir şeyleri yönetemiyorsa...
+[Murat Şahin]: Ya da...
+[Enes Fehmi Manan]: Çok çabuk sinirleniyorsa, asabi ise mesela, böyle nevrotiklik varsa üzerinde, nasıl diyeyim? Sürekli yılma, şikayet etme isteği...
+[Murat Şahin]: Hani bir...
+[Enes Fehmi Manan]: Demotive etme...
+[Murat Şahin]: Demoralize etme gibi durumlar.
+
+[Enes Fehmi Manan]: Mesela böyle insanlar olur her yerde. Sen de karşılaşmışsındır belki. Mesela bunları değişmem yani.
+[Murat Şahin]: Baktığında.
+[Enes Fehmi Manan]: Soft skill önemlidir hani.
+[Murat Şahin]: Eee.
+[Enes Fehmi Manan]: Şöyle ki, o pozisyon için diyelim ki Enes, data scientist pozisyonu için gidip o bankanın ilgili kişileri, İK'sı artık neyse, organizasyon yöneticileri bir silsile oluşturuyor. Diyor ki: "Sen mesela bir adaysın şimdi."
+[Murat Şahin]: Ben de istihdam edecek olan bir İK görevlisiyim orada.
+[Enes Fehmi Manan]: Organizasyonda senin için, daha doğrusu data scientist pozisyonu için bir şablon oluşturmam lazım. Öncelikle diyorum Enes'in...
+
+[Enes Fehmi Manan]: Eee, deneyimine bakayım. Mesela sen bir CV'ni yüklüyorsun platforma. Biz o CV'den deneyimini senin pars ediyoruz mesela.
+[Murat Şahin]: Ne kadar?
+[Enes Fehmi Manan]: Kaç yıllık bir öğrencisin? Ya da hangi bölümden mezunsun? Hangi okuldan mezunsun? Sen ne kadar, nerelerde çalıştın?
+[Murat Şahin]: Deneyim yılına bakıyoruz.
+[Enes Fehmi Manan]: Mesela, belki de çünkü senin bizim bankamızın beklentisi 3 yıl deneyimli olmak, atıyorum. Biz CV'ni aldık, senin pars ettik.
+
+[Enes Fehmi Manan]: Buna göre belki de seni otomasyona bile, yani pipeline'a bile sokamadık. Belki de sen zaten 2-3 yıl deneyimli birisiydin. Tamamen farazi konuşuyorum. Sürece girdin, başvuru yaptın. Dolayısıyla sürece de giriş yapmış oldun aslında Winter platformuna. Ne oluyor? İK'nın belirlediği aşamalardan geçiyorsun. Mesela teknik bir aşama. Şimdi data scientist olan...
+[Murat Şahin]: Birine ne sorarsın?
+[Enes Fehmi Manan]: Python sorarsın, R sorarsın, belki SQL sorarsın. Ya da işte ne yaparsın? İstatistik sorarsın, böyle şeyler sorarsın. Matematik sorarsın.
+[Murat Şahin]: Atıyorum.
+[Enes Fehmi Manan]: Bu bir teknik step. Senin bu teknik stepi geçmen gerekiyor. Teknik stepi nasıl geçiyorsun peki? Abi, sana bayağı sorular soruluyor ve sen video esnasında video kaydederek o sırada hani sistem aracılığıyla ya da doğrudan klavyeni kullanarak bir şekilde, hani bazı sorularda açık uçlu soruları metin olarak da yazabiliyorsun ya da sesli de cevap verebiliyorsun, videoda da cevap verebiliyorsun. Doğrudan cevaplıyorsun soruları. İşte atıyorum, mesela Bias-Variance Trade-off'u nedir?
+[Murat Şahin]: Mesela atıyorum.
+
+[Enes Fehmi Manan]: Hani baktığında böyle bir soru geldiğini düşün. Sen de bunun için başladın anlatmaya. İşte şöyle diyorsun: "Şu tradeoff böyledir, böyledir, şöyle olur," falan diye anlatıyorsun. Biz daha sonra senin bu anlattıklarını transkripte döküyoruz. Aslında bir anlamlandırıyoruz. Yani videoya baktığında o sesi ve bu soruya bu cevap nasıl değerlendirilebilir tarzında.
+
+[Enes Fehmi Manan]: Bizim orada geliştirdiğimiz sistemler var. Burada tabii ki etik kuruluyla da, akademisyen kadroyla da çok çalıştık. Hani insanları hakkaniyetli bir şekilde değerlendirmek için alan uzmanlarıyla da çok çalıştık. Her domeyne özgü sorularımız var. Ve senin yolladığın cevapların o sorularla ne kadar örtüşüp örtüşmediğine dahi aslında eşsiz bir algoritmeyle oylama yapıyoruz, puanlama yapıyoruz. Eşsiz bir algoritma kritikti.
+[Murat Şahin]: Bu arada ben algoritmaya soracaktım: Tam nasıl bir şey kullanıyorsunuz? Hemen yazıyorum.
+
+[Enes Fehmi Manan]: Aslında göründüğünden çok daha kompleks. Çünkü baktığında, yani Data Scientist için Python bileceksin, SQL bileceksin. İşte atıyorum, buna göre sorular var. Buna göre bir sistem yürütüyoruz orada. Ama şimdi diyelim ki teknikten çıktık. Tamam, biz sana teknikte 10 tane soru sorduk. Sen bu sorulara videolu cevaplar yazdın.
+
+[Enes Fehmi Manan]: Çektin. Klavyenle yazdın.
+[Murat Şahin]: Bir şekilde çoktan seçmelileri işaretledin falan.
+[Enes Fehmi Manan]: Sen bu teknik testinden çıktın abi. Senin bir skorun oluşuyor artık. Ve o skorun Enes ve işte Ayşe, Fatma, Ahmet, Mehmet, neyse artık. Sen o grubun içerisine artık bir sıralamadasın. Yani şeffaf bir şekilde süreç takip edilebiliyor orada. Senin teknikte bir derecen var. Sonra neye giriyorsun?
+[Murat Şahin]: Yetkinliğe.
+[Enes Fehmi Manan]: Sen girişken biri misin? Sen iletişimi düzgün biri misin? Sen dışa dönük biri misin, içe kapalı biri misin? Yani atıyorum, liderlik yeteneğin var mı senin? Bu soruları soruyoruz.
+[Murat Şahin]: Tabii bu soruları böyle sormuyoruz.
+[Enes Fehmi Manan]: Biz sana bu soruları soruyoruz.
+
+[Enes Fehmi Manan]: Ve senin verdiğin cevaplardan biz senin nasıl yetkinliklere sahip olduğunu çıkarıyoruz aslında. Ve bu da yapay zeka destekli. Burada kamera bazlı bir şey yapıyor musunuz?
+[Murat Şahin]: Yoksa...
+[Enes Fehmi Manan]: Yapıyoruz.
+[Murat Şahin]: Şöyle ki, senin facial expression'larını da alıyoruz biz. Ne kadar tedirgin hissediyorsun, üzgün mü hissediyorsun, şaşırmış mı hissediyorsun, mutlu mu hissediyorsun sorularda... Ama bu bilgiyi değerlendirmeye tabi tutmuyoruz. Aslında bu bilgi sadece bizim orada, yani HR...
+
+[Murat Şahin]: Organizasyon admininin de elini güçlendirmek için verdiğimiz bir bilgi.
+[Enes Fehmi Manan]: Sorularda Enes'in mutlu olması, ya da tedirgin hissetmesi, korkmuş hissetmesi, şaşırmış hissetmesi...
+[Murat Şahin]: Atıyorum, tamam.
+[Enes Fehmi Manan]: Üzgün hissetmesi... Bunların hepsi birer, orada sunduğumuz bazı yardımcı bilgiler.
+[Murat Şahin]: Ama değerlendirmeye tabi tutulmaz. Biz sana sorduğumuzda Bias-Variance tradeoff'u ile ilgili sen ne cevap verdiysen, senin ırkını, dilini, cinsiyetini, dinini, hiçbir şeyini, yani tipini...
+
+[Murat Şahin]: ...senin ırkını, dilini, cinsiyetini, dinini, hiçbir şeyini, yani tipini, yaşını, şeklini falan hiçbir şeyini gözetmeden aslında. Biz sadece bu cevabın tutarlılığına bakıyoruz bu pozisyon için.
+[Enes Fehmi Manan]: Böyle bir pozisyon için, data scientist pozisyonu, belki junior, belki senior... Bu pozisyona göre böyle bir soru sorulduğunda...
+[Murat Şahin]: Bu cevap geldiği takdirde...
+[Enes Fehmi Manan]: Hani nasıl yorumluyoruz bunu?
+[Murat Şahin]: Puanlandırıyoruz ve puanlandırmamızın sebebini de açıklıyoruz aslında. Diyoruz ki Enes Bias'ı ne bilmiyor, Varyans'ı Bias biliyor, aradaki tradeoff'u açıklamaya çalışmışken ama bilmiyor. Atıyorum tamamen şu an. Böyle bir değerlendirme de sunuyoruz.
+[Enes Fehmi Manan]: Hani sen dedin ya İK nasıl bilebilir diye?
+[Murat Şahin]: Az önce ona benzer bir şey dedin.
+[Enes Fehmi Manan]: İşte Wintr'la bilebiliyor. Çünkü İK'ya da biz tamamen...
+
+[Enes Fehmi Manan]: Açıklanabilir bir rapor sunuyoruz ve puanlandırma sunuyoruz. Bunu sadece teknik için değil, yetkinlik için de yapıyoruz. Çünkü benim şirketime uyumlu biri misin sen? Belki de senin liderlik becerin yok. Ben lider olarak seni düşündüm, pozisyon almak istedim. Dolayısıyla benim yetkinlik sorularım liderlik temasında dönüyor. Bunu da çözmüş oluyorum. Bunu da ben anlamış oluyorum seni. Seninle birlikte 500 kişiyi otomasyonla...
+
+[Murat Şahin]: Bunu AI ile birlikte yapmış oluyorum.
+
+[Enes Fehmi Manan]: Aslında hiçbir insan eforu yok burada. Ya da süreç tamamen ölçeklenebilir. Aynı anda binlerce kişi de girebilir senin pozisyonuna. Hiçbir sıkıntısı yok ve sen hepsini şeffafça izleyebilirsin. Ya bir istihdam süreci o kadar kaotik ki, yani bir insan alınacak...
+
+[Murat Şahin]: Eyvah yani!
+
+[Enes Fehmi Manan]: Daha büyük bir kaos yok. Hani kim nereden CV'ye nasıl baktı?
+
+[Murat Şahin]: Nasıl değerlendirdi? Kimler nasıl?
+[Enes Fehmi Manan]: CV'leri eledi? Bir sorun. CV'leri aldın, gerisi bir sorun.
+[Murat Şahin]: İK'cı girdi.
+[Enes Fehmi Manan]: Sabah mı girdi?
+[Murat Şahin]: Akşam mı girdi mülakata?
+[Enes Fehmi Manan]: Hani, ne anlattı?
+[Murat Şahin]: Ne anladı? Morali nasıldı?
+[Enes Fehmi Manan]: Kaşını gözünü beğendi mi? Belki sen onun eski sevgilisine benziyorsundur. Otomatik önyargılı geldi sana.
+[Murat Şahin]: Hani...
+[Enes Fehmi Manan]: Bunların hepsi çok mümkün şeyler. Yani insanlık olarak zaten önyargısızız diyebilir miyiz? Yani duygusal varlıklarız. Dolayısıyla...
+[Murat Şahin]: Winter, tüm bu sorunların hepsini bertaraf etmeye yarıyor.
+
+[Enes Fehmi Manan]: Ya peki, aklıma gelen soru, hani gerçekten... Hani ben Winter'ı bilmiyorum, hiç kullanmadım tabii ki. Ama B2C'yi de aynı zamanda destekliyor olacağız?
+
+[Murat Şahin]: O öyle de geliştirmemiz var, bahsederim. Şu an B2B bir ürün, evet.
+
+[Enes Fehmi Manan]: Tamamdır. İlk gelen soru şu: Beni İK Winter'la değerlendiriyor, Winter beni değerlendiriyor. Belki Winter'ın içerisinde kullanılan algoritmada bir bias olduğunu veya olmadığını nereden bileceğim? Ona nasıl güvenebilirim? Buradaki güvenilirliği nasıl veriyorsunuz?
+
+[Murat Şahin]: Bizim bir "Ground Truth" database'imiz var. Bu "Ground Truth" database etik kurulundan geçmiş, onaylanmış bir database aslında. Ve alanın uzmanlarıyla, bizim yani doçent hocalarımızla birlikte çalıştığımız bir sistem, disiplin diyebilirim. Şöyle ki, Enes, bizim Python tarafında yüzlerce sorumuz var ve bu yüzlerce soru için tekabül eden yüzlerce farklı farklı zayıf, güçlü, orta, saçma, mantıklı, akıllıca türlü türlü cevaplarımız var. Ve her bir soru-cevap çifti için de beklediğimiz bir puan var. Bunu ben belirlemiyorum, bunu alan uzmanları belirliyor, bunu akademik kurul belirliyor. Yani diyor ki: "Bu soru, bu cevap 60 olmalı." Jüriye gidiyor bu. Ben 60 diyorum...
+
+[Murat Şahin]: Sen, ben, hepimiz jürideyiz. 60, 65, 70, 75, 60... 65 ortalamasına 64.8. Tamam, bu sorunun hakkı 64.8'dir. Bizim algoritmamızın son modeli bu Ground Truth database'i geldiğinde kaç verdi? 68. Sapmamız ne? İşte 4.3, atıyorum. Ne oldu, kabul edilebilir mi? Evet, kabul edilebilir diyoruz. Diyoruz ki işte %90 şu kadar accuracy ile birlikte bu sistem yüzlerce soruda, her bir sistemde denenmiş ve okeydir, hani uygundur tarzında. Bunu Ground Truth'un database'ine dayanarak söylüyoruz aslında. Yoksa dediğin gibi, bunu nasıl valide edeceğiz ki? Hani belki de bias var. İşte bias olmadığını böyle anlıyoruz.
+
+[Enes Fehmi Manan]: Ayrıca bias'tan kastın ne bilmiyorum ama...
+
+[Murat Şahin]: Hani nasıl bias? Demografik bias var. Bias'ın çok çeşitleri var. Bizim algoritmalarımız bu bias metriklerinden de geçiyor. Hani facial expression için diyorum; işte içeride siyahi var mıydı mesela, atıyorum. Ben face detect ediyorum. Tabii ki de bizim algoritmalarımız bir sürü bias metriklerinden de geçmiş bir vaziyette. Kabul gördü. Bias'tan kastını orada bilmemekle birlikte, değerlendirdiğimiz tek şey soru-cevabı ve senin pozisyona başvurduğun title. Neyse artık, bunlardan ibaret.
+
+[Murat Şahin]: Yani onun dışında.
+
+[Enes Fehmi Manan]: Seninle ilgili hiçbir detay bilmiyoruz. Kişisel bir biasımız zaten olamaz. Ya mesela ilk ben böyle bir şey yapacak olsaydım, aklıma şey geldi. Basitçe bir şey yapmak istiyorum ve transkript var elimde. Kişi bir cevap veriyor ve cevaplar var. Herhalde bir similarity score çıkartırdım basitçe. Bunlar ne kadar örtüşüyor diyelim ki. Ama yani bir soru sordun bana, ben o soruyu sana 500 farklı şekilde mükemmel bir formda da yanıtlayabilirim, 500 farklı şekilde çok kötü bir formda da yanıtlayabilirim. Her birisinin similarity'leri çok farklı olur.
+
+[Murat Şahin]: Ama günün sonunda, ya hikaye anlatıyorsun. Mesela şey diyorum ben sana...
+
+[Enes Fehmi Manan]: Hani bana şirkette yaşadığın çok kötü bir durumu ve onunla nasıl başa çıktığını anlat. Mesela iletişim konusunda yaşadığın çok büyük bir sıkıntıyı bir ekip arkadaşınla ve bunu nasıl çözümlediğini anlat diyorum. Şimdi sen kimsin?
+
+[Murat Şahin]: Şirketin kim?
+
+[Enes Fehmi Manan]: Düşünsene.
+
+[Murat Şahin]: Herkesten milyon tane farklı hikaye çıkıyor.
+
+[Enes Fehmi Manan]: Buna zaten bir cevap da yok. Yani bunu nasıl ölçeceksin?
+
+[Murat Şahin]: Heh heh. Oraya getirmeye çalışıyorum hani. Ben sanki 81'in karekökünü sordum da sen de 9 dedim, oradan similarity falan.
+
+[Enes Fehmi Manan]: Yani yok. Çok farklı hikayeler çıkıyor ve bu hikayelerin hiçbirisi yanlış değil, hiçbirisi baktığında.
+
+[Murat Şahin]: Beklenen hikaye ya da beklenmeyen hikaye diye bir durum yok.
+
+[Enes Fehmi Manan]: Günün sonunda bu çok zor.
+
+[Enes Fehmi Manan]: Karmaşık bir problem. Similarity'ye indirgenebilecek bir problem. Bunu işte merak ediyorum ben de. Yani ben basit bir şeyden bahsedeyim orada. Hani bunu bununla bile basitçe modelleyemezsek, modelleyemezken bile... İşte mesela teknik sorularda düşünelim. Bunun cevabı bellidir aslında, yöntemde bir milyar kere değişmez. Yani baktığın zaman teknik tarafta bir algoritma sorsun, cevabı aşağı yukarı aynı şekilde herkes düşünür ve çözer. Çok zaten mülakat anında uzatmak istemezsin oradaki cevabı. Aklına ilk gelen basic bir şeyi çözmeye çalışırsın süre kısıtında olduğu için. Ya bunu düşününce similarity belki mantıklı olabilirdi ama bu tarz böyle ucu açık sorularda hiçbir mantığı, alakası yok. Yani düşündüğün vakit. O zaman burada algoritmada bir CNA desteği var mı? Tabii ki de, tabii ki de.
+
+[Murat Şahin]: CNA. Biz her seferinde sana çalıştırsak, her seferinde...
+
+[Enes Fehmi Manan]: 65, 65, 65.
+
+[Murat Şahin]: ...vermiyor ya da her seferinde aynı açıklamayı yapmıyor. Kesinlikle CNA.
+
+[Enes Fehmi Manan]: Büyük dil modelleri kullanıyoruz. İşte mesela bias'ta gelmeye çalıştığım yer biraz orasıydı: Arkada kullanılan LLM'in bir bias'ı olabilir mi?
+
+[Murat Şahin]: Orada...
+
+[Enes Fehmi Manan]: Bu LLM'in tam böyle doğru değerlendirdiğini, sapıtmadığını gene sen bunu test ettik diyorsun. Hani böyle bir base'imiz vardı.
+
+[Murat Şahin]: Bunu şey yaptık. Ground truth database'imize bakarak bunu anlayabilirim.
+
+[Enes Fehmi Manan]: Ben sana şey deseydim...
+
+[Murat Şahin]: Biz bunu hiç test etmedik deseydim, bias konusunda ne diyebilirdim ki? Elimde ne olabilirdi ki? Ama ben sana şunu diyorum: Bak şu kadar 100x atıyorum, hani soru ve 100x cevap, soru-cevap setleri kombinasyonlar için ben bunu denediğimde...
+
+[Enes Fehmi Manan]: Bu şekilde.
+
+[Murat Şahin]: Ground truth labellarıma bu kadar yaklaştım diyorum.
+[Enes Fehmi Manan]: Bunun dışında...
+[Murat Şahin]: Nasıl bias'ı ölçümleyebilirim ki zaten? Rule-based bir çözüm gibidir.
+[Enes Fehmi Manan]: Bana da rule-based sanki çözer gibi geldi.
+[Murat Şahin]: Bilemiyorum.
+[Enes Fehmi Manan]: If-then-else: Şirkette yaşadığın kötü bir hikaye anlat, işte...
+[Murat Şahin]: Şeyse hani...
+[Enes Fehmi Manan]: İşte, "Biri varmış biri yokmuş"la başlıyorsa...
+[Murat Şahin]: If-then-else: Onaylama.
+[Enes Fehmi Manan]: 0 ver. Ama işte kurumsal bir şirket adıyla başlıyorsa...
+[Murat Şahin]: 100 ver falan. Yok, tabii.
+[Enes Fehmi Manan]: Muhtemelen o da şaka yapıyor.
+[Murat Şahin]: AI herhalde marketing vesaire diyerek...
+
+[Enes Fehmi Manan]: Bunu rule-based çözmüyoruz, mümkün değil zaten.
+[Murat Şahin]: Mümkün değil. Yani senin verdiğin bir cevabı... Şimdi burada hani işi iyice reklam kokutmamak için de bir açıp demo vesaire gösteremem ama kişiler isterse YouTube'dan vesaire de bakabilirler, Winter Recruitment şeklinde araştırabilirler ya da platforma girebilirler doğrudan ya da benden demo da talep edebilirler.
+[Enes Fehmi Manan]: Baktığınızda özellikle şirketler şu anda B2B hedefimiz olduğu için bir rule-based bir şey söz konusu değil.
+[Murat Şahin]: Kesinlikle.
+[Enes Fehmi Manan]: Zaten mümkün de değil. Hiçbir şekilde çıkar yolu da yok. Burada doğrudan AI aslında uçtan uca...
+
+[Enes Fehmi Manan]: Winter bir AI-based bir üründür. Aksi de zaten iddia edilemez. Bias konusunda da...
+[Murat Şahin]: Grand Truth Data'ya ve etik kurula, akademisyen kadroya güveniyoruz diyebilirim. Orada akademik boardumuz da var zaten.
+[Enes Fehmi Manan]: Yani dil uzmanlarıyla...
+[Murat Şahin]: Çalışıyoruz, atıyorum.
+[Enes Fehmi Manan]: Bilişsel alanda kapasite ölçmek için...
+[Murat Şahin]: O uzmanlarla çalışıyoruz.
+[Enes Fehmi Manan]: İngilizce tarafında...
+[Murat Şahin]: Apayrı uzmanlarla.
+[Enes Fehmi Manan]: Çalışıyoruz zaten. Yani yine bilişsel tarafta, matematik tarafında...
+[Murat Şahin]: Doçent hocalarımızla.
+[Enes Fehmi Manan]: Çalışıyoruz. Bu şekilde diyebilirim. Evet, yani bu arada link galiba...
+[Murat Şahin]: Winter nokta...
+[Enes Fehmi Manan]: ...mi şeklinde? Doğrudur, evet.
+
+[Murat Şahin]: Landing page'e Winter.Mi'ye yazarak ulaşabilirsiniz. Evet, doğru.
+[Enes Fehmi Manan]: Ben chatten de atayım. Bakmak isteyenler bakabilir platforma. Süper olur. Aynı zamanda LinkedIn'den de takip edebilirler. Zaten sen linkleri orada paylaşmışsındır.
+[Enes Fehmi Manan]: Tabii ki. Burada hemen Emine'nin bir sorusu var. Chate dönersek: "Merhabalar, ben istatistik bölümü öğrencisiyim ve veri bilimi alanında yüksek lisans yapmayı düşünüyorum. Şu anda kendimi ekstra hangi konularda geliştirmeliyim?" Ya Emine...
+[Murat Şahin]: Öncelikle istatistik bölümü... Hala öğrencisi...
+[Enes Fehmi Manan]: Kaçıncı sınıf?
+[Murat Şahin]: Bilmiyorum ama veri bilimi alanında yüksek lisans yapabilirsin. Böyle bir tamamlamaya gidebilirsin.
+[Enes Fehmi Manan]: Ya genelde istatistik tarafı...
+[Murat Şahin]: ...ve veri bilimi tarafı...
+
+[Enes Fehmi Manan]: Ya genelde istatistik tarafı ve veri bilimi tarafı uyumlu oluyor.
+[Murat Şahin]: Hani bazı bölümler oluyor, yüksek lisansa müsaade etmiyor. Mesela senin...
+[Enes Fehmi Manan]: Çıkış bölümüne göre değişiyor. Orada yaparsın.
+[Murat Şahin]: Sorun olmaz ki.
+[Enes Fehmi Manan]: Zaten istatistik... Yani dün istatistik, bugün baktığında veri bilimi olarak geçiyor çoğu kavramda. Eğer ki yani veri bilimi tarafına kendini geliştirmek istiyorsan, kesinlikle yüksek lisansı falan bekleme. Zaten başla.
+
+[Enes Fehmi Manan]: Yani en iyi gün başlayabileceğin gün. Bugün şu anda, yani YouTube'da şu anda elde edemeyeceğin hiçbir kaynak yok baktığında. Maalesef yüksek lisansı ya da tırnak içinde...
+[Murat Şahin]: ...doktorayı hani çok böyle gözünüzde büyütmeyin. Yani eğer ki bir...
+[Enes Fehmi Manan]: ...öz disiplininiz varsa...
+[Murat Şahin]: ...evde gerçekten kendinizle kararlı bir şekilde...
+[Enes Fehmi Manan]: Hani dedikasyon sağlayabilecekseniz, yani yine çok daha fazlasını da...
+[Murat Şahin]: ...elde edebilirsiniz.
+[Enes Fehmi Manan]: Orada edineceğiniz kaynaklardan. Benim sevdiğim bir hoca var, Enes. Bir gün bana şey dedi, böyle derste hiç unutmuyorum: "Ya Murat" dedi...
+
+[Enes Fehmi Manan]: "Kaç hafta var bir dönemde?" dedi. Baktı, "14 hafta mı var?" "Ya," dedi. "İki hafta net ben hasta olurum oğlum," dedi. "İki hafta ben hastayım, geç," dedi. "İki hafta da sen hasta olursun," dedi. "Bir hafta memlekete gitmez misin?" dedi. "Hocam," dedim, "iki hafta bile giderim." "Git," dedi. "Bizim bir hafta sınav oluyor." "Ama kafa tatili de oluyor," dedi. "Olmuyor mu?" "Oluyor hocam," dedim. "Bir hafta sınav olursa..." "Bir hafta kafa tatili oluyor." Öyle bir... Okul kültürüne göre değişiyor abi, üniversite şimdi.
+[Murat Şahin]: Kimi üniversiteler daha farklı.
+[Enes Fehmi Manan]: Eee, hocam dedim. Şimdi adam sayıyor.
+[Murat Şahin]: Ne kalacak elimde, ona bakacak.
+
+[Enes Fehmi Manan]: Bana şey anlatacak, yanlış olmasın. Öyle şeyler anlatıyordu hocam o sırada. Çok sevdiğim bir hoca.
+[Murat Şahin]: Ona göre. Görüntü işleme falan diye ders.
+[Enes Fehmi Manan]: "Bir hafta da öyle memlekete gittik. Hani bir hafta kafa tatili oldu zaten sınavdan sonra. Ya," dedi, "hepi topu benim sana anlatabileceğim burada," dedi. Hani kar yağsa, bir şey olsa falan... "Ben," dedi, "en fazla fazla," dedi, "dört-beş hafta var," dedi. "Ben bu dört-beş haftada iki saat maksimum sana bir şeyler anlatsam ne anlayacaksın?" dedi. Yani dört-beş hafta düşün, iki saat düşün. Sen bugün bir Udemy kursuna bir şey atıyorum, tamam?
+[Murat Şahin]: Udemy örnek olarak.
+[Enes Fehmi Manan]: Reklam olmasın.
+
+[Enes Fehmi Manan]: Hani yani bilgi erişimi ne kadar ucuz, değil mi şu anda? Hani al, gidiyorsun.
+[Murat Şahin]: Elli lira veriyorsun.
+[Enes Fehmi Manan]: Bir kurs alıyorsun, on sekiz saat.
+[Murat Şahin]: Ya sen o kursu bir hakkını ver, gerçekten anla. Hani o eğitmenin gerçekten anlatmaya çalıştığı şeyi, o özenle çektiği şeyi...
+[Enes Fehmi Manan]: Gerçekten yarısını bile anlasan, o dersten sana çok daha fazla katkısı bile olabilir. Bu yüzden kendi kendinize yapacağınız şeyi küçümsemeyin.
+[Murat Şahin]: Hani.
+[Enes Fehmi Manan]: Yani yüksek lisans...
+[Murat Şahin]: Evet, güzel mi güzel.
+[Enes Fehmi Manan]: Yüksek mühendis oluyorsun, bir şey oluyor. Hani yüksek yapmış oluyorsun.
+[Murat Şahin]: Belki doktoraya hazırlık oluyor, bir basamak olarak oluyor falan.
+[Enes Fehmi Manan]: Askerliğin varsa, onu engelliyor.
+
+[Murat Şahin]: Öteliyor falan bir şeyler.
+[Enes Fehmi Manan]: Ya evet, iyi tarafları var ama kendi kendinize geliştireceğiniz olan kısmı küçümsemeyin, azımsamayın.
+[Murat Şahin]: Kesinlikle orada.
+[Enes Fehmi Manan]: Potansiyelinizi fark ederseniz daha iyi şeyler çıkarabilirsiniz. Tamamen limitleri kendiniz kafanızda belirliyorsunuz aslında biraz daha ya da etiketleri.
+[Murat Şahin]: Hani göz alıcı, çok parlak olan o...
+[Enes Fehmi Manan]: Erişilmez gibi düşündüğünüz şeyleri de biraz daha insan olarak kendimiz belirliyoruz aslında ama öyle değil. Evet, kesinlikle. Bu arada ben de bir istatistik öğrencisiyim ve son sınıftayım şu anda. Bir yandan da çalışmaya çalışıyorum, işte bir yandan da komünite işleri var.
+[Murat Şahin]: Sen son sınıftan... Ben seni mezun sanıyorum.
+[Enes Fehmi Manan]: Yok, ben son sınıftayım.
+[Murat Şahin]: Doğru ya, çok pardon.
+
+[Enes Fehmi Manan]: Çok pardon.
+[Murat Şahin]: Tamam.
+[Enes Fehmi Manan]: Tamam, umarım uzatmam.
+[Murat Şahin]: Uzatma.
+[Enes Fehmi Manan]: Tadında bırak.
+[Murat Şahin]: Uzatma.
+[Enes Fehmi Manan]: Evet, evet. Yani şu anlık bir sorun yok gibi ama finallerde bir sorun yaşamam, okul uzamaz yani. Çok korktum.
+[Murat Şahin]: Umarım. İnşallah.
+[Enes Fehmi Manan]: Ya ben de saldıran taraftayım biraz, hani gerçekten sürekli saldırıyorum ve günün büyük bir çoğunluğu research ile geçiyor. Yani sürekli yeni çıkan şeyleri, işte takip ettiğim bültenler var, takip ettiğim kişiler var YouTube'da. Böyle sürekli research edip bir şeyler öğrenmeye çalışıyorum. Yani burada hatta yani okul birazcık gerçekten ayak bağı oluyor.
+[Murat Şahin]: Ne bileyim.
+
+[Enes Fehmi Manan]: ...gibi bir durum var. Yani okuldan çıksam, mezun olsam şu an çok çok çok daha hızlı ilerler herhalde bu tarafta. Daha üretken olurum ama öğrencilik...
+
+[Murat Şahin]: Ayak bağı gibi oluyor, değil mi? Çünkü senin yapmak zorunda olduğun bir şeyler var. O hoşuna giden ders ya da değil, yani kimse ilgilenmiyor, "Kusura bakma!" diyor. Ben de mesela...
+
+[Enes Fehmi Manan]: Mesela şey ders alıyordum, sevmiyordum hiç onu. Şimdi adını çok net hatırlamıyorum. SOA, SOA...
+
+[Murat Şahin]: Service-Oriented Architecture falan ders alıyordum mesela.
+
+[Enes Fehmi Manan]: Servis...
+
+[Murat Şahin]: Tabanlı mimari.
+
+[Enes Fehmi Manan]: Aslında çok güzel bir şey.
+
+[Murat Şahin]: Şu anda da mesela...
+
+[Enes Fehmi Manan]: Çok işime yarayacak. O dersi dinleseydim... O an dünyanın en kötü şeyiydi benim için o dersi vermek.
+
+[Murat Şahin]: Ama vermek zorundaydın.
+
+[Enes Fehmi Manan]: Yani bir şekilde hani böyle verdim gitti. Sonradan da anlayabiliyorsun kıymetini ister istemez ama okul zorunluluk olduğu için kötü geliyor. Senin şu anda...
+
+[Murat Şahin]: Çok da aslında potansiyelini ateşleyebileceğin bir alan var burada. Geliştirebileceğin bir alan var. İlgi duyuyorsun o alana.
+
+[Enes Fehmi Manan]: Bu yüzden kaldıraç etkisi yaratıyor. İlgi duyduğun bir alanda çalışmak tabii ki de zorunda olduğun yükümlülüklere göre hani çok daha farklı hissettirir sana diğerlerine göre.
+
+[Murat Şahin]: Çok daha hızlı ilerlersin.
+
+[Enes Fehmi Manan]: Ama yapacak bir şey yok, abi. Çekeceksin o süreci. Evet, yani ben şu anda yüksek lisans düşünmüyorum. Özellikle okuldan mezun olursam en az bir sene ara vermek gibi düşüncem var. Ki yani kasayım, akıldaki projeleri bitireyim. Gerçekten yarım kalmış, yığılmış böyle projeler var. Onları halledeyim, temizleyeyim. Kafa rahatlasın. Bir sürü daha yapacağım iş var. Yani öyle bir liste var ki...
+
+[Murat Şahin]: Bende de.
+
+[Enes Fehmi Manan]: Gittikçe gider yani. Var. Şimdi o zaman birazcık da senin hobilerinden bahsedersek, bir gün nasıl geçiyor ve günü bitirdikten sonra?
+
+[Murat Şahin]: Artık hani...
+
+[Enes Fehmi Manan]: Kapatıyor musun bilgisayarı? Ne yapıyorsun, biliyor musun? Şu ekranı şöyle indirdikten sonra nelerle uğraşıyorsun? Tamam, şimdi...
+[Murat Şahin]: Bir gün nasıl geçiyor genelde? Ya okulda oluyorum, ya işte şirkette oluyorum, ya da evde ya da kafede oluyorum. Bunlardan bir yerdeyim. Çünkü o gün ya şirket günü oluyor ya normal bir...
+
+[Murat Şahin]: Bir gün nasıl geçiyor genelde? Ya okulda oluyorum, ya işte şirkette oluyorum, ya da evde ya da kafede oluyorum. Bunlardan bir yerdeyim. Çünkü o gün ya şirket günü oluyor ya normal bir remote günü oluyor. Baktığında genelde bir yerlere gitmek istiyorum. Evde çok çalışamıyorum. Dışarı çıkmam gerekiyor. Ya okulda kütüphaneye gidiyorum, ya da şirkette oluyorum zaten yakın olduğu için, ya da dışarıda bir kafede oluyorum. Aslında bu üçü... Genelde, yani %90 ihtimalle beni ararsanız, bu üçünden bir yerde olacağım. Genelde dışarıda bir kafede falan oluyorum diyebilirim. Öyle daha çok çalışabiliyorum. Kendim evde durmayı çok sevmiyorum. Genelde günüm aslında bahsettiğim gibi böyle yeni teknolojileri araştırmakla ya da işte onları nasıl entegre edeceğimizle falan aslında benzer şekilde geçiyor.
+
+[Murat Şahin]: O bültenleri takip etmek, vesaire okumak, raporları incelemek.
+[Enes Fehmi Manan]: İşte. Hani şirketler nasıl yapıyor, ne yönde atılım yapıyor?
+[Murat Şahin]: Ne yönde yatırım yapıyor?
+[Enes Fehmi Manan]: Bunlarla biraz daha geçiyor. Zaten şirket çok koşuşturmacı içinde oluyor.
+[Murat Şahin]: Yani şirkette olduğun zaman telefona bile bakamıyorsun.
+[Enes Fehmi Manan]: Bir şekilde.
+[Murat Şahin]: Oradan oraya, toplantıdan oraya, oradan oraya... Aslında bayağı böyle...
+[Enes Fehmi Manan]: Savruluyorsun yani.
+[Murat Şahin]: Şirketteyken öyle. Ya release geçişi oluyor, atıyorum mesela.
+
+[Enes Fehmi Manan]: Daha stresli oluyorsun. Ya da işte normal, sıradan bir gün oluyor. Ya sprinti kapatıyorsun, sprinti açıyorsun.
+[Murat Şahin]: Falan filan. Arkadaşlarla konuşuyorsun.
+[Enes Fehmi Manan]: Onlara destek olmaya çalışıyorsun vesaire. Çok şükür, arkadaşlarımız çok iyi yani. Çalıştığımız gerçekten...
+[Murat Şahin]: Harikulade arkadaşlar.
+[Enes Fehmi Manan]: Herkes elinden geleni çok iyi...
+[Murat Şahin]: Fazlasıyla yapıyor.
+[Enes Fehmi Manan]: Bu yüzden çok fazla böyle stres olmalık bir şey de kalmıyor günün sonunda. İyi insanlarla çalıştığında...
+[Murat Şahin]: Etrafında iyi insanlar olduğunda da hani...
+[Enes Fehmi Manan]: Çok mükemmel bir şekilde iş devam edebiliyor. Birbirlerinin hani eksiklerini örterekten...
+[Murat Şahin]: İlerleyen.
+[Enes Fehmi Manan]: Otonom ilerleyen, hani çevik ve özerk bir şekilde ilerleyen, çok böyle şey yapmadan, destek almayan...
+[Murat Şahin]: Almadan.
+[Enes Fehmi Manan]: Doğrudan.
+
+[Enes Fehmi Manan]: İlerleyen bir ekiple çalışıyoruz. O yüzden acayip şanslıyım diyebilirim.
+[Enes Fehmi Manan]: Diyelim mesai bitti.
+[Murat Şahin]: Genelde toplantılarım olabiliyor. İşte yani farklı farklı alanlarda, özellikle bireysel olarak projelere vesaire destek verme durumlarım oluyor.
+[Enes Fehmi Manan]: Çünkü hayat bir şeyden, bir thread'den ibaret değil. Hayat yani hayatı multi-process olarak düşünmek lazım. Hani sizin iş hayatınız olacak, işte başka başka çalışacağınız kısımlar da olabilir.
+
+[Enes Fehmi Manan]: Yani yedekte bir şeylerde devam ettirebilirsiniz. Paralelde kendi girişiminizi, sürecinizi yaratabilirsiniz. Bunlar çok mümkün. Yani siz bir geliştirici olduğunuz için bir fikriniz vardır. Yan tarafta onu geliştirirsiniz. Akşamları mesela onu çıkarsınız bir şekilde. Belki tutar, belki bir şeyler olur, yatırım alır vesaire. Sonuçta bunları kovalıyoruz biraz daha mümkün oldukça, vakit buldukça.
+[Murat Şahin]: Ama önceliğimiz tabii ki de.
+[Enes Fehmi Manan]: Doktora ile birlikte aslında şirketi yürütmek bir şekilde. Ama bayram olur, seyran olur...
+[Murat Şahin]: Böyle ara tatillerde vesaire onları iyi değerlendirmeye çok özen gösteriyorum, Enes.
+
+[Enes Fehmi Manan]: Onlar çok büyük bir fırsat. Yani senin hani...
+[Murat Şahin]: Buffer'ını temizlemek için yapacağım dediğin...
+[Enes Fehmi Manan]: To-do list'ine, işte kitaplar okunacak, mesela bir şeyleri toparlamak için çok güzel bir fırsat.
+[Murat Şahin]: Böyle işte bayram girdi.
+[Enes Fehmi Manan]: Bir hafta tatil falan. Aileni, bir şeyleri görmek için, kafanın dağılması için de bir fırsat.
+[Murat Şahin]: Tabii, öyle bakıyorum olaya.
+[Enes Fehmi Manan]: Şimdi genelde bilgisayarı kapattığımda koşuya falan çıkıyorum. Koşu önemli. Koşuya çıktıkça böyle...
+[Murat Şahin]: Soruların cevaplarını koşarken aradığım oluyor.
+[Enes Fehmi Manan]: Çok seviyorum yani koşmayı. Hayatta bir spor olacak, kesinlikle yani.
+[Murat Şahin]: O yüzmek olur...
+[Enes Fehmi Manan]: Tenis olur, başka bir şey olur ama bir şey olacak kesinlikle. Ben koşmayı çok seviyorum çünkü ekipman derdi yok abi. Ayakkabıyı giyiyorsun, şortu çekiyorsun, çıkıyorsun dışarı.
+
+[Enes Fehmi Manan]: Hava soğuk mu? İki dakika sonra ısınıyor zaten. Senin dünya ısınıyor bir şekilde koşmaya başladığında. Hiçbir salona bağlı değilsin.
+[Murat Şahin]: Böyle kapalı bir alanda değilsin. Koşmaya bayılıyorum.
+[Enes Fehmi Manan]: O yüzden inşallah Nisan'da da bir maraton koşacağım İzmir'de. Artık sen de oralarda olursan, en azından maraton olmasa da...
+[Murat Şahin]: Sen de...
+[Enes Fehmi Manan]: O koşuya gelebilirsin. Yani çok güzel bir ortam oluyor. Onun dışında İngilizce mecburen devam ediyor.
+[Murat Şahin]: Yani bir süreç. Hani arkadaşlarla konuşarak orada kendimi bir şekilde genelde...
+[Enes Fehmi Manan]: Ya da müşterilerle konuşmak için de sürekli bir İngilizce çalışmaları...
+[Murat Şahin]: Vesaire devam ediyor. Bu hani oldum bitti diyebilecek bir durum yok.
+[Enes Fehmi Manan]: Sürekli İngilizce devam etmesi gereken bir trend, özellikle Türkiye'de yaşayan insanlar için. Hani ne kadar kendimizi maruz bırakabileceğimiz konusunda değişir.
+[Murat Şahin]: Ama...
+[Enes Fehmi Manan]: Çokça maruz kalamayanlar için...
+
+[Enes Fehmi Manan]: Çokça maruz kalamayanlar için İngilizce devam ediyor diyebilirim. Benim açımdan da bu şekilde.
+[Murat Şahin]: Hep İngilizce'ye bir şekilde yer veriyorum.
+[Enes Fehmi Manan]: Zaten bir şeyler okurken de, bir şeyler yaparken de sürekli orada taze kalmayı, hani kendini ifade edebilir şekilde tutmaya yarıyor diyebilirim.
+[Enes Fehmi Manan]: Neyse ki İngilizce'yle bir sorunum yok. Bazen yazı yazıyorum, çok nadiren.
+[Murat Şahin]: Bazen öyle video çektiğim oluyor YouTube'a vesaire ama çok...
+[Enes Fehmi Manan]: Çok zamandır onları da yapmıyorum. Şu anda yapabileceğimi de düşünmüyorum. Genelde benim akşamlarım da maalesef çoğunlukla toplantılarla ya da koşmakta geçiyor. Yemek yapıyorum.
+[Murat Şahin]: Yemek yapmaktan keyif alıyorum.
+
+[Enes Fehmi Manan]: Çok öyle bir şeyler hazırlamak seviyorum. Evde kendim bir şeyler yapmaya ya da pazara çıkmayı falan da seviyorum öyle şeyleri. Öyle diyebilirim. Burada mesela içerik üretiminden bahsetmiştin. Yani ben biraz...
+[Murat Şahin]: Hani o taraftan...
+[Enes Fehmi Manan]: ...konuşmak istiyorum, özellikle çünkü benim seni tanımam da hani bir noktada keşfedişim de şeyle olmuştu.
+[Murat Şahin]: Böyle...
+[Enes Fehmi Manan]: Medium bana yazdığın şeyi önermişti, görüntü işleme kursunun yazısını önermişti. Yani orada Yıldız Teknik Üniversitesi'nde bir görüntü işleme kursu vermişti. YouTube kanalında da videoları var. Ben de ondan bir görüntü işleme kursu arıyordum. Ona dedim, "Efsane bir kurs buldum!" falan. Öyle efsane bir kurs değildi. O aslında bayağı sinyal işleme kursuydu, yani iki boyutlu sinyal işleme kursuydu.
+[Murat Şahin]: Sözünü bölmüş gibi oldum ama...
+[Enes Fehmi Manan]: Çok kısaca bahsedeyim. Aslında benim eğitim tarafında...
+[Murat Şahin]: Yani birazdan kendim verdiğim eğitimler...
+[Enes Fehmi Manan]: ...ya da işte kurslar tarafında da aşağı yukarı bir şeyler oluyor. Şöyle ki, 2020 yılında aslında...
+[Murat Şahin]: Biz böyle danışmanlık kapsamında yine bir eğitimler vermiştik.
+[Enes Fehmi Manan]: Bazı şirketlere. Şimdi isim zikretmeyeyim burada. 2020 yılında başlamıştı.
+[Murat Şahin]: Daha sonra benim Bakırçay'da işte...
+[Enes Fehmi Manan]: Bilgisayar mühendisi derslerini asist etme durumum oldu. Daha sonra yine bazı şirketlerle ilgili...
+
+[Enes Fehmi Manan]: Bilgisayar mühendisi derslerini asist etme durumum oldu. Daha sonra yine bazı şirketlerle ilgili data science üzerine bootcamp'ler verdik. Şirketlere giderek doğrudan ya da Endüstri 4.0'ın AI konseptiyle ilgili eğitimler verdik. Şu an CV'den bakıyorum, kendi CV'm açık orada hani hatırlayın diye. Onun dışında...
+[Murat Şahin]: Kendimiz zaten şirkette ne yaparsak yapalım, hep bir eğitimimiz oluyordu zaten.
+[Enes Fehmi Manan]: Enes baktığında, hani internal bir şekilde orada şirketin gelişimi de önemli. Yani şirketi bir şekilde... Tamam, testler çok güzel, hani ilerleyecek, bitecek, gidecek ama orada çalışanları da eğitim kapsamında çok böyle aç bırakmamak ya da onları sadece mesai bitince "Kendini geliştirebilirsiniz" diye terk etmemek gerekiyor. O yüzden...
+
+[Enes Fehmi Manan]: Onlara doğru bir kariyer roadmap'i çizmek için de bu önemli bence. Dolayısıyla...
+[Murat Şahin]: Internal'da bootcamp'lerimiz oldu.
+[Enes Fehmi Manan]: Yıldız Teknik Üniversitesi, orada bir üniversite için öyle bir çektiğimiz bir yapıydı. Arkadaşlar geldi, rica etti, oluşturduk. Ama çok advanced'li öyle bir kurs değildi diyebilirim, normaldi. Yani hani OpenCV tabanlı bir şeydi. Zaten çalışmaydı. Başlangıç için güzel bir kurs gördüğüm vakit, yani hani güzel bir içerik buldum demiştim ve sonrasından devam etmiştim. YouTube kanalına abone olmuştum. Sonra hatta YouTube kanalında...
+[Murat Şahin]: Ekrana verdim.
+[Enes Fehmi Manan]: Faydalı videolar var. Yani Türkçe içerik her zaman çok değerli. Özellikle böyle advanced seviyede, 101'in ötesinde içerik üreten insanlar bence çok daha değerli. Bu tarafta senin bence yaptığın işte...
+[Murat Şahin]: Hani kanalında...
+[Enes Fehmi Manan]: Oradaki işte Pydantic videoların, PyTrix'ler falan, bunlar gerçekten güzel videolardı. Ben de çokça izledim. AWS videoların vardı, evet. Var değil mi? Bayağı bir şey faydalandık. AWS'e de ayrıca...
+[Murat Şahin]: Aslında göz kırpıyorum. AWS tarafında Solution Architect tarafında böyle çalışmalar yapmak istiyordum.
+
+[Enes Fehmi Manan]: Aslında hala da isteyebilirim.
+[Murat Şahin]: Tabii ki de hala da ilerleyebilirim. Fakat biraz öncelik meselesi orada. Cloud'ı çok benimsedim.
+[Enes Fehmi Manan]: Yani düşünsene...
+[Murat Şahin]: Hani elinde AWS gibi bir tool var. Bu şu demek: Dünyanın istediğin yerinde...
+[Enes Fehmi Manan]: İstediğin gibi sunucular...
+[Murat Şahin]: ...kaldırarak istediğin şeyleri...
+[Enes Fehmi Manan]: ...tüm insanlara servis edebilirsin.
+[Murat Şahin]: ...hizmet verebilirsin.
+[Enes Fehmi Manan]: Ya bu çok olağanüstü bir güç aslında, çok büyük bir güç. Ve senin parmaklarının ucuna bir şekilde bunu sadece kullandığın kadar...
+[Murat Şahin]: ...öde mantığıyla açabiliyorlar.
+[Enes Fehmi Manan]: Yani Cloud aslında en büyük devrimlerden...
+[Murat Şahin]:
+
+[Enes Fehmi Manan]: Yani Cloud aslında en büyük devrimlerden bir tanesi belki. Hani blockchain gibi. En azından Cloud'ın bu kadar gelişmiş olması benim için çok büyüleyici bir şey baktığında.
+[Murat Şahin]: Ona hakim olmak, onu yönetebiliyor olmak...
+[Enes Fehmi Manan]: İşte.
+[Murat Şahin]: Yoğunlukları ölçekleyebiliyor olmak falan...
+[Enes Fehmi Manan]: Böyle şeyler.
+[Murat Şahin]: Hep ilgimi çekti benim, Enes. Ayrıca orada da kendimi geliştirme fırsatı bulduğum müddetçe çalışmalar yapıyorum.
+[Enes Fehmi Manan]: Zaten Linux çok seviyorum. Onlardan da bahsetmiş olayım kısaca. Linux işletim sisteminde genelde çalışmaya çalışıyorum. Tabii şirket vesaire...
+[Murat Şahin]: Ayrı IT politikaları var ama genelde...
+[Enes Fehmi Manan]: Linux tabanlı kendimi daha rahat hissediyorum. PyCharm'la kullanıyorum.
+
+[Murat Şahin]: Genelde sen biraz daha teknik detayları da merak ettiğin için söylemiş olayım.
+[Enes Fehmi Manan]: PyCharm'ı...
+[Murat Şahin]: PyCharm'ı?
+[Enes Fehmi Manan]: Yıktı şu an. PyCharm'ı pek sevmem ben. Yok, PyCharm çok iyiydi.
+[Murat Şahin]: PyCharm'ın hatta Pro'sunu kullanıyorum. Premium Pro mu, neyse artık. Biz hâlâ öğrenci... Otuzuma merdiven dayadım, hâlâ öğrenci şeyi altında.
+[Enes Fehmi Manan]: Öğrenciyim abi.
+[Murat Şahin]: Yalan mı?
+[Enes Fehmi Manan]: Öğrenciyim yani. Bugün askerliğimi bile yapmamışım.
+[Murat Şahin]: Öğrencilikten...
+[Enes Fehmi Manan]: Neden PyCharm? O da çok enteresan. Şu an Visual Studio Code neyi yapıyor ki? İnan...
+[Murat Şahin]: Visual Studio Code'u tam olarak arasıra hâlâ kullanıyorum. Bir şeyleri Notepad, editör gibi kullanıyorum ben. Visual Studio Code diyorsun, kullanıyorum ama...
+
+[Enes Fehmi Manan]: PyCharm adı üstünde.
+[Murat Şahin]: PyCharm.
+[Enes Fehmi Manan]: Yani Python için oluşturulmuş bir şey ve Python'ın...
+[Murat Şahin]: İşte venv'in bir sürü, bir sürü desteklerini sağlıyor.
+[Enes Fehmi Manan]: Hani bilmiyorum.
+[Murat Şahin]: Bana böyle biraz daha şey geliyor. Yani işte atıyorum, şu telefonu telefonda konuşmak için kullanırım ben mesela.
+[Enes Fehmi Manan]: Ya, hiç sevmiyorum.
+[Murat Şahin]: Telefonda öyle bir şeyler kaydırmayı, bakmayı böyle hani...
+[Enes Fehmi Manan]: Baktığında.
+
+[Enes Fehmi Manan]: VS Code biraz böyle her işe yarayan bir şey ya. PyCharm'ın bir artısı vardır. PyCharm biraz daha Python'a özel olduğu için bana çok çekici geliyor. Pro'su da çok rahat. Community'yi de kullanıyor arkadaşlarım ama yani Virtual Environment... Zaten oluşuyor. Kendim oluşturuyorum gerçi, konsolda oluşturuyorum. Onda bir şey yok. Aslında PyCharm abi şeyleri falan çok iyi yapıyor. Importation'lar.
+[Murat Şahin]: Abi, o kadar yaramamalı bence o zaman. Bilmiyorum, VS Code uzun zamandır kullanılıyormuş ama. Community versiyonu da var. Yine o da rahattır muhtemelen. Oluşturuyorum, çok rahat. Hani... Import...
+
+[Murat Şahin]: İşte from'lar, falan filan. Hani orada modüller arası bağlantıları falan...
+[Enes Fehmi Manan]: Da çok iyi yapıyor ama... Ya öyle şey bir abartış yok aslında. Yani normal bir...
+[Murat Şahin]: Benim beklentim zaten konsolunu kullanıyorum onun. Konsolundan derli...
+[Enes Fehmi Manan]: İşte yorumlatıyorum, şey yapıyorum sürekli. Aslında öyle çok acayip bir şey yok. İşte böyle highlight etme...
+[Murat Şahin]: Özellikleri falan güzel. Belki bana hataları söylüyor bazen. O güzel. Parlatıyor işte, sönümletiyor falan. Ama muhtemelen bunları VS Code'da yapıyordur şimdi. Yani hani Co-Pilot da bunları yapar.
+[Enes Fehmi Manan]: Her şeyi yapar.
+[Murat Şahin]: O yüzden çok bir şey diyemiyorum.
+[Enes Fehmi Manan]: Belki de alışkanlığımın...
+[Murat Şahin]: Devamı bu yani. O yaptığım alışkanlık yatırımının devamından dolayı PyCharm kullanıyorum.
+[Enes Fehmi Manan]: Belki de, evet. Bu okeydir yani. Bu bir savaş: PyCharm'cılar, VS Code'cular. Ya, VS Code her şey...
+[Murat Şahin]: Herkes kullanıyor.
+
+[Enes Fehmi Manan]: Her şey için zaten, bilmiyorum.
+[Murat Şahin]: PyCharm için avantajlarının PyCharm'da daha çok olmasını beklerim. PyCharm'ın PyCharm için artı olmasını beklerim. Bir de JetBrains ürünlerini çok beğeniyorum.
+[Enes Fehmi Manan]: DataGrip de öyle mesela. DataGrip kullanıyor musun database için? Ben JetBrains ürünlerini biraz sevmeyen taraftayım.
+[Murat Şahin]: Ben çok çok beğeniyorum. JetBrains muhteşem şeyler yapıyor. Bunlardan bir tanesi.
+[Enes Fehmi Manan]: İşte DataGrip.
+[Murat Şahin]: DataBrave falan... Data mıydı Brave?
+[Enes Fehmi Manan]: Öyle bir şey.
+[Murat Şahin]: DataGrip abi, farklı farklı database'leri böyle bağlamanı, onları explore etmeni...
+[Enes Fehmi Manan]: Arama, üzerinde commit atma, değişiklik yapmanı...
+
+[Enes Fehmi Manan]: Arama, üzerinde commit atma, değişiklik yapmanı falan sağlıyor. DB Brave... Adını unuttum, şimdi geldi aklıma.
+[Murat Şahin]: Brave gibi.
+[Enes Fehmi Manan]: MSSQL kurarsın ya bilgisayarına girmek için hepsini yapmanı sağlıyor.
+[Murat Şahin]: DataGrip bunların...
+[Murat Şahin]: Yine onun da premium'unu öğrenci olduğum için kullanabiliyorum diyebilirim.
+[Enes Fehmi Manan]: Premium'unu... Neyse ki...
+[Enes Fehmi Manan]: DataGrip iyidir. Benim çok rahat ettiğim tool'lardan bir tanesi işte. Hani database'leri listeliyorsun, prozunu testini, istediğin zaman istediğin gibi değişiklikler yapıp istediğin tabloları...
+
+[Enes Fehmi Manan]: DataGrip iyidir. Benim çok rahat ettiğim tool'lardan bir tanesi işte. Hani database'leri listeliyorsun, prozunu testini, istediğin zaman istediğin gibi değişiklikler yapıp istediğin tabloları görüntülüyorsun, query'ler yazıyorsun.
+[Murat Şahin]: Bu aslında benim kullanım amacım da bundan ibaret.
+[Enes Fehmi Manan]: Diyebilirim.
+[Murat Şahin]: Evet.
+[Enes Fehmi Manan]: JetBrains'in ürünü o da. O da güzel. Birkaç tane daha ürünü var.
+[Murat Şahin]: Böyle JetBrains'in...
+[Enes Fehmi Manan]: Ben çoğunlukla...
+[Murat Şahin]: Hepsini biliyorum. Hepsini beğeniyorum. Hepsini kaliteli ürünler gerçekten.
+[Enes Fehmi Manan]: Doğrudur, doğrudur. Yani ben şeyi görmüştüm, DataSpell'i bir denemiştim.
+[Murat Şahin]: Rezalet! Bilmiyorum onu. Onu bilmiyorum bak. Evet, olabilir. Şey gibi, değil mi? Jupyter Notebook'un...
+[Enes Fehmi Manan]: Şey içinde yapılmış hali.
+[Murat Şahin]: Değil mi? Interpreted bir...
+
+[Enes Fehmi Manan]: IDE kullanıyor ama JetBrains ürünlerinin bir ağırlığı var. Yani bir yavaş açılıyor.
+[Murat Şahin]: Program.
+[Enes Fehmi Manan]: Doğru bir şey yani. Bir VS Code'a...
+[Murat Şahin]: Tıkladığı zaman gelir. Android Studio değil canım. Sen kullandın mı öyle bir şey? Android falan kullandığı zaman...
+[Enes Fehmi Manan]: Android Studio çöken bir şey yani. Android Studio açardık. Böyle bilgisayar... Java falan... Bir öyle değil yine.
+[Murat Şahin]: Açardık üniversitedeyken. Öyle bazı bootcamp'lere giderdim abi. Yani tost makinesi gibi kızarırdı. Hatırlıyorum. Ne crash'ler, ne şeyler vardı!
+
+[Enes Fehmi Manan]: Evet ama bir şeyi var, "Ben buradayım!" diyor. JetBrains, evet. Yani şimdi...
+[Murat Şahin]: YouTube kanalı.
+[Enes Fehmi Manan]: Evet, çok faydalı. Bir yandan Medium'da da yazıyorsun.
+[Murat Şahin]: Hani orada da güzel yazılıyor. Evet, sıkça yazıyorum.
+[Enes Fehmi Manan]: Evet, çok nadiren yazıyorum.
+[Murat Şahin]: Yazınca rahatlıyorum ama her zaman da yazamıyorum ya da paylaşamıyorum da her şeyi. Evet, yazmak güzel ama öneririm.
+[Enes Fehmi Manan]: Hani spor falan dedik, abi sanatsal bir şey olacak ya.
+[Murat Şahin]: Ya işte belki yeteneğiniz vardır.
+[Enes Fehmi Manan]: Heykel falan bir şeylerle uğraşırsınız. Hani kil ile uğraşırsınız mesela ya da başka bir şey. Müzik olur, başka bir şey olur. Bir şey gerekiyor yani. Evet, yani şimdi...
+
+[Murat Şahin]: Burada hani çok girmeyelim dedik ama ben gene...
+[Enes Fehmi Manan]: ...söyleyorken önermemiz. Bir de podcast var.
+[Murat Şahin]: Yani niye girmeyeyim dedim o zaman?
+[Enes Fehmi Manan]: Podcast'ten bahsediyorsun, evet.
+[Murat Şahin]: Evet.
+[Enes Fehmi Manan]: Tamam, ben söylemeden edemem kardeşim. Podcast'i o da yani güzeldi bu arada. Hani benim de ilk dinlediğim, bakıldığı vakit aslında teknik podcast olabilir. Yani ben de hep böyle daha böyle şey podcast'ler dinliyordum, eğlenceli. Ya podcast güzel.
+[Murat Şahin]: Evet. Mesela şimdi...
+[Enes Fehmi Manan]: Fark ettiysen...
+[Murat Şahin]: ...ürettiğim içerikler, üretmeye çalıştığım içerikler benim tüketmeyi de sevdiğim içerikler. Yani bunlar nitelikli şeylerdir.
+[Enes Fehmi Manan]: Mesela televizyon izlemek...
+[Murat Şahin]: Ama radyo dinlemek...
+
+[Enes Fehmi Manan]: Okeydir. Radyo güzel bir şeydir. Yani sen orada başka bir şeylerle uğraşırken...
+[Murat Şahin]: Radyonu dinlersin. Radyonun ayrı bir havası vardır.
+[Enes Fehmi Manan]: Podcast'ta da o gözle bakıyorum. Ses kayıtları dinlemek, etmek, özellikle böyle sohbetleri dinlemek bana çok iyi geliyor. Koşarken de, işte böyle bir yolculuktayken de, uzun bir yolculuğa çıkmışken de falan. Dolayısıyla bunlar çok zararlı içerikler değil, hani çok böyle kanserojen içerikler değil. Kanserojen içerik ne abi?
+[Murat Şahin]: Al Instagram'ı aç. Yani Reels'a gir böyle kaydır kaydır.
+[Enes Fehmi Manan]: Bunlar kanserojen içerikler yani baktığımda. O yüzden en azından podcast o tarafta gerçekten güzel. Kimsenin dikkatini çalmadan, dikkat hırsızlığı yapmadan kimseye... Böyle onların en azından... Hani büyük konuşmayayım da...
+
+[Enes Fehmi Manan]: Böyle biraz da ufuk açıcı, hani biraz daha böyle işte kafa açıcı şeylerden konuşmayı, yani bahsetmeyi seviyorum.
+[Murat Şahin]: Bu sadece yazılımla, yapay zekayla ilgili olmayabilir, başka şeylerle de ilgili olabilir de.
+[Enes Fehmi Manan]: Ben orada daha çok ve muhtemelen IT tarafında bazı şeylerden bahsetmişimdir. Böyle bir en azından 4-5 tane içerik kaydedebildim diye hatırlıyorum.
+[Murat Şahin]: Ondan sonra devam etmedim.
+[Enes Fehmi Manan]: Edemedim zaten. Başlamak değil, devam ettirmek mesela.
+[Enes Fehmi Manan]: Şey, Kapüşonlu Sohbet. Yani Spotify'da doğru, Kapüşonlu Sohbet'ti.
+[Murat Şahin]: Ama kendi kendimize yaptığımız...
+[Enes Fehmi Manan]: ...bu sohbetti. Selamlar Zehra! Ya o şeyin, podcast'ın son bölümü... Şimdi oradan acayip bir yere bağlayacağım.
+
+[Murat Şahin]: Hatırlamıyorum abi, hiç hatırlamıyorum ya.
+[Enes Fehmi Manan]: Yerinden önce 'Hatırlamıyorum' başlığı bu. Ya, efsane bir başlık yani. Bu arada, burada şey de yapalım... Paylaştım. Çok böyle profesyonel...
+[Murat Şahin]: Veri bilimi falan sohbet edeceğiz diye... Bana biraz yapmacık gelebiliyor bazen.
+[Enes Fehmi Manan]: Yani şey, hani 'Gurur duyuyorum'...
+[Murat Şahin]: 'Onur duyuyorum' muhabbetleri falan belki o yüzden. En azından orada dedim, 'Goy goy yapalım.'
+[Enes Fehmi Manan]: Carcurt.
+[Murat Şahin]: Evet.
+[Enes Fehmi Manan]: Ya bence müthiş bir başlık yani, inanılmaz. Ben ilk okuduğumdan beri...
+[Murat Şahin]: Unutamıyorum zaten.
+[Enes Fehmi Manan]: Yani harika bir başlık. Ben de bir podcast yapsam, başlıkları böyle atarım. Gerçekten mizahım. Ya, o sıralar...
+[Murat Şahin]: Ben Twitter'da kullanıyorum abi. A, bir de doktorlarla hız kesmeden kavga içerisindeyim Twitter'da.
+
+[Enes Fehmi Manan]: Böyle tuhaf bir şey var.
+[Murat Şahin]: Ortam var Twitter'da, Twitter var.
+[Enes Fehmi Manan]: Çok başka bir yer yani.
+[Murat Şahin]: Gerçekten.
+[Enes Fehmi Manan]: Ya bir doktorla yazılımcının denk gelmesi, bir kediyle köpeğin sokakta karşılaşması gibi bir şey yani. Twitter öyle bir ortam.
+[Murat Şahin]: İnanılmaz ya! Bir de öyle bir o tarzda bir içerik vardı, o yüzden söyledim.
+[Enes Fehmi Manan]: Öyle bir podcast daha vardı işte, "Doktorlar daha mı çok kazanıyordu, az mı kazanıyordu?"
+[Murat Şahin]: Az mı kazanıyordu?
+[Enes Fehmi Manan]: Bir ona değinmişimdir. Öyle. Yani şimdi burada şey soracağım: Mevcut, hani o dönemden bu döneme neredeyse bir sene oldu, belki geçti. Şu anki...
+[Murat Şahin]: İki sene geçti belki.
+[Enes Fehmi Manan]: LLM'ler nasıl LLM konusunda? Bunu güncel hayatında nasıl kullanıyorsun, nasıl fayda sağlıyorsun? Evet, hani bunu konuşmanın başında ChatGPT'nin tool olmasıyla bunu kullanmak gerektiğinden bahsediyor ama bunu hands-on olarak nasıl kullanıyorsun ve sadece ChatGPT mi? Yani şu an bakıldığı vakit işte Cursor var, Windswept var, çok popüler şu anda. Bir trend var şu anda. İşte hiç bilmiyorum, "Şu ürünü yaptım." falan gibi böyle şeyler dolanıyor.
+
+[Enes Fehmi Manan]: Doğru doğru, bireysel şirketler söz konusu. Tek başına adam şirket oluyor. Neden? ChatGPT ona her türlü yolu yordamı söylüyorken, ChatGPT bir şirketi kurmadığı kalıyor. Bir startup şirketin startup'ı bir ChatGPT'nin...
+[Murat Şahin]: Oluşturmadığı kalıyor yani.
+[Enes Fehmi Manan]: Gerçekten, biraz deneyimli birisi, bilgisayardan anlayan birisi...
+[Murat Şahin]: ChatGPT'nin desteğiyle...
+[Enes Fehmi Manan]: Belki kaş göz yara yara, belki zorlana zorlana... Ki kaldı ki bu kişi sensen zaten çok daha iyi bir vaziyette. Hani bunun DevOps'unu...
+[Murat Şahin]: Cloud'unu...
+[Enes Fehmi Manan]: Frontend'ini...
+[Murat Şahin]: Backend'ini...
+[Enes Fehmi Manan]: Bilmem nesinin, her türlü operasyonlarını yapabilecek bir düzeye...
+[Murat Şahin]: Geldi, getirdi.
+[Enes Fehmi Manan]: ChatGPT demeyelim bu arada.
+[Murat Şahin]: Özür dilerim.
+[Enes Fehmi Manan]: Hani bir akıllı bir model diyelim. Bazı insanlar anti-ChatGPT oluyor böyle.
+
+[Murat Şahin]: Hani hep şey yapıyor.
+[Enes Fehmi Manan]: Var öyle bir birkaç insan. Yani sürekli Sam Altman'a karşı böyle işte o OpenAI'e karşı daha doğrusu, böyle bir şey LinkedIn'de böyle hep bir laf giydirme falan bir şeyler yapıyorlar. Ama komik yani. Sonuçta ChatGPT burada, OpenAI diyeyim daha doğrusu, işaret bir şeyini onlar yaktı yani. Onlar o gece değiştirdi ve kaç ay geçti.
+[Murat Şahin]: Google.
+[Enes Fehmi Manan]: Biraz bir şeyler çıkarmaya çalışıyor, AWS bir şeyler çıkarmaya çalışıyor. Çok çaresiz durumlar yaşandı yani yaşattı insanlara. OpenAI yaptı bunu. Onu başaran da olduğu için, hani ister istemez...
+[Murat Şahin]: Onların hakkıdır.
+[Enes Fehmi Manan]: Diye düşünüyorum. Orada hani şey olur ya, Selpak peçeteyle özdeşleşmiştir.
+[Murat Şahin]: Artık.
+[Enes Fehmi Manan]: ChatGPT diyor adamlar.
+[Murat Şahin]: Yani, hani oysa yani yapay zeka ChatGPT'yi kazıdılar insanlara bir şekilde. Zaten o günden sonra...
+
+[Enes Fehmi Manan]: Hiçbir şey aynı olmadı.
+[Murat Şahin]: Baktığında.
+[Enes Fehmi Manan]: Senin sorun neydi abi? Çok özür dilerim. Kesinlikle... Ya benim sorum: Buradaki senin bundan faydalanma biçimin nasıl? Sen bunu nasıl kullanıyorsun?
+[Murat Şahin]: Abi...
+[Enes Fehmi Manan]: Ben bir yaklaşık bir sene falan belki direndim. O zaman 3.5 çıkmıştı. 2 sene önce falan çıktı diyebiliyorum. 2023 müydü? 2 seneye yakın, 2 seneye yakın net. Hiçbir şekilde kullanmamaya. Yani kullanmadım.
+[Murat Şahin]: Yani ben ChatGPT'ye bir sene boyunca falan... Hatırlıyorsunuz. Neydi? Evet. Ben bir sene falan direndim.
+
+[Murat Şahin]: Gereksinim duymadım. Hani yani gidip de teknik sorunlarım için falan şey yapmadım. Ama tabii görüyorum yani kod yazdırıyorlar, inanılmaz yazıyor, algoritma çözüyor falan filan.
+[Enes Fehmi Manan]: Hep goy goylarını da görüyorum.
+[Murat Şahin]: Hani görüntülerini de görüyorum. Daha sonra böyle baktım, problemler üzerinde yaşadığım sorunları çok güzel ifade ettiğimde, gerçekten bana bir danışmanmış gibi de destek olabileceğini biraz geç fark ettim. Yani onun gerçekten neler yapabileceğini. Çünkü...
+[Murat Şahin]: Abi, bilmiyorsun bir alan.
+[Enes Fehmi Manan]: Diyorsun ki hani...
+[Murat Şahin]: Bana aptal birini anlatır gibi anlatır. Böyle prompt'lar yazıyorum. Bilmiyorsun yani, konuyu bilmiyorsun. Şimdi...
+[Enes Fehmi Manan]: Yani atıyorum, tamam.
+[Murat Şahin]: Fourier dönüşümü.
+[Enes Fehmi Manan]: Sen şimdi mühendislik tabanlı bir insan değilsen, matematik tabanlı bir insan değilsen Fourier dönüşümüne...
+
+[Murat Şahin]: Hadi anla da.
+[Enes Fehmi Manan]: Sinyali denoise et bakalım. Edemiyorsun bir şekilde. O titreşimi, vibrasyonu sil bakalım. Sen şimdi onu diyorsun, "Ben aptalmışım gibi bahset," işte "şunu anlatır gibi bahset."
+[Murat Şahin]: Affedersin.
+[Enes Fehmi Manan]: Ya müthiş sana aktarımlar yapıyor. Bir danışman olsa zaten...
+[Murat Şahin]: Bu kadar yapabilir.
+[Enes Fehmi Manan]: Ben düşünüyorum, sektöre başladığımda...
+[Murat Şahin]: Böyle bir junior...
+[Enes Fehmi Manan]: Bir şey hani hep bir insan kendinden çok böyle yaşça büyük birinin...
+[Murat Şahin]: Eli kirli ama...
+[Enes Fehmi Manan]: Eli işin içinde olan, aslında hani bir ustanın ona bir şeyler öğretmesini ister ya. Yani tam o modda bir şey aslında isteyen insanlar için. Hani bugün bir şirkete girdiniz mesela, kendinizi geliştireceksiniz, bir işi yapacaksınız falan. Ya o işin de...
+[Murat Şahin]: Kitlenmeniz mümkün değil.
+[Enes Fehmi Manan]: Hiçbir şekilde kitlenemezsiniz çünkü...
+[Murat Şahin]: Kitlenemiyorsunuz, duramıyorsunuz.
+
+[Enes Fehmi Manan]: Muhakkak deneyeceğiniz AR-GE yolları, metotları, yöntemleri var. Bir bakıma, çünkü ChatGPT ise daima bir şeyler öneriyor, daima orada. Yapacağınız şey hakkında size fikir veriyor.
+[Murat Şahin]: Yol yordam gösteriyor.
+[Enes Fehmi Manan]: Yani daha ne yapabilir ki?
+[Murat Şahin]: Yani bir tek onu yapmıyor.
+[Enes Fehmi Manan]: Onu da yapıyor zaten.
+[Murat Şahin]: Kodunu da yazıyor bazen.
+[Enes Fehmi Manan]: Onu çalıştırmıyor diyeceğim, onu da çalıştırıyor. Şimdi agentlar var orada.
+
+[Enes Fehmi Manan]: Python üzerinde derliyor da gidiyor, yorumluyor da kodunu size. Çıktısını da veriyor falan. Siz CSV'yi bağlıyorsunuz...
+[Murat Şahin]: Bilmem ne...
+[Enes Fehmi Manan]: Hani daha ne yapabilir ki? Herhalde daha bir şey yapamaz yani baktığında. Dolayısıyla artık...
+[Murat Şahin]: Nimetlerinden faydalanıyorum. Mesela bir...
+[Enes Fehmi Manan]: İşte bulut bilişim tarafında olur...
+[Murat Şahin]: Başka başka taraflarda olur. Böyle yeni teknolojileri Google'lamak yerine...
+[Enes Fehmi Manan]: Şey yapmak yerine hep ChatGPT ile konuşaraktan danışmanlık alıyorum ondan aslında. Bu böyle olsa ne olurdu...
+[Murat Şahin]: Nasıl olurdu falan. Tabi onu soru sorma...
+[Enes Fehmi Manan]: Şeklinizle ayrı bir prompt mühendisliği. Yani siz hiç bilmiyorsanız da ilk başta sorduğunuz soruları...
+[Murat Şahin]: İstediğiniz verimde...
+[Enes Fehmi Manan]: Yanıtı alamayabilirsiniz. Ama bunu açtığınız durumda ChatGPT bugün, yani ChatGPT ile siz aslında önünüzde kimse duramayacak bir güce dönüşüyorsunuz bir şekilde. Daha sonra işte aynı o Selman'ın yaptığı gibi tek başına işte bir şirket kuruyorum ya da işte ChatGPT ile hiçbir şey bilmeden...
+[Murat Şahin]: Bir şeyler yapıyorum tarzında...
+[Enes Fehmi Manan]: İçeriklerin çıkması çok çok olası oluyor.
+
+[Murat Şahin]: Çok mümkün oluyor.
+[Enes Fehmi Manan]: Çünkü böyle bir güç bu.
+[Murat Şahin]: Bunu kullanmalıyız yani. Bunu evcilleştirip...
+[Enes Fehmi Manan]: Kullanmanın yoluna bakmalıyız. Kesinlikle ben de katılıyorum. Şimdi birazcık da böyle senin kariyerini biraz hızlandırırsak...
+[Murat Şahin]: O tarafta.
+[Enes Fehmi Manan]: Çok konuştuk. Bu Kalibe AI zamanları, oradan geçişin, sonra bir Norm Dijital'de AI Expert title'ın var. Tüm buradaki süreçlerin nasıldı? Oradaki roller nasıldı? Nasıl geçti?
+[Murat Şahin]: O taraflar. Kalibe bizim girişimimizdi aslında, biz start-up'tık. Ve işte Deniz hocamla birlikte orada kurduğumuz, ben de orada co-founder rolündeyim aslında Kalibe AI'da. Doğrudan da Lead Data Scientist olarak başlamış oldum. Çünkü ondan öncesinde de biz zaten danışmanlıklar kapsamında çalışıyorduk. O şirketi kurmadan önce de Deniz hocamla birlikte çalışıyorduk zaten. Çokça örnek görmüştük orada, işte bir ekiple birlikte.
+
+[Murat Şahin]: Bir yaklaşık 3 sene biz o şirketi idame ettirdik. Daha sonra ben çıkış yaptım ve Norm Dijital bünyesinde çalışmaya başladım. AI Expert yani, o şey olarak isim olarak öyle. Aslında orada da doğrudan takımın başındaydım. Sadece öyle bir strateji izledik yani giriş olarak hani title olarak o şekilde uygun olduğunu düşündük. Ama orada da yine girdiğimizde takımın başındaydım. AI tarafındaki işlerle doğrudan ilgileniyordum, odaklanıyordum diyebilirim. Farklı farklı projelerde ilgileniyorduk. Orada hani ve zaten Winter'la birlikte de doğrudan bu spin-off'la birlikte de zaten Winter'ın işte bahsettiğim size...
+
+[Murat Şahin]: AI feature'larıyla birlikte böyle bir çıkış yakalayarak sürece geçiş yaptım diyebilirim. Şu anda bu şekilde. Özellikle detaylandırmamı istediğim bir kısım varsa açabilirim ama yani hep Data Science tarafında çalıştım kısacası. Data Science ve biraz daha Cloud tarafında belki hani olmak üzere %90 Data Science tarafında ağırlıklı olarak çalıştım ve çalıştığım süre boyunca hep bir şeylere lead etme taraflarındaydım diyebilirim. Bu güzel bir fırsat. Özellikle danışmanlık tarafında çalışmak sürekli farklı...
+
+[Murat Şahin]: projeler görmek.
+[Enes Fehmi Manan]: Ben senin seviyende gördüğüm için biliyorum. Bir sürü şirkette bir sürü farklı proje var. Böyle bir fırsat kendini geliştirme adına inanılmaz, inanılmaz. Çünkü her şirket...
+[Murat Şahin]: Farklı bir şirket kültürü görürsün. Şimdi bazı oradaki şirketleri göreceksin: üretim şirketi, bazı şirketler...
+[Enes Fehmi Manan]: Sağlık şirketi.
+[Murat Şahin]: Avrupa'da mesela.
+[Enes Fehmi Manan]: Bazı şirketler...
+[Murat Şahin]: Baktığında...
+[Enes Fehmi Manan]: İşte kargo şirketleri var mesela, işte...
+[Murat Şahin]: İki tane onların adını söyleyeyim.
+[Enes Fehmi Manan]: Zaten üç tane kargo şirketi var.
+[Murat Şahin]: İki tane dediğimde...
+[Enes Fehmi Manan]: Yine de...
+[Murat Şahin]: ...bilemeyebiliyorsunuz.
+
+[Enes Fehmi Manan]: Çok, evet, üç tane kargo şirketi var.
+[Murat Şahin]: Herhalde.
+[Enes Fehmi Manan]: Neyse, her bir şirketin...
+[Murat Şahin]: Kendini nasıl orada, çalışma tarzlarını vesaire görmek...
+[Enes Fehmi Manan]: Çok iyi oldu.
+[Murat Şahin]: Hani diyebilirim.
+[Enes Fehmi Manan]: Çalışma biçimlerini, disiplinlerini görmek gerçekten benim için de çok faydalı oldu. Peki o zaman, güzel. Sevdiğim bir section. Kendini nasıl geliştiriyorsun, güncel kalmak için neler yapıyorsun? Şimdi buraya geçmeden önce bizim MultiGroup'ta yaptığımız bir repo var. Bu repo, şöyle ekranda vereyim linkini. Burada Data Science ile ilgilenen her seviyeden insanın kendince bir şeyler bulabileceği, buraya böyle section'lara...
+
+[Enes Fehmi Manan]: Böldük. Kaynaklar ekliyoruz. DataCommit içinde ayrı bir bölme oluşturduk. Bu hem yayının linkini hem de daha sonrasında hem burada önerdiğimiz hem de sonrasında Murat Şahin'in önerdiği kaynakları oraya ekleyip aslında belgeyi bir şekilde tutuyoruz. Güzel oluyor. Burada illa bunun işte bir buçukuncu saatinde olmak durumunda değilsiniz. Bu kaynaklara erişmek için repoya da ekleyeceğiz diyelim. Sonrasında ve soruyu sorayım.
+
+[Enes Fehmi Manan]: Senin en çok kullandığın siteler, işte framework'ler, kendini nasıl güncel tutuyorsun? Tabii süreç boyunca aslında bayağı konuştuk ama daha böyle nokta atışı bir şeyler verebilirsin.
+[Murat Şahin]: Ya ben Medium'u çok seviyorum. Bir kere Medium inanılmaz bir platform. Hani ya bana deseler ki, "Murat, sen bugün tüm aboneliklerini..."
+
+[Enes Fehmi Manan]: Sosyal medyada kullandın, işte internet ve tüm hizmetlerine hepsini sonlandırıyor, sen deseler bir tanesini bırak deseler...
+[Murat Şahin]: Spotify, YouTube, oymuş, hepsini bırakırım. LinkedIn'i önce bırakırım, LinkedIn'i ilk.
+[Enes Fehmi Manan]: Niye ya? Çok sentetik.
+[Murat Şahin]: LinkedIn'i.
+[Enes Fehmi Manan]: İlk yani.
+
+[Murat Şahin]: Öncelikle LinkedIn'i bırakırım her şeyden önce. Ondan sonra akabinde şeyleri bırakır, Medium'u tutarım. Ben yazı okumayı çok seviyorum zaten. Bir şeyler yazmaktan ziyade okumayı çok seviyorum, tüketmeyi seviyorum. Orada çok deneyimli insanlar var gerçekten.
+[Enes Fehmi Manan]: Ya, hani sizin...
+
+[Enes Fehmi Manan]: Ya, hani sizin...
+[Murat Şahin]: Belki yaşınızca, burada genelde hep üniversite öğrencisi arkadaşlar olduğu için, ya en az sizin yaşınızca sektörde deneyim edinmiş insanlar var. O insanların deneyimlerini okumak, o insanlarla...
+
+[Murat Şahin]: O insanların deneyimlerini okumak, o insanlarla sohbet etmek gibi bir şey diyebilirim. Dolayısıyla acayip beğeniyorum. Hani ben o yüzden "site" falan demek yerine Medium... Medium'a gireyim bir yandan kimleri takip ettiğime bakacağım. İsim vermem çok doğru olmayabilir ama yani Medium'da doğrudan okuduğum insanlar...
+
+[Murat Şahin]: ...Medium'da doğrudan okuduğum insanlar var. Böyle organizasyonlar da var. Medium grubu oluyor mesela.
+[Enes Fehmi Manan]: Ya, bazı... İşte hani ekip blogları.
+[Murat Şahin]: Değil mi?
+[Enes Fehmi Manan]: İşte.
+[Murat Şahin]: Netflix. Öyle.
+[Enes Fehmi Manan]: Aynen.
+
+[Murat Şahin]: Öyle. Kesinlikle.
+[Enes Fehmi Manan]: Yani...
+[Murat Şahin]: Medium'da şimdi daha böyle yeni başlayan birisi bir platformu öğrenmek...
+[Enes Fehmi Manan]: İçinde farklı.
+[Murat Şahin]: Farklı, gerçekten çok deneyimli insanlar da hani yazabiliyor gerçekten içinden geldiği için, ilk defa belki ortaya koymak.
+
+[Enes Fehmi Manan]: İçinde.
+[Murat Şahin]: Yazabiliyor. Dolayısıyla Medium'u çok önemsiyorum.
+[Enes Fehmi Manan]: Medium.
+[Murat Şahin]: Dışında öyle hani...
+[Enes Fehmi Manan]: Çok faydalandığım bir platform. Doğrudan...
+[Murat Şahin]: Yok diyebilirim. Çok kovalamıyorum. Öğrenciyken kovalıyordum onları. Ben biraz daha ondan sonra çok kovalamamaya başladım.
+
+[Enes Fehmi Manan]: Diyebilirim.
+[Murat Şahin]: Özellikle böyle kaliteli içerikler olduğunda Medium'da çok bayılıyorum. O şekilde söyleyeceğim. Onun dışında GitHub tarafında zaten yaptığım çalışmaları GitHub üzerinde çok koymam mümkün olmuyor. Yani çünkü...
+
+[Murat Şahin]: Zaten hani böyle bir open source tarafında mesela çok isterim open source geliştirme yapabilmeyi çok isterim ama şu anda bu konjonktür bana bunu müsaade etmiyor. Daha farklı önceliklerim olduğu için orada projeler kapsamında genelde yaptığım işleri open source koyma şansım olmuyor. Ya ekiple böyle bir...
+
+[Murat Şahin]: Zaten hani böyle bir open source tarafında mesela çok isterim open source geliştirme yapabilmeyi çok isterim ama şu anda bu konjonktür bana bunu müsaade etmiyor. Daha farklı önceliklerim olduğu için orada projeler kapsamında genelde yaptığım işleri open source koyma şansım olmuyor. Ya ekiple böyle bir GitHub open source çalışalım gibisinden bir şeyimiz olmuyor maalesef. Ama tamamen kendi inisiyatifim üzerinde olan bir şey olsaydı eğer ki...
+[Enes Fehmi Manan]: Enes, open?
+
+[Murat Şahin]: Source'a yönelirdim. Yani yaptığım içerikleri tutmadan aslında şey yapmaya çalışırdım, içimizde tutmadan. Şirket taraflarında vesaire alınan kararların sonucu sonuçta baktığımızda. Çünkü bilgi paylaştıkça çoğalır. Yazılım ekosistemi bunu çok iyi yapıyor. Yani sağ...
+
+[Murat Şahin]: Olsunlar. Gerçekten yazılım tarafında çalışan insanlar hep artık böyle bir zihniyette, böyle bir düşünce yapısında çalıştıkları için gerçekten herkes her şeyi paylaşma derdinde. Yani çok böyle belki aykırı istisnalar olabilir teknik ama onun dışında gerçekten herkes...
+
+[Murat Şahin]: Paylaşım derdinde. Bu da güzel bir şey. Ben birazcık open source'cuyumdur. Yaptığımız her şeyi koyalım, insanlar görsün, fayda sağlasın. Ama tabii bir yandan bankada çalışan...
+
+[Murat Şahin]: ...biri olarak...
+[Enes Fehmi Manan]: ...orada yapılan hiçbir işi koyamıyoruz öyle.
+[Murat Şahin]: Bir durum var yani.
+[Enes Fehmi Manan]: Benim tarafta şimdi çok güzel bir kısım, üçüncü section olarak yeni başlayanlara bir şeyler önerme kısmı. Özellikle şu kamu spotu kısmı var. Sence senin alanında yeni başlayanların...
+
+[Enes Fehmi Manan]: Benim tarafta şimdi çok güzel bir kısım, üçüncü section olarak yeni başlayanlara bir şeyler önerme kısmı. Özellikle şu kamu spotu kısmı var. Sence senin alanında yeni başlayanların doğru zannettiği ama aslında yanlış olan neler var?
+[Murat Şahin]: Doğru.
+[Enes Fehmi Manan]: Abi, bu...
+[Murat Şahin]: Kamu spotu ünlü, bilinen bir şey miydi? Benim bundan haberim yoktu. Özür dilerim, şeyde bilmediğim için ben, sistemin işleyişini bilmediğim.
+
+[Murat Şahin]: ...sistemin işleyişini bilmediğim. Bu kamu spotu haberim yoktu. Şöyle diyeyim, yeni başlayanların büyük yaptığı hatalar ya da neler olabilir yani? Aslında Medium'da bunun için bazı böyle yazılarım var. İşte hani yeni başlıyorsanız...
+[Enes Fehmi Manan]: Pişmanlık. Hatta ismini... Bakayım şöyle.
+[Murat Şahin]: De.
+
+[Murat Şahin]: En azından sizi tam yönlendirmiş olayım. Bu tarzda böyle yazılarım var.
+[Enes Fehmi Manan]: İşte mesela "IT Alanında Başarılı Olmak İsteyen Öğrencilere 8 Tavsiye" mesela. Şimdi açtım.
+[Murat Şahin]: Ben bu yazıyı mesela, sürekli biraz bahsedeyim en azından yazının genel konseptinden. Orada bu soruyu...
+
+[Murat Şahin]: Cevaplanmış olurum diye düşünüyorum hep. Böyle merak etmeniz gerekiyor. Merak etmek, sürekli büyük resmi hayal etmek gerçekten önemli. Siz merakla bir şekilde...
+
+[Murat Şahin]: Aslında yeni şeyler öğrenmeye de kendinizi açıyorsunuz. Dolayısıyla bir ilgi alaka iyidir. İlgisiz alakasız olduğunuz durumda zaten bir şey öğrenmeniz çok zor oluyor. İlgi alakanız varsa çok kolay bir kaldıraç vazifesi.
+
+[Murat Şahin]: İlgi alakanız varsa çok kolay bir kaldıraç vazifesi ile aslında orada o sistemleri öğrenmeye, tüketmeye hızlıca başlıyorsunuz diyebilirim. Merak önemli. Onun dışında, yani henüz üniversite öğrencisiyken bir şey...
+
+[Murat Şahin]: Merak önemli. Onun dışında, yani henüz üniversite öğrencisiyken bir şey alan seçmeniz çok önemli arkadaşlar. Sizin de böyle...
+[Enes Fehmi Manan]: İşte.
+[Murat Şahin]: Mobil olur, yani blok zincir olur, büyük veri olur, her şey olabilir yani. Sizin böyle bir alanda bir karar kılmanız şart. O bakımdan onu söyleyebilirim.
+
+[Murat Şahin]: IT çok geniş bir derya deniz, çok büyük bir şemsiye sonuçta ve sizin bir alanda karar vermeniz, en azından üçüncü sınıfta falan bu kararı vermiş olmanız çok...
+
+[Murat Şahin]: İyi olur bunun için. En azından her çiçekten bal alarak böyle bir şeyleri görerekten ilerlemeniz gerekiyor. Çünkü belki de daha çok hoşunuza gideceğiniz bir şey olacak. Dolayısıyla her şeyden biraz bir şeyler tüketmeniz gerekiyor.
+[Enes Fehmi Manan]: Nasıl?
+
+[Murat Şahin]: Olduğunu görmeniz gerekiyor. O alandaki deneyimli insanlarla konuşmanız gerekiyor. Neyi sevdiğinizi bilmeniz şart. Onun dışında şirketlerle çalışmaya çalışacaksınız. Orada şunu söyleyebilirim, orada biraz daha çıkarcı olarak gerekirse bir...
+
+[Murat Şahin]: ...gerekirse bir şekilde kötü koşullara biraz daha olsun göğüs gererek başlatmanız sizin kariyer sürecinizi çok önemli. Orada çünkü sonuçta siz oradan bir şeyler öğreniyorsunuz ve bir şekilde başlamanız gerekiyor.
+
+[Murat Şahin]: Başlamadığınız süre boyunca bir şirket ortamı bile görememiş oluyorsunuz. En büyük verebileceğim tavsiye bir şekilde başlamak olur. Çok kolay bir şey.
+
+[Murat Şahin]: Değil. Ama başladıktan sonra...
+[Enes Fehmi Manan]: Gerisi geliyor.
+[Murat Şahin]: Ona emin olabilirsiniz.
+[Enes Fehmi Manan]: Sadece başlamak biraz zor. Herkes için zor. Sadece özel olduğunuzu düşünmeyin, size kimsenin garezi olduğunu düşünmeyin.
+[Murat Şahin]: Biraz başlamak zor.
+
+[Enes Fehmi Manan]: Gerçekten.
+[Murat Şahin]: Diyebilirim. Genelde ben proaktif oldum.
+[Enes Fehmi Manan]: Mesela?
+[Murat Şahin]: Üç istiyorlarsa beş verdim.
+[Enes Fehmi Manan]: Sizden benzer şeyleri vermenizi önerebilirim. Çünkü doğru kişilerle çalışıyorsanız...
+[Murat Şahin]: Burada fazla verdiğinizde zaten çokça öğreniyorsunuz. Öte yandan, bu vermeniz size çokça katarken sizin...
+
+[Murat Şahin]: Burada fazla verdiğinizde zaten çokça öğreniyorsunuz. Öte yandan, bu vermeniz size çokça katarken sizin doğrudan yükselmenizi sağlayabiliyor. Siz proaktif olduğunuzda, kendinizden fazla verdiğinizde en büyük artısı öğrenmek size. Ama onun dışında, eğer ki doğru insanlarlaysanız, sizin...
+
+[Murat Şahin]: Ama onun dışında, eğer ki doğru insanlarlaysanız, sizin onların gözünde daha çok yükselmenizi ve daha çok sorumluluk alarak daha iyi yerlere gelmenizi sağlayabilir, diyebilirim. Öğrenmeyi öğrenmeye çalışın. Bunu da söylemiş olayım yani. Mesele bir framework, Angular öğrenmek değil. Başka bir frontend tool var, işte atıyorum Angular öğrendiniz.
+
+[Murat Şahin]: Sonra React öğrenmeniz çok daha kolay olur. Amaç burada konsepti öğrenmek.
+[Enes Fehmi Manan]: Konsept... Ne öğrenme konsepti yani?
+[Murat Şahin]: Sizin öğrenmeyi öğrenmeniz gerçekten çok önemli. Bunu amaçlamanız çok...
+
+[Murat Şahin]: Sizin öğrenmeyi öğrenmeniz gerçekten çok önemli. Bunu amaçlamanız çok önemli. İngilizce bilen birisi İspanyolcayı da çok kolayca öğrenir, atıyorum, ya da Almancayı da çok kolay öğrenebilir.
+[Enes Fehmi Manan]: Çünkü farklı bir dil orada sizin o güçlerinizi çalıştırdığınız anlamına geliyor. Nasıl?
+[Murat Şahin]: Arayacağınızı öğrenmeniz lazım.
+[Enes Fehmi Manan]: Yani?
+
+[Murat Şahin]: Şu anda ne alanda başlayacaksanız bile bunu nasıl arayacağınız, bunu Chat GPT'ye yazma şeklinizi bile öğrenmeniz gerekiyor.
+[Enes Fehmi Manan]: Aslında ya da...
+[Murat Şahin]: Bir...
+
+[Enes Fehmi Manan]: Akıllı...
+[Murat Şahin]: Büyük Dil Modeli ne demeyeyim?
+[Enes Fehmi Manan]: Chat GPT demeyeyim yani.
+[Murat Şahin]: Bu şekilde... Aslında önceliklerini belirlesin arkadaşlar. İşte bir pozisyonda başlama durumu olabilir. İstedikleri şirket kültürü olmayabilir. Şirket kültürü olur, pozisyon istediği pozisyon olmaz.
+[Enes Fehmi Manan]: Enes, hatırla.
+
+[Enes Fehmi Manan]: Sen de benzer durumları yaşadın. Yani her şey dört dörtlük olmuyor. Abi.
+[Murat Şahin]: Ya para oluyor, olanaklar olmuyor. Ya para, olanaklar oluyor, istediğin şirket olmuyor. Şirket oluyor, istediğin pozisyon olmuyor. Hepsi o istediğin gibi olmuyor.
+
+[Murat Şahin]: Kültürde olmuyor.
+[Enes Fehmi Manan]: Şirkete giriyorsun, bakıyorsun istediğin kültürde çalışan bir şirket değil falan. Hepsi.
+[Murat Şahin]: Oluyor, çalışma stili uymuyor sana. O yüzden arkadaşların önceliklerini belirleyip ona göre hareket etmeleri daha mantıklı diyebilirim.
+
+[Murat Şahin]: Bu şekilde aslında bayağı bir şey söylemiş oldum yazıdan kopya çekerek.
+[Enes Fehmi Manan]: Ama yine de, ekstra sorusu olanlar varsa...
+[Murat Şahin]: Ayrıca, seve seve yanıtlarım kesinlikle.
+[Enes Fehmi Manan]: Bu arada, artık son bir iki soruyu alabiliriz.
+
+[Enes Fehmi Manan]: Benim de kaldı. Ondan sonra kapanışa geçeceğiz. Varsa sor bana.
+[Murat Şahin]: Şu an?
+[Enes Fehmi Manan]: Tam sırası. Şimdi biraz şey... Zor bir soru. "Keşke geçmişe dönseydin şunu şöyle yapardım" dediğin bir şey var mı? Sen?
+
+[Murat Şahin]: Niye böyle sorular sordun gerçekten? Ne cevap verdiler şimdiye kadar onu bilmiyorum, diğer arkadaşlar.
+[Enes Fehmi Manan]: Yani... Abi, ben şöyle... Mesela...
+[Murat Şahin]: Bir geri dönüş vereyim. Cevabı verildi. Bu soruya çok daha erken yurt dışına çıkardım. Kafam bir karıştı, gerçekten.
+
+[Enes Fehmi Manan]: Yurt dışına çıkmaya... Şey... Olgun? Nike'ta Principal ML Engineer olarak çalışıyordu, Polonya'da mı? Tamam. Kaan? Zaten sen...
+[Murat Şahin]: Onu dedi. Olgun Bey dedi. Da. Kaan demedi, değil mi? Yok yok, Kaan demedi. Anladım. Yok, şaka yapıyorum zaten. O da mezun olduğu gibi çıktı gitti.
+
+[Murat Şahin]: Abi, yurt dışında kazanacağım parayı burada kazanınca aslında hiç şeye gerek kalmıyor bir bakıma.
+[Enes Fehmi Manan]: Öyle düşünüyorum bugün.
+[Murat Şahin]: Temiz alabileceğin zaten normal şartlarda, eğer ki Avrupa şartlarındaysan, İngiltere gibi, Almanya gibi, tabii ki bulunduğun oradaki eyalete, şehre...
+
+[Murat Şahin]: ...şehre göre de değişir ama günün sonunda ortalama alabileceğin 4000 Euro normal.
+[Enes Fehmi Manan]: Aşağı yukarı ben bunların çok oynadığını, acayip böyle hani 10.000 Euro, 15.000 Euro aylık havada uçuştuğunu düşünmüyorum.
+[Murat Şahin]: Amerika...
+[Enes Fehmi Manan]: Değil orası.
+[Murat Şahin]: Arkadaşlar, belki...
+
+[Murat Şahin]: Arkadaşlar, belki karıştırıyor. Kafa karışıklıkları var arkadaşların. Amerika dünyanın öbür ucu. Biliyorsunuz, biz de Avrupa'ya çok yakın yaşıyoruz. Ama Amerika başka bir dünya tabii. Gidebiliyorsan Amerika'ya git.
+[Enes Fehmi Manan]: Gerçekten orada, eğer kapitalist sistemde çalışan çalışacak...
+
+[Enes Fehmi Manan]: Gerçekten orada, eğer kapitalist sistemde çalışan, çalışacak olan bir yağız bir delikanlı olduğunu düşünüyorsan, orada hani buna hazırsan ve çok para kazanmaya hazırsan, çok da çalışmaya, kendinden vermeye gidilebilir.
+
+[Murat Şahin]: Mantıklıdır, değerlendirilebilir.
+[Enes Fehmi Manan]: Ama yani...
+[Murat Şahin]: Avrupa şartlarında bana...
+[Enes Fehmi Manan]: Çok saçma.
+[Murat Şahin]: ...geliyor. Yani 4000 Euro için orada hani gitmek vesaire... Bir de orada çalışıyorsan o zaman 2000 Euro da ev kirası veriyorsun, anladın? 1500, 1500 Euro veriyorsun hadi yani.
+[Enes Fehmi Manan]: Fark etmez. Baktığında bunları...
+[Murat Şahin]: Türkiye'de kazanıp aynı şekilde çalışmak çok daha makul bir hayat sunuyor sana aynı paralarla.
+
+[Enes Fehmi Manan]: O yüzden gerek...
+[Murat Şahin]: ...kalmıyor. Benim cevabım bu aslında çok...
+[Enes Fehmi Manan]: Samimi cevap.
+[Murat Şahin]: Ama bu yani gerçekten de...
+[Enes Fehmi Manan]: Amerika...
+[Murat Şahin]: ...olabilir. Mesela Amerika güzel olabilir ama...
+[Enes Fehmi Manan]: Baktığında Amerika'daki o kazancı şeye burada öyle ulaşamazsın.
+[Murat Şahin]: Abi, kimse onu remote vermeyebilir. Bunun için de Car Türk konuşabiliriz. Yani orada hani sen...
+[Enes Fehmi Manan]: O nasıl?
+
+[Murat Şahin]: Deyim yani...
+[Enes Fehmi Manan]: Şahıs şirketi atacaksın, nasıl yapacaksın?
+[Murat Şahin]: Nasıl gösterilecek vesaire, gerçekten çok fazla evrak işleri olabilir. Tutunmak da zor.
+[Enes Fehmi Manan]: Orta Amerika'da bir işten çıkarılman çok...
+
+[Enes Fehmi Manan]: Orta Amerika'da bir işten çıkarılman çok kolay Avrupa'daki gibi. Avrupa'da çıkarıyorsun yani işçi.
+[Murat Şahin]: Geliyor, seni sömürmüyor yani bir...
+[Enes Fehmi Manan]: Güzel.
+[Murat Şahin]: Avrupa'da daha farklı regülatif olarak.
+[Enes Fehmi Manan]: Ama...
+[Murat Şahin]: Amerika'da öyle değil yani.
+[Enes Fehmi Manan]: Çıkarsın, dönemezsin bile. Bavulunu toplayamazsın Amerika'da işten çıkarıldıktan sonra. Direkt deport falan böyle 15...
+
+[Enes Fehmi Manan]: Çıkarsın, dönemezsin bile. Bavulunu toplayamazsın Amerika'da işten çıkarıldıktan sonra. Direkt deport falan böyle 15 gün içinde falan hani baktığında ama...
+[Murat Şahin]: Avrupa'da öyle değil. İşçi hakları yani sosyalist bir şeyden geldikleri çok daha farklı. Orta öyle.
+[Enes Fehmi Manan]: Hani ya çalışma tempoları falan farklı tabii ki. Onlara...
+
+[Enes Fehmi Manan]: Hani ya çalışma tempoları falan farklı tabii ki. Onlara girmeyeyim. Şimdi...
+[Murat Şahin]: Linç falan yemeyelim gece gece. Amerikan ve Avrupa'nın tabii ki...
+[Enes Fehmi Manan]: ...çalışma iştahı farklı.
+[Murat Şahin]: Yani.
+[Enes Fehmi Manan]: Sonuçta bir...
+[Murat Şahin]: Yanda adam McDonald's arabasından 10 dakika içerisinde...
+[Enes Fehmi Manan]: Dakika.
+[Murat Şahin]: ...5 dakika içerisinde yemek yiyor. Arabasıyla yemek yiyor, arabasıyla tuvalete gidiyor, arabasıyla hemen devam ediyor. Bu kadar zamanla yarışan bir insan grubu var. Bir yanda daha çok hani...
+[Enes Fehmi Manan]: Ona...
+
+[Murat Şahin]: Göre mesai saatleri olan, hani çok da böyle kasmayan, işsizlik maaşlarıyla vesaire farklı farklı şekilde kültürle harmanlanan bir topluluk var baktığında.
+[Enes Fehmi Manan]: Avrupa.
+[Murat Şahin]: Bana hitap etmiyor Avrupa, benlik değil yani.
+[Enes Fehmi Manan]: Orada...
+[Murat Şahin]: Hani öyle bir...
+[Enes Fehmi Manan]: Şey, kesinlikle.
+[Murat Şahin]: O yüzden gitmiyorum.
+
+[Enes Fehmi Manan]: Ama şimdi.
+[Murat Şahin]: Tabii, Winter'da İngiltere'de kurulmuş bir şirket baktığında. Dolayısıyla, orada yatırımcılar vesaire yine bir görüşmelerimiz vesaire şeylerimiz olacak yatırım turlarında.
+[Enes Fehmi Manan]: Yani.
+[Murat Şahin]: Çok iyi geçeceğini düşünüyorum ben kişisel olarak. Çok hazırız.
+
+[Murat Şahin]: Ürün buna çok hazır. Gerçekten son böyle bir kapanışa doğru reklamını yapmış, insanların aklına o kalsın. Hani Winter kalsın. Biz buna hazırız diyebilirim. Yani bu şekilde.
+[Enes Fehmi Manan]: Pişmanlık.
+
+[Murat Şahin]: Olarak da işte şu üniversiteye başladığımda Ethereum koleksiyonculuğu yapıyordum. İki saat olduğu için dilim dönmüyor.
+
+[Enes Fehmi Manan]: Enes.
+[Murat Şahin]: Onları keşke satmasaydım diyorum.
+[Enes Fehmi Manan]: Öyle o zaman.
+[Murat Şahin]: Teşekkür edelim.
+[Enes Fehmi Manan]: Son soru artık. Bu soruya...
+[Murat Şahin]: Ben bayılıyorum en en...
+[Enes Fehmi Manan]: ...sevdiğin sorulardan biri. Hani buradan kendince şeylerle bir şeyler demişsin ama...
+
+[Enes Fehmi Manan]: Ben aynı şekilde soracağım. Sen sence seni en çok geliştiren veya işte sana en çok zorlandığın proje neydi?
+[Murat Şahin]: Neydi bilmiyorum. Beni geliştiren, her zaman zorlandığım şey miydi, emin değilim.
+[Enes Fehmi Manan]: Yani beni...
+[Murat Şahin]: Geliştiren şeyler oldu, beni zorlayan şeyler oldu ama...
+[Enes Fehmi Manan]: İkisinin...
+
+[Murat Şahin]: Aynı tarafta olduğundan çok emin değilim. Bazen zorlama iyidir.
+[Enes Fehmi Manan]: Stres...
+[Murat Şahin]: İyidir hani, gelişmeni sağlar yani.
+[Enes Fehmi Manan]: İnsan stres...
+[Murat Şahin]: Gerekir yani gerçekten. Bende ama çok zorlandığım bir proje vardı. İsmini...
+
+[Murat Şahin]: İsmini söyleyemeyeceğim tabii ama ağır bir şey, yükümlülükler altında çalışıyorduk orada. İster istemez baktığında, yani, gri bir alandı. Müşteriye anlatamıyorsun, ekürisi ne demek bilmiyor.
+[Enes Fehmi Manan]: Mesela, ama istiyor yani. Çok şey istiyor tamamen. Yani...
+[Murat Şahin]: Tamamen yapısal olmayan bir ortam.
+
+[Enes Fehmi Manan]: Çok gri.
+[Murat Şahin]: Böyle kâbus gibi bir projeydi günün sonunda. Ve biz orada elimizden geleni yaptık.
+[Enes Fehmi Manan]: Çokça şey yaptık, çokça şey kurşun sıktık.
+[Murat Şahin]: Her türlü orada gerçekten de ekip muazzam çalıştı. Muhtemelen hayatımda asla o tempoda belki bir projeye odaklanamayacağım.
+[Enes Fehmi Manan]: O.
+
+[Murat Şahin]: Saatten sonra, gerçekten çok büyük bir challenge bizim içimizde. Ve yükümlülüklerimiz de vardı, yani sorumluluklarımız da vardı hani. Regülasyon olarak da baktığında işin içinden çıkmamız gereken bir projeydi bir bakıma. Bu yüzden bunun verdiği stresle çok zorlandığımı hatırlıyorum.
+
+[Enes Fehmi Manan]: Tabi.
+[Murat Şahin]: Bir daha bundan sonra zaten öyle bir şeyin altına girmem yani kesinlikle girmem.
+[Enes Fehmi Manan]: O.
+[Murat Şahin]: Olayları, süreçleri, oradaki bakış açımı falan değiştirirdim muhtemelen. Böyle diyebilirim.
+[Enes Fehmi Manan]: Yani geliştiren projeler kapsamında sen şimdi CV...
+
+[Enes Fehmi Manan]: Az çok şeyi bildiğin, içinden bir sürü proje var zaten. Hepsinden şeyler geliştiriyor insan. Şey...
+[Murat Şahin]: Değil. Yani kesinlikle hani bir tane çok vurucu bir şey sana söylemem mümkün değil çünkü hepsinden iyi kötü bir şeyler öğreniyorsun.
+[Enes Fehmi Manan]: Benim şöyle bir hikaye...
+[Murat Şahin]: O zorlandığın proje kırılma noktam.
+[Enes Fehmi Manan]: Diyebilirim senin.
+
+[Murat Şahin]: Nasıl bir hikaye bende?
+[Enes Fehmi Manan]: Şöyle bir şey olmuştu bu, bundan bir seneden daha da önceydi herhalde. Anadolu Sigorta'nın hackathon'una katılmıştım. Yani Türkiye geneliydi. Böyle orada bir chatbot yapmıştım. Yani o zamanlar GPT daha...
+
+[Enes Fehmi Manan]: Şöyle bir şey olmuştu bu, bundan bir seneden daha da önceydi herhalde. Anadolu Sigorta'nın hackathon'una katılmıştım. Yani Türkiye geneliydi. Böyle orada bir chatbot yapmıştım. Yani o zamanlar GPT daha falan hype değildi. Yapmıştım.
+[Murat Şahin]: Yeni hypelanıyordu RASA ile. Senle konuşmuyorduk o sıralarda, hatırladım. O zaman, o bir dönüm...
+[Enes Fehmi Manan]: ...noktası oldu yani.
+[Murat Şahin]: Belki ondan...
+[Enes Fehmi Manan]: ...sonra.
+
+[Enes Fehmi Manan]: 10 taneye katılmışız.
+[Murat Şahin]: 10 tane.
+[Enes Fehmi Manan]: Hepsine chatbot yaptık. Hala her girdiğimiz yere chatbot yapıyoruz. Sen olmuşsun ya!
+[Murat Şahin]: Chatbot, evet. Distribütör... Öyle bir kırılma noktası oldu benim.
+[Enes Fehmi Manan]: Gerçekten.
+
+[Murat Şahin]: Orada chatbot tarafına çok böyle yöneldim ve...
+[Enes Fehmi Manan]: Hala en son katıldığım zaten şeyde AWS içerisinden bir chatbot yaptık Amazon Bedrock ile birlikte context-based bir bot.
+
+[Enes Fehmi Manan]: Ve Recommendation Engine'ler birlikte çalışıyordu e-ticaret...
+[Murat Şahin]: Bot yaptı.
+[Enes Fehmi Manan]: Güzel bir projeydi o. Yani şöyle, o tarafı geliştirmeye çalışıyorum.
+[Murat Şahin]: Çok güzel, çok güzel.
+[Enes Fehmi Manan]: Valla.
+
+[Enes Fehmi Manan]: Valla. Benim için de böyleydi.
+[Murat Şahin]: Dinleyen, izleyen bu saate kadar herkese çok teşekkür ederiz.
+[Enes Fehmi Manan]: Çok teşekkür ederiz.
+[Murat Şahin]: Sağ olun. Çok teşekkürler.
+[Enes Fehmi Manan]: Soru soranlara daha teşekkür ederiz. Abi, geldiğin için çok teşekkür.
+
+[Murat Şahin]: Ederim.
+[Enes Fehmi Manan]: Ben teşekkür ederim davet ettiğin için. Bu, yani yoğunluğumun arasında belki daha iyi, daha enerjikli olabilirdim. Kusura bakmayın. Sabahtan akşama kadar konuştuğum için dil bir saatten sonra dönmüyor zaten. Gidiyor bir şekilde. Saat de geç oldu. Çok teşekkür ederim. Herhangi bir durum olduğunda arkadaşlar bana LinkedIn'den istedikleri gibi ulaşabilir. Ayrıca Super Peer üzerinden böyle...
+
+[Enes Fehmi Manan]: Ücretsiz bir slotum oluyor benim genelde hani. Yeni kapattılar.
+[Murat Şahin]: Biliyor musun?
+[Enes Fehmi Manan]: Kapandı.
+[Murat Şahin]: Ne zaman?
+[Enes Fehmi Manan]: Daha yeni kapandı.
+
+[Enes Fehmi Manan]: Daha bugün satıldı, satıldı. Tamam.
+[Murat Şahin]: Niye kapandı?
+[Enes Fehmi Manan]: Satıldı.
+[Murat Şahin]: Ve satın alan firma operasyonları sonlandırdı.
+[Enes Fehmi Manan]: Şu an Super Peer uçtu.
+[Murat Şahin]: Yani?
+[Murat Şahin]: Ben Super Peer.com'a girdim şu an, girildi.
+[Enes Fehmi Manan]: Artık Skillshare ailesinin üyesi.
+[Enes Fehmi Manan]: Sizin...
+
+[Murat Şahin]: İçin ne anlama geliyor bu değişiklik falan filan diyor ama girebiliyorum.
+[Enes Fehmi Manan]: Ne?
+[Murat Şahin]: Ben girebiliyorum da... Var. Tamam, tamam, gördüm. 404 aldık, evet.
+[Enes Fehmi Manan]: Tamam, hayırlısı o.
+[Murat Şahin]: O zaman siz yine LinkedIn'den yazarsanız ben arkadaşlara elimden geldiği kadar yardımcı olmaya çalışıyorum. Enes, sen de zaten öyle bir arkadaşsın.
+[Enes Fehmi Manan]: Aslında...
+[Murat Şahin]: Normal hani geldin, görüştün, selam verdin.
+
+[Enes Fehmi Manan]: Görüştük, tanıştık, konuştuk.
+[Murat Şahin]: Yani ne faydam olabilirse faydalı? Genelde bu düşünce...
+[Enes Fehmi Manan]: Ben iki defa oradan hatta randevu almıştım.
+[Murat Şahin]: Bir kere aldım, bir daha Cumartesi sabah 8'e koyduğumdan herkes alıyor ama herkes kalkıp gelemiyor.
+[Enes Fehmi Manan]: Öyle bir durum.
+
+[Murat Şahin]: Zor oluyor, Koray, bu.
+[Enes Fehmi Manan]: Sabah köründe Cumartesi 8'de.
+[Murat Şahin]: Yani öyle güzeldi.
+[Enes Fehmi Manan]: O zaman tekrardan teşekkür...
+[Murat Şahin]: ...ederiz herkese. Görüşmek üzere.
+[Enes Fehmi Manan]: Arkadaşlar, çok...
+[Murat Şahin]: ...sağ olun. Dikkat edin. Hoşça kalın. İyi bakın kendinize.
+[Enes Fehmi Manan]: İyi akşamlar. Altyazı.
+

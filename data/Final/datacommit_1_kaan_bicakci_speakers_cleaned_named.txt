@@ -1,0 +1,1029 @@
+[Enes Fehmi Manan]: Selamlar herkese, hoş geldiniz. DataCommit'in ilk yayınıyla birlikteyiz. İlk yayına özel Kaan Bıçakçı var. Hoş geldiniz Kaan bu arada.
+[Kaan Bıçakçı]: Merhabalar, hoş bulduk.
+[Enes Fehmi Manan]: Ben çok kısaca bu serinin çıkışından bahsedeyim. Akabinde Kaan'ı tanımakla başlayalım. Bu serinin çıkışı aslında data tarafında bu virüs zamanları çok yoğundu.
+[Kaan Bıçakçı]: O dönemler böyle bir sürü online yetkinlik oluyordu.
+[Enes Fehmi Manan]: Hem virüsün kapanmayla birlikte bu inanılmaz etkiliydi.
+[Kaan Bıçakçı]: Çok fazla o dönemde online event vardı ve ben de o dönemde yeni girmiştim data tarafına. Bu eventlerden çokça faydalandım.
+[Enes Fehmi Manan]: Fakat günümüze geldiğimizde aslında bu eventlerin sayısı gittikçe azaldı. Hatta şu anda neredeyse online'da data tarafında düzgün event çıkmıyor gibi bir şey, çok az çıkıyor.
+[Kaan Bıçakçı]: Onsite tarafındakiler de azaldı bu arada.
+[Enes Fehmi Manan]: MultiGroup olarak bizim amacımız da hem online etkinliklerle data tarafını güçlendirmek, akabinde de yurt dışındaki bu insanları Türkiye'ye geldiklerinde tekrardan komite içerisine kazandırmak. Burada da ilk başlangıcımız Kaan oldu. Tekrardan hoş geldin Kaan.
+[Kaan Bıçakçı]: Merhaba, hoş bulduk. Açıklama için bayağı açıklayıcı oldu aslında.
+[Enes Fehmi Manan]: Teşekkür ederiz.
+[Kaan Bıçakçı]: Yani senin de dediğin gibi birkaç şey eklemek isterim aslında. Özellikle bu yayın Google Developers Club yapıyordu geçmişte baktığımız zaman. Belki bilenler vardır. Onlar ama sanırım yani bir aslında öneri olarak da bunu size şey yapabilirim belki aklıma gelmişken. Onlar sürekli böyle tekrar eden konular üzerinden bir şeyler yapıyordu. Hani belki burada daha farklı konulara yönelirsiniz veya farklı konuları ele alırsanız her seferinde veya almaya çalışırsanız bence daha iyi olur. Diğer türlü hep sürekli aynı üç dört konu dönüp duruyor, çok bir şey olmayan efektif olmuyor.
+
+[Enes Fehmi Manan]: Buna katılıyorum. O dönemlerde Google Developers Club çok fazla TensorFlow'u meşhur etmeye çalışıyordu.
+[Kaan Bıçakçı]: Öyle bir şey vardı. Sürekli böyle TensorFlow'un hype'ıyla birlikte hep TensorFlow yayınları vardı.
+[Enes Fehmi Manan]: Bizim buradaki olay birazcık daha senin üzerinden gidecek aslında. Hani senin sektör tecrübelerin ve bugüne kadarki deneyimlerini göreceğiz. Tabii seyirci sorularıyla da olay gittikçe derinleşebilir. İstersen hatta seni tanımakla başlayabiliriz. Tabii.
+[Kaan Bıçakçı]: Merhabalar. Beni tanımayan varsa ben Kaan. 2022 yılında yazılım mühendisliğinden mezun oldum. Okulu bitirmeden önce 2021 yılında ilk böyle çalışmaya başlamaya, ilk profesyonel kariyerim o zaman başladı diyebilirim 2021 yılında. Yani şu anda da toplamda 3,5 yıl kadar çalışmaya başladım. Bu Data Science, Machine Learning tarafında çalışmaya başladım. Ondan öncesinde çalışmaya başlamadan önce yaklaşık bir sene kadar bir kendi çalışma sürecim vardı. Yani işte nedir bu, işte konseptleri öğrenmek, işte Machine Learning nedir ne değildir, işte veri bilimi falan. Hani herkesin geçtiği yollardan ben de bir sene kadar bir çalışma sürecim oldu. Ondan sonra 2021 yılında ilk işime girdim. Şu anda da İngiltere'de Willis Towers Watson yani WTW bir sigorta firmasında, işte modellerin yazılması, işte deploy edilmesi, test edilmesi gibi işlerde görev alıyorum. Kısaca bu şekilde. Onun haricinde iş haricinde...
+[Enes Fehmi Manan]: Tabii ki. Mesela sektöre bu kadar erken giriyorsun bir de. O taraftaki girişin nasıl oldu? Sen bu veri bilimine aslında ilk başlangıcın nasıl oldu? Seni bu alana yönlendiren şey neydi burada?
+[Kaan Bıçakçı]: Şimdi şöyle, dediğim gibi ben yazılım mühendisliği okudum. 2018'de girdim. Ondan ikinci sınıfta Erasmus'a gittim. Almanya'ya gittim bu arada. Sonra Almanya'da baktım ki bu hani yazılım mühendisliği konuları hani iyi güzel ama böyle çok spesifik alanlara yöneliyordu. İşte mobil vardı, işte backend'le alakalı şeyler vardı. Şimdi bunlar benim ilgimi çekmedi. Ben onun öncesinde hani böyle ufak tefek kodları alıp 3-5 modifikasyon yapıp hani çalıştırabiliyordum. Hani böyle ilkokuldan beri kodlayan bir insan değilim. Hani öyleleri vardır ya böyle bazı takıntılı insanlar falan değil. Hani öyle biri değildim. Bunlar ilgimi çekmedi. Sonra baktım işte bu yapay zeka, tabii o zaman yapay zeka marketing terimi baktığımız zaman. Dedim buradan sektöre girebilir miyiz falan. İlk o zaman dedim ki ben buraya doğru yöneleyim falan. İlk o şekilde tanıştım. Baktım insanlar neler yapıyor, işte neler var, sektöre nasıl girelim. O şekilde sonra döndüm. Döndükten sonra çalışmaya devam ettim. 2021 yılında da iş bulmuş oldum yani öyle söyleyeyim. Önce staj olarak başladım. Bir ay kadar bir staj süreci oldu.
+[Enes Fehmi Manan]: İş buluşun nasıldı? İlk mesela stajyer olarak giriyorsun ve bulunduğun şehirde bir işe girmiyorsun bildiğim kadarıyla. Başka şehirden bir işe o dönemlerde stajyer olarak giriyorsun. Sonra devam ediyorsun. Oradan tam zamanlıya mı geçtin? Ama hala da okuyor gözüküyorsun mesela LinkedIn'den gördüğüm kadarıyla. Oradaki süreci nasıl yönettin?
+[Kaan Bıçakçı]: Evet, şimdi şöyle oldu. O dönemler bir CV hazırladım. Çok dandik bir CV'ydi. YouTube kanalımda gösterdiğim, ilk CV'im bu, son şu andaki CV'im bu diye. Çok dandik bir CV'ydi. Böyle 3-5 tane buldum böyle LinkedIn'den. O zaman çok spesifik staj arıyorum. Staj da yok zaten. Bayağı bir aradım yani. Şu an bayağı bir denmez ama belki hani bir iki ay diyeyim, hani iki ay. Yalan olmasın, iki ay aradım. Baktım bir şey yok. Hani bir yerden bir case aldım ama o da yürümedi yani. Sonra çevremde baktım hani ilgilenen kimler var acaba? Bir referans. Birisi referans olursa belki şirkete girmem daha kolay olur. Hani burada mülakata girmek zor. Çünkü tecrübeniz olmayınca insan hiç bakmıyor bile maalesef. Yani şey gibi, herkes tecrübeli elemanlar arıyor ama kimse yetiştirmek istemiyor. O sorunla ben de yüzleştim yani. Sonra bir referans aradım. İşte o İzmir'deki şirket karşıma çıktı. Onlarla bir mülakat süreci oldu. Sen de sanırım ismen hani bildiğin kişiler baktığımızda. Buradan da selam olsun yani Deniz Hoca'ya, Murat Şahin'e. Evet, yani onlarla bir sürecimiz oldu. Yani bir staj süreci oldu ilk başta. Daha sonra hani ben orada staj sürecinde İzmir'e gittim bu arada. Hani staj sürecinde hani ofisteydim. Ondan sonra staj bittikten sonra da bir süre sanırım remote devam ettim. Hani çok hatırlayamıyorum, biraz şey oldu. Ondan sonra tam zamanlıya geçtim.
+
+[Kaan Bıçakçı]: Ben okuyordum.
+[Enes Fehmi Manan]: Tam zamanlı nasıl olacak? Hani uzaktan götürdün.
+[Kaan Bıçakçı]: Bir yıl kadar falan, öyle hatırlıyorum. Bir yıl kadar uzaktan götürdüm.
+[Enes Fehmi Manan]: Tam zamanlıyı okurken uzaktan götürdün. Yani hem tam zamanlı çalışıyorsun hem okuyorsun. Uzaktan çalışmaya devam ediyorsun.
+[Kaan Bıçakçı]: O zaman okula gitmiyor musun?
+[Enes Fehmi Manan]: Yani tam zamanlı denir mi? Kaçta kaç arası çalıştığımı çok hatırlamıyorum, yanlış bilgi vermeyeyim ama. İstanbul'daydım ben, İstanbul'da okuyordum. İzmir'e uzaktan çalışıyordum. Hani belki sabah 9-5 belki hep online olamıyordum ama hani olabildiğim kadar çoğunlukla online olmaya çalışıyordum. Son sınıfta dersler birazcık daha böyle hani staj falan vardır, işte böyle birazcık daha hafifler ya belki. O şekilde olduğu için hani götürme imkanımız olmuştu.
+[Kaan Bıçakçı]: Öyle diyelim.
+[Enes Fehmi Manan]: Benim de tam tersi şu anda.
+[Kaan Bıçakçı]: Ben de İzmir'deyim.
+[Enes Fehmi Manan]: İstanbul'a remote çalışıyorum. Ama zorlayıcı bir süreç. Yani gerçekten inanılmaz zorlanıyor insan. Evet. Okul iş dengesini kurmak çok zor. Hani belki bu durumda olanlar için bir önerin olur mu? Ben de çok zorlanmıştım.
+[Kaan Bıçakçı]: Çünkü benim alttan kalan derslerim de vardı. Erasmus'tan ötürü sınavlar oluyordu, işte oradaki şeyleri götürmek gerekiyordu. Onlar da çok yardımcı oluyordu sağ olsunlar.
+
+[Enes Fehmi Manan]: Hani esnek davranıyorlardı. Yani sınav zamanı olsun vesaire. Yani bilmiyorum.
+[Kaan Bıçakçı]: Motivasyonu kaybetmemek bence en önemli şey burada.
+[Enes Fehmi Manan]: Yoksa böyle yaptığınız her şey işkence gibi gelmeye başlar.
+[Kaan Bıçakçı]: Bu da nereden geliyor?
+[Enes Fehmi Manan]: Yaptığınız şeyi sevmenizden geliyor. Kesinlikle.
+[Kaan Bıçakçı]: Mesela o dönemlerle alakalı bir de şunu sorayım.
+[Enes Fehmi Manan]: O dönem günde kaç saat çalışıyordun? İş olarak mı yoksa normal çalışmam? Hani ders gibi. Dersi de bence işin içine katmamız lazım. Çünkü hem öğrencisin hem çalışansın. Çalışıyorsun yani. Mesai bitiyor bu sefer, derslere çalışıyorsun. Yani ne kadar çalışıyordun günde?
+[Kaan Bıçakçı]: Çok hatırlamıyorum. Yani hani böyle spesifik bir sayı da değil. Şimdi şöyle oluyordu genelde. Mesela okuldaysam, o çalıştığım şirketin işini akşama doğru mesela bitiriyordum falan. Ondan hani belki 6 saat desek günde, yani 7-8 belki oluyordur yani. O şekilde baktığımız zaman okul artı iş yani.
+[Enes Fehmi Manan]: Bu arada güzel bir sayıymış. Yani şu an zaten sekiz saat mesai yapıyorsun normal vakitte. Bir de okul olunca üstüne devam etmek gerekiyor. Hani belki o dönemlerdeki danışmanlık şirketiydi diyebiliyorum İzmir'deki. Belki hani onun biraz esnekliği de olabilir. Evet, doğru. O tarz bir şirket. Burada veri bilimiyle gelişte kırılma anı dediğin bir an var mı? Mesela ne oldu da bir anda bu alana bu kadar yatırım yapmaya karar verdin? Ve korona zamanı ben hatırlıyorum. Bayağı günde saatlerini harcadığını biliyorum. Bu işe ciddi vakit ayırdığını. Ne oldu da tam olarak bu kafaya girdin?
+[Kaan Bıçakçı]: O sevme kafası aslında. Biraz da bu işi sevme. Evet. Dediğim gibi ilk Erasmus'ta dedim hani bu mobil, backend, web'dir. Buna ben sarmıyorum. İşte farklı bir alana yöneliyim. İlk o zaman. Sonra işte Covid oldu, ben geldim. İşte 2020-2021, işte o civarlar. İşte Covid falan. Sonra şeyle tanıştım.
+
+[Kaan Bıçakçı]: Sonra şeyle tanıştım. Böyle YouTube'a "machine learning" yazdım dümdüz. Karşıma Andrew Ng çıktı.
+[Enes Fehmi Manan]: Şansa.
+[Kaan Bıçakçı]: Yani onu ben biraz... O zaman da bir de bu vardı. Yani sanırım bilmiyorum ki o çok popülerdi yani öyle söyleyeyim. Neyse, o çıktı karşıma falan. Baktım, Stanford Üniversitesi'nin işte "machine learning" kursu. 2018 yılındaki kursu yani. Ben baktım falan. İyi, güzel dedim, hani ben buna çalışayım bari. Sonra baktım, daha farklı kurslar, daha farklı mecralar keşfettim. İşte bu adamın mesela Coursera'da bir kursu varmış. O da eskiymiş de. Ben onu alarak hani o çalışma şeyi orada başladı. Yani o kursu aldım. O şekilde başlamış oldum. O da eski bir kursu. Daha sonra yenilendi. Yenisi de gayet güzeldi. Onu da incelemiştim. Biraz oldu ama. O şekilde yani. Tam orada başladım.
+[Enes Fehmi Manan]: Bir de Covid noktasında evdeydik çoğumuz. Eve kapanık bir şekilde yaşıyorduk. Bayağı yatak ve bilgisayar arasında böyle.
+
+[Kaan Bıçakçı]: Arada bir de yemek yiyordum tabii. Yani öyle bir hayatım vardı bir süre. Hani çalışıyordum. Çalıştıkça da hani böyle hoşuma gidiyor. Hani böyle seviyordum. Hani konular ilgimi çekiyor yani öyle söyleyeyim. Hani machine learning falan var. Hani böyle bayağı matematik de var.
+[Enes Fehmi Manan]: Yani baktığın zaman hani böyle birisi küçük bir linear regresyon kursu...
+[Kaan Bıçakçı]: Yapay zeka falan diyor. Ve baktım. Onların alt şeyini öğrendim. Hani altyapısında neler varmış. Hani ne kadar yalan yanlış bilgi oranları fark etmeye başladım. Böyle devam ettim yani.
+[Enes Fehmi Manan]: Güzel ya.
+[Kaan Bıçakçı]: O dönemler çok hype da değildi bu alan.
+[Enes Fehmi Manan]: Tam böyle yeni geliyordu.
+[Kaan Bıçakçı]: Popülerleşiyordu.
+[Enes Fehmi Manan]: Hatta science tarafı daha böyle. Şu anda da hala science oldu. Çok hype ama. Sen machine learning engineer olarak çalışıyorsun. Senin aslında title'ın ML engineer. Çalıştığın şu andaki şirkette de ML engineers'in. Orada ne yapıyorsun? Mesela bir ML engineer ile data science'ın farkını temelde nasıl tanımlayabilirsin?
+[Kaan Bıçakçı]: Evet.
+[Enes Fehmi Manan]: Şimdi şöyle arkadaşlar. Türkiye'de sanırım bunun çok ayrımı yok anladığım kadarıyla. Yani bu title'lar arasındaki fark çok belirgin değil. Ama genel olarak yurt dışında çalışacaksanız şuna bakılır. Şimdi şu anki durumu göz önünde bulundurarak söylüyorum. Hani bundan belki iki sene önce daha farklı bir cevap verirdik ama. Şu an hani konuşuyorsak işte Kasım 2024.
+[Kaan Bıçakçı]: Kasım 2024.
+
+[Enes Fehmi Manan]: Data scientist dediğimiz, hani en azından büyük şirketler diyelim, baktığımız zaman hani işte beş on bin çalışanı olan, data scientist kişiler benim gördüğüm kadarıyla o şirketin domaininde yüksek bilgi sahibi olan kişiler. Yani işte veri setini iyi tanıyor, ya işte müşteriler neye ihtiyacı olur onu kestirebiliyor. Yani o domain hakkında bir bilgisi var ve genelde notebook'larla çalışıyorlar onu gördüğüm kadarıyla. Yazılan kodlar birazcık daha prototip tarzı oluyor. Hani böyle bir şeyi yazalım, çalıştıralım, hani deploy edelim değil de, prototip yapılıyor, işte sonuçlar sunum haline getiriliyor falan. Bu birazcık daha data scientist olarak görünüyor şu an günümüzde.
+[Kaan Bıçakçı]: Benim gördüğüm kadarıyla.
+[Enes Fehmi Manan]: ML engineer arkadaşlar bir model kurar.
+[Kaan Bıçakçı]: Veya işte bir prototipten ilerler.
+[Enes Fehmi Manan]: Yani mesela data scientist takımı veya işte bir data scientist bir prototip kurar. Onu alırsınız, production'a yani ürün haline hazır hale getirirsiniz.
+[Kaan Bıçakçı]: Yani bu ne demek?
+[Enes Fehmi Manan]: İşte mesela onu yazan kişi çok... Mesela iyi kod vardır arkadaşlar.
+[Kaan Bıçakçı]: Bir de Allah affetsin kodu vardır.
+[Enes Fehmi Manan]: Yani Allah affetsin kodu production'a çıkmaz. Çok kötü kodlar da oluyor bazen. Onları mesela düzeltmeniz bu sürecin bir parçası. Daha sonra o prototipi tekrardan çalıştırıp sonuçları doğrulamanız bu sürecin bir parçası. Çünkü siz kodu düzelttiniz ama sonuçlar değişti. Mesela sonuçların değişmemesi lazım baktığınız zaman, aynı çıktıları vermesi lazım. İşte burada bir test süreci falan var. Bunları yapabilmek için bir dizayn, bir şey dizayn edebilmemiz lazım. Yani bir model alacaksınız, o modeli düzenleyeceksiniz, kodları düzenleyeceksiniz. Burada gerekiyorsa işte dediğim gibi design prensipleri kullanarak bunu yapacaksınız. Daha sonra işte projeye göre değişir ama işte bir endpoint yazılacak. O endpoint'te hatalar neler olacak, işte nasıl handle edecek? Bunların hepsi arkadaşlar, bu cycle'ın hepsi ML Engineer olarak düşünebilirsiniz. Yani Machine Learning artı software engineer gibi bir şey bu. Hani baktığımız zaman hani böyle ML Engineer deyince insanlar sabahtan akşama kadar modeller yazıyor, işte solda bir tane model, işte ortada bir tane, her neyse işte test ediyoruz falan. Şirkete göre değişir ama hani her gün ama her gün, yani her gün çılgınlar gibi model yazılmaz.
+[Kaan Bıçakçı]: Niye?
+[Enes Fehmi Manan]: Çünkü modeller sonuçta para kazanmamız lazım işin sonunda. Yani sürekli model yazarsak bir şeyi hani üstünden para kazanmamız daha zor olur. Hani baktığın zaman bir tane işinde karar kılıp onu müşteriye hazır hale getirmek gerekiyor. O sürecinde işte software engineering kısmında da yine ML Engineer rol alıyor. Umarım açıklayıcı olmuştur. Kesinlikle açıklayıcıydı. O hani TR'deki o Science'ın rolü aslında biraz analizciye kayması ve data analistine kayması. Biraz ilerleyen vakitlerde bunun kırılacağını düşünüyorum ya. Benim de kendi gözlemim biraz böyle orta ölçekli şirketlerdeki Science'lar, yani analizci alınacak olsa da Science ilanı açılıyor.
+[Kaan Bıçakçı]: Biraz böyle gene hype'tan kaynaklı galiba.
+[Enes Fehmi Manan]: Akabinde işte Science olarak giren kişi de daha çok böyle analiz işi yapıyor işte. Bir modeli deploy etme kısmı dediğin gibi çok yok. O taraftaki ML Engineer'ın veya işte MLOps süreçlerini yönetecek insanlar da yok içeride. Biraz da o bu taraftaki işte yükselme hype'ının da TR'ye biraz vurması gerekiyor. Yine böyle şirketsel bütçeler de var. O taraf biraz enteresan. Şimdi sen VTM'desin. O taraftaki modeli yazıp deploy ettiniz, işte bir endpoint yaptınız, işte sallıyorum AWS, Azure neyse artık bir yere deploy ettiniz. Şimdi deploy ettikten sonra arkadaşlar bu model kullanılacak. Ama o modeli deploy ettikten sonra kaderine terk edemezsiniz. O modeli bir şekilde izlemeniz lazım.
+
+[Enes Fehmi Manan]: Yani monitoring deniyor buna da. Neden izlemeniz lazım? Çünkü siz bir modeli train ettiniz, bir veri setiyle eğittiniz yani. O veri seti zamanla arkadaşlar değişmeye başlıyor.
+[Kaan Bıçakçı]: Mesela ne gibi?
+[Enes Fehmi Manan]: Sizin COVID'den önceki ve COVID'den sonraki online alışveriş davranışınız mesela farklıdır büyük ihtimalle. Yani mesela COVID döneminde online alışveriş yapmak istediğinizde kartınız reddedilmiş olabilir, mesela bir online sitede. İşte o davranışlarının farklı olmasından ötürü, modelin o paterni bilmemesinden dolayı size yanlış bir şekilde kartınızı reddediyor mesela. Şimdi bu süreçte, yani o sürece biz monitoring diyoruz.
+[Kaan Bıçakçı]: Yani izleme diyoruz.
+[Enes Fehmi Manan]: Modelin belli aralıklarla biz performansını inceliyoruz. İşte bir tane metrik belirlerseniz problemimize göre, bu bir skor olabilir, daha spesifik bir şey olabilir. Ve bakarsanız, işte bir aralık belirlerseniz haftada bir bakabilirsiniz, ayda bir olabilir.
+[Kaan Bıçakçı]: Üç ayda bir olabilir.
+[Enes Fehmi Manan]: Ve baktınız ki performansı böyle düşmeye başlıyor. Performansı düşmeye başlıyorsa burada modeli güncellememiz gerektiğini anlıyoruz arkadaşlar. İşte bu da hani TNS'in dediği aslında MLOps sürecinden bir kesit diyebilirim yani. Yani bir drift'ten bahsediyorsun aslında.
+[Kaan Bıçakçı]: Orada ya bir konsept kayabilir ya da data kayabilir.
+[Enes Fehmi Manan]: O drift'i yakalayan kişi de biraz machine learning, MLOps'çu kişiler oluyor diyorsun. Yani ben yapıyorum diyorsun. Ya tabii sen konuya hakimsin aldığım kadarıyla. Drift deniyor. Yani train ettiğiniz veri seti var arkadaşlar, bir de gelecekte gelen veri seti var. Bu veri setleri alakasızsa modelle zaten çıktı üretemez. Hani bu veri seti değişmeye başladığında gene farklı metrikleriniz var, gibi gibi yani öyle söyleyeyim.
+[Kaan Bıçakçı]: Aynen.
+[Enes Fehmi Manan]: Ya burada mesela bu süreci siz nasıl handle ediyorsunuz? Mesela sizin datalarınız Cloud'a çıkabiliyor mu sigortacılık sektöründe? Oradaki tabii İngiltere daha farklıdır. Regülasyonlar nasıl? Cloud kullanabiliyor musunuz? İşte lokalde mi çalışıyorsunuz? Nasıl yapıyorsunuz orayı? Regülasyonları ben çok bilmiyorum açıkçası. Nasıl yaptığımı söyleyemem büyük ihtimalle.
+[Kaan Bıçakçı]: Kusura bakmayın.
+[Enes Fehmi Manan]: Ama şöyle ki şunu diyeyim: Hani bir şeyle linklemek istemiyorum açıkçası. Çünkü bu tarz şeyler burada bayağı ciddiye alınıyor. Hani olup olmadık bir şey söylemeyelim.
+
+[Kaan Bıçakçı]: Şöyle oluyor. Regülasyonları farklı. Hani alıyorsanız da, onu söyleyebilirim.
+[Enes Fehmi Manan]: Ve büyük ihtimalle bir kullanıcının datasını siz almayacaksınız büyük ihtimalle burada. Yani bayağı sıkı regülasyonlar var. Ve büyük ihtimalle mesela alırsanız da nereye alırsınız? Lokalinizde büyük ihtimalle almazsınız. Yani böyle bir yerde çalışsanız, uzak bir sunucu olur. O sunucudan ihtiyacı olduğunda çekersiniz. Daha sonra silinir belki. Bilmiyorum hani o retention policy nasıldır. Öyle söyleyeyim yani. Bundan önceki deneyimin senin danışmanlık şirketiydi. Şu an çalıştığın yer sigortacılık şirketi. Mesela danışmanlık şirketi de...
+[Kaan Bıçakçı]: ...birazcık daha rahattır. Hani orada NLP projeleri olur.
+[Enes Fehmi Manan]: Belki görüntü işleme alabilirler. İçeride farklı farklı...
+[Kaan Bıçakçı]: ...projeler olabilir alanlardan. Burada ama...
+[Enes Fehmi Manan]: ...sigorta şirketinde muhtemelen tabüler data vardır.
+[Kaan Bıçakçı]: Ve hani tabülerden öteye de...
+
+[Kaan Bıçakçı]: Ve hani tabülerden öteye de bir şey yoktur gibi hissettiriyor, hissettiriyor.
+[Enes Fehmi Manan]: Senin buradaki deneyimlerin nasıl? Farklı datalara, işte NLP tarafına, görüntü işleme tarafına içeride dokunabiliyor musun?
+[Kaan Bıçakçı]: Hiç dokunamıyorum.
+[Enes Fehmi Manan]: Evet. Danışmanlık şirketinin...
+[Kaan Bıçakçı]: ...artısı o zaten. Hani herhangi bir noktadan proje gelebilir. Bu X sektöründen, daha sonra iki ay sonra Y'den bir şey gelir. Bunlar farklıdır; birisi NLP'dir, birisi Time Series'tir.
+[Enes Fehmi Manan]: Ama tabii burada öyle bir şey...
+[Kaan Bıçakçı]: ...mümkün değil.
+[Enes Fehmi Manan]: Yani onun için danışmanlık şirketi aslında kendinizi geliştirmek için, yani o tarz bir şirket...
+
+[Enes Fehmi Manan]: Yani onun için danışmanlık şirketi aslında kendinizi geliştirmek için, yani o tarz bir şirket daha iyi olabilir. Çünkü farklı konseptlere dokunmak daha iyi olabilir. Ama günün sonunda sanırım bir şeyde uzman olmak istersiniz. Yani bütün hepsinde uzman olabilir misiniz? Çok çalışırsanız belki olabilir.
+[Kaan Bıçakçı]: Ama o kadar enerjiniz var mı? Diyemiyorum, değil mi ya?
+[Enes Fehmi Manan]: Şu anda hani NLP ve LLM tarafında ciddi bir hype var ya, sizin şirkette bu tarafta yapılan ürünler var mı? Veya senin o tarafa hiç kanalize olman gibi bir durum var mı? Full tabularım dedin ama o tarafta böyle...
+
+[Enes Fehmi Manan]: ...Full tabularım dedin ama o tarafta böyle farklı atraksiyonlar olacak mı? Sen ne düşünüyorsun?
+[Kaan Bıçakçı]: Genelde LLM'leri insanlar, yani bu tarz şirketlerde şunun için kullanıyor. Yani bir ürün var bu şirketin çıkardığı. Bu herhangi bir şirket olabilir. Bu üründe kimsenin bakmadığı yardım sayfası vardır, hani dokümantasyon vardır. Hani mesela böyle on sayfa kimsenin okumadığı. Bunu LLM ile replace edebiliyorlar.
+[Enes Fehmi Manan]: Öyle söyleyeyim. Onun haricinde çok fazla use case var mı?
+[Kaan Bıçakçı]: Mesela benim...
+
+[Enes Fehmi Manan]: Sigorta şirketi?
+[Kaan Bıçakçı]: LLM... Yani çok fazla yok. Genelde LLM dediğimiz zaman bir metni veya dokümanı analiz edip ondan bir sonuç çıkarmaya yönelik projeler oluyor, öyle söyleyeyim. Hani böyle çok uçan kaçan şeyler olmuyor.
+[Enes Fehmi Manan]: Doğru, doğru.
+[Kaan Bıçakçı]: Yani Multi-Agent gibi bir şeyler de yoktur muhtemelen. Dümdüz hani raw...
+[Enes Fehmi Manan]: Sıfır.
+
+[Enes Fehmi Manan]: Arkada sadece dokümanı dönüversin.
+[Kaan Bıçakçı]: Arkadaşlar, uzak ihtimaldir yani, öyle söyleyeyim sana. O kadar.
+[Enes Fehmi Manan]: Şeyi sorayım, bir günün nasıl geçiyor iş yerinde? Uzaktan mı çalışıyorsun? İngiltere'de hibrit mi çalışıyorsun? Nasıl yapıyorsun?
+[Kaan Bıçakçı]: Hibrit çalışıyoruz.
+
+[Kaan Bıçakçı]: Hibrit çalışıyoruz. Orada değişiyor ofis günleri. Hani bir iki gün belirlediğimiz ofis günleri olur mesela. O zaman gidilir. Ve işte bir önemli bir toplantı olur veya bir başka bir ilk event olur.
+
+[Enes Fehmi Manan]: İşte nedir? Etkinlik?
+[Kaan Bıçakçı]: Olur. O zaman gidilir. Ama onun haricinde bir şey var, yani nasıl diyebilirim?
+[Enes Fehmi Manan]: Bu bir güven var insana. Hani tamam, sen biz seni beş gün ofiste istemiyoruz.
+[Kaan Bıçakçı]: Okey. Ama biz sana da güveniyoruz.
+[Enes Fehmi Manan]: Sana güveniyoruz ki sen işi bitireceksin. Böyle bir şey var.
+
+[Enes Fehmi Manan]: Böyle bir şey var, yani. Onun haricinde bir gün nasıl geçiyor?
+[Kaan Bıçakçı]: Yani değişiyor. Çok atraksiyonlu günler doluyor, öyle söyleyebilirim yani. Böyle çok yoğun olmayan günler doluyor, değişiyor. Böyle ara ara deadline'lar gelir, sıkışırsınız ya. Burada da aynı şekilde oluyor.
+
+[Kaan Bıçakçı]: Bir release zamanı oluyor yazılım sürecinde. Yani bir şeyi böyle yaparsanız yaparsanız, bütün her şey böyle ortaya konur. Ve daha sonra...
+[Enes Fehmi Manan]: O end to end çalışacak olur. İşte o end to end çalışma süreçleri...
+[Kaan Bıçakçı]: ...biraz zordur. Bütün parçaları bir araya getirdik. Böyle hani bütün legoları koyup gibi. İşte o yıkmadan onu bir şekilde çalıştırmak gerekiyor bazen. Oralarda tabii...
+
+[Kaan Bıçakçı]: ...Oralarda tabii fazla çalıştığımız zamanlar oluyordur mutlaka.
+[Enes Fehmi Manan]: O şekilde.
+[Kaan Bıçakçı]: Şöyle bir hikayemiz var mı ya?
+[Enes Fehmi Manan]: Modeli yaptınız, yaptınız, yaptınız. Bakıyorsunuz karlılık iyi. Şirkete geçişi güzel. Herkes üst yönetimi okeylemiş falan. Artık buna deployladınız. Bir baktınız çok acayip şeyler oluyor. Şirket bir anda inanılmaz paralar kaybetmeye başladı.
+
+[Enes Fehmi Manan]: Çok apır sapır tahminler çıkıyor. Belki işte periyotlama hatası olur. İşte orada bir drift olur. Veya data leak, sen daha iyi bilirsin, leakage denen, belki modelin traininginde böyle bir sorun olur.
+[Kaan Bıçakçı]: Böyle bir hikayen var mı hiç?
+[Enes Fehmi Manan]: Böyle bir problem çıkıp...
+
+[Enes Fehmi Manan]: Böyle bir problem çıkıp patladığınız?
+[Enes Fehmi Manan]: O kadar soru sordun ama...
+[Kaan Bıçakçı]: ...olmasın öyle bir.
+[Enes Fehmi Manan]: Şeyimiz yok. Öyle bir şey olmadı. Çünkü şöyle, öyle bir şey olursa başa dönmek gerekir. Başa dönünce...
+[Kaan Bıçakçı]: Ne olur?
+[Enes Fehmi Manan]: Üç ay harcat mesela, sallıyorum. Çünkü süreçler uzun sürer. Model seçilir, işte onun üstüne tartışılır. Test edeceğiniz veri seti belirlenir. İşte gibi gibi süreçler. Bunlar zaman alır. Hem orada enerji kaybı var.
+
+[Enes Fehmi Manan]: Hem işte kaynak olarak kayıp var. Kötü olur.
+[Kaan Bıçakçı]: Yani öyle olmasını istemeyiz maalesef.
+[Enes Fehmi Manan]: Kaç kişilik ekibiniz bu arada?
+[Kaan Bıçakçı]: Onu söyleyemiyoruz maalesef herhalde.
+[Enes Fehmi Manan]: Onu söyleyemiyoruz maalesef. Onu da mı söyleyemiyoruz ya? Peki.
+
+[Kaan Bıçakçı]: Mesela mesai bitirdin. Artık bilgisayarın kapağını indirdin. Ondan sonra ne yapıyorsun?
+[Enes Fehmi Manan]: Ondan sonra ne yapıyorum? Kendi çalışacağım şeylere bakıyorum açıkçası. Yani iş ayrı. Benim kendi geçmek istediğim yerler ayrı. O tarz şeylere...
+
+[Enes Fehmi Manan]: O tarz şeylere yöneliyorum. Belki böyle çok ekstrem bir durum varsa mesela, bilgisayar bittikten sonra akşamüstü falan kod veya test yazılım oluyor ama çok sık değil yani öyle söyleyeyim.
+[Kaan Bıçakçı]: Burada hobilerin var mı mesela? İş dışında farklı nelerle?
+
+[Enes Fehmi Manan]: İş dışında farklı nelerle ulaşıyorum? Şimdi, gelmeden önce chatten biri bir şey yazmış. Onur bir şey yazmış. Çok şeyime gitti. Benim bu tartıştığımız konuların bir tanesi bu.
+[Kaan Bıçakçı]: Kategorik feature'ler.
+
+[Enes Fehmi Manan]: Label encoding yapıyorum.
+[Kaan Bıçakçı]: "Hocam doğru değil mi?" demiş. Böyle bir şey vardı aslında, böyle bir hikaye vardı. Hani...
+[Enes Fehmi Manan]: Sen sormuşsun ya...
+[Kaan Bıçakçı]: "Deploy ettiniz, patladım!" falan diye.
+[Enes Fehmi Manan]: İlk şey aşamasında, bu prototip aşamasında birisi yazmış. Ama kategorik feature'lara label encoder uygulayarak yazmış. Şimdi burada bir sıkıntı oluyor. Süreç doğru.
+
+[Kaan Bıçakçı]: Değil. Hani olabildiğince doğru yapmamız gerekir. Mesela onu erkenden görüp düzeltmiştik.
+[Enes Fehmi Manan]: İleride çok ekstrem bir sorun olur muydu model performans açısından? Tartışılır. Ama burada siz ileride nasıl bir veri...
+[Kaan Bıçakçı]: Çok hani böyle model 95 skor veriyorken ben 90 verecek hali yok.
+
+[Enes Fehmi Manan]: İleride çok ekstrem bir sorun olur muydu model performans açısından? Tartışılır. Ama burada siz ileride nasıl bir veri geleceğini bilmediğiniz için bu işte bilinmezliğe hazırlıklı olmak gerekir. Label encoder dediğimiz Scikit-learn kullanan class bunu sağlamadığı için onu değiştirerek gitmiştik mesela.
+[Kaan Bıçakçı]: Bu da bayağı bir şey oldu aslında. Meme oldu. Data leak gibi.
+[Enes Fehmi Manan]: Yani üstüme yapıştı.
+[Kaan Bıçakçı]: Bir data leak...
+[Enes Fehmi Manan]: Bir de bu...
+
+[Enes Fehmi Manan]: Bir de bu label encoder yani üstüme yapıştı.
+[Kaan Bıçakçı]: Label encoder'ı sadece label'larda kullanmalıyız.
+[Enes Fehmi Manan]: Evet.
+[Kaan Bıçakçı]: O direkt o yazıyor, yani gerçekten sadece label'larda kullanılmalı.
+[Enes Fehmi Manan]: Ama bu yeni başlayan kişiler mesela çok fazla GPT ile pipeline yazdırıyor. İşte adam diyor ki, "Benim böyle böyle bir kodum var, şöyle değişkenler var, şuna bir modeli..."
+
+[Enes Fehmi Manan]: ...şuna bir modeli kuruver diyor. GPT de böyle gördüğü tüm kategorikleri label encoder atıyor. Yani bu yeni başlayan tarafta çok çok fazla yapılan bir şey.
+[Kaan Bıçakçı]: Ben de hatta bana böyle yazanlara falan bunu gördüğüm vakit senin videona atıyorum. Abi şu videoyu izle, neden kullanmamalıyız bir gör, bir öğren, neye sebebiyet veriyor falan diye o tarafta.
+
+[Kaan Bıçakçı]: Videolar gerçekten çok iyi. Hatta geri gelmişken o konuya da değinebiliriz. Senin bir YouTube kanalın var. Ve şu anda hatta şey koymuşsun alt tarafa. Orada çok güzel, hani DS tarafında videoların var. Hatta yani TR'de bulamayacağınız videolar bunlar. Çok böyle bootcamp'lerde bile çok değinilmeyen, üstün körü geçilen şeylere...
+
+[Kaan Bıçakçı]: ...çok değinilmeyen, üstün körü geçilen şeylere değiniliyor. Çok güzel videolar var.
+
+[Enes Fehmi Manan]: Gerçekten de. O süreç nasıl başladı? YouTube nasıl başladı?
+
+[Kaan Bıçakçı]: Dediğim gibi aslında bu bootcamp'lerde değinilmeyen konular vesaire var ya hani LinkedIn'de önümüze çıkıyor. İşte birisi bir proje yapıyor, yirmi kişiye etiketliyor, GitHub linkini falan atıyor.
+
+[Enes Fehmi Manan]: Sonra ben hani önüme düştükçe, kaç 2022 falan, hani şu anki olduğumdan daha az tecrübeli kendim bunları inceliyordum ve sonra gözüme böyle bazı şeyler çarpmaya başladı. Şimdi, yapılan projelerin neredeyse çoğu...
+
+[Enes Fehmi Manan]: Şimdi, yapılan projelerin neredeyse çoğu hani duplike gibi, hani böyle çok ufak tefek.
+[Kaan Bıçakçı]: Farklılıklar var. Hatta bazı fonksiyonlar var.
+[Enes Fehmi Manan]: Aynı isimle.
+[Kaan Bıçakçı]: Hani ben artık ezberledim yani. Yani hatta...
+[Enes Fehmi Manan]: İsmini göre göre, şu an açayım mesela bir tanesi, hani o fonksiyon vardır.
+[Kaan Bıçakçı]: Yani öyle söyleyeyim. Yani o kadar çok.
+[Enes Fehmi Manan]: Böyle copy-paste gidiyor ki çok nasıl diyeyim, yani bir şey yapmak istiyorsak arkadaşlar bu alanda birazcık böyle.
+
+[Enes Fehmi Manan]: Sonra ben hani önüme düştükçe, kaç 2022 falan, hani şu anki olduğumdan daha az tecrübeli kendim bunları inceliyordum ve sonra gözüme böyle bazı şeyler çarpmaya başladı. Şimdi, yapılan projelerin neredeyse çoğu hani duplike gibi, hani böyle çok ufak tefek.
+[Kaan Bıçakçı]: Farklılıklar var. Hatta bazı fonksiyonlar var.
+[Enes Fehmi Manan]: Aynı isimle.
+[Kaan Bıçakçı]: Hani ben artık ezberledim yani. Hatta...
+[Enes Fehmi Manan]: İsmini göre göre, şu an açayım mesela bir tanesi, hani o fonksiyon vardır. Yani öyle söyleyeyim. Yani o kadar çok böyle copy-paste gidiyor ki çok, nasıl diyeyim, yani bir şey yapmak istiyorsak arkadaşlar bu alanda birazcık böyle değiştirip sonuçlarımı nasıl etkiliyor.
+[Kaan Bıçakçı]: Buna bakmamız lazım.
+[Enes Fehmi Manan]: Yani deneysel kısmı...
+[Kaan Bıçakçı]: Önemli burada.
+[Enes Fehmi Manan]: Sonra baktım birkaç hata...
+[Kaan Bıçakçı]: görmeye başladım. Hani kendim önce öğrendim.
+[Enes Fehmi Manan]: Özellikle Reddit ve Stack Overflow'da gördüklerimle başladı bu süreç. İşte baktım, bazı böyle gözüme çarpan yanlışlar var. Hani kod syntax olarak...
+
+[Enes Fehmi Manan]: Özellikle Reddit ve Stack Overflow'da gördüklerimle başladı bu süreç. İşte baktım, bazı böyle gözüme çarpan yanlışlar var. Hani kod syntax olarak doğru. Yani kod çalışıyor, onda bir sıkıntı yok. Ama süreç yanlış.
+[Kaan Bıçakçı]: Modelleme süreci yanlış. Bunu görmeye başladım ve bu bayağı olmaya başladı. Hatta bayağı bayağı görmeye başladım.
+[Enes Fehmi Manan]: Çok baktıkça böyle artık gözüme çarpmaya başladı. Dedim ki tamam, ben YouTube kanalı açayım madem. Hani öyle böyle sıkıldıkça falan video atarım. Genelde ayda bir iki defa video atıyorum vakit buldukça. Bu konulara değinmiş olurum. Hem kendi bilgimi pekiştirmiş olurum. Çünkü mesela...
+
+[Enes Fehmi Manan]: Hem kendi bilgimi pekiştirmiş olurum. Çünkü mesela, bir video hazırlamadan önce kendi kaynaklarım vesaire var. Mesela, makine öğrenimiyle ilgili bir şey anlatacaksam, benim için öncelikli bir kitap var, altı yüz sayfalık. Mesela, oradan bakıyorum matematik temeline. Kendimi tekrardan bir gözden geçiriyorum. O şekilden kendimde pekiştirmiş oluyorum. Hem farklı şeylerden faydalanmış oluyorum. Anlatırken de basit indirgeyerek anlatmaya çalışıyorum. Yani...
+
+[Enes Fehmi Manan]: İşin bir kompleks kısmı var. Hiç anlaşılmayan, hani nasıl derler? Anlaşılması zor olan kısmı var. Ama onu böyle bir öyküleştirerek, bir hikayeleştirerek, bir şekilde basit indirgediğimiz zaman aslında o kompleks kısım kaybolmuş oluyor. Asıl önemli olan şey...
+[Kaan Bıçakçı]: ...orada o mantığını anlamak. Ben de aslında onu...
+[Enes Fehmi Manan]: ...vermeye çalışıyorum YouTube kanalında.
+[Kaan Bıçakçı]: Beklerim, öyle söyleyeyim.
+[Enes Fehmi Manan]: Ben hatırlıyorum, galiba ilk gittiğin zaman da İngiltere'ye YouTube kanalını da o dönemlerde açmıştın.
+[Kaan Bıçakçı]: Diye hatırlıyorum.
+[Enes Fehmi Manan]: Hatta ilk videolarından biri de Gradient Descent üzerineydi.
+
+[Enes Fehmi Manan]: Hatta ilk videolarından biri de Gradient Descent üzerineydi. Ve şeyden böyle kağıt üzerinde değil de direkt böyle matematiksel arka planda bir şeyler vardı.
+[Kaan Bıçakçı]: Animasyonlar dönüyordu böyle. Ya dedim, "TR tarafında..."
+[Enes Fehmi Manan]: "...güzel içerik. Böyle bir şey yok şu anda." Ama ondan sonra mesela kağıda geçişin bence daha güzel oldu. Adeta bir işte orada bir hocalık vibe'ıyla birlikte böyle kalem kağıtla şeyleri özetlemen falan. Bence çok çok çok daha açıklayıcı. Güzel.
+
+[Kaan Bıçakçı]: Kod üzerinden de...
+[Enes Fehmi Manan]: Hem live coding yapıyorsun hem anlatıyorsun. O da ciddi bir eziyet. Olması da TR tarafında çok çok kıymetli yani. Yani orada...
+[Kaan Bıçakçı]: Dediğim gibi, Gradient Descent ile başladım. Onu yaparken bir ay falan uğraşmıştım, yalan olmasın yani. Belki bir buçuk ay. Ama belli değil, o belli. Animasyonlar Python'da yapmıştım yani. Hani böyle Python'da...
+
+[Enes Fehmi Manan]: Manim diye bir kütüphane var arkadaşlar. Bu bir Python kütüphanesi.
+[Kaan Bıçakçı]: Veya da chat'e yazayım. Burada kod yazarak animasyon yapıyorsunuz. O video kaç 19 dakika falan. Bayağı bir uğraşmıştım. Yani kütüphaneyi de bilmiyorum. Hani garip bir şeydi yani. Böyle bayağı uğraşarak, belki 1500 satıra yakın kod vardır belki. Hani çok iyi bir kod değil. Copy-paste'e gitti ama yani sonuçta 1200-1300 satır arası bir şeydi yani. Hepsini sonra renderlıyor.
+
+[Kaan Bıçakçı]: Bir araya koyuyor. Ben sonra seslendiriyorum. İşte o şekilde bir videoydu. Daha sonra işte kağıt kalem var, orada da ana konseptleri anlattım. Daha sonra live coding'e birazcık kaydım. İşte sistem dizaynı yaptım bir tane.
+[Enes Fehmi Manan]: Özellikle işte bu data science kısmında. Öyle. Ya o videodaki emek gerçekten hissediliyor. Ama bir ay uğraştığını ben bilmiyorum. Gerçekten büyük emek yani. Helal olsun. Yani işte hafta sonları...
+
+[Kaan Bıçakçı]: falan bakmıştım. Hani böyle... Tabii ama hani başladım, bittim dediğim şey bir ay yani.
+[Enes Fehmi Manan]: Yani 28 gün aralıksız değil. Öyle söyleyeyim. Ya buraya geçerken... Hain tavşanlar...
+[Kaan Bıçakçı]: Chat'ten... Dediğin Onur değil mi?
+[Enes Fehmi Manan]: Öyle gözüküyor.
+[Kaan Bıçakçı]: En iki bende. Hain tavşanlar olarak.
+
+[Enes Fehmi Manan]: Onur diyorum. Hani ismi Onur'sa.
+[Kaan Bıçakçı]: O zaman direkt sen tanıyorsan. Onur, Onur.
+[Enes Fehmi Manan]: Evet.
+[Kaan Bıçakçı]: Ben şey fotoğrafı göremiyorum. Sadece "Hain Tavşanlar" yazıyor.
+[Enes Fehmi Manan]: "Hain Tavşanlar"ın, Onur'un yani, şöyle bir sorusu var: "Gerçek hayattaki işlerinizde ensemble modelleri kullanabiliyor musunuz?" diyor.
+[Enes Fehmi Manan]: İşte birkaç tane modeli birlikte birleştirip tek bir skor oluşturma...
+
+[Enes Fehmi Manan]: Gerçi orada bir ağırlıklandırma falan. Yani bu gerçek hayata gerçekten kullanılan bir senaryom yoksa, sadece Kaggle'da yarışma kazanmak için mi yapılıyor? Güzel bir soru. Şimdi şöyle, sektörünüze göre değişir. Eğer ki tek amacınız doğruluksa, yani sadece bir metrik vardır, çok kritik bir senaryodur ve sadece siz en doğruya ulaşmak istiyorsanız üç modeli birleştirirsiniz.
+[Kaan Bıçakçı]: Bu nedir?
+[Enes Fehmi Manan]: Bir tıbbi senaryo olabilir. Mesela sadece doğruluk önemli olabilir ve siz en doğruya ulaşmak için bu kadar modeli birleştirirsiniz.
+[Kaan Bıçakçı]: Benim için ben böyle bir şey yapmadım. Böyle bir şeye ihtiyacımız olmadı. Yani öyle söyleyeyim. Genelde teki zaten yetiyor, onun üstünde...
+
+[Kaan Bıçakçı]: Benim için ben böyle bir şey yapmadım. Böyle bir şeye ihtiyacımız olmadı. Yani öyle söyleyeyim. Genelde teki zaten yetiyor, onun üstünde böyle ufak tefek tuningler vesaire yaparak işler çözülüyor. Yani çoğu zaman şöyle diyeyim, mesela bankacılık sektörü de olabilir bu. Hani önemli olan problemi üç aşağı beş yukarı çözmek.
+[Enes Fehmi Manan]: Hani en iyi sonucu veren modeli yazmak değil de çünkü en iyi sonucu veren model, mesela sağlıyorum, Onur'un dediği gibi, mesela üç model, üç model deploy ettiniz.
+
+[Enes Fehmi Manan]: Üç model izlemeniz gerekiyor. Üç modeli tekrardan train edeceksiniz belli bir süre sonra.
+[Kaan Bıçakçı]: Hani bunun maliyeti de var.
+[Enes Fehmi Manan]: Siz üç modeli yazdınız. Bir yıl çalıştınız. Sonra ayrıldınız. Bu üç modele kim bakacak?
+[Kaan Bıçakçı]: Hani bu takımın da modelleri anlaması gerekiyor. Burada farklı senaryolar var.
+[Enes Fehmi Manan]: Benim böyle bir üç modeli birleştirmem olmadığı için. Kaggle'da belki yapmışımdır, şöyle söyleyeyim. Gerçek hayatta hiç böyle bir deployment'ta bulunmadım. Yani öyle söyleyeyim. Ya bunu ben de sürekli soruyorum.
+
+[Enes Fehmi Manan]: Hatta bizim ekibe de dedim yani bankacılık sektöründe olduğumuz için model yaparken birkaç tane modeli birleştirdim.
+[Kaan Bıçakçı]: Ekürüsü %100 artacak belli yani. Yok dediler. Karmaşıklığa gerek yok.
+[Enes Fehmi Manan]: Çünkü tam olarak senin dediğin süreçler, bunun izleme maliyeti, bunu devam ettirme maliyeti ve dediğin gibi yapan kişi işten ayrılınca sonradan gelecek kişinin bunu anlaması...
+[Kaan Bıçakçı]: O daha beter. En beter o bence.
+[Enes Fehmi Manan]: Yani bir şekilde devam ettiriliyor da sonradan gelen kişiye bunun aktarılması sürecindeki...
+
+[Enes Fehmi Manan]: Yani bir şekilde devam ettiriliyor da sonradan gelen kişiye bunun aktarılması sürecindeki o kayıp, o boşluk asıl orası mesele gibi.
+[Kaan Bıçakçı]: Ya dokümantasyona geleyim oradan ya.
+[Enes Fehmi Manan]: Dokümantasyonu nasıl yapıyorsunuz? Bir de senin kendine herhalde oluşturduğun birçok dokümantasyon var. TensorFlow notebook'lar var, farklı farklı böyle yazdığın, gene YouTube kanalı için destekleyici yazdığın notebook'lar var.
+
+[Enes Fehmi Manan]: Bunları hangi motivasyonla yapıyorsun? Dokümantasyon...
+[Kaan Bıçakçı]: ...nasıl yazıyoruz? Yani yazdığınız yazılımın dokümantasyonundan bahsedecek olursak, genelde sıkıla sıkıla yazıyoruz arkadaşlar.
+[Enes Fehmi Manan]: Baktığımız zaman, ya dokümantasyon yazmak birazcık sıkıcı bir iş.
+[Kaan Bıçakçı]: Ben sevmiyorum.
+[Enes Fehmi Manan]: Gerçekten de öyle.
+
+[Kaan Bıçakçı]: Olur. Çünkü her şey her şekilde izin vermeyebilir. Herhangi bir izin verilen yapay zeka aracı ile önce bir taslak olarak başlayıp daha sonra onu düzelterek gitmek daha iyi oluyor. Yani en baştan uçurmaktansa...
+[Enes Fehmi Manan]: Gerçekten o angarya işleri. Benim ruhumu da rahatlatır açıkçası. Onun haricinde kendi yazdığım...
+[Kaan Bıçakçı]: ...dediğim.
+[Enes Fehmi Manan]: Evet, bir ara TensorFlow...
+
+[Enes Fehmi Manan]: Evet, bir ara TensorFlow notlukları yazıyordum. Yani çoğu şeyi orada kavradığımı düşünüyorum.
+[Kaan Bıçakçı]: O da nereden başladı?
+[Enes Fehmi Manan]: Baktım, herkes işte bu TensorFlow bir şeyler yapıyor. Yine birkaç eksiklik hissettim. Dedim ben de yapayım, benimki de bulunsun falan. Bu İzmir'deyken o şey başlamış.
+[Kaan Bıçakçı]: İzmir'de.
+
+[Enes Fehmi Manan]: Çalışmaya başladığım zaman o repoyu açmıştım. Daha sonra bayağı devam ettirdim. 17-18 tane notluk falan oldu belki. O şekilde yaptım. Başka ne sormuştun? Mesela...
+[Kaan Bıçakçı]: YouTube kanalındaki destekleyici dokümantasyonlar da var. Buradaki motivasyon ne?
+
+[Kaan Bıçakçı]: Bunları neden bir dokümantasyon yazıyorsun? Burada yazdığın notları sonra sen kullanıyor musun mesela? Bunlar kendine de mi bir not? Yoksa gerçekten faydalı olması için mi yapıyorsun?
+[Enes Fehmi Manan]: Gerçekten faydalı olması için yapıyorum. Çünkü benim notlarım var. Benim defterlerim...
+
+[Enes Fehmi Manan]: Benim defterlerim meşhurdur. Beni yakından tanıyanlar bilir. Direkt notlarım vardır. Bu araştırdıklarım, o notlarımın bir kısmı sadece. Hani kendi notlarım değil, paylaşmak için hazırladığım notlar öyle söyleyeyim. Sadece sevdiğim için paylaşıyorum böyle şeyleri, öyle söyleyeyim. Yani insanlar da doğru bilgiye ulaşsın, işlerini kolaylaştırsın falan.
+
+[Enes Fehmi Manan]: Çünkü ben de aynı süreçten geçtim. Ben de mesela kaynak arıyordum ama bu şekilde tam istediğim kaynakları bulamıyordum veya buluyordum, okuyunca kafam karışıyordu falan. Burada mesela şeyi hatırlıyorum. Neyde kafam karıştı?
+[Kaan Bıçakçı]: Diyorum, mesela şu konuyu anlatacağım: "Cross validation." Sallıyorum.
+[Enes Fehmi Manan]: Anlatacağım.
+
+[Enes Fehmi Manan]: Ben bu konu üzerinde çalışırken, ilk başta hangi kısımda kafam karıştı? Mesela onu bir önce hatırlamaya çalışıyorum. Sonra bunu nasıl farklı şekilde izah edebilirim? Hani çünkü ben artık mantığını anladım. Kafamdaki karışıklık o konuda gitti. Ama bu videoyu mesela ben hazırladım zannedelim ki, onun o konuda kafası karışabilir.
+
+[Enes Fehmi Manan]: Burayı nasıl daha anlaşılır yapabiliriz? Veya bu "Cross validation"ı herkes yapıyor, güzel ama bunun arkasındaki motivasyonu, tam "neden yapıyorum?", "bir sebep sunmak", "niye yapıyoruz bunu?" gibi sorulara cevap...
+
+[Enes Fehmi Manan]: vermeye çalışarak hazırlıyorum. Motivasyonumda bilgiyi paylaşmak, öyle söyleyeyim. Yani yoksa bunların hiçbirini mesela paylaşmayıp hepsini ücretli, mesela paywall...
+
+[Enes Fehmi Manan]: koyup da bir şeyler yapabilirdim. Baktığın zaman belki ben o şekilde yapmıyorum. Paylaşmayı seviyorum öyle vakit buldukça. Öyle değilim.
+[Kaan Bıçakçı]: Yani güzel, paylaşmanın faydalı olmalı.
+[Enes Fehmi Manan]: Motivasyon inanılmaz. Kesinlikle.
+[Kaan Bıçakçı]: Bu arada Onur'dan bir soru daha var. İmbalance data hakkında. Onu da alalım. İmbalance data ile çalıştınız mı?
+
+[Kaan Bıçakçı]: İmbalance data problemini nasıl çözüyorsunuz? Smote diye bir şey var arkadaşlar.
+[Enes Fehmi Manan]: Smote kullanmayarak bir problemi çözebiliriz.
+[Kaan Bıçakçı]: Smote deme abi. Senin hatta şeyin var, notebook var.
+[Enes Fehmi Manan]: Orada Smote'un yanlış kullanılması sonucu oluşan data leakage...
+[Kaan Bıçakçı]: O ayrı bir dünya zaten. Bir...
+
+[Enes Fehmi Manan]: Üç dört defa falan okumuşumdur. En son Gediz yarışması vardı, Gediz'de finale kalmıştık. Orada da açıp bir baktım, okudum. İmbalance data üzerine aslında güzel bir notebook. Orada Smote...
+[Kaan Bıçakçı]: ...kullanmak durumunda kaldık.
+[Enes Fehmi Manan]: Yani kullanmasak olurdu da aslında undersampling artı Smote attık.
+
+[Enes Fehmi Manan]: Bence kötü bir pipeline. Undersampling'le çözebilsek daha mantıklı olurdu. Ne düşünüyorsun bu konuya? Şimdi dediğin noktaya bakacak olursak, şimdi Gediz şey yarışması...
+[Kaan Bıçakçı]: Kaggle, değil mi? Aynen.
+[Enes Fehmi Manan]: Şimdi Kaggle yarışmasında genelde metrik oluyor.
+
+[Enes Fehmi Manan]: ve onu fullemeye çalışıyoruz. Değiştirdiler. Artık nasıl oluyor? Notebook'unu anlatıyorsun, finalde kalıyorsun vesaire. Bu güzel bir şey.
+[Kaan Bıçakçı]: Burada her yöntem mübah olabilir. Ama bunu daha sonra... Baktığımız sadece bir skalar sayıya maksimize etmek yerine, bu ana...
+
+[Kaan Bıçakçı]: Burada her yöntem mübah olabilir. Ama bunu daha sonra... Baktığımız sadece bir skalar sayıya maksimize etmek yerine, bu ana düşünce sistemi, nasıl motivasyon neydi, bunu anlatmanı istiyorlar.
+[Enes Fehmi Manan]: Güzel bir şey. O bahsettiğim notlukta benim üstüme yapışan notluklardan, hani gerçekten insanlar, bazı kişiler beni öyle tanıyor. Hani konusunu...
+
+[Enes Fehmi Manan]: ilk anlattığım notluklardan birisi.
+[Kaan Bıçakçı]: Büyük ihtimalle o. Bir de ne diyecektim tam unuttum.
+[Enes Fehmi Manan]: Şey...
+[Kaan Bıçakçı]: Gerçek hayatta prod'da çıkan üründe bu imbalans tarafını nasıl ele alabiliriz?
+[Enes Fehmi Manan]: Kaggle yarışmasında mı?
+
+[Kaan Bıçakçı]: Mübah her şeye gidelim. Ama gerçek hayatta böyle değil ya. Evet, tam onu diyordum, hatırlattım. Şimdi arkadaşlar, gerçek hayatta bir tane metrik yok. Birden fazla metrik, belki 5, belki 6 tane...
+
+[Kaan Bıçakçı]: ...metriniz var. Bunlardan bir tanesi modelin başarısı olabilir. Diğeri modelin ne kadar hızlı prediction verdiği olabilir. Ne kadarlık bir kaynak kullanıyor? Siz gidip de 4 tane GPU'yu bağlayıp bir modeli prediktettirmek ile CPU ile prediktettirmek arasında fark olur. Bunların hepsi bir...
+
+[Kaan Bıçakçı]: ...metrik arkadaşlar, baktığınız zaman. Bu metriklerin her biri verilen işe göre değişiyor. Şimdi burada imbalans data olduğu zaman bir seçim yapmamız gerekiyor. Çoğu zaman imbalans data'da genelde az olan sınıfı bilmeye çalışıyoruz ama tabii nasıl diyeyim, çok olan sınıfı...
+
+[Kaan Bıçakçı]: çok olan sınıfı da böyle, nasıl derler, öldürmemek kaydıyla. Burada genelde ağırlıklandırma yaparak...
+[Enes Fehmi Manan]: Bir sonuca...
+[Kaan Bıçakçı]: ...var.
+[Enes Fehmi Manan]: İlk prototip kısmında o şekilde...
+[Kaan Bıçakçı]: ...ilerlenebilir.
+[Enes Fehmi Manan]: Bakarsınız.
+[Kaan Bıçakçı]: Mesela ağırlık verdiniz.
+[Enes Fehmi Manan]: Az olan klasa ağırlık verdiniz. Başarısını nasıl...
+[Kaan Bıçakçı]: ...elde ettiniz?
+
+[Enes Fehmi Manan]: değişti? Bunu kaldırabilir misiniz? Bu sizin için iyi bir şey mi? Mesela bu nedir?
+[Kaan Bıçakçı]: Kredi kartı verirse herkes şeydir, büyük ihtimalle görmüştür.
+
+[Kaan Bıçakçı]: Burada mesela arkadaşlar, bir kişi siz bir alışveriş yapıyorsunuz. Alışveriş yaptığınız zaman kartınıza girdiniz ve daha sonra kartınız reddedildi. Hani onay vermeden şimdi siz onay almadığınız zaman bunu gidip bir daha denersiniz. Değil mi? Hani hemen "onay almadım" diye yapmıyorum falan demezsiniz. Hani bir daha...
+
+[Kaan Bıçakçı]: denersiniz. Bu arkada bir modelin olduğunu farz edelim. Burada, model sizin işleminiz düzgün olduğu halde size dedi ki, hani dolandırıcı olarak nitelendirdi ve işlemi yaptırmadı. Bu bir false pozitif oluyor.
+
+[Enes Fehmi Manan]: Arkadaş, yani scam olmayan bir şey scam olarak nitelendirdi. Bu false pozitif.
+[Kaan Bıçakçı]: Bunu çoğu durumda kaldırabilirsiniz. Böyle mesela dediğim gibi bir daha denersiniz.
+[Enes Fehmi Manan]: Ama scam olan bir şey kaçırdığınız zaman bunun maliyeti...
+
+[Enes Fehmi Manan]: Ama scam olan bir şey kaçırdığınız zaman bunun maliyeti false pozitife göre bir önceki örnekte daha fazla oluyor.
+[Kaan Bıçakçı]: Amacımız genelde bunları kaçırmamak olduğu için ağırlıklandırarak ilerlemeye çalışıyoruz. Örnek umarım açıklayıcı olmuştur. Hani bir klastan birine daha fazla ağırlık vermek. Yani bu ne demek? Sizin modeliniz eğitim aşamasında bir kayıp fonksiyonu hesaplayacak.
+
+[Kaan Bıçakçı]: Genel olarak konuşacak olursak, az olan klası bilemediğinde ona daha fazla ceza uygulanmak demek.
+[Enes Fehmi Manan]: Ağırlıklandırmak. Açık bir anlatımdı.
+[Kaan Bıçakçı]: Peki, mesela imbalans data'da aklına gelen yöntemler var mı?
+[Enes Fehmi Manan]: SMOTE sampling.
+[Kaan Bıçakçı]: Evet, yöntemleri var. Belki LLM ile falan data...
+
+[Enes Fehmi Manan]: ...ürettilebilirler. Öyle bir şey.
+[Kaan Bıçakçı]: Olabilir. Böyle başka aklına gelen bir teknik var mı? Başka nasıl ele alınabilir bu durum? LLM ve veri üretmek...
+[Enes Fehmi Manan]: Ya şimdi, şöyle bir şey var: Veri üretebiliyorsak...
+[Kaan Bıçakçı]: ...yani o veriyi tamamen üretebiliyorsak zaten o verinin dağılımını...
+[Enes Fehmi Manan]: ...zaten çözmüşüz demektir ki.
+
+[Kaan Bıçakçı]: Zaten bu sefer bizim modele ihtiyacımız olmaz. Hani orada veri üretme birazcık derin konular yani. Veri üretebiliyorsak demek ki ben veriyi çok iyi öğrenmişim. Yani niye bir daha farklı bir modele vereyim? Hani orada farklı sorulması gereken sorular var.
+[Enes Fehmi Manan]: Evet yani.
+[Kaan Bıçakçı]: LLM ile veri üretme genelde bu işi...
+
+[Kaan Bıçakçı]: ...uygulamalarla vesaire yapıyorlar.
+[Enes Fehmi Manan]: LLM'lere geçti sanırım.
+[Kaan Bıçakçı]: Yani öyle bir şeyi ben deploy etmedim. Bu konuda bilgim yok ama dediğim senaryo geçerli yani.
+[Enes Fehmi Manan]: Text data...
+[Kaan Bıçakçı]: ...tarafında aslında tercih edilen bir durum. Yani LLM ile biraz hani o text data'daki zayıf sınıfı taklit eden benzer bir şeyde ürettirip modelin birazcık daha o...
+
+[Kaan Bıçakçı]: ...tarafında aslında tercih edilen bir durum. Yani LLM ile biraz hani o text data'daki zayıf sınıfı taklit eden benzer bir şeyde ürettirip modelin birazcık daha o klasik başarısını artırmak kullanılan bir durum.
+[Enes Fehmi Manan]: Ama dediğin gibi ben de hiç prod'da böyle bir durumu görmedim. Tabii text datasında olabilir. LLM'ler üretilebilir. LLM zaten çok büyük data da üretildiği için mesela on klaslı bir şeyiniz var. Klasifikiş yapacaksınız, text datasını da orada üretebilirsiniz. Ama hani gidip de mesela tabularda...
+
+[Enes Fehmi Manan]: datanız var. Kırk tane feature var mesela. Hani burada düzgün bir şey üretmek daha zor oluyor.
+[Kaan Bıçakçı]: Tabii, tabii, orada zor dedin. Yani orada sonuçları falan da kötü ya. Yani genel olarak tabiler zor. Ağırlıkla başlıyoruz. Farklı kayıp fonksiyonları...
+
+[Kaan Bıçakçı]: var.
+[Enes Fehmi Manan]: CatBoost'ta da var sanırım, bakabilirsiniz. Kök ile alakalı bazı fonksiyonlar var. Square root ile başlayan bir şey var. Tam ismi aklıma gelmeden bulabilirsiniz. Yani o tarz şeylere de prototiple ilerleyebilirsiniz.
+[Kaan Bıçakçı]: Ben buradan...
+
+[Enes Fehmi Manan]: Şeye geçeceğim. Birazcık kendini nasıl geliştirdin, işte güncel kalmak için takip ettiğin kaynaklara. Ve burayla alakalı şöyle bir açıklama yapacağım. Arkadaşlar, burada Kaan'dan aldığımız bu kaynakları, bu bilgileri sonrasında ben bunları alıp bir repolaştıracağım.
+
+[Enes Fehmi Manan]: Bu reponun linkinde paylaşacağız. Yani Kaan'ın önerileri baki olarak alacak. İlla bu yayının 50. dakikasına geldiğinizde buradan bulmak durumunda değilsiniz. Bunlar aşağıya da yorumlara da veya farklı mecralar üzerinden de bizim repoda tuttuğumuz ve sonrasında insanların buna ulaşabilip tekrar bu Commit serisindeki tüm kişilerin önerilerine ulaşıp kendilerini geliştirmek için kullanabilecekleri güzel bir arşiv yaratmak amacımız. Burada şuna...
+
+[Kaan Bıçakçı]: Başlayabilirim.
+[Enes Fehmi Manan]: İlk soru, kendini nasıl geliştiriyorsun şu anda bulunduğun konuda?
+[Kaan Bıçakçı]: Valla bu aralar LLM ve işte türevleri olarak düşünecek olursak genelde Reddit'te bakıyorum insanlar neler...
+
+[Kaan Bıçakçı]: Valla bu aralar LLM ve işte türevleri olarak düşünecek olursak genelde Reddit'te bakıyorum insanlar neler paylaşıyor. İşte mesela chatte de mesela Onur bir şey sormuş. Ona da referans vererek mesela...
+[Enes Fehmi Manan]: ChatGPT, o bir mesela diyelim. Bunu öğrenmek istiyorsunuz.
+[Kaan Bıçakçı]: Mesela Reddit'e gidiyorum. 4-5 tane sabredip buluyorum.
+[Enes Fehmi Manan]: İnsanlar...
+
+[Kaan Bıçakçı]: İnsanlar paylaşıyor zaten.
+[Enes Fehmi Manan]: Model çıktı falan.
+[Kaan Bıçakçı]: Böyle. Son anons olarak, işte son dakika haber edeyim yani. Böyle paylaşılıyor. Sonra altında deneyimleyen insanlar yorum yapıyor. İşte bu konumda uzmanı olan insanlar mesela yorumlar yapıyor falan.
+[Enes Fehmi Manan]: Oradan...
+
+[Enes Fehmi Manan]: Oradan 3-5 bir şeyler kapmaya çalışıyorum. Daha sonra o kaptığım şeyleri böyle pekiştirmeye çalışıyorum, geliştirme anlamında bu şekilde.
+[Kaan Bıçakçı]: Bu tabii işin şey kısmı, ne derler? Güzel NLP kısmı. Bir de bu software engineering kısmı var.
+
+[Kaan Bıçakçı]: Bu tabii işin şey kısmı, ne derler? Güzel NLP kısmı. Bir de bu software engineering kısmı var.
+[Enes Fehmi Manan]: Yazılım tarafı.
+[Kaan Bıçakçı]: Orada bakıyorum genelde büyük repolarda insanlar nasıl şeyler yapmış?
+[Enes Fehmi Manan]: Daha bir şey, Transformers kütüphanesi mesela. Baktığınızda Keras, büyük Python kütüphanesi.
+[Kaan Bıçakçı]: Büyük. Bu insanlar bu kadar büyük repoyu hem nasıl derler, güncel bir şekilde, sıklıkla güncelliyorlar?
+
+[Enes Fehmi Manan]: Değil. Hem kişiler açık.
+[Kaan Bıçakçı]: Yani open source.
+[Enes Fehmi Manan]: Hem o kadar kişinin kontribüsyonunun yaptığı bir şeyi ayakta tutuyorlar hem de güzel dizayn yapmışlar.
+[Kaan Bıçakçı]: Yani buradan...
+[Enes Fehmi Manan]: ...buralardan bir şeyler kapmaya çalışıyorum software engineering tarafında.
+
+[Kaan Bıçakçı]: Adına?
+[Enes Fehmi Manan]: İşte sallıyorum, abstract class yapısı var mı, nasıl kullanmış? Bir şeyi konfigüre edecekler, bir modeli. Bu konfigürasyon nasıl ayarlanmış mesela? Bunlar.
+
+[Enes Fehmi Manan]: Bakıyorum, üç beş birisini oradan alıyorum, birisini oradan alıyorum, kendim harmanlayıp bir şey oluşturmaya çalışıyorum.
+[Kaan Bıçakçı]: Öyle değil.
+[Enes Fehmi Manan]: Mesela?
+[Kaan Bıçakçı]: Burada bakıyorum, diyorsun ya...
+[Enes Fehmi Manan]: Keras çok büyük bir repo içerisinde bir sürü...
+
+[Enes Fehmi Manan]: Keras çok büyük bir repo içerisinde bir sürü klasör, dosya yapısı.
+[Kaan Bıçakçı]: Var. Bunları böyle tek tek girip bakıyorsun yoksa commit'leri mi inceliyorsun? Orada nasıl bir stratejin var?
+[Enes Fehmi Manan]: Valla ben elim...
+
+[Enes Fehmi Manan]: Valla ben elim boş olduğunda açıkçası tek tek girip...
+[Kaan Bıçakçı]: Ben onu kullanıyorum, forkluyorum yani. Sonra kullanıyorum.
+[Enes Fehmi Manan]: Fokal bilgisayarı var. Bayağı git geziyorum yani öyle. İçinde sörf yapmak denebilir yani öyle. Bakıyorum neler var neler yok.
+
+[Enes Fehmi Manan]: Neresi geliştirilebilir mesela, bunları saptamaya çalışıyorum veya issue'larda neler var. Vaktim varsa, işte birisi bir bug bulmuştur mesela, onu issue olarak koymuştur. O nasıl düzeltilir? O nereden çıkıyor mesela? Bir issue'yu alıp düzeltmek istediğimiz zamanda, işte o adamın verdiği mesela...
+
+[Enes Fehmi Manan]: ...kodu kendimizi çalıştırmamız gerekiyor ve işte orada çalıştırırken hatayı...
+[Kaan Bıçakçı]: ...böyle adım adım takip etmek gerekebilir.
+[Enes Fehmi Manan]: İşte mesela bir kod çalışırken 5-6 farklı yerden sekiyor mesela.
+[Kaan Bıçakçı]: Ama o hata nereden geldi, işte hangisinde bir hata atladı gibi şeyler oluyor ortada.
+[Enes Fehmi Manan]: Geliştiğimi hissediyorum yani açıkçası bunları yaparken.
+
+[Kaan Bıçakçı]: Kesinlikle güzel bir nokta.
+[Enes Fehmi Manan]: Ya, hatta senin açık kaynağa...
+[Kaan Bıçakçı]: ...katkılarım var.
+[Enes Fehmi Manan]: Mesela işte Keras tarafında ciddi bir katkın var. Sen de o tarafa aslında biraz bahsettin. Nasıl bu durumu ele aldın? İşte issue'ları incelemen, tek tek koddaki hataları böyle didik didik edip oradan yakalayıp...
+
+[Enes Fehmi Manan]: ...yakalayıp belki çözmen, paylaşabileceğin bir hikayen olur mu?
+[Kaan Bıçakçı]: Ya, burada mesela şöyle yakaladım da işte şuraya şöyle bir kontrol bir şey attım bizim hani... Bu tabii bu çok yeni başlayanla hitap eden bir şey değil ama...
+[Enes Fehmi Manan]: En azından açık kaynağa katkı yapmak isteyen kişiler için nasıl bir öneride bulunuruz Keras katkı?
+
+[Kaan Bıçakçı]: Şöyle başladı. Ben bir görüntü işleme modeli üzerinde çalışıyordum. DenseNet kullanacaktım.
+[Enes Fehmi Manan]: DenseNet mi? Yok, DenseNet olmayabilir.
+[Kaan Bıçakçı]: Bir tane model kullanıyorum, pre-trained model kullanıyorum. Keras'tan. Daha sonra bir parametresi çok lazım oldu. Hatta bunu TensorFlow notebook hazırlarken fark ettim orada, öyle söyleyeyim.
+
+[Kaan Bıçakçı]: Hatta bunu TensorFlow notebook hazırlarken fark ettim orada, öyle söyleyeyim. Yani denk geldi. Bir parametreyi yazıyorum.
+[Enes Fehmi Manan]: Modelin çıktısı değişmesi lazım ama değişmiyordu. Sonra baktın, niye değişmiyor? Bir şey çağırıyor...
+[Kaan Bıçakçı]: Kaynak kodunu falan diye. Çünkü bu da bir kod yani. Baktığım zaman baktım o parametre mesela parametre olarak var ama kodun içinde kullanılmıyordu, öyle kalmış.
+
+[Kaan Bıçakçı]: Yani kendi başına ilk Keras'a katkı bu şekilde başladı. Dedim, "Ben bunu düzeltirim, ben bunu düzeltirim." Bir tane fork oluşturdum. Branch açtım, kodu düzelttim. Ondan sonra PR'ı açtım. Daha sonra test yazmamı istendi. İşin içinde "Neden test yazıyoruz?" falan... Önceydi bu, öyle girmiştim.
+[Enes Fehmi Manan]: Dedim. Kendine bir tane... O zaman çok böyle... Belki modunda olabilir, belki bayağı... Yani... Ya şu an mesela Keras hala katkıda bulunanlardan test yazılmasını istiyor mu? O da enteresanmış yani senden test yazılmasını istenmesi şu anda.
+
+[Kaan Bıçakçı]: O taraftaki testler biraz direkt otomatik yapılıyor ya. GitHub Actions bunu siz bir proje açtığınız zaman o testleri çalıştırır. Niye? Çünkü dediğim gibi buraya çok fazla kişi kontribüs yapıyor ve o kişiler herhangi bir şey kırdı mı, bozdu mu GitHub Actions bu testleri çalıştırıyor. Arkadaşım, bu testler...
+
+[Kaan Bıçakçı]: Arkadaşım, bu testler niye yazılıyor?
+[Enes Fehmi Manan]: Ona değinelim. Şimdi YouTube videomda...
+[Kaan Bıçakçı]: ...anlatmıştım herhalde.
+[Enes Fehmi Manan]: Bir tanesinden bir özellik yazdınız arkadaşlar. Şimdi siz bunu test etmezsiniz, yani test etmekten kastım yani böyle konsolda açıp üç beş tane çıktı almak değil. Yani gerçekten oturup düşünüp, işte ben bir fonksiyonu yazdım, bu fonksiyonu ben hangi değerleri verirsem ne çıktı alırım, bunu bir testini yazmak gerekir. Hani gerçekten ben o istediğim değerleri alıyor muyum?
+
+[Enes Fehmi Manan]: Hani bunu bir test etmek gerekir, doğruluğuna emin olmak. Daha sonra işte, hata, hani `try-except` blokları varsa, işte bunları test etmek gerekir.
+[Kaan Bıçakçı]: Hatalı bir veri geldiği zaman, buraya hatalı bir input geldiği zaman...
+[Enes Fehmi Manan]: Bu işte class, fonksiyon...
+
+[Enes Fehmi Manan]: Bu işte class, fonksiyon, metot neyse, bir exception atıyor mu veya işte benim istediğim...
+[Kaan Bıçakçı]: ...exception atıyor mu? Benim istediğim hata mesajını veriyor mu? Bunlar önemli şeyler arkadaşlar. Bunlar...
+[Enes Fehmi Manan]: Siz kodu yazarsınız. Kodu yazdıktan sonra da bunun testini yazarsınız. Testleri daha çok seviyorsanız Test Driven Development diye bir şey var, TDD. Onda da insanlar önce testi yazıyor...
+[Kaan Bıçakçı]: ...sonra fonksiyonu yazıyor falan.
+[Enes Fehmi Manan]: Değişik böyle bir şey yani, öyle söyleyeyim. Testler bunun için...
+[Kaan Bıçakçı]: ...yazılıyor. Bunu yazdığınız zaman da ileriki dönemde...
+[Enes Fehmi Manan]: Sizin kod tabanınız, yani bütün kodlarınız...
+[Kaan Bıçakçı]: ...bulunduğu ortam o kadar çok büyüyor ki...
+[Enes Fehmi Manan]: ...bir şeyi tek tek test etme fırsatınız artık kalmamaya başlıyor. Ama bunları önceden yazarsanız, bunlar testlerden...
+
+[Enes Fehmi Manan]: Ama bunları önceden yazarsanız, bunlar testlerden şekilde birikmeye başlıyor ve siz bir şey...
+[Kaan Bıçakçı]: ...kırdığınız zaman çok önceden haberiniz oluyor yani.
+[Enes Fehmi Manan]: Bir şeyi yazdığınız, daha sonra farklı bir şekilde release etmek var. Bunu test aşamasında...
+[Kaan Bıçakçı]: ...yakalayıp release etmeden onu düzeltmek var. Farklı bir şeyi düzeltmek daha masraf olur.
+[Enes Fehmi Manan]: Tabii ki, kesinlikle.
+[Kaan Bıçakçı]: Ben buradan senin güncel kalma yöntemlerini, Reddit'i çok kullandığını anlıyorum, orada baktığın...
+
+[Enes Fehmi Manan]: Subredditler var. Bunun haricinde mesela bir framework'ı takip ediyor musun, teknik blog takip ediyor musun? O taraftaki güncelliği nasıl sağlıyorsun?
+[Kaan Bıçakçı]: Colt diye adam var.
+[Enes Fehmi Manan]: Duymuşsun.
+[Kaan Bıçakçı]: Odur.
+[Enes Fehmi Manan]: Kernel'inin...
+[Kaan Bıçakçı]: Ana...
+[Enes Fehmi Manan]: ...kurucusu, yapıcısı, yazıcısı.
+[Kaan Bıçakçı]: O gibi biri. Oraya takıldığım oluyor ama genelde bir şey araştıracaksam...
+
+[Kaan Bıçakçı]: Oraya takıldığım oluyor ama genelde bir şey araştıracaksam böyle Google'a giriyorum.
+[Enes Fehmi Manan]: Neler çıkıyor?
+[Kaan Bıçakçı]: Bakıyorum yani. Çok spesifik bir takip ettiğim bir blog yok açıkçası. Eskiden TensorFlow'un kaydını takip ediyordum, bazen güzel şeyler oluyor ama onu bıraktım. TensorFlow deyince aklıma o geldi, derin öğrenme tarafı var bu arada.
+
+[Enes Fehmi Manan]: Derin öğrenme tarafını iş yerinde kullanıyor musun?
+[Kaan Bıçakçı]: Özellikle sigortacılık sektörünü düşününce ve derin öğrenme deyince özellikle ne bileyim, regülasyon, açıklanabilirlik gibi şeyler geliyor aklıma.
+[Enes Fehmi Manan]: Kullanılıyor mu? Çok yeri yok.
+[Kaan Bıçakçı]: Ben aslında derin öğrenmeyi seviyorum ama tabular da olunca derin öğrenme uygulamakla bir şey oluyor, yani sıkkınlık geliyor yani.
+[Enes Fehmi Manan]: Öyle söyleyeyim, ortasında yani. Kesinlikle o zaman...
+[Kaan Bıçakçı]: Biraz böyle.
+
+[Enes Fehmi Manan]: Güzel kısımlardan biri, şu anda yeni başlayan kişilere, işte data science olur, machine learning alanına geçecek kişiler olur, bunların üniversitenin başında olabilir veya yeni mezun olabilir, bu kişilere ne gibi önerilerde bulunursun? Şimdi, ona da bir şey yazmıştım. Biraz geçmiş, 12 dakika geçmiş herhalde. Yok, bir şey yazmış: "Kod yazılmak için Claude 3.5 Sonnet mi yoksa GPT-4o mu tercih ediyorsunuz?" diye. Şimdi yeni başlayan...
+[Kaan Bıçakçı]: Neden bu kadar 20 dakika?
+
+[Enes Fehmi Manan]: Arkadaşlar, şu andaki dönemi göz önünde bulundurduğumuz zaman, güzel bir kaynak. GPT-4o mu tercih ediyorsunuz? Bunlara şu an bedava baktığımız zaman bir şey sorup bir cevap alabiliyoruz. Bence bu çok değerli bir şey. Ben başladığım zaman GPT-3 vardı. GPT-3 de böyle şu ana kıyasladığımız zaman çok bir şey gözükmüyor, çok salak bir model olarak...
+[Kaan Bıçakçı]: Yani bu imkanlar... Tabii. Yani.
+
+[Enes Fehmi Manan]: Ama o zaman GPT-3'ü böyle... Yani işte autocomplete falan yapıyordu. Yeni başlayan arkadaşlar, nasıl kullanacağını, nasıl efektif şekilde kullanacağını... Çünkü dünya bir noktada, hani, farklı bir yöne gidiyor, bu teknolojik gelişmeler var.
+[Kaan Bıçakçı]: İnsanlar hayretle bakıyordu yani. Falan oluyordu böyle. Bence bu LLM modellerini öğrenmeli.
+
+[Kaan Bıçakçı]: Şey demiyorum, ben sizin yerinize alacak demiyorum.
+[Enes Fehmi Manan]: Öyle bir şey değil ama bunları efektif bir şekilde kullanmayı öğrenirseniz, arkadaşlar hani, bir iş yaptığınızdaki üretkenliklerinizi arttırabilirsiniz yani. 3 saatte yapacağınız bir işi belki 1 saatte yapabilirsiniz. O geri kalan 2 saati kendinize ayırırsınız veya farklı işlerle uğraşabilirsiniz bu noktada.
+[Kaan Bıçakçı]: Bu modelleri kullanabilmeyi bilmek önemli. Yani burada...
+[Enes Fehmi Manan]: ...sadece mesela bir kodlama yapacaksınız...
+
+[Kaan Bıçakçı]: Bu modelleri kullanabilmeyi bilmek önemli. Yani burada, o kodu atıp "işte bana şunu yap" demekten ziyade...
+
+[Enes Fehmi Manan]: Birazcık detayına girmek gerekiyor. İşte şöyle bir kod var, şu şekilde bir dizayn yapacağım, şu noktada şu olsun, işte bu olsun. Hani, hepsini modelden bekleyemeyiz zaten, öyle bir şey çok gerçekçi değil. Ama ince noktalarını böyle öğrenirseniz, işte şu lazım, şunu nasıl yapabiliriz veya işte şu kodu hataları işte nasıl derler, nasıl handle edebiliriz? Yani bir try-except nasıl ekleyebiliriz veya işte şu yapıyı bu koda nasıl uydurabiliriz gibi şeyler aslında.
+
+[Enes Fehmi Manan]: Bence öğrenmek için güzel şeyler. Hani, oradan bir yola koyulabilirsiniz yani işte, "Ha, böyle bir konsept varmış!" falan diye. Daha sonra o konsepti internette detaylı araştırabilirsiniz; yani işte bloglar nasıl yapmış veya işte gerçek işin içinde olan kişiler bu dizayn edenlerine, işte metodolojiyi nasıl uyguluyor falan, buradan araştırabilirsiniz. Yani kod yazdırmak için gidebilirsiniz.
+[Kaan Bıçakçı]: Bu soruya da cevap vereyim.
+
+[Enes Fehmi Manan]: Çoğu şirkette...
+[Kaan Bıçakçı]: Yani.
+[Enes Fehmi Manan]: Kodu alıp bu araçlara, bu platformlara yapıştırmanız yasak çünkü gizlilik yani.
+[Kaan Bıçakçı]: Baktığınız zaman.
+[Enes Fehmi Manan]: Hani gidip de gizli olan bir şeyi buraya yapıştıramazsınız.
+[Kaan Bıçakçı]: Niye?
+[Enes Fehmi Manan]: Çünkü arkadaşlar, LLM dediğiniz şey çok büyük bir veri yığını alıyor, bir metin yığını alıyor, onu kendi içinde sıkıştırıyor yani kompres ediyor.
+[Kaan Bıçakçı]: Ve daha sonra...
+[Enes Fehmi Manan]: ...siz bir şeyler istedikçe, o yığında size bir şeyler veriyor. Siz gizli olan bir şey...
+
+[Enes Fehmi Manan]: attığınız zaman, o gizli olan şeyi başka başka kişinin tarafına erişilme riski oluyor. Ondan dolayı yasaklı. Tabii şeyler var, hani işte enterprise seviyesinde veriyi kullanmıyoruz falan filan ama biraz güven meselesi. O veri çıktıktan sonra, üçüncü partiye gittikten sonra insanların güveni bilmiyorum.
+[Kaan Bıçakçı]: Belki olmayabilir, öyle söyleyeyim.
+[Enes Fehmi Manan]: Ama kendim kişisel olarak yapacak olursam...
+[Kaan Bıçakçı]: TR tarafında Copilot var.
+[Enes Fehmi Manan]: İşte Microsoft o birazcık şirketlerle böyle anlaşıp işte Copilot'un kullanılmasını çok teşvik ediyor. Hani "sizin verinizi kullanmayacağız" (diyor). Bu hem normal Copilot...
+
+[Enes Fehmi Manan]: ...hem GitHub Copilot. Yani Microsoft altyapısını kullandığı için aslında şirketler, Windows orada hani anlaşmaya varılıp LLM'i şirketlerin güvenli bir şekilde kullanması için böyle bir altyapı sağlaması var. Mesela sizin şirkette böyle bir anlaşma var mı veya siz kullanabiliyor musunuz rahatça, açık mı? Bir tanesiyle vardı da haberi de çıkmıştı sanırım ama çok şey değil.
+[Kaan Bıçakçı]: Rahat değil yani bizde.
+[Enes Fehmi Manan]: Benim çalıştığım yerde de özellikle çok böyle sensitive, hani hassas veri olduğu için bunu direkt olarak birisiyle anlaşsa bile çok güvenmeyin mottosu var birazcık hani böyle.
+
+[Enes Fehmi Manan]: Sonuçta...
+[Kaan Bıçakçı]: Mesela?
+[Enes Fehmi Manan]: Kullanıcı datası diyelim, kullanıcı datası. Yani böyle bir şey olursa...
+[Kaan Bıçakçı]: Tabii.
+[Enes Fehmi Manan]: Hani...
+[Kaan Bıçakçı]: Türkiye'de biraz daha farklı oluyor bu süreç, anladığım kadarıyla hani.
+[Enes Fehmi Manan]: Ama burada o tuşeler sıkı, onun için öyle. Yani yok, yok, kullanıcı datası giremezsin o şekilde.
+[Kaan Bıçakçı]: Değil de...
+[Enes Fehmi Manan]: Aslında hani basit bir X bir kodu yazdırmak için kullanabilirsin. Yani bazı şirketler var mesela işte GPT direkt bir yerde...
+[Kaan Bıçakçı]: Yok yani.
+[Enes Fehmi Manan]: ...giremiyorsun. Şey, domeni kapatmış, VPN'e bağlı olduğun süre boyunca. Yani böyle bir şey var.
+
+[Enes Fehmi Manan]: Kapalıdır, bilmiyorum, olabilir ama tabii başlangıç için.
+[Kaan Bıçakçı]: Bana şöyle bir kod lazım diye şablondan ilerlemek...
+[Enes Fehmi Manan]: Mantıklı, gayet de.
+[Kaan Bıçakçı]: Doğal bir şey yani.
+[Enes Fehmi Manan]: Ama tabii işler spesifik hale geldikçe...
+[Kaan Bıçakçı]: ...yani kodunuz zaten modeller afallamaya başlıyor.
+[Enes Fehmi Manan]: Öyle şeyler var veya işte hassas veriyi vermemek var. Ama başlangıç için...
+
+[Kaan Bıçakçı]: Bence güzel. Dediğim gibi zaten dokümantasyonu yazarken falan da...
+[Enes Fehmi Manan]: ...yardımcı oluyor yani. Şimdi çok güzel bir konsept bir noktadayız. Önemli bir kısım: Sence yeni başlayanların senin alanında yaptıkları, doğru zannettiği ama yanlış olan şeylere birkaç örnek verebilir misin?
+[Kaan Bıçakçı]: Sadece model yazmak değil.
+[Enes Fehmi Manan]: Sadece notebook'ta pipeline kurmak değil. Ben de öyle zannediyordum.
+[Kaan Bıçakçı]: Kendimden biliyorum yani. Örnek veriyorum... Ama öyle değil.
+[Enes Fehmi Manan]: Çünkü ben de öyle zannediyorum. Tabii ki dediğim gibi farklı metrikler var işte veya işte sonuçların sunulması var veya işte bu model üstünden para kazanmak var yani.
+
+[Enes Fehmi Manan]: Modeli yazdık, bitti işte şöyle doğruluk aldık.
+[Kaan Bıçakçı]: Para kazandık mı? Yok. O zaman ne işe yaradı?
+[Enes Fehmi Manan]: Yani sadece elektrik yaktık. Anlatabiliyorum, yani bir şirketteyseniz üstünden para kazanmak isteyecekler bunu.
+[Kaan Bıçakçı]: Bunlardan bir tanesi mesela data leakage vardı mesela. Ben de yapmışımdır, büyük ihtimalle. Çünkü ben de bilmiyordum. Veya daha sonra label encoding kullanımı falan, bunlar da benim önceden çok yaptığım, aslında doğru bildiğim yanlış şeyler.
+[Enes Fehmi Manan]: Bunları paylaşıyorum zaten. Bunlara daha önce ulaşabilmek isterdim işte Reddit'te olsun.
+
+[Enes Fehmi Manan]: Bunları paylaşıyorum zaten. Bunlara daha önce ulaşabilmek isterdim işte Reddit'te olsun, takılın. Piyasadaki Stack Exchange var mesela, Stack Overflow'un farklı alt şeyleri var, mesela Data Science için gibi.
+[Kaan Bıçakçı]: Buralarda takıla takıla birazcık ben bunları öğrendim. Bunları daha erken görseydim belki daha farklı olabilirdi.
+[Enes Fehmi Manan]: Arkadaşlar, tavsiyem bu tür yerlerde takılması. Yani farklı yerlerden bilgiyi alıp onları bir şekilde harmanlamak gerekiyor. İşte bu Reddit olur, ya forumlar olur, işte herhangi bir yer olur. Buradan alıp...
+
+[Kaan Bıçakçı]: Bakmak lazım.
+[Enes Fehmi Manan]: Ve gerekirse karşılaştırmak lazım. Kimisi ak dediğinde...
+[Kaan Bıçakçı]: ...diğeri kara diyebilir.
+[Enes Fehmi Manan]: Şimdi öyle olunca hangisi doğru oluyor? Bu sizi daha çok araştırmaya itecektir. Ee, bu da bence iyi bir şey.
+[Kaan Bıçakçı]: Yani baktığımız zaman... LLM. Ee.
+[Enes Fehmi Manan]: ...kesinlikle. Ya orada aslında... legitmenin...
+
+[Enes Fehmi Manan]: ...de bir şeyi var, yani bir yanlılığı var. Orada hani o da yanlış şeyler söyleyebiliyor. Ee, ve çok yanlış kodlar yazılabiliyor, doğru zannedilir.
+
+[Kaan Bıçakçı]: Benim de naçizane tavsiyem şey oluyor genelde: bir tane kitap belirlemek, yani alanda böyle iyi ekol olmuş bir kitabı alıp onunla birlikte hani GPT'yi...
+
+[Kaan Bıçakçı]: ...yardımcı olarak kullanıp.
+[Enes Fehmi Manan]: Aslında gitmek ve kitabı sonuna kadar gitmek önemli bir trik, biraz sonuna kadar gelebilmek. Çünkü yani sonuna kadar gelince sağa sola da dallanmış ve olayı da uçtan uca bir noktada görebilmiş oluyorsun.
+[Kaan Bıçakçı]: Senin bu konuda kitap konusunda bir tavsiyen olur mu?
+[Enes Fehmi Manan]: Kitap konusunda...
+[Kaan Bıçakçı]: Chollet'in Keras'ı anlattığı derin öğrenme kitabı var, onu methediyorlar bayağı.
+[Enes Fehmi Manan]: Ben de birkaçına baktım ama hepsini okumadım.
+
+[Kaan Bıçakçı]: Baktığım kadarıyla gayet güzel anlatmış zaten.
+[Enes Fehmi Manan]: Konuya hakim birisi, güzel bence.
+[Kaan Bıçakçı]: Onun haricinde...
+[Enes Fehmi Manan]: Yazan ismini?
+[Kaan Bıçakçı]: Oldu.
+[Enes Fehmi Manan]: Bir tane...
+[Kaan Bıçakçı]: Dediğim gibi bende olan Machine Learning kitabının linkini paylaşalım zaten daha sonra.
+[Enes Fehmi Manan]: Referans koyarsınız. Hem başlangıç seviyesi var.
+[Kaan Bıçakçı]: Hem de ileri.
+[Enes Fehmi Manan]: Advanced topics olarak?
+[Kaan Bıçakçı]: İleri seviye konular.
+[Enes Fehmi Manan]: Şey mi acaba, hands-on?
+[Kaan Bıçakçı]: Hands-on.
+
+[Enes Fehmi Manan]: Yani...
+[Kaan Bıçakçı]: Örnek mi?
+[Enes Fehmi Manan]: Çok klasik bir kitap.
+[Kaan Bıçakçı]: Ya Keras'ı yok.
+[Enes Fehmi Manan]: Öyle değil, yok yok.
+[Kaan Bıçakçı]: Öyle değil hani.
+[Enes Fehmi Manan]: Teorik olarak, kod implementasyon olarak işin arka planında dönen şeyler...
+[Kaan Bıçakçı]: ...baktığımız zaman hani ve teorik olarak anlatan bir kitap.
+[Enes Fehmi Manan]: Çok implementasyon kitabı.
+
+[Enes Fehmi Manan]: Okumadım. Kendim sağdan soldan...
+[Kaan Bıçakçı]: ...görerek.
+[Enes Fehmi Manan]: Birazcık yaptım. GitHub'da olsun, Kaggle'da olsun kendim aldım, çalıştırdım o şekilde ilerlemeye çalıştım.
+[Kaan Bıçakçı]: Da.
+[Enes Fehmi Manan]: Teorik olarak dediğim gibi iki tane kitabım var.
+[Kaan Bıçakçı]: Yani.
+[Enes Fehmi Manan]: Evde yani, öyle söyleyeyim.
+[Kaan Bıçakçı]: Bayağı. Hani e-book olarak yani kullandım.
+[Enes Fehmi Manan]: Onları.
+[Kaan Bıçakçı]: Vereyim ben bu...
+[Enes Fehmi Manan]: ...bir şey olmasını.
+
+[Kaan Bıçakçı]: Destekliyorum, yani bir tane basılı kitap olmasını ve onu sonuna kadar okumayı.
+[Enes Fehmi Manan]: Çok destekliyorum.
+[Kaan Bıçakçı]: Hani sen de o tarafta zaten inanılmaz defterlerin varmış.
+[Enes Fehmi Manan]: Not alıyormuşsun, basılı bir şey yapıyormuşsun o basılıya.
+[Kaan Bıçakçı]: İnanıyoruz.
+[Enes Fehmi Manan]: Ve bunu sürdüreceğiz. Şey soruyorum: Seni en çok geliştiren proje...
+[Kaan Bıçakçı]: ...neydi bu arada? Ya bu bir noktada biraz böyle kırılma noktası gibi de oluyor hani, öyle bir proje oluyor ki ya benim...
+
+[Enes Fehmi Manan]: Mesela şeydi, hackathon'lara çok katılıyorum. İlk böyle Anadolu Sigorta'nın hackathon'u vardı. Orada bir chatbot yaptım, ilk yaptığım chatbot'tu. Rasa ile yapmıştım. Hatta bunu ondan beridir her hackathon'da chatbot yapıyorum. Yani ne bileyim, belki 10 tane yapmışızdır.
+[Kaan Bıçakçı]: Yani bu arada...
+[Enes Fehmi Manan]: O benim için bir kırılma noktasıydı. Yani senin böyle bir şeyin var mı?
+[Kaan Bıçakçı]: Benim kırılma noktam...
+
+[Kaan Bıçakçı]: Benim kırılma noktam belki Politik ile tanışmak olabilir. Politik bir araç. Arkadaşlar bilmiyorsanız, o da üstüme yapışan araçlardan biri benim.
+[Enes Fehmi Manan]: Politik.
+[Kaan Bıçakçı]: Görmemle, belki birazcık daha böyle işin daha ciddi kısmına geçiş yaptığımı düşünüyorum, özellikle bu software engineering olsun. Orada da...
+[Enes Fehmi Manan]: Bu özel zaten.
+[Kaan Bıçakçı]: ...falan aynı anda Politik öğrenmemle başladım, böyle denk geldi.
+[Enes Fehmi Manan]: O araç, bir mihenktaşı olarak...
+[Kaan Bıçakçı]: ...nitelendirebilirim.
+[Enes Fehmi Manan]: Ondan sonra yani küçük...
+
+[Kaan Bıçakçı]: Orta çaplı projelerde genelde...
+[Enes Fehmi Manan]: Politik kullanıyorum, kişisel projelerde.
+[Kaan Bıçakçı]: Yani...
+[Enes Fehmi Manan]: Çok büyük projelerde...
+[Kaan Bıçakçı]: Politik paklamaz arkadaşlar.
+[Enes Fehmi Manan]: Onu da söyleyeyim.
+[Kaan Bıçakçı]: Yani 20 dependency olduğu zaman...
+[Enes Fehmi Manan]: Politik böyle birazcık yamulmaya başlayabilir. Onun için, araç kullanıyorsanız...
+[Kaan Bıçakçı]: ...bir aracın artılarını ve eksilerini iyi öğrenmek gerekiyor.
+[Enes Fehmi Manan]: Her şeyi. Bir araç öğrendiniz diye bir araç öğrendik.
+
+[Kaan Bıçakçı]: Diye veya onu sürekli aynı probleme atmamak lazım. Mesela, her şeyde Poetry kullanamam.
+[Enes Fehmi Manan]: Öyle bir şey yok. Ama çoğu zaman işimi görüyor mu?
+[Kaan Bıçakçı]: Görüyor. İyi mi? O zaman sorun yok.
+[Enes Fehmi Manan]: İyi. Öyle değil. Burada belki Poetry'den bahsettin.
+
+[Enes Fehmi Manan]: Poetry'nin de ne olduğunu ve belki oradaki pip'le farkını da çok kısa açıklayabilir misin?
+[Kaan Bıçakçı]: Tabii, şimdi arkadaşlar. Poetry bir Python projenizi yönetmeniz için bir araç. Herhangi bir, mesela pip install yaptığınız zaman, mesela bir kütüphane yükleyeceksiniz diyelim. Bu kütüphane, pardon, bir kod yazacaksınız. Bu kod içerisinde NumPy kullanacaksınız. Şimdi NumPy'in 2.0 sürümü diyelim, bunu yüklüyorsunuz 2.0. Yüklendi NumPy. Daha sonra farklı bir kütüphane yükleyeceksiniz, mutlaka olmuştur. Hani böyle bir kütüphane yüklerse, o NumPy'i kaldırır böyle NumPy 2.0.
+
+[Kaan Bıçakçı]: kaldırır böyle, hani...
+[Enes Fehmi Manan]: "Found existing installation" öyle bir şey.
+[Kaan Bıçakçı]: der.
+[Enes Fehmi Manan]: Mesela böyle. Sonra...
+[Kaan Bıçakçı]: NumPy'ı kullandığınız versiyonu gider böyle downgrade alır, upgrade alır artık.
+[Enes Fehmi Manan]: Neyse. Sonra ne olur? Sizin kullandığınız versiyonu değiştiği zaman sizin kodunuzun çalışmama riski var. Yani sizin kullandığınız kütüphanelerin versiyonları spesifik olmalı, arkadaşlar. Bir kodlama yapıyorsanız, çünkü versiyonlar değiştiği zaman kütüphanelerde değişimler olabilir. Fonksiyonlar yeri değişebilir, fonksiyonların davranışı değişebilir. Onun için kütüphanelerin versiyonları...
+[Kaan Bıçakçı]: önemli arkadaşlar.
+
+[Enes Fehmi Manan]: Poetry...
+[Kaan Bıçakçı]: Baktığın zaman en temel olarak, yani baktığımız zaman...
+[Enes Fehmi Manan]: Siz bir kütüphane yükleyeceğiniz zaman, işte o kütüphanelerin...
+[Kaan Bıçakçı]: Mesela işte Pandas, alt tarafında NumPy'ı kullanıyor.
+[Enes Fehmi Manan]: Arkadaşlar, taban olarak.
+[Kaan Bıçakçı]: NumPy'ı kullanıyor. Hani kütüphanelerde farklı...
+[Enes Fehmi Manan]: Hazır indirdiğiniz kütüphanelerde...
+[Kaan Bıçakçı]: Farklı farklı...
+[Enes Fehmi Manan]: Kütüphanelerde aslında burada bir...
+[Kaan Bıçakçı]: Kontrol yapıyor.
+[Enes Fehmi Manan]: Mesela siz bir kütüphane yükleyeceksiniz, A kütüphanesi. İşte bu, B kütüphanesiyle...
+
+[Enes Fehmi Manan]: Uyumlu mu? Hani o versiyonlar arasında bir uyumsuzluk olabilir mi? Hani destekleme açısından bir sıkıntı var mı?
+[Kaan Bıçakçı]: Diye Poetry kontrol ediyor.
+[Enes Fehmi Manan]: Bu güzel bir yanı. Pip install yaptığınız zaman...
+[Kaan Bıçakçı]: Bu çok mümkün olmayabilir. Hani burada...
+[Enes Fehmi Manan]: Konfliktler yaşanabilir baktığımız zaman veya işte başka...
+[Kaan Bıçakçı]: Poetry'nin bir de log diye bir dosyası var arkadaşlar. Ona çok detaya girmeyin ama...
+[Enes Fehmi Manan]: Mesela bir proje yaptığın zaman üstünde 10 kişi çalışıyor...
+[Kaan Bıçakçı]: Diyelim.
+[Enes Fehmi Manan]: 3-4 kişi diyelim. 3-4 kişi çalıştığı zaman kodların çalıştığı ortam aynı olması gerekir. Yani kütüphaneler...
+[Kaan Bıçakçı]: Ve onların versiyonları...
+[Enes Fehmi Manan]: Aynı olması gerekir. İşte bu...
+
+[Enes Fehmi Manan]: İşte bu Poetry log dosyası ile aslında bunu sağlamaya çalışıyor. Yani herkesin aynı versiyonu kullandığında, aynı kütüphanenin o spesifik versiyonu kullandığından emin olmaya çalışıyor.
+[Kaan Bıçakçı]: Yani böyle incelikli, güzel detayları var.
+[Enes Fehmi Manan]: Öyle söyleyeyim basitçe. Yani güzel bir açıklamaydı.
+[Kaan Bıçakçı]: Bence de.
+[Enes Fehmi Manan]: Poetry tarafını belki de ilk defa bu yayınla birlikte duyacak birçok kişi vardır.
+[Kaan Bıçakçı]: Yani Poetry enteresan.
+
+[Kaan Bıçakçı]: Yani Poetry enteresan. Genelde dümdüz requirement'ı hep install atarız yani.
+[Enes Fehmi Manan]: Okeydir bizim için.
+[Enes Fehmi Manan]: Burada Gökhan Güner'in bir sorusu var. Gökhan abinin Prompt Engineer benzeri mesleklerin geleceğini nasıl görüyorsunuz? Başka ne gibi meslekler, yetenekler çıkabilir yakın gelecekte? Prompt Engineering'in geleceği var mı?
+[Kaan Bıçakçı]: Çok emin değilim.
+[Enes Fehmi Manan]: Niye? Yani Prompt Engineering aslında şöyle bir şey: Bir, yani hepimiz yapıyoruz bunu. Bir saniye, bir sisteme girdiniz, bir şey yazdınız, istediğiniz çıktı...
+[Kaan Bıçakçı]:
+
+[Enes Fehmi Manan]: vermedi veya işte tam aklınızdaki değil mesela bir şablon sunacaksınız. Kod olarak aklınızdakini vermedi. Daha sonra Prompt'u böyle 3 aşağı 5 kere takla attırmaya başlıyorsunuz. Bu da aslında bir Engineering olarak sayılabilir büyük ihtimalle. Şimdi bu, benim anladığım kadarıyla, ilk nereden çıkmış?
+
+[Kaan Bıçakçı]: Bir ona değineyim önce. Sanırım anladığım kadarıyla, bu GPT-3 zamanları, modeller çok yaygın değilken, bu mesela OpenAI API'si sanırım fiyattan çok bahsedilemiyor ama bu tür şeyler biraz maliyetliymiş.
+
+[Kaan Bıçakçı]: Bu maliyetten ötürü, mesela işte bir çıktı alacaksınız diyelim. Bunu işte 10 kelimede anlatmak var, bir de 3 kelimede anlatmak var. Şimdi siz ne kadar uzun anlatırsanız o kadar daha fazla kredi yatacak. Şimdi Prompt Engineering de buradan, anladığım kadarıyla, biraz evrimleşmiş, dönmüş. Yani önce bu optimize olarak Prompt Optimization olarak başlayıp...
+
+[Kaan Bıçakçı]: ...daha sonra Engineering'e dönmüş bildiğim kadarıyla. İşte o oradan başlamış ve daha sonra günümüze gelmiş.
+[Enes Fehmi Manan]: Bu modellerden daha efektif nasıl çıktı alınır, bunun yöntemleri aslında Prompt Engineering.
+[Kaan Bıçakçı]: De...
+[Enes Fehmi Manan]: Prompt Enhancement olarak sanırım, yani şu Prompt'u geliştirme.
+[Kaan Bıçakçı]: Yani modelden daha iyi nasıl çıktı alırız, bunun geleceği var mı?
+[Enes Fehmi Manan]: Bence çok yok.
+[Kaan Bıçakçı]: Niye?
+[Enes Fehmi Manan]: Zaten şu an...
+
+[Enes Fehmi Manan]: Zaten şu an herhangi bir modele gidip "bana şöyle Prompt lazım" deseniz de size bir şeyler yazar. Daha sonra üstünde oturursanız, böyle mesela bunu düzeltebilirsiniz veya işte insanlar zaten Prompt'lar paylaşıyor baktığınız zaman, onları da alıp böyle harmanlayabilirsiniz. Yani bir taslak Prompt'unuz olabilir ileride hani...
+
+[Enes Fehmi Manan]: Zaten şu an herhangi bir modele gidip "bana şöyle Prompt lazım" deseniz de size bir şeyler yazar. Daha sonra üstünde oturursanız, böyle mesela bunu düzeltebilirsiniz veya işte insanlar zaten Prompt'lar paylaşıyor baktığınız zaman, onları da alıp böyle harmanlayabilirsiniz. Yani bir taslak Prompt'unuz olabilir ileride hani sırf Prompt yazdığı için para alacak bir insan.
+[Kaan Bıçakçı]: Olabilir mi?
+[Enes Fehmi Manan]: Benim çok aklıma yatmıyor açıkçası. Başka ne gibi meslekler çıkabilir?
+[Kaan Bıçakçı]: Şöyle olabilir mesleklerden mesela...
+[Enes Fehmi Manan]: Yazılım alanında değerlendirecek olursam, bir yapay zeka...
+[Kaan Bıçakçı]: Hani yapay zekanın diyelim artık...
+[Enes Fehmi Manan]: ...sizi replace etmesi, yani sizin elinizi alması çok mümkün değil.
+[Kaan Bıçakçı]: Hani bu...
+[Enes Fehmi Manan]: ...seneye, iki seneye olacak bir şey değil.
+[Kaan Bıçakçı]: Ama...
+[Enes Fehmi Manan]: ...şurada şöyle bir şey.
+
+[Enes Fehmi Manan]: ...şurada şöyle bir şey olabilir. Hani gelecekte yapay zeka kullanmayı bilen biri tarafından belki replace edilebilirsiniz. Niye? Çünkü o kişi mesela daha üretken olmayı çözmüş, işte daha efektif bir şekilde kodlama yapıyor. Yani bu kişi sizin önünüze geçebilir.
+[Enes Fehmi Manan]: Ama tabii, bir yapay zeka seneye mümkün değil.
+[Kaan Bıçakçı]: Zaten alamaz.
+[Enes Fehmi Manan]: Yani şu an için...
+[Kaan Bıçakçı]: Hani...
+[Enes Fehmi Manan]: El ele bir tane...
+
+[Kaan Bıçakçı]: Yani bir kod...
+[Enes Fehmi Manan]: ...değil mi, alsa?
+[Kaan Bıçakçı]: Böyle orta ölçekli zaten yok eder yani, hani baktığımız zaman.
+
+[Enes Fehmi Manan]: Onu toplaması da zor olur, dediğim gibi.
+
+[Kaan Bıçakçı]: Yetenek olarak yani yapay zekayı efektif kullanabilme bence ileride önemli olacak. Aslında bu her meslek için olabilir, belki mesela doktorlar için de.
+
+[Enes Fehmi Manan]: Hani şu an için demiyorum tabii, şu an...
+
+[Kaan Bıçakçı]: ...çok reliable, güvenilir bir.
+
+[Enes Fehmi Manan]: Hani şu an için demiyorum tabii, şu an çok reliable, güvenilir bir kaynak değil.
+[Kaan Bıçakçı]: Bu tür modeller ama...
+[Enes Fehmi Manan]: Belki ileride gelişirse daha güvenilir kaynak olabilirse olabilir yani.
+[Kaan Bıçakçı]: Bunu kullanma yeteneği de olabilir yani, öyle söyleyeyim.
+[Enes Fehmi Manan]: Aynen ya.
+[Kaan Bıçakçı]: Bu arada prompt engineer deyince akla direkt hani LLM tarafı geliyor.
+[Enes Fehmi Manan]: Ama aslında görsel, bu işte açıklayan difüzyon modelleri var. Veya işte OpenAI yine görsel üreten modelleri var. O taraflara da...
+
+[Enes Fehmi Manan]: O taraflara da bir prompt girilmesi gerekiyor. Ve o taraftaki promptlar pek buradaki gibi dümdüz konuşarak çözülecek şeyler olmuyor bence.
+[Kaan Bıçakçı]: Prompt engineer title'ını hak eden biri varsa, yani biraz görsel taraftakiler daha çok hak ediyor.
+[Enes Fehmi Manan]: Compute UI olsun, o akışı...
+
+[Enes Fehmi Manan]: Compute UI olsun, o akışı... işte...
+[Kaan Bıçakçı]: ...tasarlamak, en son o ağırlıkları vermek.
+[Enes Fehmi Manan]: Bazı işte negatif var, pozitif var, bir sürü parametre var prompt taraf şeyde.
+[Kaan Bıçakçı]: LLM tarafında?
+[Enes Fehmi Manan]: Bir şey yok ki.
+[Kaan Bıçakçı]: Doğru düzgün yani.
+[Enes Fehmi Manan]: Kendini ifade edebilen insan herhalde bunu da çözer diye düşünüyorum. Evet, genelde resim üretme, Stable Diffusion ile başladı aslında bu resimden popüler olma. Resim üretme Stable Diffusion ile başladı.
+
+[Enes Fehmi Manan]: Tabii orada bir şey anlatmak daha zor. Kendimi tecrübe ettim zaten. Hani, yani istiyorum ama tam olarak bu resim değil, hani şuradan şöyle üstüne şey yapalım, şurayı kırpalım falan sonra saçma sapan bir şey ortaya çıkıyor falan böyle. Orada tabii daha şey oluyor, hani, prompt üzerinde oynamak, şu parametreleri iyi bilmek gerekiyor. Dediğim gibi, veriyle ilgili bir şeye referans vermiş şimdi gene.
+[Kaan Bıçakçı]: Onur'dan bir soru var.
+[Enes Fehmi Manan]: Çok az bir datamız var ise, örneğin işte 400 satırlık bir data, bunun validasyonunu doğru bir şekilde nasıl yaparız? Devamında şöyle şeyler yazmış: 3 tane klas varmış, klasifikasyon problemi içinmiş, stratified k-fold yapmış fakat bu işe yaramamış 400 satırda.
+
+[Enes Fehmi Manan]: Machine learning bayağı zor yani.
+[Kaan Bıçakçı]: Aslında baktığımız zaman...
+[Enes Fehmi Manan]: Şimdi böyle bir senaryoda ilk başta machine learning...
+[Kaan Bıçakçı]: Gerçekten gerekli mi?
+[Enes Fehmi Manan]: Bunu bir sormak gerekiyor.
+[Kaan Bıçakçı]: Yani...
+[Enes Fehmi Manan]: Ben bunu istatistiksel yöntemlerle, metotlarla çözebilir miyim? Veya çok basic yöntemlerle çözebilir miyim? Bunu bir sorgulamak gerekir.
+[Kaan Bıçakçı]: Bence.
+[Enes Fehmi Manan]: İşte basic yarışma veri...
+
+[Kaan Bıçakçı]: Soracağım.
+[Enes Fehmi Manan]: Sorunun devamı geldi. Yarışma datası, evet, yarışma datası. Evet, yani bu büyük ihtimalle...
+[Kaan Bıçakçı]: Zor bir soru.
+[Enes Fehmi Manan]: Şöyle olabilir.
+[Kaan Bıçakçı]: Benim kendi izlediğim bir metot yani öyle söyleyeyim. Bu tarz data az olduğu zaman ben kural tabanlı bir şey yazmaya gidiyorum genelde. Ama bu kuralları çıkarmak için öncelikle şöyle bir taktik izliyorum: Bir tane decision tree alıyorum yani bayağı bir de decision tree classifier.
+
+[Enes Fehmi Manan]: Bu durumda, sonra datayı böyle fit ediyorum önce tüm data. Bu decision tree classifier ile kuralları çıkarabilirsiniz. Yani bayağı işte feature'lar şunlardı, şu değerler vardı, ondan da şu şekilde oldu hani if-then-else şeklinde kuralları çıkarabilirsiniz. Bu şekilde kuralları çıkarıp...
+[Kaan Bıçakçı]: Fit edebilirsiniz, arkadaşlar. Daha sonra o kuralları böyle elinizle oynamak... Hani... Kaldırabiliyorsak yani... Hani mesela...
+[Enes Fehmi Manan]: ...belki daha iyi sonuçlar verebilir. Zaten yarışma datası dediği için burada orada bir şeyler yapılabilir. Büyük ihtimalle cross-validation'da birazcık şey yapabiliriz. 400 diyor ya, kaç fold'a bölebiliriz?
+
+[Enes Fehmi Manan]: Yani fold sayısını yüksek tutabiliriz. Belki birazcık, ne derler, yüksek tutabiliriz. Mesela burada 400 ise işte 15-20 olabilir. İşte 15-20'de yine bir kurallar nasıl değişiyor, bunları bir inceleyip hani o aradaki farkı, daha sonra tüm datadan çıkardığım kurallarla karşılaştırıp bir şekilde kapatabilir miyim?
+
+[Kaan Bıçakçı]: diye düşünebiliriz. Yani böyle çözdüğü bir problem olmuştu, hani öyle söyleyeyim.
+[Enes Fehmi Manan]: Çünkü direkt böyle modeli kurdum, sonuçları aldım...
+[Kaan Bıçakçı]: ...yani bu tarz datalarda böyle başarı çok yüksek olmuyor. Üstüne post-processing yapmak gerekiyor, öyle söyleyeyim. Ya bu arada...
+[Enes Fehmi Manan]: ...decision tree orada hani o kuralları çıkarmak için yapıyorsun ve işte ne bileyim, feature'ı nereden kıracak onu bir göreyim.
+[Kaan Bıçakçı]: Ama orada da decision tree'nin parametrelerini...
+
+[Kaan Bıçakçı]: Ama orada da decision tree'nin parametrelerini çok iyi bilmeyen insanlar böyle aşırı fazla bir kural setiyle karşı karşıya kalabilirler. Biraz yüksek parametre verdiklerinde o taraf için bir önerin olur mu?
+
+[Enes Fehmi Manan]: Yani böyle bir şey yapacak insanlar nereden başlasın, nasıl baksın?
+
+[Kaan Bıçakçı]: Default parametrelerle.
+
+[Enes Fehmi Manan]: Peki, default parametrelerle eğittiği vakit mesela çok fazla kural çıkar mı? 400 satırlık bir veride max_depth'ten yaparsak ve verinin de varyansı yüksekse?
+
+[Kaan Bıçakçı]: Tabii, şöyle ansiklopedi kadar kural çıkabilir. Yani max_depth'i biraz sınırlamak lazım; işte 3-5-7 artık neyse. Önce bir deneyip nasıl çıkıyor, yani ona göre hareket etmek gerekir. Onu şey demiş... Devamlı olarak...
+
+[Enes Fehmi Manan]: Cross-validation?
+
+[Kaan Bıçakçı]: Leave-one-out?
+
+[Enes Fehmi Manan]: Olur mu yoksa...?
+
+[Enes Fehmi Manan]: Olur mu yoksa, delice mi demiş? Leave-one-out olabilir, yapabiliyorsan git denerdim yani. Fit etme süreci büyük ihtimalle kısa.
+[Kaan Bıçakçı]: Sonuçta zaten anladığım kadarıyla denenebilir.
+[Enes Fehmi Manan]: Mesela, Leave-one-out cross-validation nedir? Kısaca açıklayabilirsiniz, bilmeyenler için mesela, tabii. Arkadaşlar, veya işte nasıl derler, bir veri seti üstüne test etmek istediğiniz...
+[Kaan Bıçakçı]: Mesela onu da Cross-validation, test veriniz olmadığı takdirde modelinizi...
+
+[Kaan Bıçakçı]: ...zaman, bir hiperparametre ayarlayacağınız zaman.
+[Enes Fehmi Manan]: Genelde kullanılan bir şeydir.
+[Kaan Bıçakçı]: Bu yöntemdir.
+[Enes Fehmi Manan]: Verinizi beş eşit parçaya, mesela bölüp, beş eşit parçaya böldüğünüz zaman verinizi, dört parçasını train'de, bir tanesini testte kullanırsınız ve daha sonra bu beş eşit parçaya da train test bölümlerini değiştirerek devam edersiniz ve totalde beş tane model fit etmiş olursunuz.
+[Kaan Bıçakçı]: Leave-one-out.
+
+[Kaan Bıçakçı]: Arkadaşlar, "Leave-one-out" dediğimiz şeyde, hani bir tanesini açıkta bırakmak demek. Hani bir tane kalacak konsept olarak. Bir tane veriyi test olarak kullanmak demek ama hani burada bir tanesini test olarak kullanmak belki çok mantıklı olmayabilir. Hani böyle...
+[Enes Fehmi Manan]: İşte üç tanesini, beş tanesini...
+
+[Kaan Bıçakçı]: Olabildiğince bir kısmını bırakıp test etmek demek yani. Mesela, 400 veriden 5 tanesini testte bırakıp 395'ini train ederek kullanabilir. İşte bunu tekrar etmek...
+[Enes Fehmi Manan]: Diyebiliriz. Şöyle bir şey demiş: 400 satırsa...
+[Kaan Bıçakçı]: 400 model oluyor yani.
+[Enes Fehmi Manan]: Tabii, sürekli bir tane...
+
+[Kaan Bıçakçı]: bırakırsak 400 model olur.
+[Enes Fehmi Manan]: İşte onu kısmak için belki 3-5 yapıp onu kompense edebiliriz. Şöyle bir soru var, güzel bir soru: "Bence hocam, yarışmalara katılacak bir yapay zeka yapabilir miyiz? Kendisi skor alacak, aldığı skoru kendisi iyileştirecek. Böyle bir şey yapmak mümkün olur mu?"
+[Enes Fehmi Manan]: Yani tabii.
+[Kaan Bıçakçı]: Mümkün değil.
+[Enes Fehmi Manan]: Demek yani çok mantıklı değil.
+[Kaan Bıçakçı]: Bu noktada ama tabii ne zaman mümkün olur sorusu asıl sorulması gereken soru.
+[Enes Fehmi Manan]: Şu an için çok...
+[Kaan Bıçakçı]: Mümkün mü?
+[Enes Fehmi Manan]: Zannetmiyorum.
+[Kaan Bıçakçı]: Yapılabilir belki hani böyle çok...
+
+[Enes Fehmi Manan]: Spesifik bir agent pipeline'ı, işte nasıl artık aklınıza yetiyorsa öyle bir şey kurup belki o domain'e özel bir LLM'le desteklenirse...
+[Kaan Bıçakçı]: Belki.
+[Enes Fehmi Manan]: Olabilir. Hani çünkü yarışma datasında domain'i iyi bilmek lazım ki güzel feature'lar türetmek lazım, işte bu da modelin başarısını arttırsın. Bunları modeller şu an çok iyi yapamaz, onun için fine-tune gerekir büyük ihtimalle. Domain'e spesifik kendi skorunu iyileştirsin, yani kendisini skor alıp iyileştirmesine.
+[Kaan Bıçakçı]: Büyük ihtimalle LLM gerekmez, hani bu otomasyon skripti.
+
+[Kaan Bıçakçı]: Büyük ihtimalle LLM gerekmez, hani bu otomasyon skripti olarak yazılabilir.
+[Enes Fehmi Manan]: Büyük ihtimalle CLI olarak.
+[Kaan Bıçakçı]: Hani...
+[Enes Fehmi Manan]: Yani, uğraşırsak uğraşılırsa...
+[Kaan Bıçakçı]: Olabilir ama...
+[Enes Fehmi Manan]: Performans çok iyi.
+[Kaan Bıçakçı]: Olur mu? Birinci olmaz büyük ihtimalle.
+[Enes Fehmi Manan]: Ama ortalama...
+[Kaan Bıçakçı]: Bir şey olabilir belki.
+[Enes Fehmi Manan]: Uğraşmaya...
+[Kaan Bıçakçı]: Değer mi ona?
+[Enes Fehmi Manan]: Emin değilim ya bu arada.
+[Kaan Bıçakçı]: Böyle bir şey...
+[Enes Fehmi Manan]: Yapmışlar şu an. Ben de bitirme projem için bu tarz bir...
+
+[Enes Fehmi Manan]: Konuya bakıyorum. Hani acaba data science tarafında bir agent yapsak, data science'daki problemleri, bu konuştuğumuz işte leak'tir, periyotlamadır, bu tarz sorunları yaşatmadan, düzgün bir pipeline'ı kurup çözebilecek bir agent ortaya çıkartabilir miyiz? Bunun için daha yeni bir tane paper çıkmış. Şu an tam olarak yayınlanmamış ama reposunu ben chat'e atayım. Bu repodan gidip...
+
+[Enes Fehmi Manan]: Bakabilirsiniz. Bunlar "case-based" diye bir şey yapmışlar, "case-based reasoning". Kaggle'daki yarışmaları almışlar. Case case bir soru geldiği vakit, orada bir pipeline var. Pipeline önce case'i belirliyor. İşte, ondan sonra ilgili case'deki aşamalara bakıyor, nasıl yapmış? Orada tekrardan bir döngü var. Şeye bakıyor: Buradaki sonuç mantıklı mı, hata veriyor mu? Falan. Kendi içerisinde bir debug yapıyor. İşte, sonrasında başka bir yere gidiyor, orada tekrardan bir döngüye giriyor falan. Bu şekilde, fine-tune olmadan direkt "case-based reasoning agent" diye kendilerince böyle bir şey çıkarmışlar. İlgilenenler bakabilir.
+[Kaan Bıçakçı]: Biraz fazla detaylı.
+[Enes Fehmi Manan]: Ve karmaşık bir şey açıkçası.
+
+[Kaan Bıçakçı]: Böyle.
+[Enes Fehmi Manan]: Pıt diye anlaşılmıyor zaten. Karmaşık olması gerekir. Ne kadar genel olursa...
+[Kaan Bıçakçı]: Başarı bir noktada o kadar düşer. Kompleks olması...
+[Enes Fehmi Manan]: Anlaşılabilir bence, kesinlikle.
+[Kaan Bıçakçı]: Hatta...
+[Enes Fehmi Manan]: Repo'yu şeyde koymuşlar, agent'ın ürettiği scriptlerin neden başarısız olduğunu öyle bir marktan da koymuşlar. Ona da bakabilirsiniz. Şöyle şöyle bir şey geldi, bunlar başarısız oldu.
+[Kaan Bıçakçı]: Niye oldu?
+[Enes Fehmi Manan]: Şöyle bir soru var: "Cazı 4'ten data engineer olarak meslekle ilerlerken özellikle hangi teknikleri ve araçları öğrenmek önemli, gelişim için hangi kaynakları veya projeleri önerirsiniz?" Burada farklı bir şey geldi, hiç konuşmadık.
+
+[Kaan Bıçakçı]: Bu konuyu, data engineer...
+[Enes Fehmi Manan]: ...başlığı geldi. Valla hiç bu konuda...
+[Kaan Bıçakçı]: ...gerçekten bilgim yok.
+[Enes Fehmi Manan]: Yanlış yönlendirmeyeyim. Data engineer genelde bir noktadan verinin toplandığı bir yer vardır, oradan veriyi çeken, daha sonra alt takımlara ileten kişiye olarak bakıyoruz.
+[Kaan Bıçakçı]: Burada tabular data...
+[Enes Fehmi Manan]: ...şey oluyor, nasıl diyeyim, biraz daha öne çıkıyor. Çünkü data engineer'ın çalıştığı yerler genelde mesela büyük şirketler.
+[Kaan Bıçakçı]: Mesela...
+
+[Enes Fehmi Manan]: Bankacılık, sigortacılık, her neyse, SQL kullanarak aslında veriyi çekip onu daha sonra uygun hale getirip artık join farklı farklı.
+[Kaan Bıçakçı]: Ben çok hakim değilim dediğim gibi oraya ama orada anlık query'lerle kullanılıyor büyük ihtimalle. Transact SQL de...
+[Enes Fehmi Manan]: SQL. TSQL de kullanılıyordur. Böyle ilerisi...
+[Kaan Bıçakçı]: Ve...
+[Enes Fehmi Manan]: ...bu kariyer için hangi kaynakları, projeleri?
+[Kaan Bıçakçı]: Maalesef bilmiyorum.
+[Enes Fehmi Manan]: Üzgünüm, çok bilgim yok.
+[Kaan Bıçakçı]: Ya bu MLOps ve...
+[Enes Fehmi Manan]: Machine learning.
+
+[Enes Fehmi Manan]: Machine learning engineering olarak çalıştığı için daha çok model deploy, birazcık hani o süreçlere direkt o title olduğu için daha hakim.
+[Kaan Bıçakçı]: Data engineering biraz bunların dışında kalıyor ya.
+[Enes Fehmi Manan]: Onlar böyle...
+[Kaan Bıçakçı]: ...model kurmuyor, direkt o model kurulacak datadaki...
+[Enes Fehmi Manan]: ...işte o datayı...
+[Kaan Bıçakçı]: ...o pipeline'ı...
+[Enes Fehmi Manan]: ...sana getiren kişi aslında. O oluyor diye biliyorum.
+[Kaan Bıçakçı]: Biraz data engineer, benim de gözlemlediğim kadarıyla.
+[Enes Fehmi Manan]: Kaan da dediği gibi.
+
+[Kaan Bıçakçı]: SQL tarafı.
+[Enes Fehmi Manan]: Her şeyin başı ya, hani science tarafında da. SQL inanılmaz kuvvetli olması lazım data engineer tarafta. Ya orada da işte ne bileyim Kafka, Flink gibi.
+[Kaan Bıçakçı]: Başı bende. Docker, farklı teknolojiler var. Benim katıldığım bir bootcamp'ten biliyorum ben de. Kafka, doğru, Kafka kullanıyorlardı.
+[Enes Fehmi Manan]: Evet ya, hatta işte iyi bir solution architect'e sormuştum.
+[Kaan Bıçakçı]: O da...
+
+[Enes Fehmi Manan]: Kafka ve Flink'in ilerleyen zamanlarda gerçekten önemli olacağından bahsetmişti. Burada kitap olarak şeye bakabilirsin ya, "Data Engineering Fundamentals" diye bir kaynak var. Orası başlangıç için güzel olabilir. Şöyle bir şey var, işler no-coding'e doğru gidiyor mu? Gerçekten genç kardeşlerimiz kod öğrenmeyi bıraksınlar mı sizce? Yani no-coding'le kastımız, elleme işte herhangi bir araca verdim, bana çıktıyı verdiyse sanmıyorum.
+[Kaan Bıçakçı]: Yani olur.
+[Enes Fehmi Manan]: O da olur büyük ihtimalle.
+
+[Enes Fehmi Manan]: O da olur büyük ihtimalle. Olur ama şu anki yakın gelecekte yeni başlayanlar...
+[Kaan Bıçakçı]: Kodu öğrenmeyi bıraksınlar mı? Yani bence gerek yok. Ben yakın zamanda gittiğimi düşünmüyorum ama ileride mutlaka olur.
+[Enes Fehmi Manan]: Mutlaka, işte bu, işte AGI vesaire bunlar çıkar, bunlar gelişir, işte daha farklı yöne evrilir.
+[Kaan Bıçakçı]: Mutlaka olur.
+[Enes Fehmi Manan]: Ama şu an için ben öyle olduğunu zannetmiyorum. Hani işte bölümü bırakayım, işte bilgisayar okunmaz mı falan, işte yapay zekası her şeyi bitirdi.
+
+[Kaan Bıçakçı]: Falan.
+[Enes Fehmi Manan]: Yani öyle bir şey yok. Öyle diyenler genelde işte bu çok mesela büyük projede çalışmamış kişiler oluyor.
+[Kaan Bıçakçı]: Genelde baktığımız zaman. Ya hatta işin temelinin bilinmesi daha da önemli hale geldi diyebilir miyiz?
+[Enes Fehmi Manan]: Yani herkes...
+[Kaan Bıçakçı]: El ele mi?
+
+[Enes Fehmi Manan]: Bir şey yapar ama aslında orada yapılacak şeyi ölçeklenebilir, gerçekten düzgün çıkacak bir şekilde bunu tarif edebilmek için aslında işin daha da derinliğini, o computer science'ın arkasını bilmek gerekiyor sanki. Sen ne dersin bu konuda?
+[Kaan Bıçakçı]: Evet, çünkü yani kod yazılıyor.
+[Enes Fehmi Manan]: Mesela bir kod yazdı diyelim, bu model 10 megabyte RAM kullanıyor. 10 megabyte kaynak tüketiyor. Şimdi bunu eğer temeli iyi bilinirse, siz bu 10 megabyte'lık kullanımı belki 1 megabyte'a indirebilirsiniz.
+
+[Enes Fehmi Manan]: Yani bu küçük gibi görünse de aslında bu tarz şeyler üst üste eklendiği zaman gerçekten önemli.
+[Kaan Bıçakçı]: Hale geliyor. Hani mesela bir mobil uygulaması yaptınız diyelim, bu modelleri kullanarak...
+[Enes Fehmi Manan]: İşte her mobil cihazın kendine bir RAM'i başlıyor. 8 gigabyte, 16 gigabyte neyse. Bu mobil uygulamasında sayfa geçişleri, mesela, sayfayı geçtikten sonra sayfayı kapatmıyor, işte üstüne yazıyorsa mesela...
+
+[Enes Fehmi Manan]: Sallıyorum ben, çok hakim değilim ama basit bir örnek vermeye çalışıyorum. İşte o sürekli bir sayfanın üstüne...
+[Kaan Bıçakçı]: Böyle yazıyorsa yazıyorsa ne olacak?
+[Enes Fehmi Manan]: Kaynak tüketimi artacak. Mesela ne olacak?
+[Kaan Bıçakçı]: RAM.
+[Enes Fehmi Manan]: Kullanımı yükselecek gibi.
+[Kaan Bıçakçı]: Hani bunu fark etmek aslında bir açıkçası mesele oluyor dediğin gibi.
+[Enes Fehmi Manan]: Evet, teşekkürler. Bu arada soru varsa son soruları alabiliriz. Yoksa artık yayınımızı da sonlandıracağız. Bir buçuk saatte konuşuyoruz.
+[Kaan Bıçakçı]: Bence çok doyurucu bir oturum oldu yani.
+
+[Enes Fehmi Manan]: Var mı soru var mı? Teşekkürler diyor Onur. Yordum.
+[Kaan Bıçakçı]: Ağzınıza sağlık.
+[Enes Fehmi Manan]: Biz teşekkür ederiz Onur. O zaman dinlediğiniz için teşekkür ederiz. Kaan, geldiğin için çok teşekkür ederim. Gerçekten güzel bir yayındı. Umarım...
+[Kaan Bıçakçı]: Umarım Türkiye'ye geldiğinde de mutlaka onsite bir eventte görüşmek dileğiyle diyeyim.
+[Enes Fehmi Manan]: Buradan.
+[Kaan Bıçakçı]: Selin'den de bir mesaj var: "Emeğinize sağlık."
+[Enes Fehmi Manan]: Teşekkürler, teşekkür ederiz.
+[Kaan Bıçakçı]: Arkadaşlar.
+[Enes Fehmi Manan]: Bu arada, DataCommit'in hani ilk etkinliği.
+
+[Enes Fehmi Manan]: Bu arada, DataCommit'in hani ilk etkinliği. DataCommit'in ilk yayını olması sebebiyle de çok değerliydi. O açıdan da gerçekten mütevazı bir açılış yapmış olduk. Evet, açılış...
+[Kaan Bıçakçı]: ...sende oldu. Güzel oldu. Hayırlı akşamlar o zaman arkadaşlar.
+[Enes Fehmi Manan]: Görüşmek üzere.
+[Kaan Bıçakçı]: Görüşmek üzere.
+[Enes Fehmi Manan]: Teşekkürler, teşekkür ederim.
+

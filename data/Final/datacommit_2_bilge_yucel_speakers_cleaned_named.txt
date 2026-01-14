@@ -1,0 +1,593 @@
+[Bilge Yücel]: Selamlar herkese.
+
+[Enes Fehmi Manan]: DataCommit'in ikinci yayınıyla birlikteyiz. Bu yayına özel, Bilgi Yücel bizlerle birlikte. CNI tarafında gerçekten TR'de adından söz ettiren birisi. Gerek yaptığı konuşmalarla gerek globaldeki yayınlarıyla da benim çok takip ettiğim bir isimdi. Bugün bu programda olduğu için de mutluyum. İstersen Bilgi, seni tanımakla başlayabiliriz. Öncelikle hoş geldin.
+
+[Bilge Yücel]: Hoş bulduk. Teşekkür ederim davetin için ve burada beni ağırladığın için de.
+
+[Enes Fehmi Manan]: Rica ederim. Biraz bize kendinden bahsedebilir misin? Bu alana başlangıcın, şu an çalıştığın şirket, neler yapıyorsun?
+
+[Bilge Yücel]: Son iki senedir Deepset isimli, Almanya merkezli, daha doğrusu Berlin merkezli bir şirkette çalışıyorum. Gerçi yavaş yavaş şirket şu anda büyüyor. Amerika'da da çalışanlar olmaya başladı. Orada da böyle küçük bir merkezi var. Burada, bu şirkette Developer Relations Engineer olarak çalışıyorum. Deepset yapay...
+
+[Enes Fehmi Manan]: Çok enteresan bir nokta. Oraya tekrar da gelmek lazım. Bu 'title' Türkiye'de hiç duymadığım bir 'title'. Sadece yurt dışında çalışanlarda böyle çok az kişide gördüğüm bir 'title'. Tam böyle Deepset'e geçmeden, yaptığın 'title'ın ne yaptığını mesela, işte onu bize bir kısaca söyleyebilir misin? Developer Relations Engineer nedir? Bence inanılmaz açıklayıcıydı. Hatta ben de rolü tam bilmiyormuşum yani. Şu an öğrendim diyebilirim, daha detaylı. Merak ettiğim bir şey de hatta senin Deepset'e işte intern'lükten girişin var. Intern'ken advocate oluyorsun, ondan sonra relations'a geçiyorsun. Yani orada da bir senin içeride yükselişin var. Biraz bu Deepset'e girişinden işte orası nasıl olduğu bahsedebilir misin?
+
+[Bilge Yücel]: Ya ben bir iş arıyordum. Yeni yüksek lisansımdan mezun olmuştum. Belki orayı da sonrasında anlatabilirim. Ve böyle biraz daha işte applied NLP scientist, data scientist gibi rollere bakıyordum. Ama bir yandan da böyle developer advocate, developer advocacy, işte developer relations gibi şeyleri duyuyordum ve biraz da merak ediyordum bunlar ne acaba, ne yapıyorlar acaba diye. Ben Deepset'i Twitter'dan buldum. Bu alanda yani yapay zeka alanında çalışan bir şirket olduğundan ve özellikle benim ilgilendiğim alan, doğal dil işleme alanında çalışan bir şirket olduğundan, Deepset'i bulup başka takip ettiğim şirketler de vardı. Ve bir gün işte Twitter'da dolaşırken bir ilan açıldığını gördüm işte. Developer Advocate Intern arıyorlardı. Dedim süper, ben iş arıyorum.
+
+[Enes Fehmi Manan]: Onlar intern arıyorlar.
+
+[Bilge Yücel]: Yani böyle kendim yeteneklerimden de açıkçası çok emin değildim. Acaba hani Developer Advocate olmak ne demek? Ben bunu yapabilir miyim? Yaparsam sever miyim? Hani çok fazla soru işareti vardı kafamda. O yüzden de dedim ki çok iyi, ben bu staj döneminde de biraz bakarım, bu işi tanırım. Hem şirket beni tanımış olur hem de yapmak isteyeceğim bir şey mi onu anlamış olurum diye böyle bir başvuruda bulundum. Ve işte türlü mülakatlardan geçerek şirkette başladım. Altı aylık bir sürecin sonunda da artık karşılıklı bir memnuniyet de söz konusu olunca full-time olarak aynı işi yapmaya devam ettim aslında. Sonrasında da yani Developer Advocate'tan Developer Relations Engineer'a geçtim. Çünkü aslında yaptığım iş tamamen bir mühendislik işiydi genel adlarıyla. Yani 'Developer Advocate' title'ı da çok yanlış değil aslında bu işi yapan insanlar için. Fakat benim mühendis olduğumu biraz daha bu title'ımda da belirtmek istedik. Çünkü etkinliklere gidiyorum çok fazla ve teknik alanına da hâkimim, gerek ürünün gerekse bu alanın. Bu yani sahip olduğum rolün aslında yaptığım işi daha iyi yansıttığını düşündüğümüz için böyle bir şey yaptık. Aslında Developer Advocate olarak da kalabilirdim bence, çok da yanlış olmazdı. Ama bu title'ımı daha çok seviyorum.
+
+[Enes Fehmi Manan]: Anlıyorum. Yani 'advocate' dediğimiz 'title' teknik tarafı aslında çok aşırı dokunmayan bir 'title', senin şu anki 'title'ına nazaran.
+
+[Bilge Yücel]: Birazdan sen teknik bir insan olduğun için ve mühendislik çıkışlı olduğun için...
+
+[Enes Fehmi Manan]: Anlıyorum. Yani 'advocate' dediğimiz 'title' teknik tarafı aslında çok aşırı dokunmayan bir 'title', senin şu anki 'title'ına nazaran. Aslında "ben engineer'im" dedin ve o tarafta engineer'e geçiş yaptın.
+[Bilge Yücel]: Birazdan sen teknik bir insan olduğun için ve mühendislik çıkışlı olduğun için... Aynen öyle diyebiliriz yani genel adlarıyla. Developer advocate'lar biraz daha evet iletişim tarafı daha güçlü olan insanlar, daha çok işin bu tarafını yapan insanlar. Ben biraz daha bunun teknik tarafında kalıyorum.
+[Enes Fehmi Manan]: Kesinlikle, güzel bir açıklamaydı. Ben o advocate'ın farkını da merak ediyordum. Yani bu yurt dışında popüler roller, böyle çok görüyorum. İşte Hugging Face'de bunu görüyorum, Deepset'te o tarz bir open source bir kütüphane olduğu için orada da aslında onu görüyorum. Bu arada "kütüphane" dedim, belki yanlış bir terim kullanmış olabilirim. Orada Deepset'in tam ne olduğundan da bir bahsedebiliriz. Ama galiba çok da ileri atladık gibi geldi bana. Birazcık daha senin böyle üniversite zamanına ve alana yönelmenden bahsedebiliriz. Ben hani bildiğim kadarıyla sen mezun olduktan sonra web'ci olarak aslında sektöre giriş yapıyorsun.
+[Bilge Yücel]: Evet. Ya aslında benim bu bilgisayar mühendisi olma yolum da birazcık farklı. Ben liseden mezun oldum. Endüstri mühendisliği okuyacaktım ama işte Sabancı Üniversitesi'ne gitmek çok istiyordum. Orada bir yaz kampına katılmıştım lisedeyken ve kampüsü çok hoşuma gitmişti, sistemini çok beğenmiştim. Dedim ki ben Sabancı Üniversitesi'ne gireceğim ama endüstri mühendisliği okuyacağım. Bu şekilde bir giriş yaptım üniversiteye. Sabancı Üniversitesi'nin şöyle bir sistemi var: İlk girdiğiniz sene bütün herkes tamamen aynı dersleri alıyor. Bunlar daha klasik dersler tabii ki; işte edebiyat, İngilizce, tarih, matematik gibi çok temel dersler alıyorsunuz aslında. Ama direkt bölüme giriş yapmıyorsunuz. Üniversite size bu alanı, yani sizi aslında tanıyor: "Sen biraz önce bir kendini tanı, neler yapmak istiyorsun, biraz üniversiteye alış." Bu alanı size sağlıyor. Sonrasında da ikinci seneye geçtiğimizde bomboş bir kâğıt veriyorlar size ve diyorlar ki "Hadi şimdi kendi istediğiniz bölüme göre bir programınızı oluşturun." Ve siz her dersi seçmekte özgürsünüz. Ben de işte böyle bir program oluşturdum ve oluşturduğum programda programlama dersi de vardı. Çünkü o, endüstri mühendisliği için gerekli olan derslerden bir tanesiydi. Ben sonra bu programlama dersini aldım, C++'la ve çok hoşuma gitti, inanılmaz hoşuma gitti. Dedim ki ben ikinci dönemde biraz böyle geçireyim, bir bakayım gerçekten bu bölümü okuyabilir miyim, bilgisayar mühendisi yapabilir miyim diye. İkinci dönemimi de yani biraz karışık derslerden aldım. Ve bir gün çok iyi hatırlıyorum, kütüphaneden gece 3'te yurduma dönerken bütün gece böyle bir ödev için çalışmışım.
+[Enes Fehmi Manan]: Kodlama yaparak.
+[Bilge Yücel]: Dedim ki yani ben bunu gece 3'e kadar hiç sıkılmadan, bunalmadan yapıyorsam...
+[Enes Fehmi Manan]: Bence ben bu bölümü okurum.
+[Bilge Yücel]: Severek de okurum dedim. Böylelikle aslında Sabancı Üniversitesi'nin sağladığı bir olanak sayesinde bilgisayar mühendisliğine geçiş yaptım. Başka bir üniversitede olsaydım büyük ihtimalle endüstri olarak devam edecektim. Sonrasında 4. sınıfın, yani son senemin ikinci döneminde part-time olarak Hippo'da bir işe girdim. Orada part-time olarak web development yapıyordum. React yazıyordum, TypeScript kullanıyorduk. O zamanlar daha yeni yeni geçişler vardı böyle React ve TypeScript'e. Ama çok hoşuma gitmişti. Yani genel hatlarıyla gerçek bir projede çalışmak, işte önünde bir user interface kodluyorsun, o çıkıyor işte. Ama hani çok kodun içerisinde değilsin ama bir noktada bir şey yapıyorsun ve görüyorsun da onun çıktısını. Çok hoşuma gitmişti. Yani iki sene, iki buçuk sene kadar Hippo'da bu şekilde çalıştım. Oradaki grubumu da çok seviyordum, arkadaşlarımı da çok seviyordum, şirketi de çok seviyordum. Çok güzel kültürü olan bir şirketti. Fakat iki senenin sonunda böyle biraz şey oldum: "Tamam, bu alanı gördüm. İşte web development, front-end mühendisliği nasıl bir şeymiş, bunu gördüm. Hadi biraz da yani bilgisayar mühendisliğinde ne tür işler var, onları biraz keşfedeyim." diye yapay zeka alanında yüksek lisans yapmak için işten ayrıldım. Ve Belçika'ya gittim bir sene boyunca. Yüksek lisans yaptım. Tamamen böyle bir ismi AI'dı yani. Bir senelik bir program, çok yoğun bir program. Bir sene içerisinde on bir tane ders alıyorsunuz, üstüne bir de tezinizi yazıyorsunuz. Neyse ki tezi bir şirkette staj yaparak yazabiliyordunuz. O yüzden ben de öyle bir seçeneği seçmiştim. Bu bir senenin sonunda da mezun olunca tabii ki aldığınız temelle beraber çeşitli şirketlerde işte data scientist olarak işe girebiliyorsunuz. Bunlar daha tabii generatif AI öncesi, yani birkaç ay öncesi diyebilirim. Yanlış hatırlamıyorsam ben 2022 yılında mezun oldum. Ve ChatGPT'nin çıkması, artık bu large language model dediğimiz şeylerin hayatımıza girmesi de 2022 yılının sonlarına doğru geliyor. Bu şekilde yani bir geçiş oldu hayatımda.
+[Enes Fehmi Manan]: Ve development'ı da çok seviyordun.
+[Bilge Yücel]: Şimdiki çalıştığım alanı da çok seviyorum. Bakalım bundan sonra neler olacak. Belki bu şekilde devam ederim, belki birkaç yıl sonra bakarsın ki ben bambaşka bir alanda, bambaşka bir rolde çalışıyorum. Mümkün mü?
+[Enes Fehmi Manan]: Computer Science'ı seviyorsun diyebilir miyiz?
+[Bilge Yücel]: Evet. Yani içerisinde kod varsa seviyorum ben. Kodlamayı çok seven bir insanım. Çünkü Computer Science'ın her alanı kodla ilerlemiyor. Oraları mesela çok hoşuma gittiğini söyleyemem. Ben biraz daha "Oturayım, IDE'mi açayım." kafasında bir insanım.
+[Enes Fehmi Manan]: Kesinlikle. Ben bu anlattığın serüvenden aslında çok böyle can alıcı nokta, senin Sabancı'dayken aldığın C++ dersi. Aslında bir noktada senin de kırılma noktan olmuş. Bir anda kodlamayla tanışman, sonrasında "Ya ben bunu seviyorum!" demen, işte gece 3'lere kadar kodun başından ayrılmamak, oradaki fark ediş falan... Yani inanılmaz.
+[Bilge Yücel]: Sonrasında AI için Belçika dedin, değil mi?
+
+[Enes Fehmi Manan]: Hı hı. Belçika'ya yüksek lisansa gittin. Ve direkt programın ismi AI. Yüksek lisans.
+[Enes Fehmi Manan]: Evet. Buradaki dersler neydi o dönemde? Hani tabii TR tarafında yeni yeni farkındalık oluşuyor. AI böyle çok geniş bir kavram. Altı böyle çok çok fazla kırılıyor. O programda Belçika tarafını gerçekten merak ettim. O taraftaki dersler, kapsam nasıldı?
+[Bilge Yücel]: Aslında bu "Advanced Master's Degree" diye geçiyor. Belçika'da bu bölümü okuyan ya da Avrupa'da değil bu bölümü okuyan insanlar için öncelikle bir üç senelik Bachelor'larını bitirmeleri gerekiyor. Sonrasında genelde bir alanda iki senelik bir yüksek lisans yapmış oluyor ve sonrasında da üstüne ek olarak bir senelik bir programı yapıyorlar. O yüzden işte "Advanced Master's" diye geçiyor. Fakat Türkiye'de benim işte üniversitem dört senelikti. Onun üstünde de iki senelik çalışma tecrübem olduğundan dolayı bu alana girmekteki işte gereklilikleri karşılayabilmiştim, yüksek lisans daha öncesinde yapmamış olmama rağmen. Ve çok aslında yani bir senelik, kısa, yoğun bir programdı. Ve gerçekten de size direkt yapay zeka ile alakalı bilgileri veren bir programdı. Yani derslerimiz mesela Machine Learning dersimiz vardı, AI Ethics dersimiz vardı. Bu biraz daha hukukla yapay zekanın birleştiği bir alan diyebilirim. Computer Vision dersim vardı, NLP seçtiğim ders vardı, Information Retrieval gibi. Yani aslında yapay zekanın alt alanlarında Machine Learning ile alakalı birçok dersim vardı içerisinde. Tabii buradan da siz kendinizi üç farklı kategoride yönlendirebiliyordunuz. İsterseniz işte biraz daha doğal dil işleme tarafına yönelebiliyorsunuz, isterseniz biraz işte bilgisayar mühendisliği tarafına yönelebiliyorsunuz veya Big Data alanına da yönelebiliyordunuz. Bu alanda tabii ki daha farklı teknolojiler devreye giriyor. Ama çok gerçekten, eğer düşünen insanlar varsa, tavsiye ederim. En çok memnun kaldığım bir programdı. Yoğun olmasıyla ve bir senede yapıp bitirilmesiyle gerçekten çok endüstriden de kopmadan temel yapay zeka bilgisinin edinilebildiği bir programdı yani.
+[Enes Fehmi Manan]: Mesela "endüstriden de kopmadan" dedin ya, orada düşününce böyle aklıma akademi ve endüstri ikisinin arasında şöyle bir şey geliyor: Akademi işte matematik, kağıt üzerinde formüller ama endüstri deyince önünde bir kod IDE'si açılıyor gibi hissediyorum. Mesela şu an benim okuduğum bölüme de baktığım zaman, evet, Matlab ve R istatistikli bir ders alıyorum şu anda. Son sınıftayım. K-Means yapıyoruz mesela. Bu sizin tarafta da böyle miydi, Belçika'daki yüksek lisansta? Orada gerçekten bunların endüstriye yakın uygulamaları bir fiil var mıydı? Yoksa hani gerçekten sen bunu kendi çabanla mı götürüyordun kod kısmına?
+[Bilge Yücel]: Yok, yine akademiye odaklı bir bölümdü. Yani "endüstriden kopmadan" dediğim sadece kısa olmasıyla alakalıydı. Yani bölümdeki aslında hocaların kesinlikle öyle bir kaygıları yoktu. Tam tersine, hatta bir dersimizde sadece konuları öğreniyorduk. NLP dersiydi bu. Konuları öğreniyorduk ama hepsi "paper" bazlı ilerliyordu. Hiç bunun çok aktif bir şekilde endüstride nasıl kullanıldığını net görmüyorduk. Sadece işte bir dersinde hatırlıyorum, çok "hands-on" bir dersti. Gerçekten her gördüğümüz algoritmayı işte scikit-learn öğrenerek uyguluyorduk kendimiz. O ders mesela çok hoşuma gitmişti. Ama onun dışında genelde evet, biraz teorik kalıyordu. Ben o yüzden de aslında staj yapmak istedim. Yoksa yine tezimi yine bir üniversitedeki hocayla yazabilirdim. Ama staj yapıp biraz daha endüstride nasıl oluyor bunlar gerçekten diye görmek istemiştim. Ama işte bunun sağlanması bile aslında birazcık bir adımdır yani bence bir bölüm için. İnsanları endüstriye yakınlaştırmak için diyeyim.
+[Enes Fehmi Manan]: Orada mesela "tezim" diyorsun ya. Hani orada yaptığın tez neydi? Şu anda ben de son sınıf olduğum için tez yazma durumum var. Hem lisansta tez yazmıştım, onu da sorayım, hem de yüksek lisans tezine bağlayayım orada. Şu an ben zorlanıyorum açıkçası. Hani LLM'le alakalı bir şey yapmak istiyorum ama böyle tam hocamla uyuşamıyorum. Yapacağım şey böyle biraz fazla büyüyebiliyor, öngörülemiyor. Ondan sonra işte şu an başka birisiyle konuştum. O da dedi ki, "İşte bunu yapsan ne bileyim, altı ay sonra temel bir LLM bunu zaten yaparsa ne olacak?" dedi. Falan, orada da bir "trade-off" var. Böyle LLM tarafı da çok hızlı gelişiyor, büyük dil modelleri. Orada sen neler yapmıştın? Belki yeni tez yazacak olanlara da bir tavsiyen olur mu?
+[Bilge Yücel]: Ya, işte şeyler çok değişiyor. Şeyden başlayabilirim belki. Ben lisansımda tez yazmadım, bitirme projemiz vardı bizim. Tabii, bitirme projesi ve bunun raporu gibiydi. O zamanlarda bir tane uygulama yapmıştık.
+[Enes Fehmi Manan]: Mobil uygulama.
+
+[Bilge Yücel]: Sudoku'nun fotoğrafını çekiyorsunuz ve size o Sudoku'yu çözüyor. Yani, işte içerisinde mobil app'i de biz yaptığımız için Java'yla yazmıştık onu o zamanlar. İşte bir Java vardı, bir Sudoku çeken, Sudoku çözebilen bir algoritmamız vardı. Server'da bu çalışıyordu. Ve ondan sonra işte fotoğraf çekip bu fotoğraftan numaraları tanıyan, yani işte bir Sudoku var, çünkü orada 6 var, 8 var, o numaraları tanıyan yine küçük bir Machine Learning modelimiz vardı. Yani, böyle biraz farklı alanlarını birleştiren bir uygulamaydı. Bak, o zamanlarda demek ki biraz daha böyle yapay zekaya hafif ilgim varmış. Sonrasında benim yüksek lisansımda yaptığım tezde, ben o zamanlar insan kaynakları takımlarına yapay zeka uygulamaları yapan bir şirkette stajımı yaptım. Ve bu şirkette çok büyük bir veri seti vardı. Kendileri düzenli olarak işte LinkedIn'den buluyorlar, gerek işte web sitelerinden alıyorlar, Glassdoor gibi sitelerden alıyorlar. Çok büyük bir veri setleri vardı, iş ilanları ama hepsi. Ve benim yaptığım tez de şuydu: Bir iş ilanı, büyük bir metni var ve bu metni segmentlerine ayırıyordum. İşte bu metnin neresi, şirketin o ilanı veren şirketle alakalı bilgi içeriyor? İşte hangisi bu ilan için gereklilikleri anlatıyor? İşte ne bileyim, 4 sene tecrübe, B1 seviyesinde İngilizce vesaire gibi. Ve bir tarafı da yan haklar.
+
+[Enes Fehmi Manan]: Yani, bunun benefitleri.
+
+[Bilge Yücel]: Bu iş ilanındaki benefitler nedir gibi teksti. Ben bunu segmentasyonla yapıyordum, bildiğimiz Classification aslında.
+
+[Enes Fehmi Manan]: Aslında tam "hard NLP" zamanları, BERT'in öncesi.
+
+[Bilge Yücel]: Nasıl yapıyordum bu arada?
+
+[Enes Fehmi Manan]: Oradaki kullandığın model neydi?
+
+[Bilge Yücel]: Ya, orada çok büyük bir veri seti olduğundan dolayı, ben kendim oturup bayağı bir uzun süre manuel etiketleme yaptım. Yani işte burası şirketle alakalı, burası benefitler, burası requirement'lar falan diye. Ve sonrasında bunun için...
+
+[Enes Fehmi Manan]: Kolon kolon tabüler bir veri çıkardın aslında ve o metne bir etiket atadın her seferinde.
+
+[Bilge Yücel]: Aynen. Sonra TF-IDF ile bir Classification modeli eğittim. Ve sonrasında da bu model aslında şu şekilde kullanılıyordu: Bu modeli direkt bir çıktı olarak, yani bu modeli son bir model olarak kullanmıyorlardı. Sadece ellerindeki veriyi biraz daha anlamlandırabilmek için kullanıyorlardı. Yani aslında bu model bir ön işleme modeliydi.
+
+[Enes Fehmi Manan]: Ön işleme modeliydi.
+
+[Bilge Yücel]: Bu modeldi günün sonunda. Ve çok ilginçti. Yani o zamanlar tabii ki de Deep Learning vardı, işte nöral ağlar.
+
+[Enes Fehmi Manan]: Bunlar yok olmadı. Bunlar bu arada hâlâ var. Evet, hayır.
+
+[Bilge Yücel]: O zamanların en iyisi oydu. Fakat benim görevim için mesela onları da denemiştim ve çok iyi sonuçlar alamamıştım. Günün sonunda yine TF-IDF ile böyle anahtar kelime tabanlı bir algoritmayla sonuca ulaşabilmiştim. Yani, iyi sonuca ulaşabilmiştim diyeyim. Ama evet, senin de dediğin gibi, yani bu tamamen BERT öncesi, tamamen "traditional" yani geleneksel NLP dediğimiz zamanlardı. O zamanlar çok şeydi.
+
+[Enes Fehmi Manan]: Wow, nasıl bildi ama.
+
+[Bilge Yücel]: Hani çok güzel bir segmentasyon oldu falan gibiydi. Şu an tabii mesela tezime bakınca iki sene geçti üzerinden. Yani diyorum ki "Wow, neler neler değişti dünyada!"
+
+[Enes Fehmi Manan]: Yani şu an herhalde dümdüz kopyala yapıştır yapıp ChatGPT'ye bile atsan sana böyle rapor gibi çıkartır her şeyi. Aynen öyle. Ama o dönemlerin keyfi bir başkaydı ya. Yani ChatGPT'nin olmasından önceki NLP'nin keyfi bir acayipti.
+
+[Bilge Yücel]: Ya o zamanlar tabii ki gerçekten NLP bilgisi, ya şu anda da tabii ki çok önemli ama, NLP bilgisi çok önemliydi. Yani işte "token" ne demekti? Ve bizim bazı derslerimizde özellikle linguistik alanına yönelmek isteyen insanlar için gerçekten işte kelimelerin kökleri, ne anlama geldikleri, nasıl ilerledikleri kelimeler... Yani İngilizce dili için özellikle bununla alakalı dersler alıyorlardı. O yüzden de aslında linguistik bölümü mezunları bu alanda data scientist olarak çalışmaya çok uygunlardı. Ki hâlâ şu anda da uygunlar. Ama evet, şu an artık her şeyde herhangi bir task yapmamız gerekirse ilk gittiğimiz şey sanırım ChatGPT. İlk önce onunla bir deniyoruz. Sonrasında belki işte model eğitilecekse eğitiliyor veya başka bir model kullanılacaksa o kullanılıyor.
+
+[Enes Fehmi Manan]: Bu arada yani arada böyle çok güzel bir noktaya geldik. O da şu: Şu anda NLP yapmak için NLP bilgisi ne kadar gerekli? Çok tartışılan bir konu. Çok da gerçekten üzerine düşünülüyor. Bazıları diyor ki "Olsa olur." Yani hatta "Olmalı, artık bir şeyler yapacaksan gerekli." Ama bazıları da diyor ki "API canbazı olacaksan çok da gerek yok." Artık orada task'ine göre de değişir diyenler var. Sen ne diyorsun bu duruma?
+
+[Bilge Yücel]: Ben task'ine göre değişir diyorum. Hatta ben biraz daha gerekli tarafındayım. Çünkü şöyle: Her zaman API'larla bir uygulama yapmıyorsun. Çünkü API'lar pahalı olabiliyor. Datayı bir API'ye yollamak istemiyorsun. Farklı nedenlerle aslında çok büyük şirketlerde o büyük modelleri, yetenekli modelleri kullanmak mümkün olmuyor. O yüzden de kendin daha küçük modellerle daha hızlı çözümler bulmaya çalışıyorsun. Ve bu noktada da aslında yapay zeka bilgisi, daha spesifik olarak da NLP bilgisi çok önemli hâle geliyor. Çünkü o noktada işte modelin datasetlerini anlıyorsun. Ve bu model hangi datasetiyle eğitilmiş? Hangisine nasıl performans vermiş? Ve buna göre acaba bu benim uygulamam için, şu anki task'im için mantıklı bir model mi? Ben bu modeli nasıl bir yerde host edeceğim? Gibi sorular var. Ve bu soruların cevabını bulabilmek için bence biraz NLP bilgisi şart. Kimseye demiyorum ki tabii ki gidin yüksek lisansını yapın bunun. Bence o kadar o seviyede değil. Ama bence temelde bir NLP bilgisi gerekiyor. Bu modeller arkada nasıl çalışıyorlar? Neden işte bu model şu task için iyi ama bu task için iyi değil gibi.
+
+[Enes Fehmi Manan]: Kesinlikle yani bence çok güzel bir açıklamaydı. NLP'yi savunuyoruz.
+
+[Bilge Yücel]: Savunacağız.
+
+[Enes Fehmi Manan]: Yapay zekaya başlasanız arkadaşlar, bir NLP tarafı önemli.
+
+[Bilge Yücel]: Ya tabii ki. Her şekilde yani fazla bilgi, bilgi güçtür ne diyeyim.
+
+[Enes Fehmi Manan]: Zararı olmaz.
+
+[Bilge Yücel]: O şey kafa karışıklığı çok oluyor orada ya.
+
+[Enes Fehmi Manan]: Yani işte NLP deyince böyle hard matematiksel şeyler çıkıyor bir anda ekrana. İşte o dedim mesela TF-IDF dedin ama aslında o matematik yani.
+
+[Bilge Yücel]: Ama ChatGPT'ye deyince matematik bir şey yok yani.
+
+[Enes Fehmi Manan]: E-PIA'ya soru gönderiyorsun, sana bir cevap geliyor. Az da bu kadar basit bir şey yapmak için. Gerçi orada da işler çok dediğin gibi karmaşıklaşabiliyor.
+
+[Bilge Yücel]: Evet.
+
+[Enes Fehmi Manan]: Şimdi o yerde kaldık. Senin tezin vardı işte yaptığın stajda. Bu tezi yaptın, sonra tezinden bahsediyordun. Yüksek lisans tezinden.
+
+[Bilge Yücel]: Yani aslında tez, yani yüksek lisans tezimde bu tamamen biraz önce anlattığım süreci raporladığım bir şeydi. Yani işte tez değil de bir staj raporuydu. İşte ben bu staj raporunda neler, yani bu stajda neler yaptım, neleri denedim, nasıl sonuçlar aldım, işte bunu nasıl train ettim, ne kadar datayla train ettim, bununla nasıl sonuçlar aldım, örnekler paylaşılması vesaire gibi şeylerdi yani. Vallahi şu anda da bunu, yani tezim bir staj raporu olduğundan dolayı ve bir şirketle yazdığımdan dolayı bunu yayınlamadım tabii. Ama açıp bakmam lazım acaba başka neler ekledim buraya. Uzunca zaman oldu, iki sene geçti üzerinden.
+
+[Enes Fehmi Manan]: Muhtemelen hani sen de açıp baksan şaşırırsın. "Ya" dersin, "biz o zamanlar ne kadar hard işler yapmışız, nerelere girmişiz?" falan diyebilirsin muhtemelen.
+
+[Bilge Yücel]: Evet, kesinlikle bu arada derim diye düşünüyorum.
+
+[Enes Fehmi Manan]: Bu senin şeydeki, lisanstaki tezindi, classification tarafı.
+
+[Bilge Yücel]: Bu yüksek lisanstaki tezimdi.
+
+[Enes Fehmi Manan]: Bu yüksek lisanstaki, tamamdır. Şu an o tezi de yaptın, ondan sonra artık Deepset dönemi başlıyor senin için.
+
+[Bilge Yücel]: Aynen öyle yani. Ondan sonra artık bir iş arayışındaydım. Tabii yani o zamanlar şeyi fark etmiştim mesela: Tezimde neural ağlar kullanmamıştım. Çok basit machine learning algoritmaları kullanmıştım. Çalışıyor muydu? Çalışıyordu. Ama bana şirketleri etkilemek anlamında tezimi çok efektif bir şekilde kullanamamıştım. Orada çünkü bir tecrübem olduğunu kanıtlayamıyordum şirketlere. Yani bir PyTorch kullanmamıştım mesela. Ve o yüzden de bu süreç, özellikle yeni de bu alanda mezun olmuşum, yani NLP alanında, yapay zeka alanında bir tecrübesi olmayan bir insan için, bu beni birazcık zorlamıştı açıkçası. Ama şu an mesela bilmiyorum artık iş ilanlarında ne kadar aranıyor PyTorch bilgisi veya biraz daha acaba modellerin temel bilgilerini bilmek ve daha önce modelleri kullanarak bir uygulama geliştirmek belki daha önemli hale gelmiş olabilir. Buna da bakmak lazım. Ve sonrasında işte evet iş arayışım oldu. Developer Advocate olarak, internal olarak Deepset'e girdim. Hâlâ da şu an Deepset'teyim. İki sene geçti.
+
+[Enes Fehmi Manan]: Oradaki aslında en güzel noktalara geldik artık. Deepset nedir? Ve Haystack diye bir şey dönüyor, tamam mı? Haystack ve Deepset arasındaki ilişki nedir? Bunlar çatı bir şeyler mi? Bunlar nasıl bir şey? Bize biraz bahsedebilir misin?
+
+[Bilge Yücel]: Şimdi Deepset şirketin ismi. Haystack, Deepset'in sahip olduğu open source LLM framework'ü. Buna kütüphane demek de çok yanlış olmaz. Bir Python kütüphanesi günün sonunda. Aslında başlangıcı şirketin kurucuları, şu anki kurucuları, o zamanlar şirketlere küçük küçük danışmanlıklar veriyorlar. Bu verdikleri danışmanlıklar sırasında da bazı modelleri fine-tune ediyorlar kendi task'larına göre. Ve fark ediyorlar ki modelleri fine-tune etmek için çok fazla kütüphane, çok fazla script yok etrafta. Ve kendileri Haystack'i yazmaya başlıyorlar. Bunu işte open source olarak tutuyorlar. Ve kendilerinin aslında kendi işlerine yardımcı olması için başlayan bir proje. Sonrasında işte Haystack bir semantik search kütüphanesine evriliyor. Yani işte sizin question answering uygulamaları yapabileceğiniz, kendi o zamanlar embedding modelleri de var. Ama embedding modellerinin yanında keyword based retrieval yapabileceğiniz işte BM25, TF-IDF gibi metotlar da var yine. Bu metotları kullanabileceğiniz, kendi datanız üzerinde extractive search yapabileceğiniz ya da document search yapabileceğiniz bir framework hâline geliyor. Hâlâ open source, hâlâ Python ile yapılıyor. Ve bu şekilde şirket, yani Haystack ile beraber Deepset ile büyümeye başlıyor. Gerçekten bir şirket olarak kuruluyor. Şu an Haystack hâlâ open source bir framework. Tabii ki generative AI ile birlikte biz geçen sene Haystack'in bu NLP ile ilerlemesini biraz daha hızlandırdık ve yeni bir versiyonunu yazdık: Haystack 2 diye. Haystack 2, Haystack 1'in böyle biraz daha, yani oradan öğrendiğimiz şeylerin generative AI ile geliştirilmiş hâli. Çünkü eskiden sahip olduğumuz framework biraz daha search odaklıydı. Fakat generative AI girince hayatımıza, yaptığımız uygulamalar sadece search olmaktan çıktı. Çok daha büyük search uygulamaları olmaya başladı veya retrieval augmented generation dediğimiz uygulamalar dahil olmaya başladı. Hatta bir seviye daha ileriye alırsak bunu, agent kavramı girdi. Böyle olunca da biz Haystack'i bütün bu kavramları, bütün bu uygulamaların yapılmasını sağlayacak bir framework'e çevirdik. Hâlâ dediğim gibi Haystack open source olarak Deepset'in, Deepset'teki bir takımın maintain ettiği bir proje. Tabii ki de eğer katkıda bulunmak isterseniz, GitHub'a gidip açık issue'lara bakıp katkıda bulunabilirsiniz. Böyle ben de Haystack için developer relations yapıyorum, yani Haystack'in tutorial'larını hazırlıyorum, cookbook'larını hazırlıyorum.
+
+[Bilge Yücel]: Haystack'le alakalı makaleler yazıyorum. Gerekse işte konferanslarda sunumlar yapıyorum. Bunun gibi aslında Haystack'i insanlara tanıtmak ve Haystack'te nasıl uygulamalar geliştirilebilecek, bunun örneklerini hazırlamak gibi görevlerim var. Tabii bunun dışında koda da çok yakın olarak çalışıyorum. Yeni bir feature gelecekse bu feature'ın ismi nasıl olsun, nasıl işte bu komponentin parametreleri neler olsun, bu parametrelerin isimleri neler olsun gibi bazı tartışmalara da dahilim. İmplentasyon detaylarına çok girmiyorum. Onun için ayrıca bir mühendislik takımımız var. Ama evet, Deepset ve Haystack ilişkisi de bu şekilde. Yani Haystack, Deepset'in bir ürünü.
+
+[Enes Fehmi Manan]: Benim de GitHub'da böyle gördüğüm kadarıyla, özellikle Türklerin açtığı issue'lara falan, hemen böyle direkt sizi orada görebiliyoruz. Cevap olarak ilgili yere yönlendiriyor, aslında bunun cevabı şurada var diye falan. O taraftaki hakimiyeti böyle çok net hissedebiliyorum; o issue'lardaki cevaplardan, cookbook'taki dokümanlardan. Burada, şimdi aklıma şu takıldı: Deepset'in çıkışında, bu Haystack framework'ün çıkışında, aslında bir "fine-tune" kelimesi var. O dönemki kurucuları fine-tune etmek için bunu bir noktada ortaya çıkarmışlar. O zamanlar tabii klasik NLP dönemleri, generative AI yeni geliyor. İşte fine-tune tarafında kullanılabiliyor mu? Kullanılması efektif mi? Ve benim aklımı çok kurcalıyor. Mesela, senin de yaptığın yayınlardan, daha çok böyle, RAG tarafını görüyorum. İşte bahsettin, retrieval augmented generation. Yani, genel olarak, RAG üzerine çok fazla Haystack'le alakalı doküman görüyorum. Fine-tune'la alakalı doğrusu hiç görmedim yani. Bu taraftaki durum nedir?
+
+[Bilge Yücel]: Çok doğru bir tespit. Haystack'in birinci versiyonunda fine-tuning'i, yani işte train etmeyi destekliyorduk. Embedding modellerini özellikle çok fazla fine-tune eden insanlar vardı, özellikle domain spesifik olarak çalışıyorlarsa. Fakat artık, şu bulunduğumuz zamanda, şeyi gözlemledik: İnsanlar artık modelleri fine-tune etmiyorlar. Başka model kullanıyorlar, daha fine-tune edilmiş hâlini kullanıyorlar veya dışarıda fine-tune ediyorlar, başka bir şekilde.
+
+[Bilge Yücel]: O yüzden Haystack'in ikinci versiyonu, bir model train etmeyi veya fine-tune etmeyi desteklemiyor şu noktada. Fakat tabii ki de her zaman bir modeli fine-tune edip sonrasında tekrardan onu Haystack içerisinde kullanmak mümkün. Ama evet, tespitin doğru. Bu, birazcık bizim gözlemlediğimiz bir şeydi. Bunda çok ağırlık vermedik, o yüzden ikinci versiyonunu yaparken. Biraz daha generative AI tarafına odaklanmak istedik.
+
+[Enes Fehmi Manan]: Şimdi gene çok can alıcı bir soru. Bu, yani, Haystack'in bir rakibi var mı, yani, bu da insanın aklına gelen bir soru. Şimdi, Haystack'in direkt rakibi, hani, tırnak içerisinde rakibi, LangChain diyebilir miyiz? Aslında,
+
+[Bilge Yücel]: LangChain'in yaptığı işleri,
+
+[Enes Fehmi Manan]: Haystack de yapıyor veya Haystack'in yaptığı işleri LangChain de yapıyor. Ve TR'de aslında LangChain daha çok biliniyor.
+[Bilge Yücel]: Doğru.
+[Enes Fehmi Manan]: Sence, bir Haystack gözünden ve open source'da bir developer gözünden neden Haystack'i kullanmalıyım?
+[Bilge Yücel]: LangChain'dense. Çok güzel bir soru. Şimdi, buna tabii ki de çok tarafsız cevap vermem pek mümkün değil ama yine de deneyeceğim. Çünkü ben büyük bir Haystack fanıyım. Haystack'i çok iyi biliyorum. LangChain'i açıkçası o kadar çok bilmiyorum ve bu noktada açıkçası çok fazla da, yani...
+
+[Bilge Yücel]: LangChain'i açıkçası o kadar çok bilmiyorum ve bu noktada açıkçası çok fazla da, yani LangChain'i de öğrenip çok fazla detayına da girmek istemiyorum. Çünkü bu, yani, bizim üründeki alacağımız kararları da etkileyebilir diye. İki ürün de open source günün sonunda. Şeyi diyorum, ben öncelikle, eğer bir framework seçilecekse şirketteki bir uygulama için veya kendi kişisel hobin için, nelere bakarız genelde?
+[Enes Fehmi Manan]: İşte.
+[Bilge Yücel]: Bir GitHub'ına gireriz, ne kadar aktif?
+[Enes Fehmi Manan]: Yani.
+[Bilge Yücel]: Discussion'ları ne kadar var, issue'lar ne kadar sürede açılıp kapanıyor? Acaba işte, yeni issue'lar var mı, yoksa üç ay önceki issue'lar mı hala orada? Kaç tane starı var? Bunun gibi şeyler, ilk başta böyle, o proje anlamında bize çok basit bilgiler verir. Sonrasında, belki biraz daha bunun komünitesinin içerisine gireriz. Ne kadar aktif bir komünite? Yani, benim bir sorunum olsa, bana yardımcı olabilecek insanlar var mı? Buraya kadar cevap vermem gerekirse, Haystack'te, dediğim gibi yani, bu Haystack üzerine çalışan bir mühendis takımı var. İçlerinden biri de benim. Aktif olarak sürekli issue'ları çözüyoruz. Discussion'lara cevap veriyoruz. Ben Discord'dayım. Discord'da cevap veriyorum sorulan sorulara. Yani, olabildiğince insanları Haystack anlamında böyle bir kucaklamak, bir onlara işte, hoş geldiniz demeye çalışıyorum açıkçası, komünite anlamında. Bu birazcık daha, hani bir projenin nasıl, ne kadar maintain edildiğinin, ne kadar arkasında bir ekip olduğunun göstergesi. Ama biraz da teknik tarafına girersek, bizim en çok karşılaştığımız şeylerden biri dokümantasyon. Bu konuda gerçekten çok titiziz diyebilirim kendi tarafımızda. Genelde bize gelen geri bildirimler, işte, "Dokümantasyon çok kötüydü, hiçbir şey anlamıyordum, bir şey bulmakta çok zorlanıyordum. Şimdi işte Haystack'i kullanıyorum, çok teşekkürler, her şey çok daha net." Şu an neyin...
+[Enes Fehmi Manan]: Neyin, neyin, neyin?
+[Bilge Yücel]: Neyin...
+
+[Bilge Yücel]: Neyin gurur duyuyorum ekip arkadaşımla, özellikle dokümantasyonunu yazan ekip arkadaşımla. Gerçekten çok iyi bir iş çıkarıyor. Diğer bir alanı da şu, daha fazla teknik detayına girmek gerekirse, biz Haystack'i bir, yani, komponentler ve pipeline'lar diye tasarladık. Yaptığınız şey şu aslında, bir tane işi olan bir komponent var ve siz bu komponentleri birbirine bağlayarak bir pipeline, bir graph oluşturuyorsunuz aslında. Ve bu graph'ınız sizin, directed graph ve içerisinde loop'lar olabilecek bir graph. İsterseniz işte dallara ayrılabilecek ve sonra o dalların birleşebileceği bir graph. Yani üniversite bilgilerini hatırlarsan, bildiğimiz işte edge'ler, node'larla bir graph. Ve bu bize Haystack'le beraber istediğimiz her uygulamayı yapabilme şansı veriyor. İstersek işte Haystack'in sahip olduğu komponentleri birleştirerek veya kendimiz bir komponent yazarak çok basit bir şekilde istediğimiz uygulamaları geliştirebiliyoruz. Fakat LangChain biraz daha "chain" diye geçtiğinden dolayı sadece lineer şekilde ilerliyor içerisinde data. Bu da işte bazı, yani uygulamaları biraz daha flexible şekilde yazmak istediğimde, belki biraz daha, hani her şeyle çok güzel ama keşke şurada şöyle değil de böyle yapsa dediğimde, LangChain'de çok fazla tıkanıklık yaşıyor insanlar. Burayla alakalı...
+
+[Enes Fehmi Manan]: Mesela dedin ya, edge'ler, node'lar, işte bir graph yapısı var. Bunun galiba LangChain'in karşılığı direkt "link graph" olabilir. Aynen.
+
+[Bilge Yücel]: Ve o tarafta...
+
+[Enes Fehmi Manan]: Çok sözünü böldüm, pardon. O tarafta "link graph" ile alakalı kullananlardan, genelde böyle iş uzadığı vakit, olayın çok karmaşıklaştığı ve takip etmenin çok zorlandığına dair geri bildirimler almıştım. Bu...
+
+[Bilge Yücel]: Haystack'te nasıl çözülüyor?
+
+[Enes Fehmi Manan]: Evet, bu da çok güzel.
+
+[Bilge Yücel]: Haystack'te bunun çözmenin farklı yöntemleri var. Bir, yapabileceğiniz şey, bir komponent serisini ya da pipeline'ın bir tarafını alıp büyük bir komponent haline getirip ve onu işte, mesela bu sizin RAG yapan komponentleriniz olabilir.
+
+[Enes Fehmi Manan]: Ve bunu...
+
+[Bilge Yücel]: Yine bir komponent ile enkapsüle ettiğiniz zaman...
+
+[Bilge Yücel]: Yine bir komponent ile enkapsüle ettiğiniz zaman, bu pipeline'ı biraz daha basitleştirmiş olursunuz. Ama bunun dışında, açıkçası, çok yani, bir yerden alıp, bir yerden vermek gerekiyor. Ben bir abstraction yazabilirim ve bir şeyi assume ederek size daha basit bir komponent verebilirim, daha basit bir abstraction verebilirim; ama günün sonunda, bir şeyi çok custom hâle getirmek istiyorsak da birazcık uzuyor.
+
+[Enes Fehmi Manan]: Evet.
+
+[Bilge Yücel]: Yani bu, bizimle karşılaştığımız bir problem ve bunun en basit çözümü daha büyük komponent olarak enkapsüle etmek.
+
+[Enes Fehmi Manan]: Bununla alakalı aslında dokümantasyona da bakacağım bu yayından sonra. Cidden, yani merak ettim Haystack tarafını. RAG ile alakalı o kadar çok yayın var ki Haystack'te, şeyi sormak istiyor insan: İşte ben şu an RAG yapmaya kalksam, işte bunu en kolay ve basit şekilde yapmanın yolu Haystack'ten mi geçiyor şu anda?
+
+[Bilge Yücel]: Yani, Haystack çok basit bir yolu. Çünkü bir tane tutorial'ımız var, ilk tutorial mesela, girip oradaki kodu kopyaladığında RAG pipeline'ın hazır. Zaten RAG'i yapmak çok kolay. Bir de duyduğumuz şöyle bir şey var: Haystack'i anladıktan sonra, nasıl çalıştığını, uygulamalar geliştirmek çok kolay. Çünkü bir RAG pipeline'ını düşündüğümüzde, bir RAG sistemini düşündüğümüzde, ya da, yapmamız gereken şey nedir? İşte bir tane prompt'um var, ben bu prompt'uma alakalı dokümanları koyacağım, sonra da sorumu koyacağım ve diyeceğim ki...
+
+[Bilge Yücel]: ...sorumu koyacağım ve diyeceğim ki bu dokümanlara bakarak, bu soruya cevap ver. Aslında,
+[Enes Fehmi Manan]: Temelde,
+[Bilge Yücel]: RAG ile yapmaya çalıştığım şey bu. Ve Haystack'te, benim bir embedder komponentim var, verdiğim query'nin embedding'ini yaratır. Bir retriever komponentim var, o embedding'i alır, alakalı datayı çeker. Bir prompt builder'ım var,
+[Enes Fehmi Manan]: Bu,
+[Bilge Yücel]: Hem kullanıcının sorusunu hem de alakalı konteksi alır, promptumu oluşturur. Bir de generator'ım var,
+[Enes Fehmi Manan]: O da,
+[Bilge Yücel]: LLM'e bağlanır ve cevabımı oluşturur.
+[Enes Fehmi Manan]: Yani, buradaki bunların hepsi bir komponent.
+[Bilge Yücel]: Her biri farklı işlevi olan şeyler. Ve bunları işte,
+
+[Bilge Yücel]: Her biri farklı işlevi olan şeyler. Ve bunları işte bir puzzle parçası gibi birleştirdiğimde,
+[Enes Fehmi Manan]: RAG pipeline'ın oldu. Hani.
+[Bilge Yücel]: İstersen tabii bunu çıkar, ekle, çıkar, ekle yapabiliyorsun. O yüzden de bence Haystack çok kolay bir yolu.
+[Enes Fehmi Manan]: Gerçekten, bu muazzammış. Yani, puzzle gibi birbirine çıkarıp ekleme olayı, bu, gerçekten bayağı hoş bir detay. Ya, şeyi düşündürttü tekrardan bana: Mesela, vector store tarafında, şu an, açık kaynak veya işte olmayan tüm vector store'lara destek veriliyor mu? O tarafta nasıl?
+[Bilge Yücel]: Çok büyük bir liste var desteklenenler içerisinde. Yani, açık kaynak olarak Weaviate var,
+[Enes Fehmi Manan]: Quadrant var. Eğer,
+[Bilge Yücel]: Daha büyük şeyler istenirse Elastic Search var, Open Search var, şu PostgreSQL'in,
+[Enes Fehmi Manan]: Mesela.
+
+[Bilge Yücel]: PG Vector var.
+[Enes Fehmi Manan]: Bilmiyorum.
+[Bilge Yücel]: Liste bayağı uzun yani. Bunlardan hangisi lazım size? Bayağı büyük bir desteğimiz var. Ama, bir de benim sevdiğim şeylerden bir tanesi, şimdi, normalde bir demo yapacaksın diyelim ki...
+[Enes Fehmi Manan]: Yani...
+[Bilge Yücel]: Bir vector store'un olması için...
+[Enes Fehmi Manan]: Ya...
+[Bilge Yücel]: İşte, lokalinde bir Docker imajı çalıştıracaksın, ya...
+[Enes Fehmi Manan]: Ya da bir...
+[Bilge Yücel]: İşte, instance'ın olacak...
+[Enes Fehmi Manan]: Cloud'da.
+[Bilge Yücel]: Onun API key'ini alacaksın, bir sign-up olacaksın, falan filan. Eğer bunların hiçbirini yapmak istemiyorsan, biz, "in-memory document store" diye bir abstraction'ımız da var. Bu tamamen demo için, senin memory'sinde tutuyor datanı. Ama, küçücük hemen bir şey deneyeceksen, en azından...
+
+[Bilge Yücel]: ...en azından bunu kullanıp, bir RAG yapabiliyorsun veya hani yapmak istiyorsan onu yapabiliyorsun. Sonrasında da o component'ı gidip gerçekten, işte, Weaviate Document Store'la veya işte Pinecone'la değiştirdiğinde hiç sorunsuz bir şekilde pipeline'ın çalışıyor oluyor. Biz de o yüzden hep tutorial'larda falan onu gösteriyoruz. Çünkü...
+[Enes Fehmi Manan]: Çok kolay. Tüm embedding'i aslında benim RAM'imde mi tutuyor o an? O detayını bilmiyorum. O yüzden çok detaya girdim ben de.
+[Bilge Yücel]: Tam olarak... Çok production'da...
+
+[Bilge Yücel]: Tam olarak... Çok production'da önermiyoruz. Çünkü birincisi, çok efektif olarak bir şekilde, vektör storlarının sahip olduğu gibi similarity score bulayım da semantik search algoritmalarını implement eden bir document store değil.
+[Enes Fehmi Manan]: Değil. O yüzden de böyle, işte...
+[Bilge Yücel]: Yüz tane dokümanım var, bunların embedding'leri var, bunların embedding'ini koyayım, deneyeyim dediğinizde mantıklı bir şey. Ama işte, on milyonsa, yok, o kadarını kaldırmayacak.
+[Enes Fehmi Manan]: Belki de orada, hani belli bir sınırı falan varsa, o oraya kadar ki olan kısmı alıyordu. Veya senin RAM'ine göre bir kısıt atabiliyorsan, hani belki bilmiyorum ama çok tahmin ediyorum. RAM'ine göre, yani...
+[Bilge Yücel]: Büyük ihtimalle.
+
+[Bilge Yücel]: İşte, senin ne kadar cihazında RAM'in varsa, o kadar ekleyebiliyorsun tabii ki.
+[Enes Fehmi Manan]: Yani,
+[Bilge Yücel]: Biz burada şu kadar, 60 GB koyabilirsin, 4 GB koyabilirsin gibi bir sınır koymuyoruz. Ama bir noktada memory hatası alınca da anlıyorsun zaten.
+[Enes Fehmi Manan]: Çok koymuşum diye. Aynen. Burada hashtag tarafını ben biraz daha deşebilirim ama chat'teki sorulara da şöyle çok hızlıca bir tekrardan ben hashtag'i döndürebilirim olayı. Burada Göker Güner'in bir sorusu var, Göker abinin. 4-5 gün önce çağı yakalamak önemliydi. Şimdi hızla gelişiyor her şey ve yakalamak imkansız gibi. Artık çağı yakalamak yerine fundamental bilgisi daha önemli değil diyebilir miyiz günceli adapte olmak için?
+[Bilge Yücel]: Bence,
+[Enes Fehmi Manan]: Hani, bu temel bilgi, biraz önce de konuştuk zaten, hani,
+[Bilge Yücel]: NLP bilgisi gerekiyor ama bence her şekilde önemli. Ve günceli adapte olmak bence bunun artık tek bir tanımı yok.
+
+[Bilge Yücel]: Yani bundan işte iki sene önce Transformers mimarisini biliyorsan güncele adapteydin.
+[Enes Fehmi Manan]: Güncele hakimdin. Ama şu an güncel ne? Yani çok fazla alana...
+[Bilge Yücel]: ...çok fazla birden araştırma yapılıyor. Çok geniş şeyler çıkıyor. Yani hangisi en iyisi, en işte ilerisine, ileriye gidebilecek yöntem bilmiyoruz. O yüzden de biraz ikisi de diyebilirim ya, ben biraz da ikisini de diyorum burada. Yani temel bilgi gerekli ama güncele adapte olmak için de biraz seçerek, doğru insanlardan, doğru kaynaklardan belki bilgileri hala öğrenmek gerekiyor. Hala onların ne iş yaptığını takip etmek gerekiyor yani.
+[Enes Fehmi Manan]: Kesinlikle. Yani şu an günceli yakalamak da aslında bir o kadar da zor. Ve sadece yakalamaya çalışsan herhalde bütün gün yakalamaya çalışırsın gibi bir durum var. Yakalayamazsın da, kaçıyor.
+[Bilge Yücel]: Aynen öyle bu arada.
+
+[Enes Fehmi Manan]: Yani, bunun bir sonu yok. Yani, imkanı yok. Hatta bir de şey durumu var, yani olayı üç boyutlu görme durumu var aslında. Sen bundan önceki o "hard NLP" dediğimiz kısımda, orayı bilirsen, daha da projenle daha verimli, daha böyle, ne denir ona, kapsamlı düşünebiliyorsun. Hani sen de bahsetmiştin ya, o iş büyüdüğü zaman aslında o NLP token'larını, işte, bilmek, aslında olayı çözdüren kısım oluyor. Ya aslında hep kıymetli ya, öncesi.
+[Bilge Yücel]: Bu temel bilgiler, yani kodlama yaptığımızda da mesela her zaman çok iyi bir matematik bilgisine sahip olmak gerekmiyor kodlama yapabilmek için. Ama sonrasında önüne bir iş geliyor ve sen matematik bilgisine sahip olduğun için o işi çok kolaylıkla çözebiliyorsun. Hani, çok küçük anlarda belki önüne çıkıyor bu temel bilgiler ama o noktada da işini gerçekten çok kolaylaştırıyor. Yine aslında temel NLP bilgisi de bence bu şekilde diyebiliriz.
+[Enes Fehmi Manan]: Kesinlikle. Bir sonraki soruda, Hayati Can Aydın'ın bir sorusu var, Hayati Abi'nin. Veri bilimi alanında ileri seviyelere kendimizi atabilmemiz için önerileriniz nelerdir?
+[Bilge Yücel]: Yani,
+[Enes Fehmi Manan]: Güzel bir soru, beklenen bir soru. Yani ben şu anda biraz daha...
+
+[Enes Fehmi Manan]: Yani ben şu anda biraz daha generatif veya çalıştığım alanda çalışıyorum. O yüzden belki bu açıdan bakabilirim veri bilimine.
+[Bilge Yücel]: Bence şeye bakmak gerekiyor. Büyük şirketler nasıl modeller çıkarıyorlar? Open source alanında da çalışmalar yaptıklarında bunları yayınlıyorlar ve bunların hala takip edilmesi bence çok önemli. Yani, RELG çok önemli dedik mesela. Yani, çok kullanılan bir mimari artık bu noktada.
+
+[Bilge Yücel]: Ve artık büyük şirketler de modellerini RAG üzerinde eğitiyorlar. Yani, RAG'e, RAG için kullanılabilecek modeller üretmeye çalışıyorlar. Veya bazı şirketler daha çok agent'larda kullanılabilecek modeller eğitmeye çalışıyor. İşte bazı şirketler çok, ya da bazı topluluklar diyeyim, daha çok multilingual olabilecek modeller eğitiyor. Bazıları multimodal olabilecek modeller eğitiyor. Yani, yine de bu paper'lara bakmak, buradaki mimarileri anlamak, yani, generatif AI alanında da olsa, çünkü farklı modellerin farklı kullanım alanları var. Bunları bilmek bence.
+
+[Bilge Yücel]: Bunları bilmek bence veri biliminde de çok önemli olacak. Yani, şu noktada da zaten çok önemli ama ileride çok daha hayati bir şekilde hayati olacak yani.
+
+[Enes Fehmi Manan]: Kesinlikle. Bu arada, son olarak, Hain Tavşanlar'ın nükteli yorumuna değinmek istiyorum. Ben de tanıdığım için biliyorum onu. Olur. Güldür Güldür plaza diline hoş geldiniz arkadaşlar. Evet, yani, "white collar" bir durum var.
+
+[Bilge Yücel]: Şey de...
+
+[Bilge Yücel]: Maalesef.
+
+[Enes Fehmi Manan]: Yani, çünkü generatif modeller değil, üretken modeller... Hani, bazılarını da...
+
+[Bilge Yücel]: Diyebilirim belki ama benim alıştığım bir terim değil. Ve günlük hayatımda da İngilizce devam ettirdiğimden dolayı bu konuşmalara, gerçekten de terimler Türkçeleşmiyor benim için. Ne kadar denesem de...
+
+[Bilge Yücel]: bulamıyorum. Mesela, Vector Store'u nasıl çevireceğiz? Bilmiyorum açıkçası.
+[Enes Fehmi Manan]: Vector Bankası. Yani, olmuyor. Vector Store, Vector Store'dur. Embedded model, gömme vektörü. Yani,
+[Bilge Yücel]: Hiç olacak iş değil. Çok hiç olmuyor. Evet, ben bunları biraz düşündüm açıkçası, nasıl yapabilirim diye. Bir halden sonra dedim ki, yapamazmışım.
+[Enes Fehmi Manan]: Evet. Ya, aslında orada, Hayati Hocanın da dediği gibi, bu da bir gerek dedik yani. Bunu da, temel seviyede, edinmeniz gereken bir şey yani. 101, o, sözlükteki kavramların, aslında ne anlama geldiğini, İngilizce'de de bilmek gerekiyor. Yani, bunlar zaten Türkçesi çok anlamsız oluyor.
+[Bilge Yücel]: Evet.
+[Enes Fehmi Manan]: Evet.
+[Bilge Yücel]: Şimdi,
+[Enes Fehmi Manan]: O zaman, gene, çok öyle şey bir soru, madem açık kaynak bunlar, GitHub'ta yürüyor, işçiler, ne bileyim, dokümantasyon, her şey açık...
+
+[Enes Fehmi Manan]: O zaman, gene, çok öyle şey bir soru, madem açık kaynak bunlar, GitHub'ta yürüyor, işçiler, ne bileyim, dokümantasyon, her şey açık... bu Haystack, Deepset nereden para kazanıyor?
+[Bilge Yücel]: Çok sevdiğim bir soru, bu düzenli olarak geliyor. Şimdi, Deepset'in çıkışı, işte, Haystack'la oldu. Haystack ilk ürünü, fakat tek ürün değil. Haystack dışında, bizim Deepset Cloud dediğimiz, başka bir ürünümüz var. Bu, biraz daha büyük şirketlere, proje bazlı, ve yanında, işte, destek olabilecek, mühendislerimizle beraber, verdiğimiz bir ürün aslında.
+[Enes Fehmi Manan]: Para?
+[Bilge Yücel]: Buradan geliyor.
+
+[Bilge Yücel]: Buradan geliyor diyebilirim. Yani, tabii bu Deepset Cloud dediğimiz ürün, altında Haystack kullanıyor. Ama bunun üzerine tabii ki de siz, işte, Haystack pipeline'larınızı bu SaaS platformunda yaratabiliyorsunuz, deploy edebiliyorsunuz, kullanabiliyorsunuz, isterseniz test ediyorsunuz farklı parametrelerle, farklı prompt'larla. Ve birden çok kişi bunun üzerinde çalışabiliyorsunuz. Yani, biraz daha data takımları için, küçük data takımları için büyük projeler geliştirebilmelerinde yardımcı olacak. Onların, işte, "Datamı nereye deploy ettim, datamı nerede tutuyorum, modelimi nasıl, nerede deployladım?" diye düşünmeden uygulamaları geliştirmelerine odaklanabilecekleri bir uygulama. Ve...
+
+[Bilge Yücel]: Şu anda da yeni, yeni...
+[Enes Fehmi Manan]: Yeni, yeni.
+[Bilge Yücel]: ...waitlist'e insanları aldık, almaya devam ediyoruz.
+[Enes Fehmi Manan]: Ve?
+[Bilge Yücel]: Birkaç hafta içerisinde de bu, herkese açık olacak bir ürünümüz var, Deepset Studio diye. Bu Deepset Studio, Deepset Cloud'un biraz daha basitleştirilmiş versiyonu diyebiliriz. Siz, tamamen ücretsiz bir platform. Siz Deepset Studio'ya üye olarak...
+[Enes Fehmi Manan]: Yani?
+[Bilge Yücel]: ...giriş yaparak kendiniz, görsel bir editör sayesinde işte...
+[Enes Fehmi Manan]: Hani?
+[Bilge Yücel]: ...Embedded Retriever, Prompt Builder, Generator gibi dediğim komponentleri sürükle-bırak gibi bir UI ile kendi pipeline'ınızı oluşturabiliyorsunuz, kendi sisteminizi yaratabiliyorsunuz. Ve sonrasında da işte bir butona basarak kendi Haystack pipeline'ınızı deploy edip, sonrasında bir UI ile beraber kullanabiliyorsunuz aslında.
+
+[Enes Fehmi Manan]: Yani...
+[Bilge Yücel]: ...yaptığınız tek şey, bir REST API ile Haystack pipeline'ınızı deploy etmek, bir endpoint almak ve bu endpoint'a request atarak da Haystack pipeline'ınıza query'inizi yollayıp sonucunuzu alabilmenizi sağlamak. Bu da işte bizim özellikle Haystack kullanıcıları için yapmak istediğimiz, onların işlerini birazcık daha kolaylaştıracak bir ürün olacak. O yüzden de ben bayağı heyecanlıyım.
+[Enes Fehmi Manan]: Böyle yani.
+[Bilge Yücel]: Böyle işliyor Haystack'te.
+[Enes Fehmi Manan]: Değil miydi bu şey, no-code tool'u dedin, orada bir bizi bitirdin falan diye. Yok yok.
+[Bilge Yücel]: Yani aslında şey, şu da var, orayı sadece görsel bir şey de kullan, görsel olarak da kullanmak mümkün. Çünkü hala datanı sen dışarıda bir yerde tutmak istemiyor olabilirsin veya bir endpoint'i orada çalıştırmak istemiyor olabilirsin.
+[Enes Fehmi Manan]: Ama...
+[Bilge Yücel]: ...küçük demolar için bunu isteyen çok fazla insan vardı. Hani ben bir şey geliştireyim, hemen deploy edeyim, küçük bir UI yapayım, göstereyim mesela manager'ıma diyen insanlar vardı veya bir süre test etmek isteyen insanlar vardı. Ama tabii ki bu Deepset Studio'da Haystack'i görsel olarak tasarladıktan sonra export'a basıp Python olarak kodu da direkt almak...
+[Enes Fehmi Manan]: ...mümkün. Yani,
+[Bilge Yücel]: İşte, ben kod yazmayı seviyorum ama...
+[Enes Fehmi Manan]: UI'da da böyle...
+[Bilge Yücel]: ...drag-drop yapmak da bence eğlenceli bir şey. Özellikle o bağlantılarını görmek...
+[Enes Fehmi Manan]: Yani,
+[Bilge Yücel]: ...o komplike pipeline'ları aslında daha rahat geliştirmeyi sağlayacak bir sistem olarak da düşünüyoruz biz.
+
+[Enes Fehmi Manan]: Hani o,
+[Bilge Yücel]: İşte şey dedik, graflar çok komplikeleşiyor vesaire diye. Çünkü görsel olarak da onları çok fazla görmüyoruz. Ama bu uygulamayla beraber belki biraz göreceğiz.
+[Enes Fehmi Manan]: Direkt ihtiyaç bence. Hani sen bunu söyleyince, graf yapısında ben tasarladım bütün komponentları, işte pipeline'ı. Bunu, Haystack içerisinde, benim code base'ime, atıyorum, işte küçük bir kodu import ettim ve dedim ki, al bu code base'i anla ve direkt bana o graf yapısını, az önce bahsettiğin o sürükle bırak yapısındaki görseli pıt diye çıkartan bir şey var mı?
+[Bilge Yücel]: Şey var. Tam olarak bunu mu soruyorsun? Pek anlamadım ama...
+
+[Bilge Yücel]: Haystack'te zaten, sen Python olarak kodu yazdığında, direkt görselini oluşturabiliyorsun. Ama bu çok statik bir görsel, yani dinamik bir görsel, değiştirebileceğin bir görsel değil. Ama senin aradığın, sanırım daha fazla, böyle şey gibi, ben natural language query olarak, yani işte, yazarak nasıl bir pipeline istediğimi söyleyeyim, o da o pipeline'ı yaratsın ve bana göstersin gibi bir şey mi?
+
+[Enes Fehmi Manan]: Yok, aslında hani, yaptım ürünü ve hani, sen de dediğin ya, veya işte benim sorduğum diğer önceki soruda da vardı, yani gerçek proddaki ürünlerin gereksinimleri biraz çok oluyor ve kod karışabiliyor. Oradaki düğümler, işte çok gittikçe gidiyor ve bunun aslında çizilmesi, kendi başımıza durup böyle analiz edip kodu çıkarmak zor olabiliyor. Bunu bir code base'i otomatik tarayıp çıkartan bir ürün var mı Haystack tarafında?
+
+[Bilge Yücel]: Yani, Haystack ile yazdıysanız, yani Haystack pipeline'ınız varsa, `pipeline.show()` diyorsun, zaten sana onu gösteriyor. Yani, o graf yapısının...
+
+[Bilge Yücel]: ...nasıl olduğunu, nodları, eğer işte, sen buradan embedding'ini almışsın, doküman gelmiş, onlar, onlar işte şuna çıkmış, buna bağlanmış diye. Hatta bütün, her birindeki, hani, her biriyle beraber, hangi bilgileri, hangi komponenta aktardığını net bir şekilde görebiliyorsun.
+
+[Enes Fehmi Manan]: Buradan da Haystack cahili olduğumuz ortaya çıktı. Yayından sonra bir tane pratik yapmaya gidiyorum.
+
+[Bilge Yücel]: Ben bunun için uyurum işte. Haystack'i öğretmek için normal, çok şey, bunu da anlayabiliyorum. Bu alan çok yeni, yeni gelişen bir alan ve çok farklı da etrafta ürün var. O yüzden de bence çok normal, hiç şey düşünme.
+
+[Enes Fehmi Manan]: Bu arada, Hayati Hoca cevaplar için teşekkür etmiş, biz teşekkür ederiz.
+
+[Bilge Yücel]: Teşekkürler soru için.
+
+[Enes Fehmi Manan]: Şunu sorayım o zaman, senin bir günün nasıl geçiyor? Şimdi sen uzaktan çalışıyorsun çoğunlukla. Arada sırada gidiyorsun yurt dışına, çeşitli etkinliklere, hatta böyle farklı yerlere, böyle büyük organizasyonlara da konuşmalara gittiğini biliyorum.
+
+[Bilge Yücel]: Tam.
+
+[Enes Fehmi Manan]: Bunlar böyle nasıl gerçekleşiyor? Standart bir günün nasıl geçiyor? Biraz böyle, ekstrem bir günün nasıl geçiyor?
+[Bilge Yücel]: Standart bir günümde genelde işte bilgisayarı açıyorum, bir Slack'te mesajlara bakma... İşte takım olarak artık şey yapmayı bıraktık. Burada biraz daha şey tarafına girmiş oldum, mühendislik takımımla nasıl çalışıyorum diye. Biz artık günlük stand-up'ları yapmayı bıraktık. Sadece ama işte uzaktan da çalışan bir takımız var, birbirimizin aslında neler yaptığını biliyor olmamız gerekiyor.
+[Enes Fehmi Manan]: Hatta benim...
+
+[Bilge Yücel]: DevRel engineer olarak, mühendislik takımındaki herkesin ne yaptığını iyi biliyor olmam gerekiyor. Çünkü iki üç gün sonra belki biz o feature'ı yayınlayacağız ve benim bunu bilmem ve bunun iletişimini yapabiliyor olmam, belki oradaki bazı eksiklikleri tamamlayabiliyor olmam lazım. İşte Slack'te bir şeyler yazıyoruz; dün bunları yaptım, bugün bunları yapacağım, planlarım buydu vesaire diye böyle küçük bir brief veriyoruz kendimize. Kendi o brief'imi yazıyorum, insanlarınkini okuyorum. Ve her gün biraz bir vakit Discord'a ayırmaya çalışıyorum. İşte yeni gelen insanlar var, onlar neler yapıyorlar, bir feedback'leri var mı veya özellikle aradıkları bir şeyler... Çünkü bazen işte ben bir tane sunumumda şöyle çok önemli bir şey bahsetmiş oluyorum, yani çok küçük bir şey bahsetmiş oluyorum. Aradıkları şey tam o. Onun linkini işte onlarla paylaşıyorum. Gerekse işte bazen uzunca mesajlar yazıyorlar, uzunca onlara geri dönüşler yapıyorum. Ve bazen de çok güzel feedback'ler alıyorum. Feedback'leri alıp takımıma iletiyorum. Diyorum ki işte, şunu şöyle yapmak istemiş ama yapamamış. Bence bunu düzeltmemiz gerekiyor. İşte oradan belki bir bug report açıyoruz beraber. Bu işimin bir tarafı. Sonrasında tabii ki, yani DevRel'de çalışmak demek, biraz aynı anda birçok farklı işin yürümesi demek oluyor. Yani...
+
+[Bilge Yücel]: Bir noktada, işte, birileriyle bir blog post yazıyor oluyorum. Onlardan bir review istiyorum. Bir noktada...
+[Enes Fehmi Manan]: Bir...
+[Bilge Yücel]: İşte, bir PR açılmış oluyor. O PR'a bakıyorum. Gerçekten, çok fazla şey aynı anda ilerliyor. Günüme böyle bir saatlik, iki saatlik bloklar halinde oluyor. Ama bazen de oturuyorum, mesela...
+[Enes Fehmi Manan]: Tüm gün tamamen...
+[Bilge Yücel]: ...tutorial yazmaya odaklanıyorum. İşte, kendi kendime bir tane diyorum ki, hashtag kullanarak şunu yapmaya çalışacağım. Oturup onu yapmaya çalışıyorum.
+[Enes Fehmi Manan]: Tamamen...
+[Bilge Yücel]: ...kod yazdığım bir gün de oluyor. Ama bazen de bakıyorsun, sürekli ChatGPT ile beraber sohbet ediyorum. "Şurasını biraz daha böyle yap bu tekstin, burasını biraz daha şöyle yap."
+[Enes Fehmi Manan]: Burada...
+[Bilge Yücel]: "Bunu da bahsedeceğim, unutma" gibi. ChatGPT'den bayağı uzunca bir destek aldığım günler oluyor. Yani, çok kısaca özetlemek gerekirse, mühendislik takımı ile beraber...
+[Enes Fehmi Manan]: Yan yana...
+[Bilge Yücel]: ...dip dibe çalıştığım şey oluyor yani. Genelde bu sandalyedeyim,
+[Enes Fehmi Manan]: Bu odadayım.
+[Bilge Yücel]: Online olarak, bu...
+
+[Enes Fehmi Manan]: Bu süreç, şeye hissettirdi, böyle DevRel olmak demek. Biraz böyle, senin kendi inisiyatifinde gibi, böyle yapacağın işte, bir yerde bloktaysan, bir gün diyorsun, "Ya şöyle bir tutorial'ı yapayım." Bu acayip bir özgürlük. Normalde DevRel olmasan, herhalde bir takımın bir parçası olsan, teknik bir takımın X bir şirkette, yani böyle bir framework şirketinde olmasan, herhalde böyle bir özgürlük de olmazdı. Biraz önceki işlerinle şu anki yaptığın işi özgürlük anlamında da kıyaslarsan ne dersin?
+
+[Bilge Yücel]: Evet, aslında güzel bir noktaya değindin. Hiç böyle düşünmemiştim. Şöyle bir şey var: Tabii ki de bir mühendis olarak çalıştığında genellikle yapılması gereken task'lar, eğer bir proje bazlı bir şeyde çalışıyorsa, müşteriden geliyordur bu. Veya bir üründe çalışıyorsan, ürünün zaten roadmap'i bellidir. Yani nelerin yapılacağı, en yakın zamanda hangi bug'ların çözülmesi gerektiği, hangi feature'ların çıkması gerektiği. Bunlar aslında bir product manager tarafından net belirlenmiştir. Ve sen sadece işte bir task alırsın, onu bitirirsin, diğer task'ı alırsın, onu bitirirsin, belki böyle ilerler. Benim açımdan da aslında buna benzer bir süreç var. Benim de işte yapmayı hedeflediğim şeyler var. Ama bu yapmayı hedeflediğim şeylerin günün sonunda tespitini yapan da ben ve takımdaki insanlar. Yani bizim bir mühendislik takımı kadar net bir timeline'ımız yok. Hatta tam tersine çok daha dinamik bir şekilde ilerliyor çoğu zaman. Ben diyelim ki bir tutorial üzerinde çalışıyorum. Bu evet, şu noktada bitirmem gereken bir task olmuş oluyor. Ama bakıyorum ki işte iki hafta sonra çok güzel bir meetup'a bir davet almışız. O zaman bütün önceliklerimi bir kenara bırakıyorum. Diyorum ki benim önceliğim demek ki bu etkinliğe gitmek. İşte o zaman yolculuk da dahil oluyor içerisine ve öncelikler birden çok değişmiş oluyor. Biraz dinamik olmak gerekiyor. Bu da yanında birazcık da serbestliği de getiriyor. Evet, kesinlikle.
+
+[Enes Fehmi Manan]: Bu arada çok güzel bir rol. Ben her zaman gıpta ettim.
+
+[Bilge Yücel]: Ben de çok gıpta ediyorum. Seni de alalım intern olarak.
+
+[Enes Fehmi Manan]: Valla bilmem, ne tip olurum?
+
+[Bilge Yücel]: Biraz da böyle alan dışı nelerle uğraşıyorsun? Mesai bitirdikten sonra, işte bilgisayarın kapağını indirdikten sonra neler yapıyorsun? Hobilerin neler?
+
+[Bilge Yücel]: Son bir senedir çok aktif olarak dans ediyorum ben. Sosyal Latin yapıyorum. Biraz salsa, biraz bachata, daha çok salsa. Yani geri kalan vaktimde bir de çok fazla oturarak çalıştığımdan dolayı ister istemez artık oturarak bir şey yapmak istemiyorum. Ve dans böyle bunun tam zıttı gibi; hiç oturmadığın, hatta çok aktif bir şekilde hareket ettiğin bir etkinlik. O yüzden en büyük hobim bu aralar son bir senedir dans diyebilirim. Bunun dışında işte biraz daha stres yönetimini yapabilmek için yürüyüşü, yogayı, meditasyonu da hayatıma katmaya çalışıyorum. Bunlar biraz daha sabahları kattığım şeyler. Genelde Avrupa'yla, Amerika'yla çalıştığımdan dolayı benim sabahlarım biraz daha geç başlıyor. Türkiye saatiyle on buçuk, on bir, on bir buçuk gibi aslında mesaiye başlıyorum. Bu da bana sabahları aslında kendime ayırabileceğim güzel bir vakit veriyor. İşte bir yürüyüş yapabileceğim, belki bir yoga yapabileceğim. Sabahları da böyle değerlendirmeye çalışıyorum aslında. Onun dışında da klasik işte.
+
+[Enes Fehmi Manan]: Gene bir gıpta geldi benim taraftan.
+
+[Bilge Yücel]: Ama hiç akşamlarımı konuşmadık. Hiç akşam saat sekizde, dokuzda, onda benim hâlâ masa başımda olduğum zamanlar da var. Bunlar konuşulmuyor. Hafta içleri nasıl sosyal hayatımın sıfırlandığı... Bunlar gıpta edilmez herhalde bunlara.
+
+[Enes Fehmi Manan]: Onu da ediyoruz, onu da ediyoruz. Benim normalde full time yani. Her dakika buradayız gibi bir durum var şu sıralar.
+
+[Bilge Yücel]: Evet, yani işte şey olunca.
+[Enes Fehmi Manan]: Ya uzaktan çalışma ve işte "hep buradayım, dans ediyorum, işte yoga yapıyorum, biraz hani mental için yürüyorum" dedim. Bunlar ya o kadar kıymetli ki. Ve aslında uzaktan çalışan kişiler için de ben de full uzaktan çalıştığım için biliyorum, yapması bir o kadar zor yani. Uzaktan çalışıyorsa mesai bitince zaten böyle bir enerji çekiliyor. İnsanın böyle kendini dışarı atması zorlaşıyor, çıkamazsın. Zaten akşam olmuş oluyor bir noktada. Ya o taraf için bir önerin olur mu ya? Bu benim için de önemli bir nokta. Bunları nasıl yapacağız bu tarafa?
+[Bilge Yücel]: Ya şimdi ben işini seven bir insanım. Maalesef bu her zaman iyi bir şey değil. Çünkü öyle olunca, özellikle evdeysem de yani "mesaim bitti" diye benim kafamda böyle bir kavram yok. Ben bir iş üzerindeyim. Mesela şu an çok iyi odaklandım. Saat yedi buçuk oldu, sekiz oldu, dokuz oldu fark etmez. Ben ondan zevk alıyorsam yapmaya devam ediyorum. Ve bu kesinlikle sağlıklı bir şey diye kimseye önermiyorum. O yüzden de benim yaptığım taktik ve bende işe yarayan şey başka bir plan, yani beni evde tutmayacak bir plan yapmak. Mesela benim dans dersim akşam saat dokuzda. Bunu da bulduğum için gerçekten çok şanslıyım, bu kadar geç bir saatte dans dersi bulduğum için. Ama hani bu bana şeyi veriyor: Tamam, sekizde mesaim benim bitecek en geç ve sonra hemen evden çıkmam lazım, yoksa dansı kaçıracağım.
+[Enes Fehmi Manan]: Böyle olunca o laptop kapanıyor.
+[Bilge Yücel]: O mesai gerçekten kafada da fiziksel olarak da bitiyor. Ben bundan başka bir çözüm bulamadım açıkçası kendi içimde. İster istemez devam ediyorum çünkü. "Bunu da yapayım, bunu da yapayım. Çok iyi şu an momentum varken bunu yapayım." diyorum. Olmuyor. Ama sabahları da değerlendirmek gerekiyor.
+[Enes Fehmi Manan]: Öte yandan da... Kesinlikle ya. Bu uzaktan çalışmanın laneti gibi bir şey yani. Bir tarafı da var bu işin. Bundan çok bahsedilmiyor ama bu çok çok önemli bir kısmı bence: Bilek ağrıları, boyun ağrısı ve bel ağrısı. Uzaktan çalışıyorsanız bunlar da başınıza gelebilir. Hani sen zaten düzenli spor yaptığın için orayı biraz elemine ediyorsun değil mi? Ama mesela senin de bu tarz durumları oluyor mu? Nasıl bunlarla başa çıktın?
+[Bilge Yücel]: Yok, o konuda bayağı yardımcı oluyor aslında. Yani özellikle fiziksel ağrıları dindirmek anlamında. Çünkü otur otur artık kaslar da kısalmaya başlıyor, bel ağrısı oluyor. Dans da bu konuda yardımcı oluyor açıkçası, hani biraz postürün düzelmesiyle. Ama oturan arkadaşlara, herkese gerçekten pilates tavsiye ederim: Aletli pilates. Bir ara yaptığım vakit vardı, düzenli olarak haftada iki kere. Gerçekten çok büyük etkisini görmüştüm, hem kuvvetlenmek anlamında hem de ağrılarım anlamında. Yardımcı olmuştu bana. Bir de ben bunu arkadaşımdan görmüştüm. Şimdi yazayım şöyle bir şey.
+[Enes Fehmi Manan]: Bu Decathlon'da satılıyor. Umarım reklama girmedi bu ama.
+[Bilge Yücel]: Bu şekilde hani toplantılarda işte bileğimi bununla çalıştırıyorum. Bunun gibi işte küçük küçük fiziksel sağlığı koruyabilecek şeyler eklemek gerekiyor. Bende bunlar var.
+[Enes Fehmi Manan]: Sende neler var? Böyle şeyler var mı bilmiyorum. Bende çok şey var yani. Şöyle, ben bir ara hatta Karpal Tünel'e doğru gittim. O kadar çok elim mouse'ta duruyordu ki. Mouse'um da şeydi, böyle küçük bir mouse'du. Bu mouse'u kullanıyordum o dönem. Bu mouse beni Karpal Tünel yaptı arkadaşlar! Kimseye önermiyorum bu mouse'u.
+[Bilge Yücel]: Şuna geçtim şu anda.
+[Enes Fehmi Manan]: Dikey mouse'a geçtim. Ha evet, evet. Ve gerçekten çok etkili. Yani egzersiz yapamasanız bile dikey mouse'a tek başına geçmek bende Karpal Tünel'i büyük oranda çözüyor gibi bir durum var. Tabii ki de egzersiz önemli. Onu yapmadığınız zaman her türlü başınıza dertler açılıyor.
+[Bilge Yücel]: Aynen öyle.
+
+[Enes Fehmi Manan]: Gökhan abinin yine bir yorumu var: "Enes hocam, senin ele aldığın bu projeye, 'evaluator'a, open source'tan katkı istemelisin bence." Bu proje şöyle bir proje: Feedback Agent diye bir şey yapmıştım. Onu da hatta atayım. Bu, arka planda Gemini ve OpenAI API'lerini kullanarak GitHub'dan bir projenin linki alındığı vakit, bu işte private olmaması lazım, public bir link. Jupyter Notebook da olabilir, .py uzantılı da olabilir. Onu oraya attığınızda direkt size otomatik geri bildirim veriyor. İşte bu projenin amacı bu: "Şu teknolojiler kullanılmış. Bu projede şu noktalar iyileştirilebilir." Direkt orada kod örneğini de veriyor: "Şunları şunları iyileştirebilirsin" diye. İşte güvenlik önerisi söylüyor: "Belki hani şunları çıkararak veya işte şunları ekleyerek daha da güvenli hale getirebilirsin." Ve işte bunun gibi böyle uzunca bir ilk mesaj veriyor sana. Sonrasında da sen bu projenin X-Y kısmıyla alakalı sorular sormaya devam edebiliyorsun. Bu böyle bir projeydi.
+
+[Bilge Yücel]: Evet, bak, güzel demiş. Gökhan'a teşekkürler. Bizim Haystack Cookbooks diye bir repozitory'miz var ve bunlar aynı zamanda web sitemizde de var. Buraya mesela bu örneğini Haystack'le yapıp sen de katkıda bulunabilirsin. İhtiyacın olan tek şey aslında bir tane Python Notebook. Buna eğer, yani bu proje anladığım kadarıyla bayağı kapsamlı bir şey, bunu eğer Haystack'le yazmak istersen de Cookbook'a katkıda bulunmak istersen bana ulaş. Ben sana her türlü yardımı veririm zaten. Çünkü orası tamamen aslında topluluğa ayırdığımız bir yer. Bir örneğin varsa onu oraya koy, sonra insanlarla paylaş. Çünkü sen böyle bir şey geliştirdin, ne güzel işte benim ilgimi çekti. Topluluktaki başka birinin ilgisini çekebilir. Open Source biraz da paylaşmak zaten.
+
+[Enes Fehmi Manan]: Hatta şöyle bir şey var repo'da: JSON olarak haberleşiyor. Direkt hatta cevabı JSON vermeye zorluyorum ben prompt'ta.
+
+[Bilge Yücel]: Onu JSON'dan çıkartıp işte unstructured desteğe gelmiş de şu an.
+
+[Enes Fehmi Manan]: OpenAI'ın destekleri var. Biraz hani o kısmı inceleyip oradaki hataları mesela elimine edecektim. Şu an hani sen Haystack ve Graph, işte o yapıyı deyince belki onu da geçirebiliriz. O daha kolay olursa. Bunlar hep emek.
+
+[Bilge Yücel]: Evet, tabii ki, tabii ki. Ama ileriye dönük bir emek. Yani geri dönüşü olabilecek bir emek. Güzelmiş ama fikrini beğendim.
+
+[Enes Fehmi Manan]: Ya evet. Bunun çıkış noktası da şeydi yani: İşte mesela insanlar projesiyle alakalı mentorluk için bana yazabiliyor LinkedIn'den. Veya X başka platformlarda ben gönüllü mentorluk yapıyorum. Oralarda işte projeler atanıyor, biz onları değerlendirmek gerekiyor falan. Ya bu çok maliyetli, uzun sürüyor. Yani bir de 'base eleme' bunu açıklamaya çalışsam bile projeyi yine çok uzun sürüyor. Tek tek her şeyi kopyalama: Markdown'ı ayrı, şeyi ayrı, kodu ayrı, amacı yaz falan. Ya diyeyim, şu linki atayım, bana direkt her şeyi veriver. Bunun çıkış noktası buydu. Tabii yapması da çok uzun sürüyor.
+
+[Bilge Yücel]: Peki, şeyi soracağım: Linki verdiğin, link herhangi bir link olabiliyor mu? Nasıl bir link vermem gerekiyor?
+
+[Enes Fehmi Manan]: Web sitesinin linkini mi diyorsun? Yok, web sitesi olmuyor. Ya Jupyter Notebook uzantılı, .ipynb uzantılı ya da .py uzantılı olması gerekiyor. Yani direkt bir repo'nun linkini verdiğin zaman sana exception fırlatır, "Geçersiz" diye.
+
+[Bilge Yücel]: Sadece koduna, yani bu projeyle geliştirilmiş bir şeyin koduna bakarak bu yargıya varıyor yani aslında...
+
+[Enes Fehmi Manan]: Evet.
+
+[Bilge Yücel]: A, harika!
+
+[Enes Fehmi Manan]: Şöyle yapıyor: Mesela 'notebook-format' diye bir kütüphane var. Oradan direkt kodları, bir de işte onu formatladıktan sonra Markdown'ları içerisine çıkartıyorum. Notebook için konuşuyorum. Yani kod kısmı zaten kolay, kod yani. GitHub API'den direkt Python koduna erişebiliyorsun. Onları formatladıktan ve uygun formata getirdikten sonra LLM'in prompt'una gidiyor. İşte LLM orada senior bir Python Developer veya işte Data Scientist olabilir. O prompt'u birazcık da task'e göre özelleştirilebilir. Bakıyor, projeyi değerlendiriyor. İşte çeşitli kriterlere göre amacı, kapsamı, geliştirme önerilerini falan filan. Bunları çıkarttıktan sonra sana böyle kapsamlı bir ilk mesaj dönüyor. Bu arada deploy'da. Yani direkt 'About' kısmındaki linkten gidip deneyebilirsiniz. İzlediğiniz için teşekkür ederim.
+
+[Bilge Yücel]: Güzelmiş. Hemen bu yayından sonra bir tane Haystack Notebook'larından birini deneyeceğim.
+
+[Enes Fehmi Manan]: Bakayım ne diyor? Yani İngilizce mi notebook?
+[Bilge Yücel]: Evet.
+[Enes Fehmi Manan]: Evet. O da sorun yaratmıyor, onu da şey yapıyor.
+[Bilge Yücel]: Normalde Türkçe mi peki?
+[Enes Fehmi Manan]: Şu anda cevapları Türkçe veriyor. İlk şeyi Türkçe veriyor, ilk cevabı. O da onun sebebi de ben arkaya bir switch mekanizması koymadım. Hatta bunu yabancı bir forumda paylaştım ve adam bana şey döndü: "İngilizce istediğim zaman İngilizce verdi sonrasındaki konuşmada."
+[Bilge Yücel]: Ama Türkçe yazmışsın.
+[Enes Fehmi Manan]: Hani "Bak şey yaptım, manipüle ettim" dedi. Ben de "Doğrudur, ediliyor" yani dedim. Ama switch'i koyacağım. "İstiyorsan bir issue aç" dedim.
+[Bilge Yücel]: Okey.
+[Enes Fehmi Manan]: Anladım.
+[Bilge Yücel]: Güzel bir projeymiş.
+[Enes Fehmi Manan]: Beğendim. Yani bu çok da şey değil ama güzel. Evet, güzel diyorlar. Ama ben çok da bayılmadığım bir proje. O zaman çok güzel bir noktaya geldik. Burası bizim MultiGroup'ta bir kaynak olarak da yaptığımız bir yer. Bizim şu anda üzerinde uğraştığımız bir repo var: İşte DMC Data Science Awesome diye. Burada Data Science ile alakalı yeni başlayan veya işte middle, hatta ileri seviye insanlara dahi çeşitli guide'lar, kaynaklar barındıran bir Awesome reposu inşa ediyoruz. DataCommit için de burada bir sekme açtık. Yani şu anda ben hani bilgiye çeşitli bu alandaki tavsiye ettiği, işte güncel kalmak için kullandığı kaynaklar, siteler, framework'ler... Hani bunları soracağım. Burada hani bilgi bunları sözlü olarak söyler, fakat hani devamında bu linkleri ondan alıp repoya da ekleyeceğim ben. Hani orada şeyiniz olmasın. Hatta reponun linkini de şeye atayım, chat'e atayım. Şimdi o zaman bu kısma geçebiliriz. Kendini nasıl geliştiriyorsun? Güncel kalmak için neler yapıyorsun?
+[Bilge Yücel]: Bu konuda birazcık şanslıyım. Çünkü bu alanda çalışıyorum ve ister istemez bu bilgi bana iş yerindeki Slack'te çok rahat bir şekilde dönüyor. Ama ben çok LinkedIn'e de bakıyorum ve özellikle takip ettiğim insanlar, diğer büyük şirketlerin ve büyük ekosistemleri de takip ediyorum.
+[Enes Fehmi Manan]: Onu kaçırmışım aradan, da şu an fark ettim.
+
+[Bilge Yücel]: Diğer büyük şirketlerin devrel'lerinde çalışan insanlar. Çünkü günün sonunda ben hashtag'i anlatıyorsam sosyal medyada, o insanlar da aslında amaçları kendi yaptıkları, çalıştıkları şeyi yine benim anlayacağım seviyeye indirip benim anlayabileceğim şekilde anlatmak. O yüzden de ben özellikle büyük şirketlerin, mesela Hugging Face'ten de çok fazla insan takip ediyorum açık kaynak dünyasından. Bu insanları LinkedIn'den ve Twitter'dan takip ediyorum. Onları da eklerim yani, sosyal medya hesaplarını da paylaşırız. Çünkü daha geçenlerde mesela bir şey gördüm. Çok güzel görselleri var, çok net bir şekilde anlatmış. Aa, dedim, öyle çok iyi bir yöntem bu. Mükemmel bir anlatış yani. Biraz kendime de ilham olsun diye baktım. Bir de benim takip ettiğim newsletter'lar var, yani üye olduğum diyeyim. Bunlar bana işte haftalık veya iki-üç günde bir e-posta yolluyorlar ve biraz daha böyle her şeyin özeti gibi oluyor. Orada eğer detay öğrenmek istersem linklerine girip bakıyorum. Ama genel hatlarıyla ya neler olmuş, ne alanda ne bitmiş, bizim topluca görebilmemiz için çok yardımcı oluyorlar. Diğer türlü çünkü gerçekten...
+
+[Enes Fehmi Manan]: Bu arada kullandığın newsletter'ların isimlerini de söyleyebilir misin? Ben o tarafa bayılıyorum çünkü.
+
+[Bilge Yücel]: Bir tanesi AI News diye bir şey. Onun linkini de paylaşırım. Çok rahat üye olunabilecek bir şey. Birisi de bir tane adamdan. Adamın ismini şu anda hatırlamıyorum ama onu da paylaşırım. Çünkü yani onlar ister istemez seçerek de koyuyorlar. Yani aslında bir filtreden de geçmiş oluyor çoktan bana ulaşana kadar. Yani biraz bu alandaki öncüleri takip ederek ben kendimi güncel tutuyorum. Güncel tutmaya çalışıyorum, diyelim. Burada bir varış noktası olduğunu düşünmüyorum.
+
+[Enes Fehmi Manan]: Burada mesela şu anda lokal LLM'ler falan da çok popüler. Bu O Lama tarafı. O da bir, işte, O Lama'yı kullanmak için bir framework esasen. O taraftaki şeylere de bakıyor musun? Hani LangChain tarafından çok bakmıyorum dedim. Biraz, hani, aklım karışmasın diye direkt rakibimiz olduğu için. Ama bu tarz şeylere bakıyor musun?
+
+[Bilge Yücel]: Tabii ki de yani. Çünkü O Lama ile Hashtag'in entegrasyonu var. Daha hatta hafta sonu bir sunum yaptım O Lama ile alakalı. O Lama'da hani neredeyse bütün popüler açık kaynak modelleri çalıştırılabilecek bir yazılım. Öyle olunca da oradaki modellere de bakıyorum. Ve hani benim için de böyle bir yine oradan bir filtreden geçmiş oluyor. Ya tamam, bu O Lama'ya girdiyse bu model, tamamen ki bu model gerçekten alanında iyi bir model şu noktada. Ve ben bunu kullanabilirim gibi de aslında bir filtreleme olabiliyor. O Lama bu arada çok sevdiğim uygulamalardan da bir tanesi. Açık kaynak alanında çünkü. Hani API kullanmak hepimizin çok daha işine geliyor ama açık kaynak olunca böyle bir "Ne kullanacağım ben şimdi?" oluyor. O Lama bu problemi bayağı iyi çözüyor.
+
+[Enes Fehmi Manan]: Kesinlikle. Orada hatta O Lama'da işte terminalde çalışıyor. Onun için de böyle bir sürü O Lama tarafında entegre frontend aracı var. Orada mesela kullandığın bir frontend aracı var mı?
+
+[Bilge Yücel]: Frontend olarak ben Gradio'yu çok seviyorum. Gradio ile böyle bir kendime UI yapmak iyi. Çünkü işte, çünkü Colab'de de çalışabiliyor Gradio. Ve hani sadece bir ortam içerisinde hem uygulamamı da yapmış oluyorum, hem UI'ımı da yapmış oluyorum ve lokalime de hiçbir yük bindirmemiş oluyorum aslında her şeyi Google Colab'de yaptığımdan dolayı. Ve şey de var: Ya ben bunu kime yollarsam yollayayım, kiminle paylaşırsam paylaşayım, onlar da bunu çalıştırabilecek. Bütün çünkü çalışmaları gereken kodlar orada. O yüzden de Gradio benim çok işime geliyor. Bunun dışında tabii daha özel bir şeyler yapmam istersem Streamlit'i de kullanıyorum. Ama ben biraz daha çok Gradio tarafı benim çok işimi görüyor. O yüzden de oradan çok ayrılmıyorum. Yani bana çünkü arayüz olarak da çok kolay geliyor. Yani kod tarafındaki geliştirici deneyimi de rahat geliyor eski bir frontend'ci olarak.
+
+[Enes Fehmi Manan]: O detay unutuluyor ama öyle bir şey var.
+
+[Bilge Yücel]: Ya tabii, daha böyle ileri seviye bir şeyler yapmak isteseniz, hani React'a kadar gidebilir bunun ucu. Ama hadi yani Python'da kalayım, ben farklı şeyler dahil etmeyeyim dediğimde Gradio ve Streamlit arasında gidip geliyorum aslında ben.
+
+[Enes Fehmi Manan]: Güzel öneriler. Ya burada başka baktığın framework var mı? Mesela ben Gradio'nun notebook'ta çalıştığını bilmiyordum. Senden öğrendim ve şu an inanılmaz ufkumu açtı diyebilirim. Gradio'ya da hiç bakmamıştım yani. Direkt Streamlit yapıyordum ben.
+
+[Bilge Yücel]: Gradio'da hatta mesela o linki paylaşılabilir hale getirip direkt bir link de yollayabiliyorsun arkadaşına işte veya müdürüne. Her şey Colab'de hallolmuş oluyor. Ben lokalimde bir şeyler çalıştırmayı şu noktada sevmiyorum. Çünkü sonrasında hafıza doluyor. Yani ne vardı burada? Hangi modeli indirmiştim? Ya bu model, şimdi O Lama ile indirdiğim model nerede? Git onu bul. Sil, artık kullanmayacağım derken. Çok fazla bir şeyler yük biniyor gibi hissediyorum bilgisayarın üzerine. Ama Colab'de olunca her şekilde orada hiçbir sıkıntı olmuyor. Onu çok seviyorum.
+
+[Enes Fehmi Manan]: Evet, böyle. Çok haklısın. Benim bilgisayarımda da öyle. O kadar çok environment var ki. Bir environment, sadece PyTorch'u indirmek bile o kadar büyük bir yer kaplıyor ki. Environment'lar lokalde çok büyük sorunlar yaratıyor.
+
+[Bilge Yücel]: Orada kendiliğinden şey oluyor işte. Onun eski versiyonu varmış ama onu güncellememiş de orada konflikt yaratıyor falan. Ben çok gelemiyorum.
+
+[Enes Fehmi Manan]: Ya öyle gerçekten ya. Senin açık kaynağa yaptığın katkılar var. Burada tabii direkt olarak bir devrel olduğun için her şeyi böyle açık kaynağa koyuyorsun. Yaptığın tüm sunumlar olsun, yani sunumların linkleri bile açık kaynak olarak internette. İşte yaptığın tüm uygulamalar GitHub'da. Bu konu hakkında işte cookbook yazmak, dokümantasyon yapmak, yaptığın her şeyi böyle açık kaynağa koymak. Bu konu hakkında ne dersin?
+
+[Bilge Yücel]: Burada bir emek koyuyorum ve sonrasında bu koyduğum ürünü, yani bu yarattığım ürünü insanlar kullansın diye açık kaynak bir şekilde insanlarla paylaşıyorum. O yüzden de open source'u genellikle seviyorum. Kendim de zaten bu alanda para kazandığımdan dolayı bu işe sonsuza dek devam edebilirim sanırım. Yani işimin bir parçası çünkü bu şekilde buralara katkı yapmak. Ama şurada şöyle de geliyor: En başından beri ben kendim de büyük bir open source kullanıcısıydım ve çok şey öğrendim. İşimi çok kolaylaştıran şeyler kullandım. Öyle olunca da birazcık da böyle geri verme isteği var içimde. Yani işimin bir parçası olmasa bile sanırım kendim yine bağımsız bir şekilde gider, işten arta kalan zamanımda ve işimin yine günlük bir saatini ayırarak bir katkıda bulunmak isterdim elimden geldiğince. Çünkü topluluk bu şekilde büyüyor, insanlar bu şekilde gelişiyor ve herkes olabildiğince katkıda bulunduğunda böyle oluyor zaten. Bir open source sevgim var içimde.
+
+[Enes Fehmi Manan]: Kesinlikle ya. Ben de çok bayılıyorum open source tarafına. Burada bir de onun güzelliği şu ya: Yaptığın her şeyi bir fiil gösterebiliyorsun. Aynen. Mesela bahsettin ya, tezini şirketle yaptın ve aslında orada PyTorch kullandığını bir noktada kanıtlayamamışsın gibi bir durum oluşmuş. Aslında burada her şey ortada yani. Muazzam bir şey o yüzden. Evet, evet.
+
+[Bilge Yücel]: Yani işte keşke mesela lisans zamanında da kalan bir şeydi. Bütün projelerimi, keşke yaptığım her şeyi GitHub'a koysaydım, zaten orada olurdu. Çünkü zamanında hani ben de çok oradaki kaynakları da çok kullandım. İnsanlar çünkü işte notlarını paylaşıyorlardı. Yani bu, konuştuğumuz open source kavramının içerisine girmiyor belki ama günün sonunda herkes bir şeyler paylaştığından dolayı bir yere gelmiştim ve ben de o yüzden de hep insanlarla paylaşma niyetindeydim.
+
+[Enes Fehmi Manan]: Kesinlikle. Ya buna ben de o kadar katılıyorum ki. Hatta ben kendi aldığım notlarımı da GitHub'a koymuştum, bölüm dersi notlarımı. Hatta alt dönemlerime falan atıyorum şey grubundan. Hatta yani şey, elimle yazdığım notları bile fotoğrafını çektim. Onları bile GitHub'a koydum yani. O kadar atıyorum ya. Alın kullanın ya. Yani bir tek bende kalmasın yani. O kadar emek vermiş.
+
+[Bilge Yücel]: Böyle insanları çok seviyoruz işte. Bunu herkes yapsa var ya, o kadar büyük bir dokümantasyon oluşacak ki.
+
+[Enes Fehmi Manan]: Evet.
+
+[Bilge Yücel]: Evet evet, ders notları, birçok farklı hocadaki ders notları. Bir de hani insanın anlama yöntemi de farklı. Kesinlikle.
+
+[Enes Fehmi Manan]: Yani kesinlikle. Bir de örnek sınavlar buradan hani. Yakaladığınız sınav tüyolarını yani. Herkes yazsa, şu sheet'leri paylaşsa, yani kimsenin derdi kalmayacak gerçekten ya.
+
+[Bilge Yücel]: Evet, doğru. Zamanında benim de çok kullanmışlığım vardı. Tabii biraz öncedendi. Şu an üniversite okumak çok farklı bir konsept benim için.
+
+[Enes Fehmi Manan]: Bir de... Bir de... Şimdi dur, bir şey geldi. Biz haftamıza yaklaşıyorken böyle şey çok... Ya kesinlikle, sen de bunu teşvik et ya, sınavındakileri. Özellikle bilgisayar mühendisleri bu tarafa daha yatkın oluyor, hani GitHub kullanımına, şey kullanımına. Teşvik edebiliriz anca. Yani başka türlü bunu nasıl arttırabiliriz bilmiyorum. Evet.
+
+[Bilge Yücel]: Bir bilinçle hareket etmek gerekiyor.
+
+[Enes Fehmi Manan]: Kesinlikle. Şimdi o zaman en güzel, benim en sevdiğim yere geldik. Bu kamu spotu noktası bir noktada. Şimdi senin alanınla alakalı, yeni başlayanların başladıkları vakit doğru zannederek yaptığı fakat aslında yanlış olan bu tarz senin gözlemlerin var mı? Bunlar neler?
+
+[Bilge Yücel]: Ya şimdi bu alanda aslında biraz herkes yeni başlayan. Yani çünkü çok yeni bir alan, çok hızlı ilerliyor. Belki o yüzden sadece yeni başlayanlar diyebiliriz. Yoksa bu alanda da en uzun süre çalışan insanlar genellikle iki senedir maksimum. Ondan önce çünkü, genel itibarıyla bu kadar yaygın bir alan değildi. Benim en çok gördüğüm şey bir, insanlarda çok fazla her şeyi öğrenmeye çalışma ve her şeyi öğrenemeyip panik olup korkma durumu var. Ben de bu pozisyondaydım ilk zamanlarda. Böyle yeni modeller çıkıyor.
+
+[Enes Fehmi Manan]: O modeli denemem lazım. Ne yaptığını öğrenmem lazım.
+
+[Bilge Yücel]: İşte paper'ını okumam lazım gibi bir şeydeydim. Bunun sonra mümkün olmadığını gördüm. Her alanda olduğu gibi bu alanda da küçük küçük hype'lar var. Yani işte bir şey ortaya çıkıyor, çok büyük hype yaratıyor. İnsanlar o alanda çalışmaya başlıyor falan. Ve sonrasında bakıyorsun ki bir yerde çalışmıyor ve o hype'ı gidiyor ve kayboluyor. Bir zamanlar çok ünlü olan şey. O yüzden biraz daha her şeyin olgunlaşmasına bakmak lazım. Yeni bir şey çıkmış olabilir, çok güzel. Bir bakalım insanlar nasıl kullanıyorlar, ne diyorlar onun hakkında. Bunu görmek lazım. Birinci gördüğüm en büyük şey.
+
+[Enes Fehmi Manan]: Bu.
+
+[Bilge Yücel]: Ve ikincisi de bu daha genel bir gördüğüm şey. Yani large language modelleri, bu büyük dil modelleri yani, her şeyi yapmaya çok yetenekliler. Çok güzel böyle bir baseline oluşturabiliyorlar herhangi bir task için. Ama bu demek değildir ki o task için en uygun model onlar. Genelde.
+
+[Enes Fehmi Manan]: Genelde.
+
+[Bilge Yücel]: O task için daha küçük ve aynı işleri yapabilecek modeller bulmak mümkün olabiliyor. O yüzden de hani evet, hiçbir fikriniz yoksa bir large language modeli kullanmak o taskı tamamlamaya, bir sonucu görmeye, bir şey gerçekten bu yapılabiliyor mu bakmaya değer. Evet ama sonrasında biraz daha küçük modellere bakmak lazım. Hatta bazen aslında ihtiyaç olan tek şey çok sofistike bir regex veya uzunca, yani birkaç tane else'ten oluşan bir if-else statement'ları. Her zaman yapay zeka olacak, o iş modelleri çözülecek diye bir şey yok. Bazen küçük modellere, bazen de sadece koda ihtiyacımız var. Bu çok hype'ken şirketler de böyle sürekli yapay zeka, yapay zeka diye kendileri bir şekilde entegre etmeye çalışırken bunu çok gözden kaçırıyorlar. Her şirketin, her ürünün, her use case'inin yapay zekaya ihtiyacı yoktur. Bunu da kamu spotu olarak da buraya koyabiliriz sanırım.
+
+[Enes Fehmi Manan]: Ya en net anladığım şey şu oldu, hani bir tane de görsel var ya, adam pastayı böyle kocaman bir kılıçla kesmeye çalışıyor. Bu deep learning'de çok bilinen bir görseldi. Şu anda da o işte ChatGPT'ye döndüğü gibi bir şey oldu. ChatGPT hype'ına kapılan, aslında API'ye birkaç sorgu atan herkes bir noktada anlık olarak o hype'a kapılıp "Ya her şeyi bununla çözebiliriz!" gibi aslında bir noktada bir prompt yazıyorsun, arkada biliyor, onu falan gönderiyorsun, çözüyor. Hissiyatı çok güzel. Hissiyatı çok güzel ama efektif olmayabilir gerçekten de.
+
+[Bilge Yücel]: Çünkü gerçekten de direkt olarak şöyle bir problemle ortaya çıkıyor aslında. Bu modellerin özellikle çok büyük şirketlerin modellerinin datalarını bilmiyoruz. Nasıl datalarla eğitildiler? Yani bir ırkçı söylemleri olabilir mi bunun? Cinsiyetçi söylemleri olabilir mi? Taraflı bir data mı var içerisinde? Veya yani bir şekilde bir prompt'la bu model manipüle edilebilir mi, edilemez mi? Yani aslında direkt hani evet bir ürün yapmaya çalıştığımızda, bir prototip oluşturmaya çalıştığımızda aslında çok kolay evet ama biz biliyoruz ki her zaman bizim kullanıcılarımız çok iyi niyetli insanlar olacak ve bu modelleri her zaman bizim istediğimiz, yani düşündüğümüz şekilde kullanacaklar. Hayır, yani nasıl bir SaaS platformu geliştirirken de yani bir frontend zamanlarımda vardı mesela, kullanıcının o butona basacağını düşünürsün ve ona göre şey yaparsın ama kullanıcı işte doldurması gereken yerleri doldurmadığı zaman o butona basar. Kullanıcı çok farklı şekillerde, yani çok farklı şeyler yapmaya çalışabilir ve sen test case'lerine bunları da eklersin. Ve bunlara göre de sürekli test edersin sistemini. Yapay zekada da aslında bu şekilde, yani bu modelleri test etmek de gerekiyor ve sonrasında bakıyorsun ki aslında yani evet prototipi çok kolay çıktı ama günün sonunda ben bu modeli test edeceğim. Her şekilde güncelleyeceğim, belki bir guard'a koyacağım çünkü kendi bilgim çıksın istemiyorum veya işte rakibimin bilgisini versin istemiyorum benim kullanıcıma vesaire gibi çok farklı şeylere devriliyor. Bu biraz daha ürünü artık canlıya alma pozisyonunda ama yine de bu da ilk başta düşünülmeyen şeyler ve insanların sonrasında süreçle beraber öğrendiği bir şeyler. İlk başlayan arkadaşlarda da bu önemli bence, ileriyi düşünmek gerekiyor yani.
+
+[Enes Fehmi Manan]: Kesinlikle, özellikle "guardrail" dedin ya, yani bu herhalde ilk başlayan kimse bunu düşünmez ya, yani aklına bile gelmeyebilir. Çok önemli bir keyword.
+
+[Bilge Yücel]: Evet.
+
+[Enes Fehmi Manan]: Peki senin en çok geliştiren proje neydi? Şöyle baktığın vakit aslında yaptığın projelere. Burada benim mesela kırılma noktam hani şu geliştirme kısmında şeydi: chatbot yapmak. İlk yaptığım chatbot bu hackathon'lara katılıyorum böyle düzenli olarak, gördüğüm işte her türlü yabancı neyi görürsen. O anki müsaitliğe göre bir şekilde başvuruyoruz bizim ekiple birlikte, Tavuk Pilav ekibi. Orada ilk yaptığım hackathon şeydi: Anadolu Sigorta hackathon'u. Orada Rasa'yla, yani o zamanlar NLU yeni yeni popüler oluyordu. Rasa diye bir şey vardı. Öldü belki şu anda, hala ben bilmiyorum ama. Yani Rasa'yla bir chatbot yapmıştım. O dönemden beridir de chatbot yapıyorum. NLU/NLP ile birlikte daha da arttı. Yani belki 10 tane yapmışımdır farklı farklı hackathon ve firma için. Senin böyle bir geliştiren, böyle tam bir kırıldığın bir nokta var mı proje anlamında?
+
+[Bilge Yücel]: Ya mesela tam geçen hafta bitirdiğim bir blog post için yaptığımız bir proje var aslında. Bunu başka bir şirketteki bir arkadaşımla beraber yaptık. Yani yine iş için yaptık aslında. Ama beni bu alanda en çok geliştiren şeylerden bir tanesi diyebilirim. Çünkü işte şeyler çok önemliydi. Bu proje bir multimodal agent'tı. Yani benim bir agent'ım var ve bu hem text datasını alabiliyor hem de görsel datayı anlayabiliyor. Ama işte buradaki bilgi akışı nasıl olacak? Ben bu sistemi nasıl tasarlayacağım? Bu modelin özellikle eğitildiği prompt'lar var. Ben işte o zaman o şeyi anlamıştım. Şimdi Hugging Face'e gittiğinizde mesela open source modellerin bazılarında size örnek olarak prompt template'lerini paylaşırlar. Çünkü işte sizin kullanmanız gereken bazı tag'ler vardır. Ve yani şu anki şey modellerinde, bizim API'lerle kullandığımız modellerde bunu çok fark etmiyoruz. Çünkü o arkada çalışan bir logic. Ama open source modellerini kendimiz kullanmaya başladığımızda bunun önemini çok fazla fark ediyoruz. Çünkü bazen mesela çok basit bir task veriyorum ama prompt'unu o kadar yanlış, yani o tag'lerini yanlış kullanmış oluyorum ve bana aynı şeyi 500 kere basıyor. Çünkü hani nerede duracağını, nasıl duracağını bilmiyor model. Ve sonrasında prompt'u düzeltiyorum, model birden çok doğru bir şekilde çalışmaya başlıyor. Bu örneğe geri dönecek olursam da bu model işte, bu sistemi yaratırken de bu prompt, yani prompt template'ini çok sıkı bir şekilde takip etmemiz gerekiyordu. Çünkü işte bir yere bir istek atıyoruz ve o istekten bize bir görsel geliyor. Ve o görseli benim doğru şekilde prompt'umun içerisine koymam lazım ki benim modelim de o görseli anlayabilsin ve sorduğum soruya cevap verebilsin. Ve tırnak içerisinde hani reasoning yapabilsin onun içerisinde gibi. Bu benim mesela en çok geliştiren projelerden biri oldu. Böyle hani modeller nasıl çalışıyor, bir agent nasıl yapılıyor ve birçok parçası var bunların hepsini nasıl bir araya getiriyorum diye. Merak eden insanlar için de Deepset blogunu da en son blog post olarak paylaştık.
+
+[Enes Fehmi Manan]: Bakabilirler. Hatta onun linkini de repo'ya ekleyelim.
+
+[Bilge Yücel]: Olur. Ben onu da yollarım. Onu da repo'ya ekleriz.
+
+[Enes Fehmi Manan]: Kesinlikle çok güzel bir nokta. Birçok farklı birleşenin aslında nasıl birleştiğinin anlaşılması gene olayı üç boyutlu görmeye geliyor aslında. Çok kıymetli ya bu olayı üç boyutlu görmek. Yeni başlayanların en çok sorduğu soru bu arada. "Nasıl yapacağız?" sorusunun arkasında o var aslında. Yani önünü arkasını göremediği için hep böyle bir "nasıl yapacağız" diye kendimden biliyorum. Evet, evet.
+
+[Bilge Yücel]: Ya bu noktada işte birazcık şey yapmak gerekiyor. Ya bir örnek alıp bir kendin gerçekten o kodları denemen, her kodu anlamaya çalışman gerekiyor. Sonrasında belki küçük küçük kendi projelerini geliştirmen gerekiyor. Sonrasında zaten bir yerden sonra akıyor burası.
+
+[Enes Fehmi Manan]: Kesinlikle. Çok güzel bir açıklamaydı. Şimdi sen yabancılarla birlikte çalışıyorsun. Uzaktan çalışıyorsun. Büyük oranda İngilizce konuşuyorsundur. O taraflar senin için nasıl? Türkiye'de çalıştığın bir dönem vardı. Şu an yurt dışında çalışmak nasıl? Bu ikisini kıyasladığın zaman neler söylersin?
+
+[Bilge Yücel]: Türkiye'de çalıştığım zamanlarda müşterilerimiz sadece yabancıydı. Biz kendi aramızda Türkçe konuşuyorduk. Güzeldi. Oradaki insanlarla kafam çok iyi uyuşuyordu. O yüzden de çok güzel bir ortamımız vardı. Şu noktada Deepset çok uluslararası bir şirket. Yani zaten bütün takım uzaktan çalışıyor. Bizim ofislerimiz olsa da kimse ofise gitmek zorunda değil. Böyle olunca çok farklı milletten insanla beraber çalışıyorsun. Çok farklı kültürler işin içerisine giriyor. Ve bu bazen şirket içerisinde çok fazla hoşgörülü olmanı da gerektiriyor. Çünkü bir Türk ile iletişim kurduğunla ondan beklediğin tepkiyle herhangi bir başka bir milletteki bir insanla iletişim kurduğundaki beklediğin tepki senin aynı olsa da verilen tepki aynı olmuyor. Ve bu yüzden de bir şeylere giriyor. Yani "Benim şu an davranışımda bir sıkıntı var, şu an problem ne?" gibi bir soru işaretleri oluşabiliyor. Çok farklı kültürlerle çalışmanın böyle bir şeyi var. Ama bir noktada da çok iyi bir yanı var. Çünkü çok farklı bakış açıları devreye girmiş oluyor. Ve hiç düşünmediğim şekilde beni düşünmeye sevk ediyor. Bu şeyini de seviyorum açıkçası, yani farklı milletlerden insanlarla çalışmanın. Ama günün sonunda insanlarla nasıl çalışacağını belirleyen şey şirketin kültürü oluyor. Ve şunu diyebilirim ki Deepset'in kültürü benim önce çalıştığım şirketin kültürüne çok benzer. O yüzden de aslında çalıştığım insanlarla kurduğum iletişim dili dışında çok da fazla bir şey değişmedi benim hayatımda. Yine aynı şekilde işlerimizi hallediyoruz. Sadece işte bunu kilometrelerce öteden ve İngilizce şekilde yapıyoruz.
+
+[Enes Fehmi Manan]: Gene bir gıpta geldi benim taraftan, diye falan. Çeşitlilik, yani çeşitli insanların olması, farklı milletlerden kişilerin olması çok kıymetli. Yani böylece işte değerli bir şey. İngilizce konuşmak da çok kıymetli.
+
+[Bilge Yücel]: Yani evet, unutmamak anlamında kıymetli. Ama yani bir 8-9 saat gün içerisinde geçirdikten sonra insan gerçekten Türkçe konuşmayı özlüyor.
+
+[Enes Fehmi Manan]: Nazlıcan'ın bir sorusu var: "Ben birinci sınıf bir yazılım mühendisliği öğrencisiyim. Algoritmayı nasıl hallettiniz?" Güzel soru.
+
+[Bilge Yücel]: Benim en sevdiğim şeydi. Yani ben sanırım, koddan daha çok sevdiğim şey algoritmasını düşünmekti. Yani kafamdaki o problemi nasıl çözerim diye düşünüyorum. Sonrasında algoritmaya döndürmek, yani koda döndürmek en sevdiğim şeydi. Bunu nasıl hallettim? Ya ben sanırım, bu biraz yatkınlıkla çok fazla alakalı. Ben böyle zeka oyunlarına yatkındım. İşte sudoku çözmek mesela çok severdim üniversiteden önce. Ama pratikle de çözülebilecek bir şey. En büyük etken pratik. Yani farklı problemler bulup bunları aslında koda hiç dökmeden, sadece algoritmayla nasıl çözebilirim diye düşünüp bu şekilde ilerlemek gerekiyor. Diyebileceğim en kısa şey pratik sanırım ya. Peki, senin ne cevabın var Enes?
+
+[Enes Fehmi Manan]: Ben de tam arkada kitap bakıyordum.
+
+[Bilge Yücel]: Şöyle, benim cevabım da, bu biraz algoritma dediğimiz bir şey aslında, biraz sistem tasarımı gibi bir şey ya.
+
+[Enes Fehmi Manan]: Yani kafada o yolu tasarlamak. Bundan gerçekten ben de çok keyif alıyorum. Ve hatta yaptığımız projelerin o akış diyagramını, işte ne bileyim, geçen işte Hackathon'da şey vardı, AWS vardı. Oradaki lambdalar birbiriyle nasıl bağlanıyor? İşte DynamoDB'ye ne gönderiyor, ne geliyor? Oradan o nereye gidiyor? Ya bunu çizmek bile o kadar keyifliydi ki!
+
+[Bilge Yücel]: Oradaki kendi içerisindeki, hatta ben tek tek hepsinin nasıl çalıştığının algoritmasına bile girerim.
+
+[Enes Fehmi Manan]: Akış diyagramı tarafını ben de çok seviyorum. Hatta ben de bir Python eğitimi vermiştim, beş hafta. Yani orada iki hafta full algoritma tarafını böyle kasmıştık yani. Çok eğlenceliydi o taraf. Bir tane kitap var bununla alakalı. Kitabın şimdi PDF'ine ulaşırsam, atacağım hemen. Biraz kapsamlı bir kitap. Bu kitaba bakabilirsin.
+
+[Bilge Yücel]: Yazılım mühendisliği öğrencisi olduğun için de şey yapacaktır.
+
+[Enes Fehmi Manan]: Şu an direkt hani PDF'nin linkini atsam sorun yaratır mı diye düşünüyorum da... Yaratmaz herhalde diye düşünüyorum. Yollayamıyor olabilirsin ama dene bakalım. Kitabın ismi "Data Structures and Algorithms in Python". Bu kitaba bakabilirsin. Bu biraz fazla kapsamlı, bir de hocaların yazdığı bir kitap. Biraz hani şey olabilir. Ağır da gelebilir. Ama böyle yavaş yavaş gittiğin zaman... Çok da hoşuna gidecektir, seni ciddi derecede geliştirecektir. Orada bir de MIT'nin hocalarının yazdığı bir kitap vardı. Benim de kitaplığımda olan "Algoritmalara Giriş". Hatta bende Parantez Yayınları'ndan çıkmış Türkçesi var. Ona da bakabilirsin. Ama çok Türkçe kaynak önermedim.
+
+[Bilge Yücel]: Ama bunlar yine de şey olmayacak kaynaklar: Yani iki üç yıl sonra eskimeyecek kaynaklar.
+
+[Enes Fehmi Manan]: Evet.
+
+[Bilge Yücel]: O yüzden de yani Türkçesi de iyidir diyebilirim. Özellikle İngilizce yani bir engelse. Ya şey, sorun ne?
+
+[Enes Fehmi Manan]: O konuştuğumuz problem sorun oluyor. "Kabarcık sıralaması" diye bir şey görüyorsun. Evet, doğru.
+[Bilge Yücel]: Sonrasında Türkçesini anlamamaya başlıyorsun bu sefer. O kadar terim İngilizce kalmış ki kafandan.
+[Enes Fehmi Manan]: Evet, doğru. "Güdümlü öğrenme." Çok komik geliyor.
+[Bilge Yücel]: Ben anlamam zaten. "Bana ne demek istiyorsun şu anda?" diye bakarım sana.
+[Enes Fehmi Manan]: "Supervised"a "güdümlü" diye çevirmişler. Yani o kadar şey ki, kulağa da komik geliyor ki. Ne diyelim yani. Şimdi Gökhan abi şey demiş ki: "Code Wars, LeetCode, HackerRank gibi platformlar algoritma için giriş seviyesinde iş görebilir mi?" Yani girişin de ötesi bence.
+[Bilge Yücel]: LeetCode'da bayağı evet, insanlar mülakatlara hazırlanmak için de kullanıyorlar. Ben aktif olarak açıkçası hiç kullanmadım. Birkaç kere girdiğim vardı sanırım. Bazı şirketlerin mülakatları için birkaç task çözmem gerekmişti. Ama evet, LeetCode'da insanlar bayağı şey yapıyorlar.
+[Enes Fehmi Manan]: Ben LeetCode'u çok az çözdüm ama HackerRank'i bayağı çözdüm. Oradaki Python'ım bayağı ilerledi hatta. Hatta bana iş yerindeki, şu an çalıştığım yerdeki task de algoritma sorusu da HackerRank'ten geldi. O dönem çözmüyor olsaydım aktif olarak muhtemelen çözemezdim. O açıdan iyi oldu. Bence o tarafı es geçmeyip çözmek güzel olur. Aynen.
+[Bilge Yücel]: Yani işin şeyi sadece pratiğe bağlanıyor ya, farklı kaynaktan farklı şeylere bakmaya.
+[Enes Fehmi Manan]: Haklısın, zira ben de okuyamıyorum yani. Çok cahillik bir heves ama okunmuyor yani. İnsanın gözüne batıyor. Burada soru almaya devam edebiliriz. Artık hani yavaş yavaş kapanışa doğru da geçiyoruz. Yani çok gerçekten uzun, doyurucu bir yayındı. Dolu dolu sürdü diyebilirim.
+[Bilge Yücel]: Neredeyse iki saate yaklaştık yani.
+[Enes Fehmi Manan]: Bir saat elli dakika olmuş. Son soruları artık alabiliriz, sorularınız varsa.
+[Bilge Yücel]: Evet, sohbet ederken biraz gitmiş.
+[Enes Fehmi Manan]: Gerçekten. Yunus Emre'nin bir sorusu var: "Selamlar. Sektörde üçüncü yılım olacak. Şu an kurumsal bir firmada çalışmaktayım. Artık yapılan işlerin tekrara düştüğünü görüyorum. Bu tür durumlarda karşılaştınız mı? Neler önerirsiniz?"
+
+[Bilge Yücel]: Yani şeyi merak ediyorum. Mesela kurumsal bir firmada ne olarak çalışıyor? Hani tamam, tam hangi pozisyonda çalışıyor? Çünkü benim birazcık farklı alanlara yönelmemin sebeplerinden biri de buydu. Yani her şeyi bildim, ben çok iyi bir front-end engineer'ım gibi değildim ama birazcık şeyi görmüştüm: Tamam, bir projeyi bitirdim. Şimdi yeni bir proje gelecek ve işte bu projede belki buna benzer bir şey yapacağım ve buna benzer teknolojileri kullanacağım ya da bundan en son çıkan React versiyonunu kullanacağım, hook'ları kullanacağım vesaire. Ve hani sonra ne olacak falan gibiye bağlanmıştı. Biraz böyle oluyor benim gözlemimle. Aynen, aynen yani.
+
+[Enes Fehmi Manan]: Çok büyük ihtimalle.
+
+[Bilge Yücel]: Büyük ihtimalle.
+
+[Enes Fehmi Manan]: Büyük ihtimalle.
+
+[Bilge Yücel]: Hatta senin karşılaştığın problemler, benim karşılaştığım problemlerden daha aynı bile ilerliyor olabilir. Çok hâkim değilim .NET alanına, nasıl, ne tür şeylerle karşılaşıyorsun diye. Ama işte bu yani bir noktada iyi bir şey. Çünkü artık iş hayatı, yani işin zorlukları hayatında bir yer kaplamamaya da başlıyor eğer seçmek istediğin yöntem buysa. Veya işte o alandan başka bir alana da evrilmeye başlıyorsun. Çünkü içinde hâlâ bir öğrenme isteği, hâlâ böyle bir zorlukla karşılaşayım ve bu zorluğu çözmeye çalışayım isteği oluyor. O zaman da işte .NET alanından atıyorum, bambaşka Flutter öğrenmeye geçiyorsun. Belki işte yapay zekâya geçiş yapıyorsun veya ikisini birleştiriyorsun belki de. Yani ben kendimce böyle bir yol izledim ama herkesin tabii ki istekleri, hedefleri farklı.
+
+[Enes Fehmi Manan]: Böyle bir durumla benim mentorum karşılaşmıştı. O da biraz şöyle durumu kaydırmıştı: Yaptığı iş artık hani onun da böyle standartlaşmıştı ve yani bildiği bir noktaydı. Ve yani onun girdiği tarafla da şirket şey diyordu: "Sen bu tarafla alakalı girdin, bu tarafla alakalı işlere bakacaksın." Ama o da NLP'ye kaymak istiyordu. Nasıl yapacak bunu falan? Biraz orada şey gerekiyor: anlayışlı bir yönetici. Yani o taraf biraz yoksa cidden hani seni şirkette zorlayabilir o kısım, kayma tarafı. Orada işte ilgili kişilere belki hani şirket için bir problemi çözebileceğini gösterebilirsin.
+
+[Bilge Yücel]: O biraz öyle yapmıştı yani.
+
+[Enes Fehmi Manan]: Şirket için bir problem buldu ve hani o problemi çözebileceğini dokümante ederek, üst yönetimine giderek bunu somut bir şekilde gösterdiği için aslında girdiği işten bağımsız bir projeyi alabildi. Ve onunla beraber de değişti bu arada. Yani geçti, NLP'ye geçti.
+
+[Bilge Yücel]: Başarılı bir girişimmiş demek ki, güzelmiş. Bir de mesela şey de var: Yani artık bir süre developer olarak çalıştıktan sonra insanlar hani bir manager'lık ya da bir lead'lik pozisyonuna da geçiş yapabiliyor. Hani alandan çok kopmadan ama belki sorumluluklarının bir noktada birazcık daha değiştiği. Bu da yine bir şey olabilir belki. Şirkette böyle bir imkân varsa tabii ki ama evet dediğin gibi şirketine, yöneticine göre çok değişiyor.
+
+[Enes Fehmi Manan]: Bir de kurumsal demiş. Kurumsalda lead ve manager olmak için biraz sene doldurmak gibi bir durum var veya yeni bir yapılanmaya gitmesi lazım şirketin. İşte tribe yapılanmasına falan ancak giderse senin oradaki küçük takımın lead'i olman olası olabilir. O da düşük bir ihtimal. Galiba yine sene doldurman gerekecek gibi bir durum var lead olacaksan. Tabii şirketi tanımıyorum ama benim gördüğüm yüzde seksen böyle. Evet. Var mıdır başka soru? Ya bu arada GenAI tarafında bilgi, gerçekten herhâlde TR'de bakıldığı vakit GenAI ile alakalı soru sorulabilecek en uygun insanlardan biri. Yani ulaşabiliyorsunuz, o ulaşılma tarafı var. Gerçekten değer veriyor böyle şeylere. İnanılmaz ya, çok kıymetli. Yani zor bulunan insanlardan biri diyebilirim.
+
+[Bilge Yücel]: Bu konu çok yeni bir konu ve şeyi de gözlemleyebiliyorum açıkçası. Buraya biraz daha yani Türkiye'ye biraz daha geç geliyor. Çünkü yani şöyle bir şey var: Her şey tabii ki İngilizce ilerliyor ve orada daha hızlı ilerliyor. Hem Türkçe model bulmak çok zor oluyor. Bu mesela benim çok sık karşılaştığım sorularından bir tanesi. İnsanlar bununla çok karşılaşıyor. O yüzden de burası biraz daha yani GenAI'yi ürüne katmakla, şirkette adopt etme ile alakalı birazcık gerideyiz. Ama benim de işte isteğim bu konuda da birazcık daha olabildiğince, elimden geldiğince destek olabilmek, böylelikle paylaşımlar yapabilmek. Umarım ileride Türkçe içerik de çıkartacağım biraz daha. Böylelikle daha fazla herkese bu noktada hitap eden şeyler olmuş olacak.
+
+[Enes Fehmi Manan]: Bu aslında benim soracağım sorulardan biriydi. Sen de tam bunu söyleyince aklıma geldi. Aslında bu da hatta son sorumuz olsun benim taraftaki. Türkçe içerik dokümantasyon kısmı ne olacak yani? Burada LangChain rakibimiz, ben de benimsedim yani rakip LangChain. Bunların Türkçe içeriği var. Bunlar yapılmış bir sürü yayın var. Hashtag de yok. Nerede? Hashtag yayınları gelecek. Bilgi makalesi de olur bu. Dokümantasyon da olur. Nasıl yapacağız?
+
+[Bilge Yücel]: Hashtag gerçekten bir niyetim var açıkçası. Yani tabii ki her şeyi çevirmen mümkün değil. Ama temel anlamıyla Hashtag işte nedir, nasıl kullanılır diye bir içerik çıkarmak istiyorum. Ama tabii şeyden de birazcık korkuyorum bu plaza İngilizcesi modundan. Çünkü ne kadar Türkçeleştirmeye çalışsam da bazı terimleri tutmak istiyorum. Burada da bir elimi kirletebilirsem, bir niyet edebilirsem ben de istiyorum öyle bir şeyler paylaşmayı, çıkarmayı. O zaman da hemen bu toplulukla da paylaşacağım. İsteyen arkadaşlar okuyabilirler.
+
+[Enes Fehmi Manan]: Valla bekliyoruz. Hatta bu plaza dili kısmına da bence kalmalı yani burada yapacak bir şey yok. Şöyle bir, benim çekincem de şu oluyor: Mesela konuşurken sorun olmuyor bu, İngilizceden Türkçe bir ek koymak. İşte ne bileyim, burada nasıl bir örnek verebilirim tam açıklanabilmesi için? LLM'den. Mesela bunu hani konuşurken güzel ama bu kavramı ekleyip böyle yazarken çok absürt oluyor. Yani notebook'a falan. Yani garip oluyor. Evet.
+
+[Bilge Yücel]: Maalesef, yani şöyle işte Fransızlar her terim için bir Fransızca karşılık üretiyorlar ve kendi dillerini bu şekilde kullanıyorlar. Almanlarda bu birazcık daha karışık anladığım kadarıyla. Hani her kelimeyi çevirmeseler de bazılarını çeviriyorlar. Mesela İtalyanlar bizim yaptığımız gibi işte, hani embedding'lerini yaratmak gibi bir şey diyebiliyorlar. Yani onu biraz Türkçeleştiriyorlar da. Her dilin işte farklı bir şeyi var. Biz de böyle yapıyoruz. İşte deploy'lamak diyoruz mesela.
+
+[Enes Fehmi Manan]: Mesela.
+
+[Bilge Yücel]: Dilin şeyi de böyle. O yüzden de ister istemez bu da yazılı şeye de böyle geçecek.
+
+[Enes Fehmi Manan]: Ya biraz da hani yedirildi artık. Hani bu durumlar dilin içerisine yedirildi. Burada bizim yapacağımız bir şey yok. Artık Türk Dil Kurumu devreye girip bunu onlar Türkçeleştirecek. Yani ancak bu şekilde çözülür bu olay. Şu an baktığım zaman developer tarafından bunun çözülmesi mümkün değil gibi duruyor.
+
+[Bilge Yücel]: Yani hani olabildiğince tabii bazı terimlerin yerine gerçekten de Türkçeleri kullanılabilir. Üretken modeller bence çok absürt durmuyor. Ama gerçekten embedding için benim bir çözümüm yok. Veya işte vektör store'a ne diyebilirim açıkçası gerçekten bilmiyorum. Belki biraz düşünsek, araştırsak buluruz. Ama bu sefer ben bunu dediğimde sen onu anlayacak mısın? Orası da var. Evet, destekliyorum ben. Olabildiğince Türkçe'ye dönmek lazım ama elimizden de bir yere kadar geliyor.
+
+[Enes Fehmi Manan]: Yapacak bir şey yok diyelim. Ve ağzına sağlık. Gerçekten çok keyifli, inanılmaz bir yayın oldu. Yani benim için de inanılmaz dolu doluydu. Birçok şey öğrendim yani. Hatta bazı yerlere gidip tekrar tekrar dinleyeceğim yerler var böyle aklımda. Geldiğin için çok teşekkür ederim.
+
+[Bilge Yücel]: Ben teşekkür ederim davetin için. Benim için de çok eğlenceli bir sohbet oldu. İki saat böyle nasıl geçti, hiç bilmiyorum. Görüşmek üzere diyeyim.
+
+[Enes Fehmi Manan]: Görüşmek üzere arkadaşlar. İzlediğiniz için teşekkür ederim.
+

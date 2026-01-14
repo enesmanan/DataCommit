@@ -49,6 +49,7 @@ coverage.xml
 .pytest_cache/
 cover/
 
+data_eski/
 # Translations
 *.mo
 *.pot
