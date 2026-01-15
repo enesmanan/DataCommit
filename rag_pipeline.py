@@ -11,7 +11,7 @@ from google.genai import types
 load_dotenv()
 
 # Configuration
-CHROMA_PERSIST_PATH = "chroma_db_all_episodes"
+CHROMA_PERSIST_PATH = "chroma_db"
 CHROMA_COLLECTION_NAME = "datacommit_all"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 GEMINI_MODEL = "gemini-3-flash-preview"

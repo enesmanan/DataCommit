@@ -10,7 +10,7 @@ load_dotenv()
 
 # Configuration
 DATA_DIR = Path("data/Final")
-CHROMA_PERSIST_PATH = "chroma_db_all_episodes"
+CHROMA_PERSIST_PATH = "chroma_db"
 CHROMA_COLLECTION_NAME = "datacommit_all"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
@@ -34,7 +34,7 @@ def create_database():
     
     if document_store.count_documents() > 0:
         print(f"Database already has {document_store.count_documents()} chunks")
-        print("Delete 'chroma_db_all_episodes' folder to re-ingest")
+        print("Delete 'chroma_db' folder to re-ingest")
         return document_store
     
     all_docs = []
