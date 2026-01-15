@@ -154,7 +154,7 @@ def query_datacommit(query: str, show_chunks: bool = False):
 if __name__ == "__main__":
     doc_count = document_store.count_documents()
     if doc_count == 0:
-        print("No documents found! Run 'python ingest_episodes.py' first.")
+        print("No documents found! Run 'python create_database.py' first.")
     else:
         print(f"Loaded {doc_count} chunks from all episodes\n")
         query_datacommit("Jr lar nasıl iş bulur?", show_chunks=False)

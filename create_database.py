@@ -26,7 +26,7 @@ EPISODES = [
 ]
 
 
-def ingest_all_episodes():
+def create_database():
     document_store = ChromaDocumentStore(
         persist_path=CHROMA_PERSIST_PATH,
         collection_name=CHROMA_COLLECTION_NAME
@@ -75,4 +75,4 @@ def ingest_all_episodes():
 
 
 if __name__ == "__main__":
-    ingest_all_episodes()
+    create_database()
