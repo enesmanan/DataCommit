@@ -62,58 +62,64 @@ class GeminiGenerator:
         return {"replies": [response.text]}
 
 
-# Initialize components
-document_store = ChromaDocumentStore(
-    persist_path=CHROMA_PERSIST_PATH,
-    collection_name=CHROMA_COLLECTION_NAME
-)
-
-query_embedder = SentenceTransformersTextEmbedder(model=EMBEDDING_MODEL)
-query_embedder.warm_up()
-
-retriever = ChromaEmbeddingRetriever(document_store=document_store, top_k=5)
-prompt_builder = PromptBuilder(template=TEMPLATE, required_variables=["documents", "question"])
-generator = GeminiGenerator(model=GEMINI_MODEL, temperature=0.5)
-
-# Build pipeline
-rag_pipeline = Pipeline()
-rag_pipeline.add_component("query_embedder", query_embedder)
-rag_pipeline.add_component("retriever", retriever)
-rag_pipeline.add_component("prompt_builder", prompt_builder)
-rag_pipeline.add_component("llm", generator)
-
-rag_pipeline.connect("query_embedder.embedding", "retriever.query_embedding")
-rag_pipeline.connect("retriever.documents", "prompt_builder.documents")
-rag_pipeline.connect("prompt_builder.prompt", "llm.parts")
+# Lazy loading - initialize on first use
+_pipeline = None
+_document_store = None
+_query_embedder = None
+_retriever = None
+_prompt_builder = None
+_generator = None
 
 
-def show_retrieved_chunks(query: str, top_k: int = 5):
-    embedding = query_embedder.run(text=query)["embedding"]
-    docs = retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
+def get_document_store():
+    global _document_store
+    if _document_store is None:
+        _document_store = ChromaDocumentStore(
+            persist_path=CHROMA_PERSIST_PATH,
+            collection_name=CHROMA_COLLECTION_NAME
+        )
+    return _document_store
+
+
+def get_pipeline():
+    global _pipeline, _query_embedder, _retriever, _prompt_builder, _generator
     
-    print(f"Query: {query}\n")
-    print(f"Retrieved {len(docs)} chunks:\n" + "=" * 80)
+    if _pipeline is None:
+        print("Initializing RAG pipeline...")
+        
+        _query_embedder = SentenceTransformersTextEmbedder(model=EMBEDDING_MODEL)
+        _query_embedder.warm_up()
+        
+        _retriever = ChromaEmbeddingRetriever(document_store=get_document_store(), top_k=5)
+        _prompt_builder = PromptBuilder(template=TEMPLATE, required_variables=["documents", "question"])
+        _generator = GeminiGenerator(model=GEMINI_MODEL, temperature=0.5)
+        
+        _pipeline = Pipeline()
+        _pipeline.add_component("query_embedder", _query_embedder)
+        _pipeline.add_component("retriever", _retriever)
+        _pipeline.add_component("prompt_builder", _prompt_builder)
+        _pipeline.add_component("llm", _generator)
+        
+        _pipeline.connect("query_embedder.embedding", "retriever.query_embedding")
+        _pipeline.connect("retriever.documents", "prompt_builder.documents")
+        _pipeline.connect("prompt_builder.prompt", "llm.parts")
+        
+        print("RAG pipeline ready!")
     
-    for i, doc in enumerate(docs, 1):
-        ep = doc.meta.get("episode", "?")
-        guest = doc.meta.get("guest", "Unknown")
-        print(f"\n[Chunk {i}] Bölüm {ep} - {guest} | Score: {doc.score:.4f}")
-        print("-" * 40)
-        print(doc.content[:400] + "..." if len(doc.content) > 400 else doc.content)
-        print("=" * 80)
-    
-    return docs
+    return _pipeline
 
 
 def respond_with_sources(query: str, top_k: int = 5):
     if not query.strip():
         return "", []
     
-    embedding = query_embedder.run(text=query)["embedding"]
-    docs = retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
+    get_pipeline()
     
-    prompt = prompt_builder.run(documents=docs, question=query)["prompt"]
-    response = generator.run(parts=prompt)["replies"][0]
+    embedding = _query_embedder.run(text=query)["embedding"]
+    docs = _retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
+    
+    prompt = _prompt_builder.run(documents=docs, question=query)["prompt"]
+    response = _generator.run(parts=prompt)["replies"][0]
     
     sources = []
     seen = set()
@@ -128,6 +134,26 @@ def respond_with_sources(query: str, top_k: int = 5):
             seen.add(key)
     
     return response, sources
+
+
+def show_retrieved_chunks(query: str, top_k: int = 5):
+    get_pipeline()
+    
+    embedding = _query_embedder.run(text=query)["embedding"]
+    docs = _retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
+    
+    print(f"Query: {query}\n")
+    print(f"Retrieved {len(docs)} chunks:\n" + "=" * 80)
+    
+    for i, doc in enumerate(docs, 1):
+        ep = doc.meta.get("episode", "?")
+        guest = doc.meta.get("guest", "Unknown")
+        print(f"\n[Chunk {i}] Bölüm {ep} - {guest} | Score: {doc.score:.4f}")
+        print("-" * 40)
+        print(doc.content[:400] + "..." if len(doc.content) > 400 else doc.content)
+        print("=" * 80)
+    
+    return docs
 
 
 def query_datacommit(query: str, show_chunks: bool = False):
@@ -149,6 +175,13 @@ def query_datacommit(query: str, show_chunks: bool = False):
         print(f"  • Bölüm {src['episode']}: {src['guest']} (relevance: {src['score']:.4f})")
     
     return response, sources
+
+
+class _DocumentStoreProxy:
+    def count_documents(self):
+        return get_document_store().count_documents()
+
+document_store = _DocumentStoreProxy()
 
 
 if __name__ == "__main__":
