@@ -3,15 +3,13 @@ google-ai-haystack==5.4.0
 chroma-haystack==3.3.0
 python-dotenv==1.1.1
 gradio==5.49.1
-flask==3.1.0
-flask-cors==5.0.0
+flask==3.1.2
+flask-cors==6.0.2
 pypdf==6.1.2
 chromadb==1.2.1
 google-generativeai==0.8.5
 sentence-transformers==5.1.1
 nltk==3.9.2
-flask==3.1.2
-flask-cors==6.0.2
 google-genai==1.57.0
 
 
