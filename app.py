@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 from rag_pipeline import respond_with_sources, document_store
@@ -60,5 +61,7 @@ def status():
 
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
     print(f"Documents loaded: {document_store.count_documents()}")
-    app.run(debug=True, port=5000)
+    print(f"Starting server on port {port}")
+    app.run(host="0.0.0.0", port=port, debug=False)
