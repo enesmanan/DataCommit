@@ -167,10 +167,12 @@ $RECYCLE.BIN/
 
 # Project specific
 audio_downloads/
-chroma_db/
 *.mp3
 *.mp4
 *.wav
 *.m4a
 *.webm
 
+#project specific
+haystack_rag.ipynb
+rag_pipeline_old.py
