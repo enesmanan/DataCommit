@@ -7,14 +7,14 @@ const HOST = {
 };
 
 const GUESTS = {
-    1: { name: 'Kaan Bıçakçı', image: 'kaan_bicakci.jpg' },
-    2: { name: 'Bilge Yücel', image: 'bilge_yucel.jpg' },
-    3: { name: 'Alara Dirik', image: 'alara_dirik.jpg' },
-    4: { name: 'Olgun Aydın', image: 'olgun_aydin.jpg' },
-    5: { name: 'Eren Akbaba', image: 'eren_akbaba.jpg' },
-    6: { name: 'Taner Şekmen', image: 'taner_sekmen.jpg' },
-    7: { name: 'Murat Şahin', image: 'murat_sahin.jpg' },
-    8: { name: 'Göker Güner', image: 'goker_guner.jpg' }
+    1: { name: 'Kaan Bıçakçı', image: 'kaan_bicakci.jpg', yt: 'https://www.youtube.com/watch?v=pu5tuQshGoU' },
+    2: { name: 'Bilge Yücel', image: 'bilge_yucel.jpg', yt: 'https://www.youtube.com/watch?v=UCpZJwb8UAY' },
+    3: { name: 'Alara Dirik', image: 'alara_dirik.jpg', yt: 'https://www.youtube.com/watch?v=fGEApsNKKw0' },
+    4: { name: 'Olgun Aydın', image: 'olgun_aydin.jpg', yt: 'https://www.youtube.com/watch?v=yhTxZr_bmDU' },
+    5: { name: 'Eren Akbaba', image: 'eren_akbaba.jpg', yt: 'https://www.youtube.com/watch?v=wusMEw9WOK4' },
+    6: { name: 'Taner Şekmen', image: 'taner_sekmen.jpg', yt: 'https://www.youtube.com/watch?v=63p7xIY_lgw' },
+    7: { name: 'Murat Şahin', image: 'murat_sahin.jpg', yt: 'https://www.youtube.com/watch?v=phQgJmz0KU4' },
+    8: { name: 'Göker Güner', image: 'goker_guner.jpg', yt: 'https://www.youtube.com/watch?v=kTR9E1ahVcc' }
 };
 
 // DOM Elements
@@ -94,13 +94,14 @@ function renderGuestGrid() {
     `;
     
     const guestsHtml = Object.entries(GUESTS).map(([ep, guest]) => `
-        <div class="guest-item">
+        <a href="${guest.yt}" target="_blank" class="guest-item guest-link" title="YouTube'da izle">
             <img src="/static/images/${guest.image}" 
                  alt="${guest.name}"
                  onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=${encodeURIComponent(guest.name)}&backgroundColor=216e39'">
             <span class="guest-episode">Bölüm ${ep}</span>
             <span>${guest.name}</span>
-        </div>
+            <span class="yt-icon">▶</span>
+        </a>
     `).join('');
     
     guestGrid.innerHTML = hostHtml + guestsHtml;
@@ -110,8 +111,10 @@ function addUserMessage(text) {
     const messageDiv = document.createElement('div');
     messageDiv.className = 'message user-message';
     messageDiv.innerHTML = `
-        <div class="message-avatar emoji-avatar">
-            <span>🥷</span>
+        <div class="message-avatar">
+            <img src="/static/images/herhangi_bir_adam.jpg" 
+                 alt="You"
+                 onerror="this.src='https://api.dicebear.com/7.x/avataaars/svg?seed=user'">
         </div>
         <div class="message-content">
             <p>${escapeHtml(text)}</p>
@@ -161,8 +164,10 @@ function addAssistantMessage(response, sources) {
     }
     
     messageDiv.innerHTML = `
-        <div class="message-avatar emoji-avatar">
-            <span>🤖</span>
+        <div class="message-avatar">
+            <img src="/static/images/enes_fehmi_manan.jpg" 
+                 alt="Enes Fehmi Manan"
+                 onerror="this.src='https://api.dicebear.com/7.x/bottts/svg?seed=datacommit'">
         </div>
         <div class="message-content">
             ${htmlContent}
