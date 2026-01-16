@@ -62,64 +62,35 @@ class GeminiGenerator:
         return {"replies": [response.text]}
 
 
-# Lazy loading - initialize on first use
-_pipeline = None
-_document_store = None
-_query_embedder = None
-_retriever = None
-_prompt_builder = None
-_generator = None
+# Initialize components at import time
+print("[*] Initializing RAG pipeline...")
 
+document_store = ChromaDocumentStore(
+    persist_path=CHROMA_PERSIST_PATH,
+    collection_name=CHROMA_COLLECTION_NAME
+)
+print(f"[+] ChromaDB loaded: {document_store.count_documents()} chunks")
 
-def get_document_store():
-    global _document_store
-    if _document_store is None:
-        _document_store = ChromaDocumentStore(
-            persist_path=CHROMA_PERSIST_PATH,
-            collection_name=CHROMA_COLLECTION_NAME
-        )
-    return _document_store
+query_embedder = SentenceTransformersTextEmbedder(model=EMBEDDING_MODEL)
+query_embedder.warm_up()
+print("[+] Embedding model loaded")
 
+retriever = ChromaEmbeddingRetriever(document_store=document_store, top_k=5)
+prompt_builder = PromptBuilder(template=TEMPLATE, required_variables=["documents", "question"])
+generator = GeminiGenerator(model=GEMINI_MODEL, temperature=0.5)
 
-def get_pipeline():
-    global _pipeline, _query_embedder, _retriever, _prompt_builder, _generator
-    
-    if _pipeline is None:
-        print("Initializing RAG pipeline...")
-        
-        _query_embedder = SentenceTransformersTextEmbedder(model=EMBEDDING_MODEL)
-        _query_embedder.warm_up()
-        
-        _retriever = ChromaEmbeddingRetriever(document_store=get_document_store(), top_k=5)
-        _prompt_builder = PromptBuilder(template=TEMPLATE, required_variables=["documents", "question"])
-        _generator = GeminiGenerator(model=GEMINI_MODEL, temperature=0.5)
-        
-        _pipeline = Pipeline()
-        _pipeline.add_component("query_embedder", _query_embedder)
-        _pipeline.add_component("retriever", _retriever)
-        _pipeline.add_component("prompt_builder", _prompt_builder)
-        _pipeline.add_component("llm", _generator)
-        
-        _pipeline.connect("query_embedder.embedding", "retriever.query_embedding")
-        _pipeline.connect("retriever.documents", "prompt_builder.documents")
-        _pipeline.connect("prompt_builder.prompt", "llm.parts")
-        
-        print("RAG pipeline ready!")
-    
-    return _pipeline
+print("[✓] RAG pipeline ready!")
 
 
 def respond_with_sources(query: str, top_k: int = 5):
     if not query.strip():
         return "", []
     
-    get_pipeline()
+    embedding = query_embedder.run(text=query)["embedding"]
+    docs = retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
     
-    embedding = _query_embedder.run(text=query)["embedding"]
-    docs = _retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
-    
-    prompt = _prompt_builder.run(documents=docs, question=query)["prompt"]
-    response = _generator.run(parts=prompt)["replies"][0]
+    prompt = prompt_builder.run(documents=docs, question=query)["prompt"]
+    response = generator.run(parts=prompt)["replies"][0]
     
     sources = []
     seen = set()
@@ -137,10 +108,8 @@ def respond_with_sources(query: str, top_k: int = 5):
 
 
 def show_retrieved_chunks(query: str, top_k: int = 5):
-    get_pipeline()
-    
-    embedding = _query_embedder.run(text=query)["embedding"]
-    docs = _retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
+    embedding = query_embedder.run(text=query)["embedding"]
+    docs = retriever.run(query_embedding=embedding, top_k=top_k)["documents"]
     
     print(f"Query: {query}\n")
     print(f"Retrieved {len(docs)} chunks:\n" + "=" * 80)
@@ -175,13 +144,6 @@ def query_datacommit(query: str, show_chunks: bool = False):
         print(f"  • Bölüm {src['episode']}: {src['guest']} (relevance: {src['score']:.4f})")
     
     return response, sources
-
-
-class _DocumentStoreProxy:
-    def count_documents(self):
-        return get_document_store().count_documents()
-
-document_store = _DocumentStoreProxy()
 
 
 if __name__ == "__main__":

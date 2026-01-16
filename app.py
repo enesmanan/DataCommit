@@ -63,5 +63,5 @@ def status():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     print(f"Documents loaded: {document_store.count_documents()}")
-    print(f"Starting server on port {port}")
+    print(f"Starting server on port {port}...")
     app.run(host="0.0.0.0", port=port, debug=False)
