@@ -2,9 +2,15 @@
 
 A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. Downloads audio from YouTube, transcribes with Whisper, and enables Q&A using Haystack, ChromaDB, and Gemini.
 
-> **DataCommit** is a Turkish podcast series where data science experts share their career journeys, technical knowledge, and industry experiences.
+> **DataCommit** is a Turkish podcast series where data science experts share their career journeys, technical knowledge, and industry experiences. [🎙️ Watch all episodes on YouTube](https://www.youtube.com/playlist?list=PLQvJkakaBRKcsi8mySTkgLvnrz0dSyIRF)
+
 
 ![DataCommit Banner](static/images/datacommit.png)
+
+---
+
+
+![Demo](static/images/demo.gif)
 
 ---
 
@@ -32,55 +38,26 @@ A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. D
 
 ![Preprocessing architecture](static/images/preprocessing_architecture.jpg)
 
-
-
-## Frontend Demo
-
-![Demo](static/images/demo.gif)
-
-
 ---
 
-## Episodes
-
-[🎙️ Watch all episodes on YouTube](https://www.youtube.com/playlist?list=PLQvJkakaBRKcsi8mySTkgLvnrz0dSyIRF)
-
----
-
-##  Setup
+## Setup
 
 ### Prerequisites
 
 - Python 3.10+
 - Google Gemini API Key
-- FFmpeg (for audio processing)
 
-### 1. Clone the Repository
+### 1. Clone & Setup Environment
 
 ```bash
 git clone https://github.com/enesmanan/DataCommit.git
 cd DataCommit
-```
-
-### 2. Create Virtual Environment
-
-```bash
 python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS/Linux
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-
-```bash
+venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-### 4. Set Environment Variables
+### 2. Set Environment Variables
 
 Create a `.env` file in the project root:
 
@@ -88,7 +65,7 @@ Create a `.env` file in the project root:
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-### 5. Create the Vector Database
+### 3. Create Database & Run
 
 ```bash
 python create_database.py
@@ -106,6 +83,8 @@ python app.py
 ```
 
 Open your browser at: **http://localhost:5000**
+
+> For audio preprocessing (YouTube to transcript), see [/preprocessing](/preprocessing)
 
 ---
 
