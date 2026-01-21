@@ -1,4 +1,4 @@
-# 🎙️ DataCommit RAG Chatbot
+# DataCommit RAG Chatbot
 
 A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. Downloads audio from YouTube, transcribes with Whisper, and enables Q&A using Haystack, ChromaDB, and Gemini.
 
@@ -15,7 +15,7 @@ A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. D
 - **Audio Download:** yt-dlp
 - **Speech-to-Text:** Local Whisper-Turbo
 - **Audio Processing:** FFmpeg, librosa, K-Means
-- **Text Cleaning:** Gemini 2.5 Flash Agent
+- **Text Correction:** Gemini 2.5 Flash Agent
 
 ### RAG Pipeline
 
@@ -30,10 +30,12 @@ A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. D
 
 ## Preprocessing Architecture
 
+![Preprocessing architecture](static/images/preprocessing_architecture.jpg)
+
+
 
 ## Frontend Demo
 
-<!-- Add your demo GIF here -->
 ![Demo](static/images/demo.gif)
 
 
@@ -41,77 +43,7 @@ A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. D
 
 ## Episodes
 
-<table>
-<tr>
-<td align="center" width="150">
-<a href="https://linkedin.com/in/enesfehmimanan">
-<img src="static/images/enes_fehmi_manan.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Sunucu</b><br>
-Enes Fehmi Manan
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=pu5tuQshGoU">
-<img src="static/images/kaan_bicakci.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 1</b><br>
-Kaan Bıçakçı
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=UCpZJwb8UAY">
-<img src="static/images/bilge_yucel.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 2</b><br>
-Bilge Yücel
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=fGEApsNKKw0">
-<img src="static/images/alara_dirik.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 3</b><br>
-Alara Dirik
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=yhTxZr_bmDU">
-<img src="static/images/olgun_aydin.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 4</b><br>
-Olgun Aydın
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=wusMEw9WOK4">
-<img src="static/images/eren_akbaba.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 5</b><br>
-Eren Akbaba
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=63p7xIY_lgw">
-<img src="static/images/taner_sekmen.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 6</b><br>
-Taner Şekmen
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=phQgJmz0KU4">
-<img src="static/images/murat_sahin.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 7</b><br>
-Murat Şahin
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.youtube.com/watch?v=kTR9E1ahVcc">
-<img src="static/images/goker_guner.jpg" width="80" height="80" style="border-radius: 50%; border: 3px solid #40c463"><br>
-<b>Bölüm 8</b><br>
-Göker Güner
-</a>
-</td>
-</tr>
-</table>
+[🎙️ Watch all episodes on YouTube](https://www.youtube.com/playlist?list=PLQvJkakaBRKcsi8mySTkgLvnrz0dSyIRF)
 
 ---
 
@@ -177,9 +109,19 @@ Open your browser at: **http://localhost:5000**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-
+```
+DataCommit/
+├── app.py                 # Flask web server
+├── rag_pipeline.py        # RAG pipeline & Gemini integration
+├── create_database.py     # Vector database creation
+├── data/                  # Episode transcripts
+├── chroma_db/             # Vector database (auto-generated)
+├── static/                # Frontend assets (CSS, JS, images)
+├── templates/             # HTML templates
+└── preprocessing/         # Audio-to-text scripts
+```
 
 ---
 
