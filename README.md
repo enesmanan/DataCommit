@@ -10,7 +10,7 @@ A RAG (Retrieval-Augmented Generation) system for DataCommit podcast episodes. D
 ---
 
 
-![Demo](static/images/demo.gif)
+https://github.com/user-attachments/assets/a7aaf3b3-bb6a-45dc-b95c-28cc85f0faca
 
 ---
 
