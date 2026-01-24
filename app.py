@@ -12,7 +12,7 @@ GUEST_IMAGES = {
     3: {"name": "Alara Dirik", "image": "alara_dirik.jpg"},
     4: {"name": "Olgun Aydın", "image": "olgun_aydin.jpg"},
     5: {"name": "Eren Akbaba", "image": "eren_akbaba.jpg"},
-    6: {"name": "Taner Şekmen", "image": "taner_sekmen.jpg"},
+    6: {"name": "Taner Sekmen", "image": "taner_sekmen.jpg"},
     7: {"name": "Murat Şahin", "image": "murat_sahin.jpg"},
     8: {"name": "Göker Güner", "image": "goker_guner.jpg"},
 }

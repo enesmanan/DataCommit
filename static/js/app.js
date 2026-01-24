@@ -12,7 +12,7 @@ const GUESTS = {
     3: { name: 'Alara Dirik', image: 'alara_dirik.jpg', yt: 'https://www.youtube.com/watch?v=fGEApsNKKw0' },
     4: { name: 'Olgun Aydın', image: 'olgun_aydin.jpg', yt: 'https://www.youtube.com/watch?v=yhTxZr_bmDU' },
     5: { name: 'Eren Akbaba', image: 'eren_akbaba.jpg', yt: 'https://www.youtube.com/watch?v=wusMEw9WOK4' },
-    6: { name: 'Taner Şekmen', image: 'taner_sekmen.jpg', yt: 'https://www.youtube.com/watch?v=63p7xIY_lgw' },
+    6: { name: 'Taner Sekmen', image: 'taner_sekmen.jpg', yt: 'https://www.youtube.com/watch?v=63p7xIY_lgw' },
     7: { name: 'Murat Şahin', image: 'murat_sahin.jpg', yt: 'https://www.youtube.com/watch?v=phQgJmz0KU4' },
     8: { name: 'Göker Güner', image: 'goker_guner.jpg', yt: 'https://www.youtube.com/watch?v=kTR9E1ahVcc' }
 };

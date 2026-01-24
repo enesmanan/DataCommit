@@ -20,7 +20,7 @@ EPISODES = [
     {"file": "datacommit_3_alara_dirik_speakers_cleaned_named.txt", "guest": "Alara Dirik", "episode": 3},
     {"file": "datacommit_4_olgun_aydin_speakers_cleaned_named.txt", "guest": "Olgun Aydın", "episode": 4},
     {"file": "datacommit_5_eren_akbaba_speakers_cleaned_named.txt", "guest": "Eren Akbaba", "episode": 5},
-    {"file": "datacommit_6_taner_sekmen_speakers_cleaned_named.txt", "guest": "Taner Şekmen", "episode": 6},
+    {"file": "datacommit_6_taner_sekmen_speakers_cleaned_named.txt", "guest": "Taner Sekmen", "episode": 6},
     {"file": "datacommit_7_murat_sahin_speakers_cleaned_named.txt", "guest": "Murat Şahin", "episode": 7},
     {"file": "datacommit_8_goker_guner_speakers_cleaned_named.txt", "guest": "Göker Güner", "episode": 8},
 ]
