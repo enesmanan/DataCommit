@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/a7aaf3b3-bb6a-45dc-b95c-28cc85f0faca
 - Python 3.10+
 - Google Gemini API Key
 
-### 1. Clone & Setup Environment
+### 1. Clone & Install
 
 ```bash
 git clone https://github.com/enesmanan/DataCommit.git
@@ -57,7 +57,7 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-### 2. Set Environment Variables
+### 2. Configure Environment
 
 Create a `.env` file in the project root:
 
@@ -65,24 +65,25 @@ Create a `.env` file in the project root:
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-### 3. Create Database & Run
+### 3. Create Vector Database
 
 ```bash
 python create_database.py
 ```
 
-This will:
-- Load all episode transcripts from `data/Final/`
-- Split them into chunks with metadata
-- Create embeddings and store in ChromaDB
+This creates `chroma_db/` folder containing:
+- Episode chunks with metadata (guest name, episode number)
+- Sentence Transformer embeddings
 
-### 6. Run the Application
+> To rebuild database: delete `chroma_db/` folder and run again.
+
+### 4. Run Application
 
 ```bash
 python app.py
 ```
 
-Open your browser at: **http://localhost:5000**
+Open browser at: **http://localhost:5000**
 
 > For audio preprocessing (YouTube to transcript), see [/preprocessing](/preprocessing)
 
