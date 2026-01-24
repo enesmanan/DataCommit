@@ -45,9 +45,9 @@ https://github.com/user-attachments/assets/a7aaf3b3-bb6a-45dc-b95c-28cc85f0faca
 ### Prerequisites
 
 - Python 3.10+
-- Google Gemini API Key
+- [Google Gemini API Key](https://aistudio.google.com/app/apikey)
 
-### 1. Clone & Install
+### 1. Clone & Setup Environment
 
 ```bash
 git clone https://github.com/enesmanan/DataCommit.git
@@ -71,19 +71,20 @@ GEMINI_API_KEY=your_gemini_api_key_here
 python create_database.py
 ```
 
-This creates `chroma_db/` folder containing:
-- Episode chunks with metadata (guest name, episode number)
-- Sentence Transformer embeddings
+This will:
+- Load all episode transcripts from `data/Final/`
+- Split them into chunks with metadata
+- Create embeddings and store in ChromaDB
 
 > To rebuild database: delete `chroma_db/` folder and run again.
 
-### 4. Run Application
+### 6. Run the Application
 
 ```bash
 python app.py
 ```
 
-Open browser at: **http://localhost:5000**
+Open your browser at: **http://localhost:5000**
 
 > For audio preprocessing (YouTube to transcript), see [/preprocessing](/preprocessing)
 
