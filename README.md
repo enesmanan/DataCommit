@@ -78,7 +78,7 @@ This will:
 
 > To rebuild database: delete `chroma_db/` folder and run again.
 
-### 6. Run the Application
+### 4. Run the Application
 
 ```bash
 python app.py
