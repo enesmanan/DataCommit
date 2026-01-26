@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/a7aaf3b3-bb6a-45dc-b95c-28cc85f0faca
 ### RAG Pipeline
 
 - **Backend:** Python, Flask
-- **RAG Framework:** Haystack 2.x
+- **RAG Framework:** Haystack 2.22
 - **Vector Database:** ChromaDB
 - **LLM:** Google Gemini 3 Flash
 - **Embeddings:** Sentence Transformers (all-MiniLM-L6-v2)

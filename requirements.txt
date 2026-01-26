@@ -1,4 +1,4 @@
-haystack-ai==2.19.0
+haystack-ai==2.22.0
 google-ai-haystack==5.4.0
 chroma-haystack==3.3.0
 python-dotenv==1.1.1
